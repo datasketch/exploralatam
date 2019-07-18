@@ -1,6 +1,6 @@
 baseURL = "/"
-title = "Titi"
-theme = "hugo-titi"
+title = "EXPLORA LATAM"
+# theme = "hugo-titi"
 publishDir = "docs"
 disqusShortname = "datasketch"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]

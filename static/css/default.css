@@ -1,0 +1,19 @@
+body {
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+.bg-swirl {
+  background-color: #dad3ce;
+}
+
+.bg-chocolate {
+  background-color: #380101;
+}
+
+.text-chocolate {
+  color: #380101;
+}
+
+.text-swirl {
+  color: #dad3ce;
+}
