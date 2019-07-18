@@ -10,10 +10,26 @@ body {
   background-color: #380101;
 }
 
+.bg-flint {
+  background-color: #716c69;
+}
+
+.bg-derby {
+  background-color: #ffebda
+}
+
 .text-chocolate {
   color: #380101;
 }
 
 .text-swirl {
   color: #dad3ce;
+}
+
+.text-flint {
+  color: #716c69;
+}
+
+.text-derby {
+  color: #ffebda
 }
