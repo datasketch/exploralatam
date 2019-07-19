@@ -33,3 +33,17 @@ body {
 .text-derby {
   color: #ffebda
 }
+
+.single-content * {
+  margin: 0 0 1.25rem;
+}
+
+.single-content ol {
+  list-style-type: decimal;
+  padding-left: 1.25rem;
+}
+
+.single-content h2 {
+  font-size: 1.25rem;
+  color: #380101;
+}
