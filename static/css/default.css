@@ -18,6 +18,10 @@ body {
   background-color: #ffebda
 }
 
+.border-chocolate {
+  border-color: #380101;
+}
+
 .text-chocolate {
   color: #380101;
 }
