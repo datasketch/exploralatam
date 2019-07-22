@@ -7,7 +7,7 @@ description: "Especial de violencia contra la mujer, que aborda los datos que do
 type: Desconocido
 website: http://especiales.datasketch.co/sobrevivientes/
 date_ini: 2017
-date_end: NA
+date_end: 
 tags:
 
 cities: 

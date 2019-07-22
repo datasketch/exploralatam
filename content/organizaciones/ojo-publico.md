@@ -3,15 +3,15 @@ date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-22
 uid: ojo-publico
 title: "Ojo Público"
-legal_name: NA
+legal_name: 
 description: "Es un medio digital de periodismo de investigación que busca ofrecer nuevas narrativas sobre historias relevantes, noticias coyunturales y herramientas de información innovadoras."
-org_type: NA
+org_type: 
 website: https://ojo-publico.com/
 year_founded: 2014
 facebook: https://www.facebook.com/OjoPublico/
 twitter: https://twitter.com/search?q=ojo%20publico&src=typd&lang=es
 tags:
-  - NA
+
 cities: 
   - Lima
 

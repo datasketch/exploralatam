@@ -6,8 +6,8 @@ title: "Río Abierto"
 description: "Promueve la creación y el fortalecimiento de una comunidad de aprendizaje sobre el impacto de la actividad humana en el ciclo del agua que se sustentara en acciones de sensibilización, educación y participación ciudadana en diálogo con la academia y el gobierno."
 type: Desconocido
 website: https://altec.lat/es/rio-abierto/
-date_ini: NA
-date_end: NA
+date_ini: 
+date_end: 
 tags:
   - monitoreo-de-servicios-publicos
   - mapeo-ciudadano

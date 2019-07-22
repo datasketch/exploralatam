@@ -4,12 +4,12 @@ date_last_modified: 2019-07-22
 uid: datasketch
 title: "Datasketch"
 legal_name: Random Monkey S.A.S.
-description: "NA"
+description: ""
 org_type: Empresa privada (startup)
 website: http://www.randommonkey.io/
 year_founded: 2015
-facebook: NA
-twitter: NA
+facebook: 
+twitter: 
 tags:
   - mapeo-ciudadano
   - transparencia-y-rendicion-de-cuentas
