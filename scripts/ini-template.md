@@ -3,13 +3,11 @@ date: {createdTime}
 date_last_modified: {date_last_modified}
 uid: {uid}
 name: {name}
-legal_name: {legal_name}
 description: {description}
 type: {type}
 url: {url}
-year_founded: {year_founded}
-facebook: {facebook}
-twitter: {twitter}
+date_ini: {date_ini}
+date_end: {date_end}
 tags:
 {tags}
 cities: 
@@ -19,7 +17,7 @@ images:
 - /images/cover.jpg
 ---
 
-Esta organización tiene las siguientes iniciativas:
+Esta iniciativa fue realizada por:
 
-{projects}
+{organizations}
 

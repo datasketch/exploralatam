@@ -1,0 +1,23 @@
+---
+date: 2019-07-21T23:02:24.000Z
+date_last_modified: 2019-07-22
+uid: igualdata
+name: Igualdata
+description: Es una iniciativa que busca que los medios tradicionales y alternativos, organizaciones, clubes deportivos y marcas interesadas en el fútbol difundan, desarrollen y promuevan contenidos con una agenda social y de género más responsable.
+type: Desconocido
+url: http://www.igualdata.org/
+date_ini: 2018
+date_end: 2018
+tags:
+
+cities: 
+
+highlight: '#F1A208'
+images:
+- /images/cover.jpg
+---
+
+Esta iniciativa fue realizada por:
+
+- [Economía Feminista](/i/economia-feminista.html)
+- [Datasketch](/i/datasketch.html)
