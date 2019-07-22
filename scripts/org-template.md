@@ -2,11 +2,11 @@
 date: {createdTime}
 date_last_modified: {date_last_modified}
 uid: {uid}
-name: {name}
+title: "{name}"
 legal_name: {legal_name}
-description: {description}
-type: {type}
-url: {url}
+description: "{description}"
+org_type: {org_type}
+website: {website}
 year_founded: {year_founded}
 facebook: {facebook}
 twitter: {twitter}
@@ -14,12 +14,10 @@ tags:
 {tags}
 cities: 
 {cities}
-highlight: '#F1A208'
-images:
-- /images/cover.jpg
+
 ---
 
-Esta organización tiene las siguientes iniciativas:
+Esta organización tiene los siguientes proyectos:
 
 {projects}
 

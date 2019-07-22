@@ -23,14 +23,14 @@ orgs <- transpose(orgs0)
 
 org <- orgs[[sample(length(orgs),1)]]
 
-org$type <- "NNN"
+org$org_type <- "NNN"
 
 org_defaults <- list(
   date_last_modified = NULL,
   name = "_NOMBRE NO ENCONTRADO_",
   legal_name = NULL,
   description = NULL,
-  type = "Desconocido",
+  org_type = "Desconocido",
   url = "No url",
   year_founded = NULL,
   projects = "No información sobre proyectos de esta organización"
@@ -40,7 +40,7 @@ org2 <- modifyList(org_defaults, org)
 org_inits <- initiatives0 %>% filter(id %in% org$initiatives) %>% select(uid, name) %>% transpose()
 org2$projects <- map(org_inits, ~glue_data(.,"- [{name}](/i/{uid}.html)")) %>% paste(collapse = "\n")
 org_tags <- tags0 %>% filter(id %in% org$tags) %>% select(uid, name) %>% transpose()
-org2$tags <- map(org_tags, ~glue_data(.,"  - {uid}]")) %>% paste(collapse = "\n")
+org2$tags <- map(org_tags, ~glue_data(.,"  - {uid}")) %>% paste(collapse = "\n")
 org_cities <- cities0 %>% filter(id %in% org$cities) %>% select(name) %>% transpose()
 org2$cities <- map(org_cities, ~glue_data(.,"  - {name}")) %>% paste(collapse = "\n")
 glue_data(org2, org_tpl)
@@ -59,7 +59,7 @@ map(orgs, function(org){
   org_cities <- cities0 %>% filter(id %in% org$cities) %>% select(name) %>% transpose()
   org2$cities <- map(org_cities, ~glue_data(.,"  - {name}")) %>% paste(collapse = "\n")
   md <- glue_data(org2, org_tpl)
-  write_lines(md, paste0("content/org/", org$uid, ".md"))
+  write_lines(md, paste0("content/organizaciones/", org$uid, ".md"))
 })
 
 
@@ -84,7 +84,7 @@ ini2 <- modifyList(ini_defaults, ini)
 ini_orgs <- orgs0 %>% filter(id %in% ini$orgs) %>% select(uid, name) %>% transpose()
 ini2$organizations <- map(ini_orgs, ~glue_data(.,"- [{name}](/i/{uid}.html)")) %>% paste(collapse = "\n")
 ini_tags <- tags0 %>% filter(id %in% ini$tags) %>% select(uid, name) %>% transpose()
-ini2$tags <- map(ini_tags, ~glue_data(.,"  - {uid}]")) %>% paste(collapse = "\n")
+ini2$tags <- map(ini_tags, ~glue_data(.,"  - {uid}")) %>% paste(collapse = "\n")
 ini_cities <- cities0 %>% filter(id %in% ini$cities) %>% select(name) %>% transpose()
 ini2$cities <- map(ini_cities, ~glue_data(.,"  - {name}")) %>% paste(collapse = "\n")
 glue_data(ini2, ini_tpl)
@@ -99,10 +99,10 @@ map(inis, function(ini){
   ini_orgs <- orgs0 %>% filter(id %in% ini$orgs) %>% select(uid, name) %>% transpose()
   ini2$organizations <- map(ini_orgs, ~glue_data(.,"- [{name}](/i/{uid}.html)")) %>% paste(collapse = "\n")
   ini_tags <- tags0 %>% filter(id %in% ini$tags) %>% select(uid, name) %>% transpose()
-  ini2$tags <- map(ini_tags, ~glue_data(.,"  - {uid}]")) %>% paste(collapse = "\n")
+  ini2$tags <- map(ini_tags, ~glue_data(.,"  - {uid}")) %>% paste(collapse = "\n")
   ini_cities <- cities0 %>% filter(id %in% ini$cities) %>% select(name) %>% transpose()
   ini2$cities <- map(ini_cities, ~glue_data(.,"  - {name}")) %>% paste(collapse = "\n")
   md <- glue_data(ini2, ini_tpl)
-  write_lines(md, paste0("content/ini/", ini$uid, ".md"))
+  write_lines(md, paste0("content/proyectos/", ini$uid, ".md"))
 })
 
