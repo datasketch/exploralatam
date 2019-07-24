@@ -4,7 +4,7 @@ date_last_modified: 2019-07-21
 uid: cargografias
 title: "Cargografias"
 description: ""
-type: Desconocido
+type: 
 website: 
 date_ini: 
 date_end: 

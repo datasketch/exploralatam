@@ -1,0 +1,19 @@
+---
+date: 2019-07-21T23:02:24.000Z
+date_last_modified: 2019-07-23
+uid: decretazo-ec
+title: "Decretazo.Ec"
+description: ""
+type: 
+website: 
+date_ini: 
+date_end: 
+tags:
+
+cities: 
+  - Quito
+---
+
+Esta iniciativa fue realizada por:
+
+- [Fundación Ciudadania Y Desarrollo](/i/fundacion-ciudadania-y-desarrollo.html)

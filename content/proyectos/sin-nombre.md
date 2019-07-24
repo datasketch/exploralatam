@@ -4,7 +4,7 @@ date_last_modified: 2019-07-21
 uid: sin-nombre
 title: "Sin Nombre"
 description: ""
-type: Desconocido
+type: 
 website: 
 date_ini: 
 date_end: 

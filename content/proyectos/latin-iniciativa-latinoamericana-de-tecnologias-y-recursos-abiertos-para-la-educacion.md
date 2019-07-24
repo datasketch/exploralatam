@@ -4,7 +4,7 @@ date_last_modified: 2019-07-21
 uid: latin-iniciativa-latinoamericana-de-tecnologias-y-recursos-abiertos-para-la-educacion
 title: "Latin - Iniciativa Latinoamericana De Tecnologías Y Recursos Abiertos Para La Educación"
 description: ""
-type: Desconocido
+type: 
 website: 
 date_ini: 
 date_end: 

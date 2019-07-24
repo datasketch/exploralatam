@@ -1,0 +1,24 @@
+---
+date: 2019-07-21T23:02:24.000Z
+date_last_modified: 2019-07-21
+uid: construyamos-transparencia-dialogo-y-monitoreo-comunitario-de-proyectos-de-infraestructura
+title: "Construyamos Transparencia. Diálogo Y Monitoreo Comunitario De Proyectos De Infraestructura"
+description: ""
+type: 
+website: 
+date_ini: 
+date_end: 
+tags:
+  - mapeo-ciudadano
+  - transparencia-y-rendicion-de-cuentas
+  - participación-ciudadana
+cities: 
+  - Buenos Aires
+  - Córdoba
+---
+
+Esta iniciativa fue realizada por:
+
+- [Fundación Para El Desarrollo De Políticas Sustentables (Fundeps)](/i/fundacion-para-el-desarrollo-de-politicas-sustentables-fundeps.html)
+- [Fundación Ambiente Y Recursos Naturales (Farn)](/i/fundacion-ambiente-y-recursos-naturales-farn.html)
+- [Moodstudio](/i/moodstudio.html)

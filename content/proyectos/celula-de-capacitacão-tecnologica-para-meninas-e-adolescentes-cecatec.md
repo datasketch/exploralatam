@@ -1,0 +1,22 @@
+---
+date: 2019-07-21T23:02:24.000Z
+date_last_modified: 2019-07-21
+uid: celula-de-capacitacão-tecnologica-para-meninas-e-adolescentes-cecatec
+title: "Celula De Capacitação Tecnológica Para Meninas E Adolescentes - Cecatec"
+description: ""
+type: 
+website: 
+date_ini: 
+date_end: 
+tags:
+  - mapeo-ciudadano
+  - participación-ciudadana
+  - uso-de-datos-abiertos
+cities: 
+  - Río de Janeiro
+---
+
+Esta iniciativa fue realizada por:
+
+- [Lar De Maria Dolores](/i/lar-de-maria-dolores.html)
+- [Promec Projetos E Modelagens Em Engenharia E Computação Ltda](/i/promec-projetos-e-modelagens-em-engenharia-e-computacão-ltda.html)

@@ -4,7 +4,7 @@ date_last_modified: 2019-07-21
 uid: mexico-informate
 title: "Mexico Informate"
 description: ""
-type: Desconocido
+type: 
 website: 
 date_ini: 
 date_end: 

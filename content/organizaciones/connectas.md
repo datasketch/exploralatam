@@ -13,7 +13,7 @@ twitter: https://twitter.com/ConnectasOrg?lang=es
 tags:
 
 cities: 
-
+  - Costa Rica
 
 ---
 

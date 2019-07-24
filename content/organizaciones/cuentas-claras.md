@@ -13,7 +13,7 @@ twitter:
 tags:
 
 cities: 
-
+  - Costa Rica
 
 ---
 

@@ -4,7 +4,7 @@ date_last_modified: 2019-07-21
 uid: tour-virtual-de-parques-nacionales-de-costa-rica
 title: "Tour Virtual De Parques Nacionales De Costa Rica"
 description: ""
-type: Desconocido
+type: 
 website: 
 date_ini: 
 date_end: 

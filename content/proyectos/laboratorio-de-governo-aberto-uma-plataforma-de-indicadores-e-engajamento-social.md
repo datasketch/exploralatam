@@ -4,7 +4,7 @@ date_last_modified: 2019-07-21
 uid: laboratorio-de-governo-aberto-uma-plataforma-de-indicadores-e-engajamento-social
 title: "Laboratório De Governo Aberto: Uma Plataforma De Indicadores E Engajamento Social"
 description: ""
-type: Desconocido
+type: 
 website: 
 date_ini: 
 date_end: 

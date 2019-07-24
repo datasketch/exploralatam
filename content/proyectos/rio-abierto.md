@@ -4,7 +4,7 @@ date_last_modified: 2019-07-21
 uid: rio-abierto
 title: "Río Abierto"
 description: "Promueve la creación y el fortalecimiento de una comunidad de aprendizaje sobre el impacto de la actividad humana en el ciclo del agua que se sustentara en acciones de sensibilización, educación y participación ciudadana en diálogo con la academia y el gobierno."
-type: Desconocido
+type: Plataforma web
 website: https://altec.lat/es/rio-abierto/
 date_ini: 
 date_end: 

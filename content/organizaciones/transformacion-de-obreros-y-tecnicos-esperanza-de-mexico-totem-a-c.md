@@ -1,0 +1,26 @@
+---
+date: 2019-07-21T23:14:06.000Z
+date_last_modified: 2019-07-21
+uid: transformacion-de-obreros-y-tecnicos-esperanza-de-mexico-totem-a-c
+title: "Transformación De Obreros Y Técnicos Esperanza De México Totem A.C"
+legal_name: 
+description: ""
+org_type: Organización civil sin fines de lucro (ONG)
+website: http://organizaciontotemacoax.mex.tl/frameset.php?url=/
+year_founded: 2014
+facebook: 
+twitter: 
+tags:
+  - monitoreo-de-servicios-publicos
+  - mapeo-ciudadano
+  - transparencia-y-rendicion-de-cuentas
+  - participación-ciudadana
+  - periodismo-de-datos
+cities: 
+  - Monterrey
+
+---
+
+Esta organización tiene los siguientes proyectos:
+
+- [Crear Un Centro De Atencion Ciudadana Online Y Semipresencial](/i/crear-un-centro-de-atencion-ciudadana-online-y-semipresencial.html)
