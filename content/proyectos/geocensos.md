@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/mapa.html)
+- [X](/i/mapa.html)

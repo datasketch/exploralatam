@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/saber-votar.html)
+- [X](/i/saber-votar.html)

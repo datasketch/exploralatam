@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:02:24.000Z
-date_last_modified: 2019-07-22
+date_last_modified: 2019-07-24
 uid: corruptour-ds-tpc
 title: "Corruptour"
 description: "Recorrido en bus o en bicicleta por los lugares más emblemáticos de la corrupción en Bogotá y Colombia, haciendo paradas estrategicas donde se hacen cruces de datos de distintas fuentes públicas sobre contratación, corrupción, así como intervenciones artísticas alusivas a estos temas."
@@ -17,4 +17,3 @@ cities:
 Esta iniciativa fue realizada por:
 
 - [Datasketch](/i/datasketch.html)
-- [Transparencia por Colombia](/i/transparencia-por-colombia.html)

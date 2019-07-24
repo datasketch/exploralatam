@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/diario-de-pernambuco.html)
+- [X](/i/diario-de-pernambuco.html)

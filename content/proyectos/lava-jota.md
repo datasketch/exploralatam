@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/jota-info.html)
+- [X](/i/jota-info.html)

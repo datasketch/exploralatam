@@ -19,4 +19,4 @@ Esta iniciativa fue realizada por:
 - [Instituto Ecoar Para A Cidadania](/i/instituto-ecoar-para-a-cidadania.html)
 - [Faculdade Latino-Americana De Ciências Sociais (Flacso)](/i/faculdade-latino-americana-de-ciencias-sociais-flacso.html)
 - [Alampyme Br - Associação Latinoamericana De Micro, Pequenas E Médias Empresas Capítulo Brasil](/i/alampyme-br-associacão-latinoamericana-de-micro-pequenas-e-medias-empresas-capitulo-brasil.html)
-- [](/i/hacklab-servicos-de-tecnologia-ltda.html)
+- [Hacklab Serviços de Tecnologia LTDA.](/i/hacklab-servicos-de-tecnologia-ltda.html)

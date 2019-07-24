@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/colaborativomx.html)
+- [X](/i/colaborativomx.html)

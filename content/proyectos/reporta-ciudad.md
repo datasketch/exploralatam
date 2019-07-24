@@ -21,4 +21,4 @@ Esta iniciativa fue realizada por:
 
 - [Data Uruguay](/i/data-uruguay.html)
 - [Red Ciudadana Nuestra Córdoba – Asociación Civil Nuestra Córdoba](/i/red-ciudadana-nuestra-cordoba-asociacion-civil-nuestra-cordoba.html)
-- [](/i/data-datos-abiertos-transparencia-y-acceso-a-la-informacion.html)
+- [X](/i/data-datos-abiertos-transparencia-y-acceso-a-la-informacion.html)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/gazeta-do-povo.html)
+- [X](/i/gazeta-do-povo.html)

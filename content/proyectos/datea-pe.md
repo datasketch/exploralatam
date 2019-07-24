@@ -16,5 +16,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/la-factura.html)
+- [X](/i/la-factura.html)
 - [Avina Americas](/i/avina.html)

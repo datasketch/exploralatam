@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/labplc.html)
+- [X](/i/labplc.html)

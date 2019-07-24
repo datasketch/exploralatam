@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/tu-voto-cuenta.html)
+- [X](/i/tu-voto-cuenta.html)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/wingu-tecnologia-sin-fines-de-lucro.html)
+- [Wingu, Tecnología sin fines de lucro](/i/wingu-tecnologia-sin-fines-de-lucro.html)

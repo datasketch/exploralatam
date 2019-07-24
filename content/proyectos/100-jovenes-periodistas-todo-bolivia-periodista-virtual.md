@@ -16,5 +16,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/hivos.html)
+- [X](/i/hivos.html)
 - [Periodista Virtual](/i/periodista-virtual.html)

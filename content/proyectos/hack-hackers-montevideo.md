@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/hack-hackers-montevideo.html)
+- [X](/i/hack-hackers-montevideo.html)

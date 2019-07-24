@@ -20,4 +20,4 @@ Esta iniciativa fue realizada por:
 
 - [Impaqto](/i/impaqto.html)
 - [Datalat](/i/datalat.html)
-- [](/i/fundacion-medialab-quito.html)
+- [Fundación Medialab Quito](/i/fundacion-medialab-quito.html)

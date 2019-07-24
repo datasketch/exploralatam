@@ -1,8 +1,8 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-22
+date_last_modified: 2019-07-24
 uid: asociacion-civil-japiqay-memoria-y-ciudadana
-title: ""
+title: "Asociación Civil Japiqay, Memoria y Ciudadana"
 legal_name: 
 description: ""
 org_type: 

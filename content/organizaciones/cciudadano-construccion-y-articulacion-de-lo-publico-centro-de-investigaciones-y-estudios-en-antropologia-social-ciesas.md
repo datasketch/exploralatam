@@ -1,8 +1,8 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-22
+date_last_modified: 2019-07-24
 uid: cciudadano-construccion-y-articulacion-de-lo-publico-centro-de-investigaciones-y-estudios-en-antropologia-social-ciesas
-title: ""
+title: "CCiudadano. Construcción y Articulación de lo Público/Centro de Investigaciones y Estudios en Antropología Social (CIESAS)"
 legal_name: 
 description: ""
 org_type: 

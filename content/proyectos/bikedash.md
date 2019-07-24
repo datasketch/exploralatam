@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/bikedash.html)
+- [X](/i/bikedash.html)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/ninja.html)
+- [X](/i/ninja.html)

@@ -23,4 +23,4 @@ Esta iniciativa fue realizada por:
 
 - [Geleia .Mob](/i/geleia-mob.html)
 - [Mz Tecnologia](/i/mz-tecnologia.html)
-- [](/i/associacão-todos-por-um.html)
+- [X](/i/associacão-todos-por-um.html)

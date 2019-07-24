@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/de-olhos-nas-metas.html)
+- [X](/i/de-olhos-nas-metas.html)

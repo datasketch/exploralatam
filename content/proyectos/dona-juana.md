@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/el-espectador.html)
+- [X](/i/el-espectador.html)

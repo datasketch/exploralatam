@@ -1,8 +1,8 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-22
+date_last_modified: 2019-07-24
 uid: observatorio-del-gasto-fiscal-via-fundacion-contexto-ciudadano
-title: ""
+title: "Observatorio del Gasto Fiscal - via Fundación Contexto Ciudadano"
 legal_name: 
 description: ""
 org_type: 

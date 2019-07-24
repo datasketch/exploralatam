@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/revista-resiliente-bra.html)
+- [X](/i/revista-resiliente-bra.html)

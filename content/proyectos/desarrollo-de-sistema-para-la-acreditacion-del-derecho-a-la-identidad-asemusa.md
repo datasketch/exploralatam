@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/instituto-salvadoreno-de-desarrollo-municipal-isdem.html)
+- [Instituto Salvadoreño de Desarrollo Municipal (ISDEM)](/i/instituto-salvadoreno-de-desarrollo-municipal-isdem.html)
 - [Asociación Ecológica De Los Municipios De Santa Ana (Asemusa)](/i/asociacion-ecologica-de-los-municipios-de-santa-ana-asemusa.html)

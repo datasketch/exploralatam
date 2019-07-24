@@ -1,8 +1,8 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-22
+date_last_modified: 2019-07-24
 uid: jo-venes-contra-la-violencia
-title: ""
+title: "Jo´venes Contra la Violencia"
 legal_name: 
 description: ""
 org_type: 

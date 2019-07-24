@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/quartz.html)
+- [X](/i/quartz.html)

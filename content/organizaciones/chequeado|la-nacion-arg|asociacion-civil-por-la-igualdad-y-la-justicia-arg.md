@@ -1,8 +1,8 @@
 ---
 date: 2019-07-21T23:22:18.000Z
-date_last_modified: 2019-07-22
+date_last_modified: 2019-07-24
 uid: chequeado|la-nacion-arg|asociacion-civil-por-la-igualdad-y-la-justicia-arg
-title: ""
+title: "X"
 legal_name: 
 description: ""
 org_type: 

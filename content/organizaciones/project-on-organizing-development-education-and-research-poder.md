@@ -1,8 +1,8 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-22
+date_last_modified: 2019-07-24
 uid: project-on-organizing-development-education-and-research-poder
-title: ""
+title: "Project on Organizing, Development, Education, and Research (PODER)"
 legal_name: 
 description: ""
 org_type: 

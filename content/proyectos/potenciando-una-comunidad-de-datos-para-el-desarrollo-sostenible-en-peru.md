@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/ciudadanos-al-dia.html)
+- [Ciudadanos al Día](/i/ciudadanos-al-dia.html)

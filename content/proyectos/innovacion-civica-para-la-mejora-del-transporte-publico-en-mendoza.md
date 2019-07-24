@@ -21,5 +21,5 @@ cities:
 Esta iniciativa fue realizada por:
 
 - [Creapption](/i/creapption.html)
-- [](/i/fundacion-centro-latinoamericano-de-derechos-humanos.html)
-- [](/i/nuestra-mendoza.html)
+- [Fundación Centro Latinoamericano de Derechos Humanos](/i/fundacion-centro-latinoamericano-de-derechos-humanos.html)
+- [Nuestra Mendoza](/i/nuestra-mendoza.html)

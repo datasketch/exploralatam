@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/hacklab.html)
+- [Hacklab](/i/hacklab.html)
 - [Instituto De Arquitetos Do Brasil - Departamento De São Paulo (Iab-Sp)](/i/instituto-de-arquitetos-do-brasil-departamento-de-são-paulo-iab-sp.html)

@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [](/i/centro-de-participacion-y-ciudadania-ciudadanos-al-dia.html)
+- [Centro de Participación y Ciudadanía - Ciudadanos al Día](/i/centro-de-participacion-y-ciudadania-ciudadanos-al-dia.html)
