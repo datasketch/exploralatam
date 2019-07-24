@@ -2,7 +2,7 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: sociedad-de-hecho-la-pesetera
-title: ""Sociedad De Hecho \"La Pesetera\""
+title: "Sociedad De Hecho \"La Pesetera\""
 legal_name: 
 description: ""
 org_type: Empresa privada (startup)
