@@ -16,7 +16,7 @@ tags:
   - participación-ciudadana
   - periodismo-de-datos
 cities: 
-  - La Paz
+  - 
 
 ---
 

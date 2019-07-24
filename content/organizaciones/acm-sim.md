@@ -18,7 +18,7 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
   - periodismo-de-datos
 cities: 
-  - La Paz
+  - 
 
 ---
 

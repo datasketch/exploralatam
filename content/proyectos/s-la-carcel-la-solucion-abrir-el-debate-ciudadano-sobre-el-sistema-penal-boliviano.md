@@ -16,7 +16,7 @@ tags:
   - uso-de-datos-abiertos
   - periodismo-de-datos
 cities: 
-  - La Paz
+  - 
 ---
 
 Esta iniciativa fue realizada por:

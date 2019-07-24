@@ -17,7 +17,7 @@ tags:
   - participación-ciudadana
   - parlamento-abierto-monitoreo-legislativo
 cities: 
-  - La Paz
+  - 
 
 ---
 

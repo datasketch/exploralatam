@@ -11,7 +11,7 @@ date_end:
 tags:
 
 cities: 
-  - La Paz
+  - 
 ---
 
 Esta iniciativa fue realizada por:

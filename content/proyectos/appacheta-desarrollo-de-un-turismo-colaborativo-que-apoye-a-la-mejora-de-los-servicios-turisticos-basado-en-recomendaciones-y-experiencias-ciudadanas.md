@@ -12,7 +12,7 @@ tags:
   - mapeo-ciudadano
   - participación-ciudadana
 cities: 
-  - La Paz
+  - 
 ---
 
 Esta iniciativa fue realizada por:

@@ -13,7 +13,7 @@ tags:
   - participación-ciudadana
   - uso-de-datos-abiertos
 cities: 
-  - La Paz
+  - 
 ---
 
 Esta iniciativa fue realizada por:

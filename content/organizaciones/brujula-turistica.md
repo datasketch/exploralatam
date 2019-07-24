@@ -14,7 +14,7 @@ tags:
   - mapeo-ciudadano
   - participación-ciudadana
 cities: 
-  - La Paz
+  - 
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: 2019-07-21T23:22:18.000Z
-date_last_modified: 2019-07-22
+date_last_modified: 2019-07-24
 uid: open-knowledge-foundation
-title: ""
+title: "Open Knowledge Foundation"
 legal_name: 
 description: ""
 org_type: 
@@ -13,7 +13,7 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+  - Buenos Aires
 
 ---
 

@@ -151,4 +151,4 @@ all_proy2 <- transpose(proy_success)[["result"]]
 
 
 jsonlite::write_json(list(organizaciones = all_orgs2, proyectos = all_proy2),
-                     "data/exploralatam.json")
+                     "data/exploralatam.json", auto_unbox = TRUE)

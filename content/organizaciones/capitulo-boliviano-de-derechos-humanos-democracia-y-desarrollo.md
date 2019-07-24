@@ -14,7 +14,7 @@ tags:
   - participación-ciudadana
   - otro
 cities: 
-  - La Paz
+  - 
 
 ---
 
