@@ -13,7 +13,7 @@ function init() {
   dataset.deleteMissing('name')
   grouped.set(group)
   renderLettersFilter(alphabet)
-  renderOrganizations()
+  renderProjects()
 }
 
 function groupByLetter(data) {
@@ -74,51 +74,51 @@ function registerLettersFilterHandler(filters) {
   buttons.forEach(function (button) {
     button.addEventListener('click', function (event) {
       const letter = event.currentTarget.dataset.letter
-      renderOrganizations(letter)
+      renderProjects(letter)
     })
   })
 }
 
-function renderOrganizations(filter) {
+function renderProjects(filter) {
   const container = document.getElementById('cards')
   container.innerHTML = ''
   const data = !filter ? dataset.get() : grouped.get()
-  const cards = !filter ? data.map(renderOrgCard) : data[filter].map(renderOrgCard)
+  const cards = !filter ? data.map(renderProjectCard) : data[filter].map(renderProjectCard)
   cards.forEach(function (card) {
     container.append(card)
   })
 }
 
-function createOrgCard(organization) {
+function createProjectCard(project) {
   return DOMUtils.createElement('div', {
     attrs: {
-      class: 'w-full md:w-1/2 organization-card block px-1 mb-2 flex-shrink-0 flex-grow max-w-full',
+      class: 'w-full md:w-1/2 project-card block px-1 mb-2 flex-shrink-0 flex-grow max-w-full',
     },
     children: [
       DOMUtils.createElement('a', {
         attrs: {
           class: 'rounded bg-white py-2 px-4 hover:shadow-2xl flex flex-col h-full',
-          href: '/organizaciones/' + organization.uid
+          href: '/proyectos/' + project.uid
         },
         children: [
           DOMUtils.createElement('span', {
             attrs: {
               class: 'uppercase font-bold text-chocolate block flex-grow mb-2'
             },
-            children: [organization.name]
+            children: [project.name]
           }),
           DOMUtils.createElement('small', {
             attrs: {
               class: 'block text-right text-xs'
             },
             children: [
-              String(organization.projects.length),
+              String(project.organizations.length),
               ' ',
               DOMUtils.createElement('span', {
                 attrs: {
                   class: 'text-gray-700'
                 },
-                children: [organization.projects.length === 1 ? 'proyecto' : 'proyectos']
+                children: [project.organizations.length === 1 ? 'organización participante' : 'organizaciones participantes']
               })
             ]
           })
@@ -128,7 +128,7 @@ function createOrgCard(organization) {
   })
 }
 
-function renderOrgCard(item) {
-  const element = createOrgCard(item)
+function renderProjectCard(item) {
+  const element = createProjectCard(item)
   return DOMUtils.render(element)
 }
