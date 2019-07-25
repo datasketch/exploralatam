@@ -3,6 +3,17 @@ window.addEventListener('DOMContentLoaded', init)
 const dataset = new Dataset()
 const grouped = new Dataset()
 
+const searchbar = document.getElementById('searchbar')
+
+searchbar.addEventListener('keyup', function (event) {
+  const search = event.target.value.toLowerCase()
+  const data = dataset.get()
+  const includes = data.filter(function (item) {
+    return item.name.toLowerCase().includes(search)
+  })
+  renderProjects(includes)
+})
+
 function init() {
   const data_input = document.getElementById('data')
   data_input.remove()
@@ -13,7 +24,7 @@ function init() {
   dataset.deleteMissing('name')
   grouped.set(group)
   renderLettersFilter(alphabet)
-  renderProjects()
+  renderProjects(data)
 }
 
 function groupByLetter(data) {
@@ -71,19 +82,20 @@ function renderLettersFilter(letters) {
 
 function registerLettersFilterHandler(filters) {
   const buttons = [].concat(document.querySelector('.btn-filter'), filters)
+  const group = grouped.get()
+  const data = dataset.get()
   buttons.forEach(function (button) {
     button.addEventListener('click', function (event) {
       const letter = event.currentTarget.dataset.letter
-      renderProjects(letter)
+      renderProjects(letter ? group[letter] : data)
     })
   })
 }
 
-function renderProjects(filter) {
+function renderProjects(data) {
   const container = document.getElementById('cards')
+  const cards = data.map(renderProjectCard)
   container.innerHTML = ''
-  const data = !filter ? dataset.get() : grouped.get()
-  const cards = !filter ? data.map(renderProjectCard) : data[filter].map(renderProjectCard)
   cards.forEach(function (card) {
     container.append(card)
   })
