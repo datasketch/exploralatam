@@ -4344,6 +4344,10 @@
   </url>
   
   <url>
+    <loc>/acerca-de/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
