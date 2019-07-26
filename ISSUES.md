@@ -1,1 +1,3 @@
 - El proyecto **Parlamento en tu móvil** lista la organización **Que Hacen?: El Parlamento En Tu Movil**, pero tal organización no está listada en el JSON.
+- Algunos proyectos aún modifican la llave *type* en el front matter
+- Los enlaces desde los proyectos hacia las organizaciones son incorrectos
