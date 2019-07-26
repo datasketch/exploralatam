@@ -1,12 +1,36 @@
-<div class="fixed inset-0 bg-white z-50 px-4 hidden" id="search-overlay">
+<div class="fixed inset-0 bg-white z-50 px-4 hidden overflow-y-auto max-w-full" id="search-overlay">
   <div class="text-right">
     <button class="text-5xl text-chocolate search-close"><i class="icon ion-ios-close"></i></button>
   </div>
   <h2 class="uppercase text-center text-3xl text-chocolate">Buscar</h2>
-  <form action="" class="mt-10">
-    <input type="text" class="block text-center border-b border-chocolate w-full md:w-3/5 xl:w-2/5 mx-auto px-3 py-2 truncate" placeholder="Buscar noticias, proyectos, organizaciones y casos de estudio">
+  <form action="" class="my-10">
+    <input type="text" class="block text-center border-b border-chocolate w-full md:w-3/5 xl:w-2/5 mx-auto px-3 py-2 truncate" placeholder="Buscar noticias, proyectos, organizaciones y casos de estudio" id="metasearch">
+    <div class="text-center">
+      <button class="uppercase text-xs tracking-wide text-chocolate mt-4 search-close">cancelar</button>
+    </div>
   </form>
-  <div class="text-center">
-    <button class="uppercase text-xs tracking-wide text-chocolate mt-8 search-close">cancelar</button>
+  <div class="container px-4 mx-auto max-w-full">
+    <div class="flex flex-col md:flex-wrap md:-mx-8 md:flex-row">
+      <div class="w-full md:w-1/2 md:px-8 mb-16 hidden" id="projects_showcase">
+        <div class="text-chocolate text-center">
+          <h3 class="uppercase text-lg font-bold mx-auto md:w-4/5">
+            Proyectos
+            <div class="border border-red-600 mt-2"></div>
+          </h3>
+          <ul class="mt-6 font-bold" id="projects_results">
+          </ul>
+        </div>
+      </div>
+      <div class="w-full md:w-1/2 md:px-8 mb-16 hidden" id="organizations_showcase">
+        <div class="text-chocolate text-center">
+          <h3 class="uppercase text-lg font-bold mx-auto md:w-4/5">
+            Organizaciones
+            <div class="border border-red-600 mt-2"></div>
+          </h3>
+          <ul class="mt-6 font-bold" id="organizations_results">
+          </ul>
+        </div>
+      </div>
+    </div>
   </div>
 </div>

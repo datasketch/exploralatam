@@ -23,6 +23,7 @@ function registerSearchOverlay() {
     element.addEventListener('click', function (event) {
       event.preventDefault()
       searchOverlay.classList.add('hidden')
+      document.getElementById('metasearch').value = ''
     })
   })
 }
@@ -44,6 +45,7 @@ function setOverlayPadding() {
 }
 
 function readData() {
+  // Menu
   const projectsInput = document.getElementById('projects')
   const organizationsInput = document.getElementById('organizations')
   projectsInput.remove()
@@ -62,4 +64,70 @@ function readData() {
     .length
   document.getElementById('projects_count').textContent = projectsCount
   document.getElementById('organizations_count').textContent = organizationsCount
+  // Search
+  const metaSearch = document.getElementById('metasearch')
+  const projectsResult = document.getElementById('projects_results')
+  const projectsShowcase = document.getElementById('projects_showcase')
+  const organizationsResult = document.getElementById('organizations_results')
+  const organizationsShowcase = document.getElementById('organizations_showcase')
+  metaSearch.addEventListener('keyup', function (event) {
+    // Reset on every keyup.
+    const matches = { projects: [], organizations: [] }
+    projectsResult.innerHTML = ''
+    organizationsResult.innerHTML = ''
+    projectsShowcase.classList.add('hidden')
+    organizationsShowcase.classList.add('hidden')
+    
+    // search pipeline
+    const search = event.target.value.toLowerCase()
+    if (search) {
+      matches.projects = projects.filter(function (project) {
+        return project.name.toLowerCase().includes(search)
+      }),
+      matches.organizations = organizations.filter(function (organization) {
+        return organization.name.toLowerCase().includes(search)
+      })
+    }
+    // render projects results
+    if (matches.projects.length) {
+      const projectsLi = matches.projects.slice(0, 7).map(renderProjectLi)
+      projectsLi.forEach(function (li) {
+        projectsResult.append(li)
+      })
+      projectsShowcase.classList.remove('hidden')
+    }
+    // render organizations results
+    if (matches.projects.length) {
+      const organizationsLi = matches.organizations.slice(0, 7).map(renderOrganizationLi)
+      organizationsLi.forEach(function (li) {
+        organizationsResult.append(li)
+      })
+      organizationsShowcase.classList.remove('hidden')
+    }
+  })
+}
+
+function renderLiElement (item, type) {
+  const li = DOMUtils.createElement('li', {
+    attrs: {
+      class: 'mb-4'
+    },
+    children: [
+      DOMUtils.createElement('a', {
+        attrs: {
+          href: '/' + type + '/' + item.uid
+        },
+        children: [item.name]
+      })
+    ]
+  })
+  return DOMUtils.render(li)
+}
+
+function renderProjectLi (item) {
+  return renderLiElement(item, 'proyectos')
+}
+
+function renderOrganizationLi (item) {
+  return renderLiElement(item, 'organizaciones')
 }

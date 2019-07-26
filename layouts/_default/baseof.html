@@ -30,6 +30,7 @@
     </main>
     {{ partial "footer.html" . }}
   </div>
+  <script src='{{ "js/dom-utils.js" | absURL }}'></script>
   <script src='{{ "js/default.js" | absURL }}'></script>
   {{ block "script" . }}{{ end }}
 </body>
