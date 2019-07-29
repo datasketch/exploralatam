@@ -45,25 +45,6 @@ function setOverlayPadding() {
 }
 
 function readData() {
-  // Menu
-  const projectsInput = document.getElementById('projects')
-  const organizationsInput = document.getElementById('organizations')
-  projectsInput.remove()
-  organizationsInput.remove()
-  const projects = JSON.parse(projectsInput.value)
-  const organizations = JSON.parse(organizationsInput.value)
-  const projectsCount = projects
-    .filter(function (project) {
-      return project.name
-    })
-    .length
-  const organizationsCount = organizations
-    .filter(function (organization) {
-      return organization.name
-    })
-    .length
-  document.getElementById('projects_count').textContent = projectsCount
-  document.getElementById('organizations_count').textContent = organizationsCount
   // Search
   const metaSearch = document.getElementById('metasearch')
   const projectsResult = document.getElementById('projects_results')
