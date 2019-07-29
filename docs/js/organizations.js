@@ -19,7 +19,7 @@ function init() {
   data_input.remove()
   const data = JSON.parse(data_input.value)
   const group = groupByLetter(data)
-  const alphabet = getAlphabet(data)
+  const alphabet = getAlphabet(group)
   dataset.set(data)
   dataset.deleteMissing('name')
   grouped.set(group)
@@ -40,25 +40,14 @@ function groupByLetter(data) {
 }
 
 function getAlphabet(data) {
-  const names = data
-    .map(function (item) { return item.name })
-    .filter(function (name) { return name })
-
-  const capitals = names.map(getCapitalLetter)
-
-  const alphabet = capitals
-    .reduce(function (alphabet, item) {
-      !alphabet.includes(item) && alphabet.push(item)
-      return alphabet
-    }, [])
-    .sort()
-  return alphabet
+  return Object.keys(data).sort()
 }
 
 function getCapitalLetter(str) {
-  const pattern = /(?<=\d|\s|^|¿|"|#)[A-Za-z]/
-  const eval = pattern.exec(str)
-  return eval[0].toUpperCase()
+  const value = str.trim()
+  const pattern = /^[\d\#\¿\"\\\/áàéèíìóòúù]*\s?([A-Za-z])/i
+  const eval = pattern.exec(value)
+  return eval[1].toUpperCase()
 }
 
 function renderLettersFilter(letters) {
