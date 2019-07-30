@@ -44,10 +44,10 @@ function getAlphabet(data) {
 }
 
 function getCapitalLetter(str) {
-  const value = str.trim()
-  const pattern = /^[\d\#\¿\"\\\/áàéèíìóòúù]*\s?([A-Za-z])/i
-  const eval = pattern.exec(value)
-  return eval[1].toUpperCase()
+  const normalized = str.trim().normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+  const pattern = /[A-Za-z]/
+  const exec = pattern.exec(normalized)
+  return exec[0].toUpperCase()
 }
 
 function renderLettersFilter(letters) {
