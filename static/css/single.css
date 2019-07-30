@@ -1,0 +1,34 @@
+.single-content > * {
+  margin: 0 0 1.25rem;
+}
+
+.single-content ul {
+  list-style-type: circle;
+  padding-left: 1.5rem;
+}
+
+.single-content ul li {
+  margin: 0 0 .875rem;
+}
+
+.single-content ul li a {
+  color: #e53e3e;
+  text-decoration: underline;
+}
+
+.single-content blockquote {
+  font-size: 1.5rem;
+  padding: 1rem 0 1rem 1rem;
+  background-color: #f9f9f9;
+  border-left: 5px solid #380101;
+  margin-bottom: 2rem;
+}
+
+.single-content blockquote p {
+  margin: 0;
+}
+
+.single-content h2 {
+  text-transform: uppercase;
+  font-weight: bold;
+}
