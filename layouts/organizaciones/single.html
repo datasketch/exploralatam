@@ -33,8 +33,48 @@
           <a href="{{ .Params.twitter }}" rel="noopener noreferrer" target="_blank"><i class="icon ion-logo-twitter"></i></a>
         {{ end }}
       </div>
+      <div class="update">
+        <button id="show-form" class="leading-none uppercase rounded-full bg-white shadow-md px-6 py-2 font-bold text-sm block ml-auto hover:shadow-lg hover:bg-red-600 hover:text-white">Actualizar</button>
+        <form name="update" method="POST" data-netlify="true" class="mt-8 hidden" id="update-form">
+          <div class="mb-4 flex flex-col text-sm">
+            <label for="organization" class="mb-2 font-bold">Organización</label>
+            <input type="text" name="organization" id="organization" value="{{ .Title }}" class="block w-full bg-gray-200 appearance-none py-1 px-2" disabled>
+          </div>
+          <div class="mb-4 flex flex-col text-sm">
+            <label for="email" class="mb-2 font-bold">Email</label>
+            <input type="email" name="email" id="email" class="block w-full bg-gray-200 appearance-none py-1 px-2" autofocus>
+          </div>
+          <div class="mb-4 flex flex-col text-sm">
+            <label for="comments" class="mb-2 font-bold">Comentarios</label>
+            <textarea name="comments" id="comments" rows="5" class="block w-full bg-gray-200 appearance-none py-1 px-2"></textarea>
+          </div>
+          <div class="flex justify-end">
+            <button type="submit" class="leading-none uppercase rounded-full shadow-md px-6 py-2 font-bold text-sm hover:shadow-lg bg-red-600 text-white mr-4">Enviar</button>
+            <button id="hide-form" class="leading-none uppercase rounded-full bg-white shadow-md px-6 py-2 font-bold text-sm hover:shadow-lg">Cancelar</button>
+          </div>
+        </form>
+      </div>
     </div>
     <div class="text-lg">
     </div>
   </div>
+{{ end }}
+
+{{ define "script" }}
+  <script>
+    const trigger = document.getElementById('show-form')
+    const form = document.getElementById('update-form')
+    const hide = document.getElementById('hide-form')
+
+    trigger.addEventListener('click', function () {
+      trigger.classList.add('hidden')
+      form.classList.remove('hidden')
+    })
+
+    hide.addEventListener('click', function (e) {
+      e.preventDefault()
+      form.classList.add('hidden')
+      trigger.classList.remove('hidden')
+    })
+  </script>
 {{ end }}
