@@ -17,6 +17,7 @@ function registerSearchOverlay() {
   const searchTrigger = document.getElementById('search-trigger')
   const searchClose = Array.prototype.map.call(document.querySelectorAll('.search-close'), function (element) { return element })
   searchTrigger.addEventListener('click', function (event) {
+    event.preventDefault()
     searchOverlay.classList.remove('hidden')
   })
   searchClose.forEach(function (element) {
@@ -32,6 +33,7 @@ function registerMenuOverlay() {
   setOverlayPadding()
   const menuTrigger = document.getElementById('menu-trigger')
   menuTrigger.addEventListener('click', function (event) {
+    event.preventDefault()
     const target = event.currentTarget
     const burger = target.querySelector('button.hamburger')
     burger.classList.toggle('is-active')
@@ -45,6 +47,13 @@ function setOverlayPadding() {
 }
 
 function readData() {
+  // Menu
+  const projectsInput = document.getElementById('projects')
+  const organizationsInput = document.getElementById('organizations')
+  projectsInput.remove()
+  organizationsInput.remove()
+  const projects = JSON.parse(projectsInput.value)
+  const organizations = JSON.parse(organizationsInput.value)
   // Search
   const metaSearch = document.getElementById('metasearch')
   const projectsResult = document.getElementById('projects_results')

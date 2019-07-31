@@ -1,0 +1,32 @@
+{{ define "main" }}
+  <div class="container px-4 mx-auto py-12">
+    <div class="flex flex-col mb-10 lg:flex-row">
+      <div class="mb-10 lg:w-2/3 lg:mr-10 lg:mb-0">
+        <h2 class="text-chocolate uppercase font-bold text-2xl mb-10">Socios</h2>
+        <p class="text-chocolate text-lg">ExploraLatam es un proyecto de <strong>ILDA</strong> con el apoyo del BID y la Fundación Avina, que junto a Omidyar Network conforman ALTEC</p>
+        <div class="mt-10 text-chocolate">
+          {{ range .Params.partners }}
+            <div class="mb-8 border-b border-gray-200 pt-4 pb-8">
+              <h2 class="uppercase font-bold text-xl mb-4">{{ replace .name "_" " " }}</h2>
+              <p class="mb-2">{{ .summary }}</p>
+              <a href="{{ .website }}" rel="noopener noreferrer" target="_blank" class="inline-block font-bold inline-flex items-center justify-start">
+                <span class="mr-2">{{ replaceRE "^https?://([^/]+).*" "$1" .website }}</span>
+                <i class="icon ion-ios-arrow-round-forward text-lg"></i>
+              </a>
+            </div>
+          {{ end }}
+          <p>ILDA forma parte de la iniciativa Open Data for Development (OD4D), que cuenta con el apoyo de IDRC, como nodo regional para América Latina</p>  
+        </div>
+      </div>
+      <div class="lg:w-1/3">
+        <h2 class="text-chocolate uppercase font-bold text-2xl mb-10">Acerca de</h2>
+        <ul class="text-chocolate pl-4 list-disc">
+          <li class="mb-2"><a class="hover:underline" href="/acerca-de">Acerca de este proyecto</a></li>
+          <li class="mb-2"><a class="hover:underline" href="/socios">Socios</a></li>
+          <li class="mb-2"><a class="hover:underline" href="#">Descargar el conjunto de datos</a></li>
+          <li class="mb-2"><a class="hover:underline" href="#">Contacto</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+{{ end }}
