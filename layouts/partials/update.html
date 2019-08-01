@@ -1,0 +1,40 @@
+<div class="update">
+  <button id="show-form" class="leading-none uppercase rounded-full bg-white shadow-md px-6 py-2 font-bold text-sm block ml-auto hover:shadow-lg hover:bg-red-600 hover:text-white">Actualizar</button>
+  <!-- Netlify form -->
+  <form name="update" method="POST" class="mt-8" id="update-form" data-netlify="true" hidden>
+    <input type="hidden" name="tipo" value="{{ .Section }}">
+    <div class="mb-4 flex flex-col text-sm">
+      <label for="metadata" class="mb-2 font-bold">{{ if eq .Section "proyectos" }}Proyecto{{ else }}Organización{{ end }}</label>
+      <input type="text" name="metadata" id="metadata" value="{{ .Title }}" class="block w-full bg-gray-200 appearance-none py-1 px-2 text-gray-500" required>
+    </div>
+    <div class="mb-4 flex flex-col text-sm">
+      <label for="email" class="mb-2 font-bold">Email</label>
+      <input type="email" name="email" id="email" class="block w-full bg-gray-200 appearance-none py-1 px-2" autofocus required>
+    </div>
+    <div class="mb-4 flex flex-col text-sm">
+      <label for="comments" class="mb-2 font-bold">Comentarios</label>
+      <textarea name="comments" id="comments" rows="5" class="block w-full bg-gray-200 appearance-none py-1 px-2" required></textarea>
+    </div>
+    <div class="flex justify-end">
+      <button type="submit" class="leading-none uppercase rounded-full shadow-md px-6 py-2 font-bold text-sm hover:shadow-lg bg-red-600 text-white mr-4">Enviar</button>
+      <button id="hide-form" class="leading-none uppercase rounded-full bg-white shadow-md px-6 py-2 font-bold text-sm hover:shadow-lg">Cancelar</button>
+    </div>
+  </form>
+</div>
+
+<script>
+  const trigger = document.getElementById('show-form')
+  const form = document.getElementById('update-form')
+  const hide = document.getElementById('hide-form')
+
+  trigger.addEventListener('click', function () {
+    trigger.classList.add('hidden')
+    form.removeAttribute('hidden')
+  })
+
+  hide.addEventListener('click', function (e) {
+    e.preventDefault()
+    form.setAttribute('hidden', 'true')
+    trigger.classList.remove('hidden')
+  })
+</script>
