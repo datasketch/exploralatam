@@ -35,18 +35,25 @@
       </div>
       <div class="update">
         <button id="show-form" class="leading-none uppercase rounded-full bg-white shadow-md px-6 py-2 font-bold text-sm block ml-auto hover:shadow-lg hover:bg-red-600 hover:text-white">Actualizar</button>
-        <form name="update" method="POST" data-netlify="true" class="mt-8 hidden" id="update-form">
+        <!-- Netlify form -->
+        <form name="update" netlify hidden>
+          <input type="text" name="organization">
+          <input type="email" name="email" id="">
+          <textarea name="comments"></textarea>
+        </form>
+        <!-- Visible form -->
+        <form name="update" method="POST" class="mt-8 hidden" id="update-form">
           <div class="mb-4 flex flex-col text-sm">
             <label for="organization" class="mb-2 font-bold">Organización</label>
             <input type="text" name="organization" id="organization" value="{{ .Title }}" class="block w-full bg-gray-200 appearance-none py-1 px-2" disabled>
           </div>
           <div class="mb-4 flex flex-col text-sm">
             <label for="email" class="mb-2 font-bold">Email</label>
-            <input type="email" name="email" id="email" class="block w-full bg-gray-200 appearance-none py-1 px-2" autofocus>
+            <input type="email" name="email" id="email" class="block w-full bg-gray-200 appearance-none py-1 px-2" autofocus required>
           </div>
           <div class="mb-4 flex flex-col text-sm">
             <label for="comments" class="mb-2 font-bold">Comentarios</label>
-            <textarea name="comments" id="comments" rows="5" class="block w-full bg-gray-200 appearance-none py-1 px-2"></textarea>
+            <textarea name="comments" id="comments" rows="5" class="block w-full bg-gray-200 appearance-none py-1 px-2" required></textarea>
           </div>
           <div class="flex justify-end">
             <button type="submit" class="leading-none uppercase rounded-full shadow-md px-6 py-2 font-bold text-sm hover:shadow-lg bg-red-600 text-white mr-4">Enviar</button>
