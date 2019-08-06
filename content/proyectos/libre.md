@@ -18,4 +18,4 @@ Esta iniciativa fue realizada por:
 
 - [AppCivico - EOKOE SOLUÇÕES TECNOLÓGICAS LTDA](/i/appcivico-eokoe-solucoes-tecnologicas.html)
 - [Fluxo](/i/fluxo.html)
-- [OPEN KNOWLEDGE FOUNDATION BRASIL](/i/open-knowledge-foundation-brasil.html)
+- [Open Knowledge Brasil,Open Knowledge Foundation Brasil](/i/open-knowledge-foundation-brasil.html)

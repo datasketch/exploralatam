@@ -1,0 +1,21 @@
+---
+date: 2019-07-21T23:02:24.000Z
+date_last_modified: 2019-07-21
+uid: plataforma-democracia-digital
+title: "Plataforma Democracia Digital"
+description: ""
+type: 
+website: 
+date_ini: 
+date_end: 
+tags:
+  - transparencia-y-rendicion-de-cuentas
+  - participación-ciudadana
+cities: 
+  - Quito
+---
+
+Esta iniciativa fue realizada por:
+
+- [Emagic](/i/emagic.html)
+- [Fundación Democracia Digital Ecuador](/i/fundacion-democracia-digital-ecuador.html)

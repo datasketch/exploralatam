@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:02:24.000Z
-date_last_modified: 2019-07-21
+date_last_modified: 2019-07-29
 uid: pinghacker
 title: "Pinghacker"
 description: ""
@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Núcleo Digital](/i/nucleo-digital.html)
+- [Núcleo Digital,Nucleo Digital](/i/nucleo-digital-nucleo-digital.html)

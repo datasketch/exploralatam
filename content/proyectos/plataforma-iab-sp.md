@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:02:24.000Z
-date_last_modified: 2019-07-21
+date_last_modified: 2019-07-29
 uid: plataforma-iab-sp
 title: "Plataforma Iab-Sp"
 description: ""
@@ -20,5 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Hacklab](/i/hacklab.html)
 - [Instituto De Arquitetos Do Brasil - Departamento De São Paulo (Iab-Sp)](/i/instituto-de-arquitetos-do-brasil-departamento-de-são-paulo-iab-sp.html)

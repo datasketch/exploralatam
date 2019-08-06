@@ -33,7 +33,7 @@ Esta iniciativa fue realizada por:
 - [Observatório Do Recife](/i/observatorio-do-recife.html)
 - [Imaflora](/i/imaflora.html)
 - [Movimento Nossa Bh](/i/movimento-nossa-bh.html)
-- [X](/i/appcivico-eokoe-solucões-tecnologicas-ltda.html)
+- [X](/i/appcivico.html)
 - [Instituto Ilhabela Sustentável](/i/instituto-ilhabela-sustentavel.html)
 - [Instituto Soma Brasil](/i/instituto-soma-brasil.html)
 - [Associação Casa Fluminense](/i/associacão-casa-fluminense.html)
