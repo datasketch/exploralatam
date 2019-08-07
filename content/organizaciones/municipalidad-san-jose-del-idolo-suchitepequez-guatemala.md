@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: municipalidad-san-jose-del-idolo-suchitepequez-guatemala
-title: "Municipalidad San José Del Ídolo Suchitepéquez, Guatemala"
+title: 'Municipalidad San José Del Ídolo Suchitepéquez, Guatemala'
 legal_name: 
-description: ""
+description: ''
 org_type: Gobierno
 website: 
 year_founded: 1971

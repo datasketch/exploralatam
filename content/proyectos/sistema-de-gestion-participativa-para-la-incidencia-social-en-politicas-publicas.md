@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: sistema-de-gestion-participativa-para-la-incidencia-social-en-politicas-publicas
-title: "Sistema De Gestión Participativa Para La Incidencia Social En Políticas Públicas"
-description: ""
+title: 'Sistema De Gestión Participativa Para La Incidencia Social En Políticas Públicas'
+description: ''
 type: 
 website: 
 date_ini: 

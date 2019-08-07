@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: fundacion-ciencias-de-la-documentacion
-title: "Fundación Ciencias De La Documentación"
+title: 'Fundación Ciencias De La Documentación'
 legal_name: 
-description: ""
+description: ''
 org_type: Organización internacional
 website: http://www.documentalistas.org
 year_founded: 2005

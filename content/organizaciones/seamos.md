@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-22
 uid: seamos
-title: "Seamos"
+title: 'Seamos'
 legal_name: 
-description: "Plataforma digital que busca incidir en las decisiones políticas de la ciudad de Bogotá."
+description: 'Plataforma digital que busca incidir en las decisiones políticas de la ciudad de Bogotá.'
 org_type: 
 website: http://seamos.co/
 year_founded: 

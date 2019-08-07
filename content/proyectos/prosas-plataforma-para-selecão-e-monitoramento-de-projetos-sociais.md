@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: prosas-plataforma-para-selecão-e-monitoramento-de-projetos-sociais
-title: "Prosas: Plataforma Para Seleção E Monitoramento De Projetos Sociais"
-description: ""
+title: 'Prosas: Plataforma Para Seleção E Monitoramento De Projetos Sociais'
+description: ''
 type: 
 website: 
 date_ini: 

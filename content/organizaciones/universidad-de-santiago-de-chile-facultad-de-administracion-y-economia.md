@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-29
 uid: universidad-de-santiago-de-chile-facultad-de-administracion-y-economia
-title: "Universidad De Santiago De Chile, Facultad De Administración Y Economía"
+title: 'Universidad De Santiago De Chile, Facultad De Administración Y Economía'
 legal_name: 
-description: ""
+description: ''
 org_type: Universidad/Instituto de investigación
 website: http://www.fae.usach.cl/
 year_founded: 1972

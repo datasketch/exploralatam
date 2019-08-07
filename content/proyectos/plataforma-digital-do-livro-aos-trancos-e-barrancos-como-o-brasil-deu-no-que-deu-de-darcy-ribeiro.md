@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: plataforma-digital-do-livro-aos-trancos-e-barrancos-como-o-brasil-deu-no-que-deu-de-darcy-ribeiro
-title: "Plataforma Digital Do Livro \Aos Trancos E Barrancos: Como O Brasil Deu No Que Deu\", De Darcy Ribeiro""
-description: ""
+title: 'Plataforma Digital Do Livro \Aos Trancos E Barrancos: Como O Brasil Deu No Que Deu\", De Darcy Ribeiro"'
+description: ''
 type: 
 website: 
 date_ini: 

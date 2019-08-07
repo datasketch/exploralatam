@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-08-07
 uid: convoca
-title: "Convoca"
+title: 'Convoca'
 legal_name: 
-description: "Es un equipo de reporteros, analistas de datos y desarrolladores que surge en la búsqueda de una nueva forma de hacer periodismo en Perú."
+description: 'Es un equipo de reporteros, analistas de datos y desarrolladores que surge en la búsqueda de una nueva forma de hacer periodismo en Perú.'
 org_type: 
 website: http://convoca.pe/
 year_founded: 2015

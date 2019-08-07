@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: el-presupuesto-comunitario
-title: "El Presupuesto Comunitario"
-description: ""
+title: 'El Presupuesto Comunitario'
+description: ''
 type: 
 website: 
 date_ini: 

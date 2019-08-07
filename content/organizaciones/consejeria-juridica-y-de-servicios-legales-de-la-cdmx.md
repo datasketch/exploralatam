@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: consejeria-juridica-y-de-servicios-legales-de-la-cdmx
-title: "Consejería Jurídica Y De Servicios Legales De La Cdmx"
+title: 'Consejería Jurídica Y De Servicios Legales De La Cdmx'
 legal_name: 
-description: ""
+description: ''
 org_type: Gobierno
 website: http://www.consejeria.cdmx.gob.mx/
 year_founded: 2012

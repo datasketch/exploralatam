@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: crear-un-centro-de-atencion-ciudadana-online-y-semipresencial
-title: "Crear Un Centro De Atencion Ciudadana Online Y Semipresencial"
-description: ""
+title: 'Crear Un Centro De Atencion Ciudadana Online Y Semipresencial'
+description: ''
 type: 
 website: 
 date_ini: 

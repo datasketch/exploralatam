@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-29
 uid: grupo-de-investigacion-de-sistemas-basados-en-el-conocimiento-knowledge-based-systems-research-group-kbs-rg-de-la-universidad-tecnica-particular-de-loja
-title: "Grupo de Investigación de Sistemas Basados en el Conocimiento (Knowledge-based Systems Research Group - KBS-RG) de la Universidad Técnica Particular de Loja"
+title: 'Grupo de Investigación de Sistemas Basados en el Conocimiento (Knowledge-based Systems Research Group - KBS-RG) de la Universidad Técnica Particular de Loja'
 legal_name: 
-description: ""
+description: ''
 org_type: 
 website: www.utpl.edu.ec
 year_founded: 2010

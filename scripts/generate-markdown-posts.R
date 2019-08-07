@@ -41,6 +41,7 @@ orgs <- transpose(orgs0)
 # Test with one Org
 set.seed(20190722)
 org <- orgs[[sample(length(orgs),1)]]
+org <- orgs[[30]]
 
 org$org_type <- "NNN"
 
@@ -55,7 +56,8 @@ org_defaults <- list(
   projects = "No información sobre proyectos de esta organización"
 )
 org2 <- modifyList(org_defaults, org)
-
+org2$name <- gsub("'", "\\\\'", org2$name)
+org2$description <- gsub("'", "\\\\'", org2$description)
 org_projs <- projects0 %>% filter(id %in% org$projects) %>% select(uid, name) %>% transpose()
 org2$projects <- map(org_projs, ~glue_data(.,"- [{name}](/proyectos/{uid})")) %>% paste(collapse = "\n")
 org_tags <- tags0 %>% filter(id %in% org$tags) %>% filter(uid != "NA") %>% select(uid, name) %>% transpose()
@@ -77,6 +79,8 @@ orgs <- orgs0 %>% transpose()
 
 all_orgs <- map(orgs, safely(function(org){
   org2 <- modifyList(org_defaults, org)
+  org2$name <- gsub("'", "\\\\'", org2$name)
+  org2$description <- gsub("'", "\\\\'", org2$description)
   org_projs <- projects0 %>% filter(id %in% org$projects) %>% select(uid, name) %>% transpose()
   org2$projects <- map(org_projs, ~glue_data(.,"- [{name}](/proyectos/{uid})")) %>% paste(collapse = "\n")
   org_tags <- tags0 %>% filter(id %in% org$tags) %>% filter(uid != "NA") %>% select(uid, name) %>% transpose()
@@ -118,7 +122,8 @@ proj_defaults <- list(
   type = "Desconocido"
 )
 proj2 <- modifyList(proj_defaults, proj)
-
+proj2$name <- gsub("'", "\\\\'", proj2$name)
+proj2$description <- gsub("'", "\\\\'", proj2$description)
 proj_orgs <- orgs0 %>% filter(id %in% proj$orgs) %>% select(uid, name) %>% transpose()
 proj2$organizations <- map(proj_orgs, ~glue_data(.,"- [{name}](/organizaciones/{uid})")) %>% paste(collapse = "\n")
 proj_tags <- tags0 %>% filter(id %in% proj$tags) %>% filter(uid != "NA") %>% select(uid, name) %>% transpose()
@@ -135,6 +140,8 @@ projs <- projects0 %>% transpose()
 
 all_proj <- map(projs, safely(function(proj){
   proj2 <- modifyList(proj_defaults, proj)
+  proj2$name <- gsub("'", "\\\\'", proj2$name)
+  proj2$description <- gsub("'", "\\\\'", proj2$description)
   proj_orgs <- orgs0 %>% filter(id %in% proj$orgs) %>% select(uid, name) %>% transpose()
   proj2$organizations <- map(proj_orgs, ~glue_data(.,"- [{name}](/organizaciones/{uid})")) %>% paste(collapse = "\n")
   proj_tags <- tags0 %>% filter(id %in% proj$tags) %>% filter(uid != "NA") %>% select(uid, name) %>% transpose()

@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-29
 uid: inppares-instituto-peruano-de-paternidad-responsables
-title: "Inppares - Instituto Peruano De Paternidad Responsables"
+title: 'Inppares - Instituto Peruano De Paternidad Responsables'
 legal_name: 
-description: ""
+description: ''
 org_type: Organización civil sin fines de lucro (ONG)
 website: WWW.INPPARES.ORG
 year_founded: 1976

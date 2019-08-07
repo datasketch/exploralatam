@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: plataforma-digital-de-participacion-ciudadana-en-congresos-locales
-title: "Plataforma Digital De Participación Ciudadana En Congresos Locales"
-description: ""
+title: 'Plataforma Digital De Participación Ciudadana En Congresos Locales'
+description: ''
 type: 
 website: 
 date_ini: 

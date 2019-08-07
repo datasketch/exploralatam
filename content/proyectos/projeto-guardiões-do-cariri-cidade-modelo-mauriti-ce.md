@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: projeto-guardiões-do-cariri-cidade-modelo-mauriti-ce
-title: "Projeto Guardiões Do Cariri - Cidade Modelo Mauriti-Ce"
-description: ""
+title: 'Projeto Guardiões Do Cariri - Cidade Modelo Mauriti-Ce'
+description: ''
 type: 
 website: 
 date_ini: 

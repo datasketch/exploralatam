@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: novas-tecnicas-para-monitoramento-de-sistemas-produtivos-agroecologicos-com-participacão-comunitaria
-title: "Novas Técnicas Para Monitoramento De Sistemas Produtivos Agroecológicos Com Participação Comunitária"
-description: ""
+title: 'Novas Técnicas Para Monitoramento De Sistemas Produtivos Agroecológicos Com Participação Comunitária'
+description: ''
 type: 
 website: 
 date_ini: 

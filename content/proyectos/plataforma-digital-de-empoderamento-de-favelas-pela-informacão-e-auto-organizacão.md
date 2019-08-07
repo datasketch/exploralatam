@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-22
 uid: plataforma-digital-de-empoderamento-de-favelas-pela-informacão-e-auto-organizacão
-title: "Plataforma Digital De Empoderamento De Favelas Pela Informação E Auto-Organização"
-description: ""
+title: 'Plataforma Digital De Empoderamento De Favelas Pela Informação E Auto-Organização'
+description: ''
 type: 
 website: 
 date_ini: 

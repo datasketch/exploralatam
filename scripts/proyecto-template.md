@@ -2,8 +2,8 @@
 date: {createdTime}
 date_last_modified: {date_last_modified}
 uid: {uid}
-title: "{name}"
-description: "{description}"
+title: '{name}'
+description: '{description}'
 type: {type}
 website: {website}
 date_ini: {date_ini}

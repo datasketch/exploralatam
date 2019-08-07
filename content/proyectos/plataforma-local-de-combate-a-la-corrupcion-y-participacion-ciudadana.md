@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: plataforma-local-de-combate-a-la-corrupcion-y-participacion-ciudadana
-title: "Plataforma Local De Combate A La Corrupción Y Participación Ciudadana"
-description: ""
+title: 'Plataforma Local De Combate A La Corrupción Y Participación Ciudadana'
+description: ''
 type: 
 website: 
 date_ini: 

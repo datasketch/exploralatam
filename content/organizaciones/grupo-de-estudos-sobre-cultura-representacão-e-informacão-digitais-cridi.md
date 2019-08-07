@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: grupo-de-estudos-sobre-cultura-representacão-e-informacão-digitais-cridi
-title: "Grupo De Estudos Sobre Cultura, Representação E Informação Digitais - Cridi"
+title: 'Grupo De Estudos Sobre Cultura, Representação E Informação Digitais - Cridi'
 legal_name: 
-description: ""
+description: ''
 org_type: Otro
 website: http://www.cridi.ici.ufba.br/
 year_founded: 2005

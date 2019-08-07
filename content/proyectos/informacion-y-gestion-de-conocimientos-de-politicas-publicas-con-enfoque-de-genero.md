@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: informacion-y-gestion-de-conocimientos-de-politicas-publicas-con-enfoque-de-genero
-title: "Información Y Gestión De Conocimientos De Políticas Publicas Con Enfoque De Genero"
-description: ""
+title: 'Información Y Gestión De Conocimientos De Políticas Publicas Con Enfoque De Genero'
+description: ''
 type: 
 website: 
 date_ini: 

@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: celula-de-capacitacão-tecnologica-para-meninas-e-adolescentes-cecatec
-title: "Celula De Capacitação Tecnológica Para Meninas E Adolescentes - Cecatec"
-description: ""
+title: 'Celula De Capacitação Tecnológica Para Meninas E Adolescentes - Cecatec'
+description: ''
 type: 
 website: 
 date_ini: 

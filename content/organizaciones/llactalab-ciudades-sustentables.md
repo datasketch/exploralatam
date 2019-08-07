@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: llactalab-ciudades-sustentables
-title: "Llactalab - Ciudades Sustentables"
+title: 'Llactalab - Ciudades Sustentables'
 legal_name: 
-description: ""
+description: ''
 org_type: Organización civil sin fines de lucro (ONG)
 website: http://llactalab.ucuenca.edu.ec/
 year_founded: 2013

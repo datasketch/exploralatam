@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: o-instituto-ambiental
-title: "O Instituto Ambiental"
+title: 'O Instituto Ambiental'
 legal_name: 
-description: ""
+description: ''
 org_type: Organización civil sin fines de lucro (ONG)
 website: www.oia.org.br
 year_founded: 1993

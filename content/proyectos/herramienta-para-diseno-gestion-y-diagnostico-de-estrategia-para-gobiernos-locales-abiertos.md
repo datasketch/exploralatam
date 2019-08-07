@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-29
 uid: herramienta-para-diseno-gestion-y-diagnostico-de-estrategia-para-gobiernos-locales-abiertos
-title: "Herramienta Para Diseño, Gestión Y Diagnóstico De Estrategia Para Gobiernos Locales Abiertos"
-description: ""
+title: 'Herramienta Para Diseño, Gestión Y Diagnóstico De Estrategia Para Gobiernos Locales Abiertos'
+description: ''
 type: 
 website: 
 date_ini: 

@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: instituto-humanista-de-cooperacion-para-el-desarrollo-hivos
-title: "Instituto Humanista De Cooperación Para El Desarrollo - Hivos"
+title: 'Instituto Humanista De Cooperación Para El Desarrollo - Hivos'
 legal_name: 
-description: ""
+description: ''
 org_type: Organización civil sin fines de lucro (ONG)
 website: www.hivos.org.gt
 year_founded: 2010

@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-08-07
 uid: prosas-tecnologia-social-ltda
-title: "Prosas Tecnologia Social Ltda"
+title: 'Prosas Tecnologia Social Ltda'
 legal_name: 
-description: ""
+description: ''
 org_type: 
 website: www.prosas.com.br
 year_founded: 2014

@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: universidad-de-chile-facultad-de-ciencias-fisicas-y-matematicas-departamento-de-ingenieria-industrial-centro-de-investigacion-en-inteligencia-de-negocios-ceine
-title: "Universidad De Chile, Facultad De Ciencias Físicas Y Matemáticas, Departamento De Ingeniería Industrial, Centro De Investigación En Inteligencia De Negocios (Ceine)"
+title: 'Universidad De Chile, Facultad De Ciencias Físicas Y Matemáticas, Departamento De Ingeniería Industrial, Centro De Investigación En Inteligencia De Negocios (Ceine)'
 legal_name: 
-description: ""
+description: ''
 org_type: Universidad/Instituto de investigación
 website: http://www.ceine.cl
 year_founded: 2012

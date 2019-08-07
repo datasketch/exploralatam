@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: proyecto-participa-2017
-title: "Proyecto Participa 2017"
-description: ""
+title: 'Proyecto Participa 2017'
+description: ''
 type: 
 website: 
 date_ini: 

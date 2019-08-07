@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: manejo-inteligente-de-residuos-y-gestion-ambiental-minga
-title: "Manejo Inteligente De Residuos Y Gestión Ambiental Minga"
+title: 'Manejo Inteligente De Residuos Y Gestión Ambiental Minga'
 legal_name: 
-description: ""
+description: ''
 org_type: Empresa privada (no incluye startup)
 website: www.minga.la
 year_founded: 2017

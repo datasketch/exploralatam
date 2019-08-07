@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-29
 uid: seredipia
-title: "Seredipia"
+title: 'Seredipia'
 legal_name: 
-description: "Publica investigaciones y herramientas basadas en datos (abiertos por los gobiernos o por nosotros), información corroborada párrafo por párrafo, cifra por cifra."
+description: 'Publica investigaciones y herramientas basadas en datos (abiertos por los gobiernos o por nosotros), información corroborada párrafo por párrafo, cifra por cifra.'
 org_type: 
 website: https://serendipia.digital/
 year_founded: 2017

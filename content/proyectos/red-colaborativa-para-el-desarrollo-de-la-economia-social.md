@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: red-colaborativa-para-el-desarrollo-de-la-economia-social
-title: "Red Colaborativa Para El Desarrollo De La Economía Social"
-description: ""
+title: 'Red Colaborativa Para El Desarrollo De La Economía Social'
+description: ''
 type: 
 website: 
 date_ini: 

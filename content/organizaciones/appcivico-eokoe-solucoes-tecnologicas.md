@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-29
 uid: appcivico-eokoe-solucoes-tecnologicas
-title: "AppCivico - EOKOE SOLUÇÕES TECNOLÓGICAS LTDA"
+title: 'AppCivico - EOKOE SOLUÇÕES TECNOLÓGICAS LTDA'
 legal_name: 
-description: ""
+description: ''
 org_type: Empresa privada (startup)
 website: https://www.eokoe.com/
 year_founded: 2015

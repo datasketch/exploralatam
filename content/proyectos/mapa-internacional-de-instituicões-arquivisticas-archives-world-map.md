@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: mapa-internacional-de-instituicões-arquivisticas-archives-world-map
-title: "Mapa Internacional De Instituições Arquivísticas (Archives World Map)"
-description: ""
+title: 'Mapa Internacional De Instituições Arquivísticas (Archives World Map)'
+description: ''
 type: 
 website: 
 date_ini: 

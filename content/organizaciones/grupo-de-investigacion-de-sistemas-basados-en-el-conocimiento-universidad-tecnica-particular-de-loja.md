@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: grupo-de-investigacion-de-sistemas-basados-en-el-conocimiento-universidad-tecnica-particular-de-loja
-title: "Grupo De Investigación De Sistemas Basados En El Conocimiento - Universidad Técnica Particular De Loja"
+title: 'Grupo De Investigación De Sistemas Basados En El Conocimiento - Universidad Técnica Particular De Loja'
 legal_name: 
-description: ""
+description: ''
 org_type: Universidad/Instituto de investigación
 website: 
 year_founded: 

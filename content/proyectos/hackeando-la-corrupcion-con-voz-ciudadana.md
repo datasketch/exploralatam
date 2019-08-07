@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-24
 uid: hackeando-la-corrupcion-con-voz-ciudadana
-title: "Hackeando La Corrupción Con Voz Ciudadana"
-description: ""
+title: 'Hackeando La Corrupción Con Voz Ciudadana'
+description: ''
 type: 
 website: 
 date_ini: 

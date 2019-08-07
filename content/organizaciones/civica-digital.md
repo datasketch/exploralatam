@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-22
 uid: civica-digital
-title: "Cívica Digital civica-digital-mexico-sapi-de-cv"
+title: 'Cívica Digital civica-digital-mexico-sapi-de-cv'
 legal_name: 
-description: ""
+description: ''
 org_type: Empresa privada (startup)
 website: https://civica.digital/
 year_founded: 2015

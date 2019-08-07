@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-29
 uid: wingu
-title: "Wingu"
+title: 'Wingu'
 legal_name: 
-description: "Busca potenciar el trabajo de organizaciones y proyectos sin fines de lucro de América Latina a través de la incorporación de tecnología y metodologías innovadoras."
+description: 'Busca potenciar el trabajo de organizaciones y proyectos sin fines de lucro de América Latina a través de la incorporación de tecnología y metodologías innovadoras.'
 org_type: Organización civil sin fines de lucro (ONG)
 website: https://winguweb.org/
 year_founded: 2008

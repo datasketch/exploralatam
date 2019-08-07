@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: noosfero-plataforma-web-livre-para-a-criacão-de-redes-sociais-autonomas-e-participacão-civica
-title: "Noosfero: Plataforma Web Livre Para A Criação De Redes Sociais Autônomas E Participação Cívica"
-description: ""
+title: 'Noosfero: Plataforma Web Livre Para A Criação De Redes Sociais Autônomas E Participação Cívica'
+description: ''
 type: 
 website: 
 date_ini: 

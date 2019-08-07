@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: plataforma-civica-para-la-participacion-indigena-mediante-derecho-al-acceso-a-la-informacion
-title: "Plataforma Cívica Para La Participación Indígena Mediante Derecho Al Acceso A La Información."
-description: ""
+title: 'Plataforma Cívica Para La Participación Indígena Mediante Derecho Al Acceso A La Información.'
+description: ''
 type: 
 website: 
 date_ini: 

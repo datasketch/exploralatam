@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-22
 uid: ciudadan-s-por-la-transparencia-a-c
-title: "Ciudadan@S Por La Transparencia A.C"
+title: 'Ciudadan@S Por La Transparencia A.C'
 legal_name: 
-description: ""
+description: ''
 org_type: Organización civil sin fines de lucro (ONG)
 website: http://www.ciudadanosporlatransparencia.org
 year_founded: 2011

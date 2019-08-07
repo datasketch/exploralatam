@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-22
 uid: fgv-gdhee-grupo-de-pesquisa-aplicada-em-direitos-humanos-e-empresas-da-fundacão-getulio-vargas
-title: "Fgv.Gdhee - Grupo De Pesquisa Aplicada Em Direitos Humanos E Empresas Da Fundação Getulio Vargas"
+title: 'Fgv.Gdhee - Grupo De Pesquisa Aplicada Em Direitos Humanos E Empresas Da Fundação Getulio Vargas'
 legal_name: 
-description: ""
+description: ''
 org_type: Universidad/Instituto de investigación
 website: http://portal.fgv.br
 year_founded: 2013

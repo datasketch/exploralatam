@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-22
 uid: cidades-em-dados-transparencia-e-controle-social
-title: "Cidades Em Dados - Transparência E Controle Social"
-description: ""
+title: 'Cidades Em Dados - Transparência E Controle Social'
+description: ''
 type: 
 website: 
 date_ini: 

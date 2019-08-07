@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-29
 uid: guegue-vasquez-cia-ltda
-title: "Guegue Vasquez Cia Ltda"
+title: 'Guegue Vasquez Cia Ltda'
 legal_name: 
-description: ""
+description: ''
 org_type: Empresa privada (no incluye startup)
 website: https://www.guegue.com/
 year_founded: 1996

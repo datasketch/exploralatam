@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: genero-e-numero
-title: "Gênero E Número"
+title: 'Gênero E Número'
 legal_name: 
-description: ""
+description: ''
 org_type: Organización civil sin fines de lucro (ONG)
 website: www.generonumero.media
 year_founded: 2016

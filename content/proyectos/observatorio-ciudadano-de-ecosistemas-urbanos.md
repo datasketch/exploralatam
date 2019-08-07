@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: observatorio-ciudadano-de-ecosistemas-urbanos
-title: "Observatorio Ciudadano De Ecosistemas Urbanos"
-description: ""
+title: 'Observatorio Ciudadano De Ecosistemas Urbanos'
+description: ''
 type: 
 website: 
 date_ini: 

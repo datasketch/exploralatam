@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-29
 uid: colaboratorio-de-desenvolvimento-e-participacão-universidade-de-são-paulo
-title: "Colaboratório De Desenvolvimento E Participação, Universidade De São Paulo"
+title: 'Colaboratório De Desenvolvimento E Participação, Universidade De São Paulo'
 legal_name: 
-description: ""
+description: ''
 org_type: Gobierno
 website: www.colab.each.usp.br
 year_founded: 2014

@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-22
 uid: comite-para-la-democratizacion-de-la-informatica-cdi-colombia
-title: "Comite Para La Democratización De La Informatica. Cdi Colombia"
+title: 'Comite Para La Democratización De La Informatica. Cdi Colombia'
 legal_name: 
-description: ""
+description: ''
 org_type: Organización civil sin fines de lucro (ONG)
 website: http://cdi.org.co
 year_founded: 2005

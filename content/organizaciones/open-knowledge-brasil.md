@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-29
 uid: open-knowledge-brasil
-title: "Open Knowledge Brasil"
+title: 'Open Knowledge Brasil'
 legal_name: 
-description: ""
+description: ''
 org_type: 
 website: http://br.okfn.org/
 year_founded: 2013

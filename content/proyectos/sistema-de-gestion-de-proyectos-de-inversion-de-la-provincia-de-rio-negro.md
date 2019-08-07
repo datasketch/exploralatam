@@ -2,8 +2,8 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-29
 uid: sistema-de-gestion-de-proyectos-de-inversion-de-la-provincia-de-rio-negro
-title: "Sistema De Gestión De Proyectos De Inversión De La Provincia De Río Negro"
-description: ""
+title: 'Sistema De Gestión De Proyectos De Inversión De La Provincia De Río Negro'
+description: ''
 type: 
 website: 
 date_ini: 

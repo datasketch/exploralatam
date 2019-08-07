@@ -2,9 +2,9 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-22
 uid: avina
-title: "Avina Americas"
+title: 'Avina Americas'
 legal_name: 
-description: ""
+description: ''
 org_type: Otro
 website: http://www.avina.net/avina/
 year_founded: 2008
