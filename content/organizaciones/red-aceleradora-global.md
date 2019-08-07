@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Red Aceleradora Global](/i/red-aceleradora-global.html)
+- [Red Aceleradora Global](/proyectos/red-aceleradora-global)

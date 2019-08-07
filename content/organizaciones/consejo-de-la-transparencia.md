@@ -19,6 +19,6 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Infolobby](/i/infolobby.html)
-- [Portal De Transparencia](/i/portal-de-transparencia.html)
-- [Laboratorio De Innovaciì_N De Transparencia](/i/laboratorio-de-innovacii-n-de-transparencia.html)
+- [Infolobby](/proyectos/infolobby)
+- [Portal De Transparencia](/proyectos/portal-de-transparencia)
+- [Laboratorio De Innovaciì_N De Transparencia](/proyectos/laboratorio-de-innovacii-n-de-transparencia)

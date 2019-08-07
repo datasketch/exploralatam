@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [V-Smart S.A.](/i/v-smart-s-a.html)
+- [V-Smart S.A.](/organizaciones/v-smart-s-a)

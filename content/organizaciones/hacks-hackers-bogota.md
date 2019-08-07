@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Hack Hakers Bogota](/i/hack-hakers-bogota.html)
+- [Hack Hakers Bogota](/proyectos/hack-hakers-bogota)

@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Colaborativomx](/i/colaborativomx.html)
+- [Colaborativomx](/proyectos/colaborativomx)

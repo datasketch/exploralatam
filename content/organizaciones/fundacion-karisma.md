@@ -19,7 +19,7 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Innovación y tecnología social](/i/lab-its.html)
-- [K+LAB](/i/klab.html)
-- [Burocratas](/i/burocratas.html)
-- [Laboratior Tecnológico](/i/laboratorio-tecnologico.html)
+- [Innovación y tecnología social](/proyectos/lab-its)
+- [K+LAB](/proyectos/klab)
+- [Burocratas](/proyectos/burocratas)
+- [Laboratior Tecnológico](/proyectos/laboratorio-tecnologico)

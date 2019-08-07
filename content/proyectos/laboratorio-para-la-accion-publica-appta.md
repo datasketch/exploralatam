@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Laboratorio Para La Acción Pública](/i/laboratorio-para-la-accion-publica.html)
+- [Laboratorio Para La Acción Pública](/organizaciones/laboratorio-para-la-accion-publica)

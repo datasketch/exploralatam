@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma Iab-Sp](/i/plataforma-iab-sp.html)
+- [Plataforma Iab-Sp](/proyectos/plataforma-iab-sp)

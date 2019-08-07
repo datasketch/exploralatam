@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Olhoneles](/i/olhoneles.html)
+- [Olhoneles](/organizaciones/olhoneles)

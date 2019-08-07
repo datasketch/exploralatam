@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Unidad Positiva Para El Desarrollo Ciudadano - Updc](/i/unidad-positiva-para-el-desarrollo-ciudadano-updc.html)
+- [Unidad Positiva Para El Desarrollo Ciudadano - Updc](/organizaciones/unidad-positiva-para-el-desarrollo-ciudadano-updc)

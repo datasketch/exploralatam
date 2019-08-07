@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Ley De Gobierno Abierto Cdmx](/i/ley-de-gobierno-abierto-cdmx.html)
+- [Ley De Gobierno Abierto Cdmx](/proyectos/ley-de-gobierno-abierto-cdmx)

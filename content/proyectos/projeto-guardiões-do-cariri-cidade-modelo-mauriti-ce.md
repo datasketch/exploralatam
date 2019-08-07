@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro De Educação E Assessoria Popular Mauriti-Ce](/i/centro-de-educacão-e-assessoria-popular-mauriti-ce.html)
+- [Centro De Educação E Assessoria Popular Mauriti-Ce](/organizaciones/centro-de-educacão-e-assessoria-popular-mauriti-ce)

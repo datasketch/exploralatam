@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Tecnología Y El Mejoramiento Habitacional Urbano](/i/tecnologia-y-el-mejoramiento-habitacional-urbano.html)
+- [Tecnología Y El Mejoramiento Habitacional Urbano](/proyectos/tecnologia-y-el-mejoramiento-habitacional-urbano)

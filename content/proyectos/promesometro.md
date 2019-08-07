@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Proetica](/i/proetica.html)
+- [Proetica](/organizaciones/proetica)

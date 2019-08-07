@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Bgood Smart Philanthropy](/i/bgood-smart-philanthropy.html)
+- [Bgood Smart Philanthropy](/proyectos/bgood-smart-philanthropy)

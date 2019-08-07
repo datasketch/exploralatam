@@ -1,28 +1,26 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-21
-uid: eokoe-solucões-tecnologicas-appcivico-eokoe-solucões-tecnologicas-ltda
-title: "Eokoe Soluções Tecnológicas,Appcivico - Eokoe Soluções Tecnológicas Ltda"
+date_last_modified: 2019-08-07
+uid: atlas-smart-cities
+title: "Atlas Smart Cities"
 legal_name: 
 description: ""
-org_type: Empresa privada (startup)
-website: 
-year_founded: 
+org_type: 
+website: www.smartcitiesatlas.com
+year_founded: 2016
 facebook: 
 twitter: 
 tags:
   - monitoreo-de-servicios-publicos
   - mapeo-ciudadano
-  - compras-publicas
   - transparencia-y-rendicion-de-cuentas
   - participación-ciudadana
   - parlamento-abierto-monitoreo-legislativo
 cities: 
-  - Recife
-  - São Paulo
+  - Buenos Aires
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-
+- [Co-Creá Tu Ciudad](/proyectos/co-crea-tu-ciudad)

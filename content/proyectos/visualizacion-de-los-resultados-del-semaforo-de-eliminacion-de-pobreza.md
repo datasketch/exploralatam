@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Paraguaya](/i/fundacion-paraguaya.html)
+- [Fundación Paraguaya](/organizaciones/fundacion-paraguaya)

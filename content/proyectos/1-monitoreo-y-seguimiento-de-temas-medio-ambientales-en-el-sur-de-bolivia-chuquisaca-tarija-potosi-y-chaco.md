@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Acción Cultural Loyola (Aclo)](/i/fundacion-accion-cultural-loyola-aclo.html)
+- [Fundación Acción Cultural Loyola (Aclo)](/organizaciones/fundacion-accion-cultural-loyola-aclo)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cultura Peru](/i/cultura-peru.html)
+- [Cultura Peru](/organizaciones/cultura-peru)

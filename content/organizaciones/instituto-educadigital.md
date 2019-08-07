@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Iniciativa Educação Aberta Brasil](/i/iniciativa-educacão-aberta-brasil.html)
+- [Iniciativa Educação Aberta Brasil](/proyectos/iniciativa-educacão-aberta-brasil)

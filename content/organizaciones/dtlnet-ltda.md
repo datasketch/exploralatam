@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Información Inclusiva Y Participativa Para ¨Todos¨](/i/informacion-inclusiva-y-participativa-para-todos.html)
+- [Información Inclusiva Y Participativa Para ¨Todos¨](/proyectos/informacion-inclusiva-y-participativa-para-todos)

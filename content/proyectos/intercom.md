@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Mgov Brasil](/i/mgov-brasil.html)
+- [Mgov Brasil](/organizaciones/mgov-brasil)

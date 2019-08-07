@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Democracia Y Desarrollo](/i/fundacion-democracia-y-desarrollo.html)
+- [Fundación Democracia Y Desarrollo](/organizaciones/fundacion-democracia-y-desarrollo)

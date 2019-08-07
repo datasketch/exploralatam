@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro De Desarrollo Sostenible](/i/centro-de-desarrollo-sostenible.html)
+- [Centro De Desarrollo Sostenible](/organizaciones/centro-de-desarrollo-sostenible)

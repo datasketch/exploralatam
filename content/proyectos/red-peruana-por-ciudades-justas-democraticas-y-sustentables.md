@@ -21,7 +21,7 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Trujillo Ahora](/i/trujillo-ahora.html)
-- [Lima Cómo Vamos](/i/lima-como-vamos.html)
-- [Detona](/i/detona.html)
-- [Arequipa, Te Queremos](/i/arequipa-te-queremos.html)
+- [Trujillo Ahora](/organizaciones/trujillo-ahora)
+- [Lima Cómo Vamos](/organizaciones/lima-como-vamos)
+- [Detona](/organizaciones/detona)
+- [Arequipa, Te Queremos](/organizaciones/arequipa-te-queremos)

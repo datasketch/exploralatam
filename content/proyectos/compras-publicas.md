@@ -19,6 +19,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Observatorio del Gasto Fiscal - via Fundación Contexto Ciudadano](/i/observatorio-del-gasto-fiscal-via-fundacion-contexto-ciudadano.html)
-- [Universidad De Santiago De Chile, Facultad De Administración Y Economía](/i/universidad-de-santiago-de-chile-facultad-de-administracion-y-economia.html)
-- [Universidad De Chile, Facultad De Ciencias Físicas Y Matemáticas, Departamento De Ingeniería Industrial, Centro De Investigación En Inteligencia De Negocios (Ceine)](/i/universidad-de-chile-facultad-de-ciencias-fisicas-y-matematicas-departamento-de-ingenieria-industrial-centro-de-investigacion-en-inteligencia-de-negocios-ceine.html)
+- [Observatorio del Gasto Fiscal - via Fundación Contexto Ciudadano](/organizaciones/observatorio-del-gasto-fiscal-via-fundacion-contexto-ciudadano)
+- [Universidad De Santiago De Chile, Facultad De Administración Y Economía](/organizaciones/universidad-de-santiago-de-chile-facultad-de-administracion-y-economia)
+- [Universidad De Chile, Facultad De Ciencias Físicas Y Matemáticas, Departamento De Ingeniería Industrial, Centro De Investigación En Inteligencia De Negocios (Ceine)](/organizaciones/universidad-de-chile-facultad-de-ciencias-fisicas-y-matematicas-departamento-de-ingenieria-industrial-centro-de-investigacion-en-inteligencia-de-negocios-ceine)

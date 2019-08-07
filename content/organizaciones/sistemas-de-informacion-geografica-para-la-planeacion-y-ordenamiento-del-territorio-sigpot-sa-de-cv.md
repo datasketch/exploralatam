@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [¿Cuál Me Lleva?](/i/ual-me-lleva.html)
+- [¿Cuál Me Lleva?](/proyectos/ual-me-lleva)

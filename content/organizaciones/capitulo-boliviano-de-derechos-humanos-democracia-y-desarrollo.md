@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-21
+date_last_modified: 2019-07-29
 uid: capitulo-boliviano-de-derechos-humanos-democracia-y-desarrollo
 title: "Capítulo Boliviano De Derechos Humanos, Democracia Y Desarrollo"
 legal_name: 
@@ -20,5 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Tecnologías Y Derechos Humanos, Lo Virtual Se Vuelve Material](/i/tecnologias-y-derechos-humanos-lo-virtual-se-vuelve-material.html)
-- [](/i/ecnologias-y-derechos-humanos-lo-virtual-se-vuelve-material.html)
+- [Tecnologías Y Derechos Humanos, Lo Virtual Se Vuelve Material](/proyectos/tecnologias-y-derechos-humanos-lo-virtual-se-vuelve-material)

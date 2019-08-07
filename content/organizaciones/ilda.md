@@ -19,8 +19,8 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Mapeando habilidades y capacidades en la región](/i/mapeando-habilidades-y-capacidades-de-la-region.html)
-- [Respira Ciudad](/i/respira-ciudad.html)
-- [Datos y enfermedades de transmisión vectorial](/i/datos-y-enfermedades-de-transmision-vectorial.html)
-- [Ciudando de meu barrio](/i/cuidando-de-meu-barrio.html)
-- [Género Datos y Seguridad](/i/genero-datos-y-seguridad.html)
+- [Mapeando habilidades y capacidades en la región](/proyectos/mapeando-habilidades-y-capacidades-de-la-region)
+- [Respira Ciudad](/proyectos/respira-ciudad)
+- [Datos y enfermedades de transmisión vectorial](/proyectos/datos-y-enfermedades-de-transmision-vectorial)
+- [Ciudando de meu barrio](/proyectos/cuidando-de-meu-barrio)
+- [Género Datos y Seguridad](/proyectos/genero-datos-y-seguridad)

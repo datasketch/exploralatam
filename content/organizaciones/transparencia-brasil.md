@@ -25,4 +25,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Transparência Nas Licitações](/i/transparencia-nas-licitacões.html)
+- [Transparência Nas Licitações](/proyectos/transparencia-nas-licitacões)

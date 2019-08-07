@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Seguridad Maritima Integral En El Transporte Turistico De Pasajero En El Mulle  De La Bodeguita](/i/seguridad-maritima-integral-en-el-transporte-turistico-de-pasajero-en-el-mulle-de-la-bodeguita.html)
+- [Seguridad Maritima Integral En El Transporte Turistico De Pasajero En El Mulle  De La Bodeguita](/proyectos/seguridad-maritima-integral-en-el-transporte-turistico-de-pasajero-en-el-mulle-de-la-bodeguita)

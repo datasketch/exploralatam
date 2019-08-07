@@ -24,4 +24,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Laboratorio Para La Acción Pública - Appta](/i/laboratorio-para-la-accion-publica-appta.html)
+- [Laboratorio Para La Acción Pública - Appta](/proyectos/laboratorio-para-la-accion-publica-appta)

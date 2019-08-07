@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Sumando Esfuerzos](/i/sumando-esfuerzos.html)
+- [Sumando Esfuerzos](/organizaciones/sumando-esfuerzos)

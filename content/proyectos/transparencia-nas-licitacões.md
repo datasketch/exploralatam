@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Transparência Brasil](/i/transparencia-brasil.html)
+- [Transparência Brasil](/organizaciones/transparencia-brasil)

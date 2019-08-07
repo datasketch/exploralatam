@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Phomenta - Doe Profissionalmente.](/i/phomenta-doe-profissionalmente.html)
+- [Phomenta - Doe Profissionalmente.](/proyectos/phomenta-doe-profissionalmente)

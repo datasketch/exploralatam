@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Plan Estrategico De Juarez](/i/plan-estrategico-de-juarez.html)
+- [Plan Estrategico De Juarez](/organizaciones/plan-estrategico-de-juarez)

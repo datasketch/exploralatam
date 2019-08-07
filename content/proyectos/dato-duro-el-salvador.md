@@ -16,5 +16,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Chequeado](/i/chequeado.html)
-- [El Faro](/i/el-faro.html)
+- [Chequeado](/organizaciones/chequeado)
+- [El Faro](/organizaciones/el-faro)

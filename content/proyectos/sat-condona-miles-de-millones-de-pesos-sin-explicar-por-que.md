@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [El País](/i/el-pais-col.html)
+- [El País](/organizaciones/el-pais-col)

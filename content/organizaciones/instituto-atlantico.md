@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma Digital De Empoderamento De Favelas Pela Informação E Auto-Organização](/i/plataforma-digital-de-empoderamento-de-favelas-pela-informacão-e-auto-organizacão.html)
+- [Plataforma Digital De Empoderamento De Favelas Pela Informação E Auto-Organização](/proyectos/plataforma-digital-de-empoderamento-de-favelas-pela-informacão-e-auto-organizacão)

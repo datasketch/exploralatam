@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Novas Técnicas Para Monitoramento De Sistemas Produtivos Agroecológicos Com Participação Comunitária](/i/novas-tecnicas-para-monitoramento-de-sistemas-produtivos-agroecologicos-com-participacão-comunitaria.html)
+- [Novas Técnicas Para Monitoramento De Sistemas Produtivos Agroecológicos Com Participação Comunitária](/proyectos/novas-tecnicas-para-monitoramento-de-sistemas-produtivos-agroecologicos-com-participacão-comunitaria)

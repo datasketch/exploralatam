@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma Cívica Para La Participación Indígena Mediante Derecho Al Acceso A La Información.](/i/plataforma-civica-para-la-participacion-indigena-mediante-derecho-al-acceso-a-la-informacion.html)
+- [Plataforma Cívica Para La Participación Indígena Mediante Derecho Al Acceso A La Información.](/proyectos/plataforma-civica-para-la-participacion-indigena-mediante-derecho-al-acceso-a-la-informacion)

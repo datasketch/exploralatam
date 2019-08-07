@@ -20,5 +20,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/observatorio-de-prisiones.html)
-- [Observatorio De Prisiones](/i/observatorio-de-prisiones.html)
+- [](/proyectos/observatorio-de-prisiones)
+- [Observatorio De Prisiones](/proyectos/observatorio-de-prisiones)

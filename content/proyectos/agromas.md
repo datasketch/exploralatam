@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- ["Corporación Integral De Innovación Social \"Innovar\"](/i/corporacion-integral-de-innovacion-social-innovar.html)
+- ["Corporación Integral De Innovación Social \"Innovar\"](/organizaciones/corporacion-integral-de-innovacion-social-innovar)

@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cívica Digital civica-digital-mexico-sapi-de-cv](/i/civica-digital.html)
+- [Cívica Digital civica-digital-mexico-sapi-de-cv](/organizaciones/civica-digital)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/municipalidad-de-guatemala.html)
+- [X](/organizaciones/municipalidad-de-guatemala)

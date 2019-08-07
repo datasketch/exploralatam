@@ -23,5 +23,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Desarrollo De Un Sistema De Inteligencia Artificial Para El Análisis De Oportunidades De Inversión Y Mejora En El Transporte Público Concesionado](/i/desarrollo-de-un-sistema-de-inteligencia-artificial-para-el-analisis-de-oportunidades-de-inversion-y-mejora-en-el-transporte-publico-concesionado.html)
-- [Identidad Digital A Través De Blockchain Para La Reducción De Falsificación Y Corrupción](/i/identidad-digital-a-traves-de-blockchain-para-la-reduccion-de-falsificacion-y-corrupcion.html)
+- [Desarrollo De Un Sistema De Inteligencia Artificial Para El Análisis De Oportunidades De Inversión Y Mejora En El Transporte Público Concesionado](/proyectos/desarrollo-de-un-sistema-de-inteligencia-artificial-para-el-analisis-de-oportunidades-de-inversion-y-mejora-en-el-transporte-publico-concesionado)
+- [Identidad Digital A Través De Blockchain Para La Reducción De Falsificación Y Corrupción](/proyectos/identidad-digital-a-traves-de-blockchain-para-la-reduccion-de-falsificacion-y-corrupcion)

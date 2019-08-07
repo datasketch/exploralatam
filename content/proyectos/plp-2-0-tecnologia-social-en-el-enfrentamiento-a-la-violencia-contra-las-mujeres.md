@@ -17,5 +17,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Conceptu Protótipos E Sistemas](/i/conceptu-prototipos-e-sistemas.html)
-- [Themis Gênero, Justiça E Direitos Humanos](/i/themis-genero-justica-e-direitos-humanos.html)
+- [Conceptu Protótipos E Sistemas](/organizaciones/conceptu-prototipos-e-sistemas)
+- [Themis Gênero, Justiça E Direitos Humanos](/organizaciones/themis-genero-justica-e-direitos-humanos)

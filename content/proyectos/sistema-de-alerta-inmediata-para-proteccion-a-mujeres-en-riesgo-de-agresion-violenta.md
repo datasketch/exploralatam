@@ -17,5 +17,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Comite Para La Democratización De La Informatica. Cdi Colombia](/i/comite-para-la-democratizacion-de-la-informatica-cdi-colombia.html)
-- [Inkco Sas](/i/inkco-sas.html)
+- [Comite Para La Democratización De La Informatica. Cdi Colombia](/organizaciones/comite-para-la-democratizacion-de-la-informatica-cdi-colombia)
+- [Inkco Sas](/organizaciones/inkco-sas)

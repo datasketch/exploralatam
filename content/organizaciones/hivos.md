@@ -13,11 +13,11 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sin Nombre](/i/sin-nombre.html)
-- [100 Jovenes Periodistas Todo Bolivia - Periodista Virtual](/i/100-jovenes-periodistas-todo-bolivia-periodista-virtual.html)
+- [Sin Nombre](/proyectos/sin-nombre)
+- [100 Jovenes Periodistas Todo Bolivia - Periodista Virtual](/proyectos/100-jovenes-periodistas-todo-bolivia-periodista-virtual)

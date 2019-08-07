@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Borde Político A.C.](/i/borde-politico-a-c.html)
+- [Borde Político A.C.](/organizaciones/borde-politico-a-c)

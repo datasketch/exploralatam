@@ -22,8 +22,8 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plaza Publica](/i/plaza-publica.html)
-- [Congreso En Datos](/i/congreso-en-datos.html)
-- [](/i/creacion-de-chileleaks-centroamericaleaks-y-latamleaks-coordinadora-regional-de-las-plataformas-de-whistleblowing.html)
-- [Mapas Y Datos](/i/mapas-y-datos.html)
-- [Creación De Chileleaks, Centroaméricaleaks Y  Latamleaks, Coordinadora Regional De Las Plataformas De Whistleblowing.](/i/creacion-de-chileleaks-centroamericaleaks-y-latamleaks-coordinadora-regional-de-las-plataformas-de-whistleblowing.html)
+- [Plaza Publica](/proyectos/plaza-publica)
+- [Congreso En Datos](/proyectos/congreso-en-datos)
+- [](/proyectos/creacion-de-chileleaks-centroamericaleaks-y-latamleaks-coordinadora-regional-de-las-plataformas-de-whistleblowing)
+- [Mapas Y Datos](/proyectos/mapas-y-datos)
+- [Creación De Chileleaks, Centroaméricaleaks Y  Latamleaks, Coordinadora Regional De Las Plataformas De Whistleblowing.](/proyectos/creacion-de-chileleaks-centroamericaleaks-y-latamleaks-coordinadora-regional-de-las-plataformas-de-whistleblowing)

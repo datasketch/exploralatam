@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Cargografias](/i/cargografias.html)
+- [Cargografias](/proyectos/cargografias)

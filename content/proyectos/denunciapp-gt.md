@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Movimiento Cívico Nacional](/i/movimiento-civico-nacional.html)
+- [Movimiento Cívico Nacional](/organizaciones/movimiento-civico-nacional)

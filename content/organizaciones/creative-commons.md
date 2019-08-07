@@ -20,5 +20,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Creative Commons Ecuador](/i/creative-commons-ecuador.html)
-- [Sin Nombre](/i/sin-nombre.html)
+- [Creative Commons Ecuador](/proyectos/creative-commons-ecuador)
+- [Sin Nombre](/proyectos/sin-nombre)

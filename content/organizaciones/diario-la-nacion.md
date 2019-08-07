@@ -24,7 +24,7 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [A Qué Precio: Un Observatorio De Compras Públicas](/i/a-que-precio-un-observatorio-de-compras-publicas.html)
-- [Dbjj Abiertas](/i/dbjj-abiertas.html)
-- [La Nacion Data](/i/la-nacion-data.html)
-- [Voz Data](/i/voz-data.html)
+- [A Qué Precio: Un Observatorio De Compras Públicas](/proyectos/a-que-precio-un-observatorio-de-compras-publicas)
+- [Dbjj Abiertas](/proyectos/dbjj-abiertas)
+- [La Nacion Data](/proyectos/la-nacion-data)
+- [Voz Data](/proyectos/voz-data)

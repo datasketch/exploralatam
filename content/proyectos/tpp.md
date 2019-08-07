@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Tribunal Permanente De Los Pueblos](/i/tribunal-permanente-de-los-pueblos.html)
+- [Tribunal Permanente De Los Pueblos](/organizaciones/tribunal-permanente-de-los-pueblos)

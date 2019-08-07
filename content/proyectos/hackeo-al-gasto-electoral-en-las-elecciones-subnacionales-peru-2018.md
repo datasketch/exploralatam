@@ -17,5 +17,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Proética, Capítulo Peruano De Transparency International](/i/proetica-capitulo-peruano-de-transparency-international.html)
-- [Open Data Perú](/i/open-data-peru.html)
+- [Proética, Capítulo Peruano De Transparency International](/organizaciones/proetica-capitulo-peruano-de-transparency-international)
+- [Open Data Perú](/organizaciones/open-data-peru)

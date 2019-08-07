@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Guayí](/i/guayi.html)
+- [Guayí](/organizaciones/guayi)

@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Muove Brasil](/i/muove-brasil.html)
+- [Muove Brasil](/proyectos/muove-brasil)

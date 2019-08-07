@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Textool: Acceso Y Comprension Efectiva De Textos Sociales](/i/textool-acceso-y-comprension-efectiva-de-textos-sociales.html)
+- [Textool: Acceso Y Comprension Efectiva De Textos Sociales](/proyectos/textool-acceso-y-comprension-efectiva-de-textos-sociales)

@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Mi Sangre](/i/fundacion-mi-sangre.html)
-- [Movilizatorio](/i/movilizatorio.html)
+- [Fundación Mi Sangre](/organizaciones/fundacion-mi-sangre)
+- [Movilizatorio](/organizaciones/movilizatorio)

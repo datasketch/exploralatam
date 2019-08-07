@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Hackalab Asuncion](/i/hackalab-asuncion.html)
+- [Hackalab Asuncion](/proyectos/hackalab-asuncion)

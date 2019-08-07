@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Appacheta: Desarrollo De Un Turismo Colaborativo Que Apoye A La Mejora De Los Servicios Turísticos Basado En Recomendaciones Y Experiencias Ciudadanas](/i/appacheta-desarrollo-de-un-turismo-colaborativo-que-apoye-a-la-mejora-de-los-servicios-turisticos-basado-en-recomendaciones-y-experiencias-ciudadanas.html)
+- [Appacheta: Desarrollo De Un Turismo Colaborativo Que Apoye A La Mejora De Los Servicios Turísticos Basado En Recomendaciones Y Experiencias Ciudadanas](/proyectos/appacheta-desarrollo-de-un-turismo-colaborativo-que-apoye-a-la-mejora-de-los-servicios-turisticos-basado-en-recomendaciones-y-experiencias-ciudadanas)

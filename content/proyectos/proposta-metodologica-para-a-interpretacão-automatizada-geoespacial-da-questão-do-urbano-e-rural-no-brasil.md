@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fgx](/i/fgx.html)
+- [Fgx](/organizaciones/fgx)

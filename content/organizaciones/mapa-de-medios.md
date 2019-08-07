@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Mapa De Medios](/i/mapa-de-medios.html)
+- [Mapa De Medios](/proyectos/mapa-de-medios)

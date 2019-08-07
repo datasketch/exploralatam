@@ -21,5 +21,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Arteria: Activa, Responde, Transforma.](/i/arteria-activa-responde-transforma.html)
-- [Intercambio De Confianza](/i/intercambio-de-confianza.html)
+- [Arteria: Activa, Responde, Transforma.](/proyectos/arteria-activa-responde-transforma)
+- [Intercambio De Confianza](/proyectos/intercambio-de-confianza)

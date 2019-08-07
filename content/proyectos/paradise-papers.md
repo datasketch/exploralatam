@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/icij.html)
+- [X](/organizaciones/icij)

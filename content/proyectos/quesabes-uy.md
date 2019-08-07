@@ -16,5 +16,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Data Uruguay](/i/data-uruguay.html)
-- [Cainfo](/i/cainfo.html)
+- [Data Uruguay](/organizaciones/data-uruguay)
+- [Cainfo](/organizaciones/cainfo)

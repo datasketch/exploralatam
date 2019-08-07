@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Okfn El Salvador](/i/okfn-el-salvador.html)
+- [Okfn El Salvador](/organizaciones/okfn-el-salvador)

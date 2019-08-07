@@ -18,5 +18,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Incotedes](/i/incotedes.html)
-- [Ariel Cabezas](/i/ariel-cabezas.html)
+- [Incotedes](/organizaciones/incotedes)
+- [Ariel Cabezas](/organizaciones/ariel-cabezas)

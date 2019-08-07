@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Jmm Tech](/i/jmm-tech.html)
+- [Jmm Tech](/organizaciones/jmm-tech)

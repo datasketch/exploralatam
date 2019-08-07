@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Ojopúblico](/i/ojo-publico.html)
+- [Ojopúblico](/organizaciones/ojo-publico)

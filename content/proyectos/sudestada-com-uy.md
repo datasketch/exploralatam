@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Periodico Sudestada](/i/periodico-sudestada.html)
+- [Periodico Sudestada](/organizaciones/periodico-sudestada)

@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Municipio Transparente Y Participativo](/i/municipio-transparente-y-participativo.html)
+- [Municipio Transparente Y Participativo](/proyectos/municipio-transparente-y-participativo)

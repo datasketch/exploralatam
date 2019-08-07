@@ -25,6 +25,6 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [¿Los Conoces? Mapeando El Poder](/i/os-conoces-mapeando-el-poder.html)
-- [](/i/os-conoces-mapeando-el-poder.html)
-- [Iniciativa Pescando Datos](/i/iniciativa-pescando-datos.html)
+- [¿Los Conoces? Mapeando El Poder](/proyectos/os-conoces-mapeando-el-poder)
+- [](/proyectos/os-conoces-mapeando-el-poder)
+- [Iniciativa Pescando Datos](/proyectos/iniciativa-pescando-datos)

@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Latitudes](/i/fundacion-latitudes.html)
+- [Fundación Latitudes](/organizaciones/fundacion-latitudes)

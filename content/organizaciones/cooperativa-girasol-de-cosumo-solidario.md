@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Girasol Em Rede](/i/girasol-em-rede.html)
+- [Girasol Em Rede](/proyectos/girasol-em-rede)

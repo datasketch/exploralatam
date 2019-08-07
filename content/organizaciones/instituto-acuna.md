@@ -24,4 +24,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Estação Juventude Ativa](/i/estacão-juventude-ativa.html)
+- [Estação Juventude Ativa](/proyectos/estacão-juventude-ativa)

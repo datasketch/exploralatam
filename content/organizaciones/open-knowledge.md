@@ -13,11 +13,11 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Open Knowledge Paraguay](/i/open-knowledge-paraguay.html)
-- [Open Knowledge Argentina](/i/open-knowledge-argentina.html)
+- [Open Knowledge Paraguay](/proyectos/open-knowledge-paraguay)
+- [Open Knowledge Argentina](/proyectos/open-knowledge-argentina)

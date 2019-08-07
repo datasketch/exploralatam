@@ -21,5 +21,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma Cidadã](/i/plataforma-cidadã.html)
-- [](/i/plataforma-cidadã.html)
+- [Plataforma Cidadã](/proyectos/plataforma-cidadã)
+- [](/proyectos/plataforma-cidadã)

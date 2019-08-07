@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Presidencia](/i/presidencia.html)
+- [Presidencia](/organizaciones/presidencia)

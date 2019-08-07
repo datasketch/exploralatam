@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Iuristech Solutions](/i/iuristech-solutions.html)
+- [Iuristech Solutions](/organizaciones/iuristech-solutions)

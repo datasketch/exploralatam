@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Corresponsales](/i/corresponsales.html)
+- [Corresponsales](/organizaciones/corresponsales)

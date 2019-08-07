@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma Para El Monitoreo De Parámetros De Salud Y De Actividad Del Adulto Mayor](/i/plataforma-para-el-monitoreo-de-parametros-de-salud-y-de-actividad-del-adulto-mayor.html)
+- [Plataforma Para El Monitoreo De Parámetros De Salud Y De Actividad Del Adulto Mayor](/proyectos/plataforma-para-el-monitoreo-de-parametros-de-salud-y-de-actividad-del-adulto-mayor)

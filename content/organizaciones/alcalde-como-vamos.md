@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sin Nombre](/i/sin-nombre.html)
+- [Sin Nombre](/proyectos/sin-nombre)

@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Capítulo Boliviano De Derechos Humanos, Democracia Y Desarrollo](/i/capitulo-boliviano-de-derechos-humanos-democracia-y-desarrollo.html)
+- [Capítulo Boliviano De Derechos Humanos, Democracia Y Desarrollo](/organizaciones/capitulo-boliviano-de-derechos-humanos-democracia-y-desarrollo)

@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Eixo Público - Consultoria Júnior](/i/eixo-publico-consultoria-junior.html)
+- [Eixo Público - Consultoria Júnior](/organizaciones/eixo-publico-consultoria-junior)

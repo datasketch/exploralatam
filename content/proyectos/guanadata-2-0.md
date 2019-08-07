@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [La Voz De Guanacaste](/i/la-voz-de-guanacaste.html)
+- [La Voz De Guanacaste](/organizaciones/la-voz-de-guanacaste)

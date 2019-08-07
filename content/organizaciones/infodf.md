@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Ley De Transparencia Y Acceso A La Info Df](/i/ley-de-transparencia-y-acceso-a-la-info-df.html)
+- [Ley De Transparencia Y Acceso A La Info Df](/proyectos/ley-de-transparencia-y-acceso-a-la-info-df)

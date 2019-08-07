@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación La Network](/i/fundacion-la-network.html)
+- [Fundación La Network](/organizaciones/fundacion-la-network)

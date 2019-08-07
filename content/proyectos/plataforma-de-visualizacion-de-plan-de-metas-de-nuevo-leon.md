@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Consejo Cívico De Instituciones De Nuevo León, A.C.](/i/consejo-civico-de-instituciones-de-nuevo-leon-a-c.html)
+- [Consejo Cívico De Instituciones De Nuevo León, A.C.](/organizaciones/consejo-civico-de-instituciones-de-nuevo-leon-a-c)

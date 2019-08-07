@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Asesorías E Inversiones Comunidades Ciudadanas S.A.](/i/asesorias-e-inversiones-comunidades-ciudadanas-s-a.html)
+- [Asesorías E Inversiones Comunidades Ciudadanas S.A.](/organizaciones/asesorias-e-inversiones-comunidades-ciudadanas-s-a)

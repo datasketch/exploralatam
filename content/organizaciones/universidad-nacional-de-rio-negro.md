@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Desarrollo De Una Aplicación Digital Para Integrar A Sectores Sociales  Excluidos Del Mercado Laboral](/i/desarrollo-de-una-aplicacion-digital-para-integrar-a-sectores-sociales-excluidos-del-mercado-laboral.html)
+- [Desarrollo De Una Aplicación Digital Para Integrar A Sectores Sociales  Excluidos Del Mercado Laboral](/proyectos/desarrollo-de-una-aplicacion-digital-para-integrar-a-sectores-sociales-excluidos-del-mercado-laboral)

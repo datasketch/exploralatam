@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma De Pequeños Constructores Para Infraestructura Y Bienes Públicos](/i/plataforma-de-pequenos-constructores-para-infraestructura-y-bienes-publicos.html)
+- [Plataforma De Pequeños Constructores Para Infraestructura Y Bienes Públicos](/proyectos/plataforma-de-pequenos-constructores-para-infraestructura-y-bienes-publicos)

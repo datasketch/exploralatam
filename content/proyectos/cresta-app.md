@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Asociación Chilena De Protección De La Familia - Aprofa](/i/asociacion-chilena-de-proteccion-de-la-familia-aprofa.html)
+- [Asociación Chilena De Protección De La Familia - Aprofa](/organizaciones/asociacion-chilena-de-proteccion-de-la-familia-aprofa)

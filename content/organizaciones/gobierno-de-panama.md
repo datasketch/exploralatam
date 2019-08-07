@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Panadata](/i/panadata.html)
+- [Panadata](/proyectos/panadata)

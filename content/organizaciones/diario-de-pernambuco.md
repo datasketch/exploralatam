@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Impedidas: machismo e violencia no futebol](/i/machismo-no-futebol.html)
+- [Impedidas: machismo e violencia no futebol](/proyectos/machismo-no-futebol)

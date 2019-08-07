@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Todos Pela Educação](/i/todos-pela-educacão.html)
+- [Todos Pela Educação](/organizaciones/todos-pela-educacão)

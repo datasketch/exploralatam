@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Por un México Seguro](/i/por-un-mexico-seguro.html)
+- [Por un México Seguro](/proyectos/por-un-mexico-seguro)

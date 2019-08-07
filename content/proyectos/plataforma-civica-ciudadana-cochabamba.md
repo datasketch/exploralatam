@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Servicios Integrales Para El Desarrollo](/i/servicios-integrales-para-el-desarrollo.html)
+- [Servicios Integrales Para El Desarrollo](/organizaciones/servicios-integrales-para-el-desarrollo)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Buena Nota](/i/fundacion-buena-nota.html)
+- [Fundación Buena Nota](/organizaciones/fundacion-buena-nota)

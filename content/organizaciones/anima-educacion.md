@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Desenvolvimiento De Tecnología Verde D](/i/desenvolvimiento-de-tecnologia-verde-d.html)
+- [Desenvolvimiento De Tecnología Verde D](/proyectos/desenvolvimiento-de-tecnologia-verde-d)

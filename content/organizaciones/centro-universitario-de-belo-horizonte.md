@@ -23,5 +23,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Células Solares A Partir De Compostos Reutilizados De Pilhas Não Alcalinas](/i/celulas-solares-a-partir-de-compostos-reutilizados-de-pilhas-não-alcalinas.html)
-- [Desenvolvimiento De Tecnología Verde D](/i/desenvolvimiento-de-tecnologia-verde-d.html)
+- [Células Solares A Partir De Compostos Reutilizados De Pilhas Não Alcalinas](/proyectos/celulas-solares-a-partir-de-compostos-reutilizados-de-pilhas-não-alcalinas)
+- [Desenvolvimiento De Tecnología Verde D](/proyectos/desenvolvimiento-de-tecnologia-verde-d)

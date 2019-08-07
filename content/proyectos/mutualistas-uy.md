@@ -16,5 +16,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Data Uruguay](/i/data-uruguay.html)
-- [180Data](/i/180data.html)
+- [Data Uruguay](/organizaciones/data-uruguay)
+- [180Data](/organizaciones/180data)

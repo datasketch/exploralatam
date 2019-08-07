@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sistema De Votación De Votación Electrónica, Autenticada Por Firma Digital](/i/sistema-de-votacion-de-votacion-electronica-autenticada-por-firma-digital.html)
+- [Sistema De Votación De Votación Electrónica, Autenticada Por Firma Digital](/proyectos/sistema-de-votacion-de-votacion-electronica-autenticada-por-firma-digital)

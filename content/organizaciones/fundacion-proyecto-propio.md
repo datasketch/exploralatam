@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Fortalecimiento De Junta De Vecinos](/i/fortalecimiento-de-junta-de-vecinos.html)
+- [Fortalecimiento De Junta De Vecinos](/proyectos/fortalecimiento-de-junta-de-vecinos)

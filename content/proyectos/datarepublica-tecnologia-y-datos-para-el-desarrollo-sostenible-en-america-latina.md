@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Wingu](/i/wingu.html)
-- [Centro De Pensamiento Estratégico Internacional - Cepei](/i/centro-de-pensamiento-estrategico-internacional-cepei.html)
+- [Wingu](/organizaciones/wingu)
+- [Centro De Pensamiento Estratégico Internacional - Cepei](/organizaciones/centro-de-pensamiento-estrategico-internacional-cepei)

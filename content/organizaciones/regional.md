@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Developing The Caribean](/i/developing-the-caribean.html)
+- [Developing The Caribean](/proyectos/developing-the-caribean)

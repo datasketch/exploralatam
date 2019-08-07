@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cooperativa Acá Comunicaciones](/i/cooperativa-aca-comunicaciones.html)
-- [Agrupación Biósfera](/i/agrupacion-biosfera.html)
+- [Cooperativa Acá Comunicaciones](/organizaciones/cooperativa-aca-comunicaciones)
+- [Agrupación Biósfera](/organizaciones/agrupacion-biosfera)

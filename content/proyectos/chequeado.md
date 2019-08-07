@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Chequeado](/i/chequeado.html)
+- [Chequeado](/organizaciones/chequeado)

@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Observatorio De Femicidios En Latinoamérica Basado En Datos Abiertos Enlazados Y Web Semántica (Lod4Vida, Linked Open Data Por La Vida)](/i/observatorio-de-femicidios-en-latinoamerica-basado-en-datos-abiertos-enlazados-y-web-semantica-lod4vida-linked-open-data-por-la-vida.html)
+- [Observatorio De Femicidios En Latinoamérica Basado En Datos Abiertos Enlazados Y Web Semántica (Lod4Vida, Linked Open Data Por La Vida)](/proyectos/observatorio-de-femicidios-en-latinoamerica-basado-en-datos-abiertos-enlazados-y-web-semantica-lod4vida-linked-open-data-por-la-vida)

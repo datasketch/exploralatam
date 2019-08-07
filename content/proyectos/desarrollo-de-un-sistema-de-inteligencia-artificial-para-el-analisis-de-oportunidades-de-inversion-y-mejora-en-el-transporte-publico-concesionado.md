@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Krieger Electronics De Mexico Sa De Cv](/i/krieger-electronics-de-mexico-sa-de-cv.html)
+- [Krieger Electronics De Mexico Sa De Cv](/organizaciones/krieger-electronics-de-mexico-sa-de-cv)

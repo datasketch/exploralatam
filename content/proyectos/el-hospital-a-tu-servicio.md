@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro De Promoción En Salud Y Asistencia Familiar (Ceprosaf)](/i/centro-de-promocion-en-salud-y-asistencia-familiar-ceprosaf.html)
+- [Centro De Promoción En Salud Y Asistencia Familiar (Ceprosaf)](/organizaciones/centro-de-promocion-en-salud-y-asistencia-familiar-ceprosaf)

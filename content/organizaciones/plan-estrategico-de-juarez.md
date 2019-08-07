@@ -19,6 +19,6 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Regidor 19](/i/regidor-19.html)
-- [Así Estamos Juarez](/i/asi-estamos-juarez.html)
-- [Sin Nombre](/i/sin-nombre.html)
+- [Regidor 19](/proyectos/regidor-19)
+- [Así Estamos Juarez](/proyectos/asi-estamos-juarez)
+- [Sin Nombre](/proyectos/sin-nombre)

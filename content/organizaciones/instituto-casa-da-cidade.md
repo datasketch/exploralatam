@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Laboratório De Governo Aberto: Uma Plataforma De Indicadores E Engajamento Social](/i/laboratorio-de-governo-aberto-uma-plataforma-de-indicadores-e-engajamento-social.html)
+- [Laboratório De Governo Aberto: Uma Plataforma De Indicadores E Engajamento Social](/proyectos/laboratorio-de-governo-aberto-uma-plataforma-de-indicadores-e-engajamento-social)

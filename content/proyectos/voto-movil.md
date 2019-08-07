@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Monoku](/i/monoku.html)
+- [Monoku](/organizaciones/monoku)

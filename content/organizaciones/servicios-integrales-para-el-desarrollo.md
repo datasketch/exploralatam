@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma Cívica Ciudadana Cochabamba](/i/plataforma-civica-ciudadana-cochabamba.html)
+- [Plataforma Cívica Ciudadana Cochabamba](/proyectos/plataforma-civica-ciudadana-cochabamba)

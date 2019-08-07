@@ -18,7 +18,7 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [War Contenidos](/i/war-contenidos.html)
-- [Hormiga Investigación](/i/hormiga-investigacion.html)
-- [Invernaideas](/i/invernaideas.html)
-- [Rokode Digital](/i/rokode-digital.html)
+- [War Contenidos](/organizaciones/war-contenidos)
+- [Hormiga Investigación](/organizaciones/hormiga-investigacion)
+- [Invernaideas](/organizaciones/invernaideas)
+- [Rokode Digital](/organizaciones/rokode-digital)

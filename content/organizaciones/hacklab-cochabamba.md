@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Red Libre De Villa Coronilla En Cochabamba Barriohacker.Net](/i/red-libre-de-villa-coronilla-en-cochabamba-barriohacker-net.html)
+- [Red Libre De Villa Coronilla En Cochabamba Barriohacker.Net](/proyectos/red-libre-de-villa-coronilla-en-cochabamba-barriohacker-net)

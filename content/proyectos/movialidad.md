@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Rosario Mobile Apps](/i/rosario-mobile-apps.html)
-- [Dirección General De Informática De La Municipalidad De Rosario](/i/direccion-general-de-informatica-de-la-municipalidad-de-rosario.html)
+- [Rosario Mobile Apps](/organizaciones/rosario-mobile-apps)
+- [Dirección General De Informática De La Municipalidad De Rosario](/organizaciones/direccion-general-de-informatica-de-la-municipalidad-de-rosario)

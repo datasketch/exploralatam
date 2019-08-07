@@ -22,6 +22,6 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Relevamiento De Asentamientos Informales En Centro América](/i/relevamiento-de-asentamientos-informales-en-centro-america.html)
-- [Midiendo Los Niveles De Integración Sociourbana De Asentamientos Informales En Argentina](/i/midiendo-los-niveles-de-integracion-sociourbana-de-asentamientos-informales-en-argentina.html)
-- [Relevamiento de asentamientos informales](/i/asentamientos.html)
+- [Relevamiento De Asentamientos Informales En Centro América](/proyectos/relevamiento-de-asentamientos-informales-en-centro-america)
+- [Midiendo Los Niveles De Integración Sociourbana De Asentamientos Informales En Argentina](/proyectos/midiendo-los-niveles-de-integracion-sociourbana-de-asentamientos-informales-en-argentina)
+- [Relevamiento de asentamientos informales](/proyectos/asentamientos)

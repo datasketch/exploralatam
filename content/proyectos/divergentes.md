@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Pacifista](/i/pacifista-col.html)
+- [Pacifista](/organizaciones/pacifista-col)

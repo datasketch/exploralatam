@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Veredas](/i/instituto-veredas.html)
+- [Instituto Veredas](/organizaciones/instituto-veredas)

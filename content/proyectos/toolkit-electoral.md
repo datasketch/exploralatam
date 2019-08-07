@@ -16,6 +16,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Aparabólica](/i/aparabolica.html)
-- [Update](/i/update.html)
-- [Labhacker](/i/labhacker.html)
+- [Aparabólica](/organizaciones/aparabolica)
+- [Update](/organizaciones/update)
+- [Labhacker](/organizaciones/labhacker)

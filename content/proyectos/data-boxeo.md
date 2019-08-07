@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [La Data](/i/la-data-mx.html)
+- [La Data](/organizaciones/la-data-mx)

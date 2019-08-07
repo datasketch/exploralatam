@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Odpe.Pe](/i/odpe-pe.html)
+- [Odpe.Pe](/proyectos/odpe-pe)

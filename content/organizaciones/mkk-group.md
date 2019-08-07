@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Conectando Mujeres, Conectando Oportunidades](/i/conectando-mujeres-conectando-oportunidades.html)
+- [Conectando Mujeres, Conectando Oportunidades](/proyectos/conectando-mujeres-conectando-oportunidades)

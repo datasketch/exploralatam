@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/mas-cultura.html)
+- [X](/organizaciones/mas-cultura)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/mapa-de-medios.html)
+- [X](/organizaciones/mapa-de-medios)

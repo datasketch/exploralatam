@@ -18,5 +18,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Observatorio De Comunicación Pucv](/i/observatorio-de-comunicacion-pucv.html)
-- [Corporación Prodepaz](/i/corporacion-prodepaz.html)
+- [Observatorio De Comunicación Pucv](/organizaciones/observatorio-de-comunicacion-pucv)
+- [Corporación Prodepaz](/organizaciones/corporacion-prodepaz)

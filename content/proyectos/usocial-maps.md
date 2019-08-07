@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Usocial Maps](/i/usocial-maps.html)
+- [Usocial Maps](/organizaciones/usocial-maps)

@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Libre](/i/libre.html)
+- [Libre](/proyectos/libre)

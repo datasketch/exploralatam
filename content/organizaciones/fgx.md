@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Proposta Metodológica Para A Interpretação Automatizada Geoespacial Da Questão Do Urbano E Rural No Brasil](/i/proposta-metodologica-para-a-interpretacão-automatizada-geoespacial-da-questão-do-urbano-e-rural-no-brasil.html)
+- [Proposta Metodológica Para A Interpretação Automatizada Geoespacial Da Questão Do Urbano E Rural No Brasil](/proyectos/proposta-metodologica-para-a-interpretacão-automatizada-geoespacial-da-questão-do-urbano-e-rural-no-brasil)

@@ -16,5 +16,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Economía Feminista](/i/economia-feminista.html)
-- [Datasketch](/i/datasketch.html)
+- [Economía Feminista](/organizaciones/economia-feminista)
+- [Datasketch](/organizaciones/datasketch)

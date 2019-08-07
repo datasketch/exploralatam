@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Participación Ciudadana Transparente, Una Plataforma Amigable](/i/participacion-ciudadana-transparente-una-plataforma-amigable.html)
+- [Participación Ciudadana Transparente, Una Plataforma Amigable](/proyectos/participacion-ciudadana-transparente-una-plataforma-amigable)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Foro de Periodismo Argentino](/i/foro-de-periodismo-argentino.html)
+- [Foro de Periodismo Argentino](/organizaciones/foro-de-periodismo-argentino)

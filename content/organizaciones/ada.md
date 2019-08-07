@@ -20,5 +20,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Concursos Transparentes](/i/concursos-transparentes.html)
-- [Sin Nombre](/i/sin-nombre.html)
+- [Concursos Transparentes](/proyectos/concursos-transparentes)
+- [Sin Nombre](/proyectos/sin-nombre)

@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto De Políticas Para El Transporte Y El Desarrollo (Itdp)](/i/instituto-de-politicas-para-el-transporte-y-el-desarrollo-itdp.html)
+- [Instituto De Políticas Para El Transporte Y El Desarrollo (Itdp)](/organizaciones/instituto-de-politicas-para-el-transporte-y-el-desarrollo-itdp)

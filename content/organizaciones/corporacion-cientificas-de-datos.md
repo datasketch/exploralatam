@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Datathon Latam](/i/datathon-latam.html)
+- [Datathon Latam](/proyectos/datathon-latam)

@@ -16,5 +16,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Chequeado](/i/chequeado.html)
-- [LNData](/i/lndata.html)
+- [Chequeado](/organizaciones/chequeado)
+- [LNData](/organizaciones/lndata)

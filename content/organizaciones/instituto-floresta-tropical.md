@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma De Seguimiento De La Gestión Forestal Comunitaria Uso Múltiple Uso Sostenible De Unidades De Conservación En La Amazonía Brasiliera](/i/plataforma-de-seguimiento-de-la-gestion-forestal-comunitaria-uso-multiple-uso-sostenible-de-unidades-de-conservacion-en-la-amazonia-brasiliera.html)
+- [Plataforma De Seguimiento De La Gestión Forestal Comunitaria Uso Múltiple Uso Sostenible De Unidades De Conservación En La Amazonía Brasiliera](/proyectos/plataforma-de-seguimiento-de-la-gestion-forestal-comunitaria-uso-multiple-uso-sostenible-de-unidades-de-conservacion-en-la-amazonia-brasiliera)

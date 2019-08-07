@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Congreso Interactivo](/i/congreso-interactivo.html)
+- [Congreso Interactivo](/organizaciones/congreso-interactivo)

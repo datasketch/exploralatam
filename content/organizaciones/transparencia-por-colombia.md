@@ -20,5 +20,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/corruptour-ds-tpc.html)
-- [Hackeando La Corrupción Con Voz Ciudadana](/i/hackeando-la-corrupcion-con-voz-ciudadana.html)
+- [](/proyectos/corruptour-ds-tpc)
+- [Hackeando La Corrupción Con Voz Ciudadana](/proyectos/hackeando-la-corrupcion-con-voz-ciudadana)

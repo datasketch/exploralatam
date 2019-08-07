@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Municipio Verde](/i/municipio-verde.html)
+- [Municipio Verde](/organizaciones/municipio-verde)

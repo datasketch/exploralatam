@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Animal Político](/i/animal-politico.html)
+- [Animal Político](/organizaciones/animal-politico)

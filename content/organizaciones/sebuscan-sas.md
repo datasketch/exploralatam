@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sebuscan](/i/sebuscan.html)
+- [Sebuscan](/proyectos/sebuscan)

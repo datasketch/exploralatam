@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Comoayudo.Org](/i/comoayudo-org.html)
+- [Comoayudo.Org](/proyectos/comoayudo-org)

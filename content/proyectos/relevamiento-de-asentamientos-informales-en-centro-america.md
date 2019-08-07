@@ -16,5 +16,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Techo Internacional (oficina central)](/i/techo-internacional-oficina-central.html)
-- [Wingu, Tecnología sin fines de lucro](/i/wingu-tecnologia-sin-fines-de-lucro.html)
+- [Techo Internacional (oficina central)](/organizaciones/techo-internacional-oficina-central)
+- [Wingu, Tecnología sin fines de lucro](/organizaciones/wingu-tecnologia-sin-fines-de-lucro)

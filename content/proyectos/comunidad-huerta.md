@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Comunidad Huerta](/i/comunidad-huerta.html)
+- [Comunidad Huerta](/organizaciones/comunidad-huerta)

@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma Conciente](/i/plataforma-conciencia.html)
+- [Plataforma Conciente](/proyectos/plataforma-conciencia)

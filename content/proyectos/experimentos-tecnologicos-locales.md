@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Socialtic](/i/socialtic.html)
+- [Socialtic](/organizaciones/socialtic)

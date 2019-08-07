@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Soluntia Sa](/i/soluntia-sa.html)
+- [Soluntia Sa](/organizaciones/soluntia-sa)

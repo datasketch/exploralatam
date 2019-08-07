@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Prosas Tecnologia Social Ltda](/i/prosas-tecnologia-social-ltda.html)
+- [Prosas Tecnologia Social Ltda](/organizaciones/prosas-tecnologia-social-ltda)

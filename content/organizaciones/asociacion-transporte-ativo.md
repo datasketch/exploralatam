@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma De Bicicletas Públicas Y Compartidas De América Latina](/i/plataforma-de-bicicletas-publicas-y-compartidas-de-america-latina.html)
+- [Plataforma De Bicicletas Públicas Y Compartidas De América Latina](/proyectos/plataforma-de-bicicletas-publicas-y-compartidas-de-america-latina)

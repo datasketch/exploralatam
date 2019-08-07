@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Fundación La Network](/i/fundacion-la-network.html)
+- [Fundación La Network](/proyectos/fundacion-la-network)

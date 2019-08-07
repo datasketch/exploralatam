@@ -21,5 +21,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Espantacacos](/i/espantacacos.html)
-- [Comunidas 2.0](/i/comunidas-2-0.html)
+- [Espantacacos](/proyectos/espantacacos)
+- [Comunidas 2.0](/proyectos/comunidas-2-0)

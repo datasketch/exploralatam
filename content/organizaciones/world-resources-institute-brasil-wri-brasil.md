@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Cidades Em Dados - Transparência E Controle Social](/i/cidades-em-dados-transparencia-e-controle-social.html)
+- [Cidades Em Dados - Transparência E Controle Social](/proyectos/cidades-em-dados-transparencia-e-controle-social)

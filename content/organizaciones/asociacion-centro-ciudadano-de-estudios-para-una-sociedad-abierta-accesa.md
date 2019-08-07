@@ -23,5 +23,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Innovación Cívica: Plataforma Tecnológica De Gestión De Servicios Públicos Para El Gobierno Local](/i/innovacion-civica-plataforma-tecnologica-de-gestion-de-servicios-publicos-para-el-gobierno-local.html)
-- [Experimento Social: Overhaul De La Democracia A Través De La Tecnología](/i/experimento-social-overhaul-de-la-democracia-a-traves-de-la-tecnologia.html)
+- [Innovación Cívica: Plataforma Tecnológica De Gestión De Servicios Públicos Para El Gobierno Local](/proyectos/innovacion-civica-plataforma-tecnologica-de-gestion-de-servicios-publicos-para-el-gobierno-local)
+- [Experimento Social: Overhaul De La Democracia A Través De La Tecnología](/proyectos/experimento-social-overhaul-de-la-democracia-a-traves-de-la-tecnologia)

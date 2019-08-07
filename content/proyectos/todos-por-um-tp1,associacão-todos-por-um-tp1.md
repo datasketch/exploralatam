@@ -21,6 +21,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Geleia .Mob](/i/geleia-mob.html)
-- [Mz Tecnologia](/i/mz-tecnologia.html)
-- [X](/i/associacão-todos-por-um.html)
+- [Geleia .Mob](/organizaciones/geleia-mob)
+- [Mz Tecnologia](/organizaciones/mz-tecnologia)
+- [X](/organizaciones/associacão-todos-por-um)

@@ -19,5 +19,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sin Nombre](/i/sin-nombre.html)
-- [Mutualistas.Uy](/i/mutualistas-uy.html)
+- [Sin Nombre](/proyectos/sin-nombre)
+- [Mutualistas.Uy](/proyectos/mutualistas-uy)

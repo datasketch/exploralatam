@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-22
+date_last_modified: 2019-08-05
 uid: foro-de-periodismo-argentino
 title: "Foro de Periodismo Argentino"
 legal_name: 
@@ -13,10 +13,10 @@ twitter: https://twitter.com/fopea
 tags:
 
 cities: 
-  - Costa Rica
+  - Buenos Aires
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Monitoreo de Libertad de Expresión](/i/monitoreo-de-libertad-de-expresion.html)
+- [Monitoreo de Libertad de Expresión](/proyectos/monitoreo-de-libertad-de-expresion)

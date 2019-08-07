@@ -16,6 +16,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [AppCivico - EOKOE SOLUÇÕES TECNOLÓGICAS LTDA](/i/appcivico-eokoe-solucoes-tecnologicas.html)
-- [Fluxo](/i/fluxo.html)
-- [Open Knowledge Brasil,Open Knowledge Foundation Brasil](/i/open-knowledge-foundation-brasil.html)
+- [AppCivico - EOKOE SOLUÇÕES TECNOLÓGICAS LTDA](/organizaciones/appcivico-eokoe-solucoes-tecnologicas)
+- [Fluxo](/organizaciones/fluxo)
+- [Open Knowledge Brasil,Open Knowledge Foundation Brasil](/organizaciones/open-knowledge-foundation-brasil)

@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Datos Abiertos Quito](/i/datos-abiertos-quito.html)
+- [Datos Abiertos Quito](/proyectos/datos-abiertos-quito)

@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cultivando Futuro](/i/cultivando-futuro.html)
+- [Cultivando Futuro](/organizaciones/cultivando-futuro)

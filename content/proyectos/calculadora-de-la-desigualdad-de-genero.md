@@ -16,5 +16,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Wingu](/i/wingu.html)
-- [Economía Feminista](/i/economia-feminista.html)
+- [Wingu](/organizaciones/wingu)
+- [Economía Feminista](/organizaciones/economia-feminista)

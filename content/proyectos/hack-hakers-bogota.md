@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Hacks/Hackers Bogota](/i/hacks-hackers-bogota.html)
+- [Hacks/Hackers Bogota](/organizaciones/hacks-hackers-bogota)

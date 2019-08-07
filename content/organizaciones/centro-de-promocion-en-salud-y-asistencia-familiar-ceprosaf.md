@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [El Hospital A Tu Servicio](/i/el-hospital-a-tu-servicio.html)
+- [El Hospital A Tu Servicio](/proyectos/el-hospital-a-tu-servicio)

@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Munitic](/i/munitic.html)
+- [Munitic](/proyectos/munitic)

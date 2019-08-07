@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Mi Voto Vale](/i/mi-voto-vale.html)
+- [Mi Voto Vale](/proyectos/mi-voto-vale)

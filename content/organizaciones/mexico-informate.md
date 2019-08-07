@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Mexico Informate](/i/mexico-informate.html)
+- [Mexico Informate](/proyectos/mexico-informate)

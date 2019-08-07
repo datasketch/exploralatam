@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Economía Feminista](/i/economia-feminista.html)
+- [Economía Feminista](/organizaciones/economia-feminista)

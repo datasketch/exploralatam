@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Observatorio Ciudadano De La Educacion](/i/observatorio-ciudadano-de-la-educacion.html)
+- [Observatorio Ciudadano De La Educacion](/organizaciones/observatorio-ciudadano-de-la-educacion)

@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Rutas De Atención Y Participación Ciudadana](/i/rutas-de-atencion-y-participacion-ciudadana.html)
+- [Rutas De Atención Y Participación Ciudadana](/proyectos/rutas-de-atencion-y-participacion-ciudadana)

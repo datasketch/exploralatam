@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Synchronicity](/i/synchronicity.html)
+- [Synchronicity](/proyectos/synchronicity)

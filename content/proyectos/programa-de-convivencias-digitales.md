@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [How To Build Up](/i/how-to-build-up.html)
-- [Policéntrico](/i/policentrico.html)
+- [How To Build Up](/organizaciones/how-to-build-up)
+- [Policéntrico](/organizaciones/policentrico)

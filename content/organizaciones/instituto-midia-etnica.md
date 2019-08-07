@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Vojo Brasil - Conectando Comunidades Afros Do Brasil](/i/vojo-brasil-conectando-comunidades-afros-do-brasil.html)
+- [Vojo Brasil - Conectando Comunidades Afros Do Brasil](/proyectos/vojo-brasil-conectando-comunidades-afros-do-brasil)

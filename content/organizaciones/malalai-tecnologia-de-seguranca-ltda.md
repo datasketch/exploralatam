@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Malalai](/i/malalai.html)
+- [Malalai](/proyectos/malalai)

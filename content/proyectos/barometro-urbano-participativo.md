@@ -16,5 +16,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Encuentro para la participación ciudadana y la ampliación de derechos](/i/fundacion-encuentro-para-la-participacion-ciudadana-y-la-ampliacion-de-derechos.html)
-- [CTRL S.A.](/i/ctrl-s-a.html)
+- [Fundación Encuentro para la participación ciudadana y la ampliación de derechos](/organizaciones/fundacion-encuentro-para-la-participacion-ciudadana-y-la-ampliacion-de-derechos)
+- [CTRL S.A.](/organizaciones/ctrl-s-a)

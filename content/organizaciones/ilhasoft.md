@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Ilhapush](/i/ilhapush.html)
+- [Ilhapush](/proyectos/ilhapush)

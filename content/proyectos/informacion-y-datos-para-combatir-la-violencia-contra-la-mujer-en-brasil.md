@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Artigo 19 Brasil](/i/artigo-19-brasil.html)
+- [Artigo 19 Brasil](/organizaciones/artigo-19-brasil)

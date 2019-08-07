@@ -1,9 +1,9 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-21
+date_last_modified: 2019-07-29
 uid: sonora-ciudadana-ac
-title: "Sonora Ciudadana Ac"
-legal_name: 
+title: "Sonora Ciudadana"
+legal_name: Sonora Ciudadana AC
 description: ""
 org_type: Organización civil sin fines de lucro (ONG)
 website: www.sonoraciudadana.org.mx
@@ -22,5 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Ruta De Las Medicinas](/i/ruta-de-las-medicinas.html)
-- [](/i/ruta-de-las-medicinas.html)
+- [Ruta De Las Medicinas](/proyectos/ruta-de-las-medicinas)

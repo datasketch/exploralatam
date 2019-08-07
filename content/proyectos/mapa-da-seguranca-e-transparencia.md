@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fórum Brasileiro De Segurança Pública](/i/forum-brasileiro-de-seguranca-publica.html)
+- [Fórum Brasileiro De Segurança Pública](/organizaciones/forum-brasileiro-de-seguranca-publica)

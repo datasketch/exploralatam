@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Hack Hackers Lima](/i/hack-hackers-lima.html)
+- [Hack Hackers Lima](/proyectos/hack-hackers-lima)

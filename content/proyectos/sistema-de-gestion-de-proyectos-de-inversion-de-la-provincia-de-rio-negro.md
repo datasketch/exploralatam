@@ -20,6 +20,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Secretaría De Planificación](/i/secretaria-de-planificacion.html)
-- [Asuntos Del Sur](/i/asuntos-del-sur.html)
-- [Econsulting S.R.L.](/i/econsulting-s-r-l.html)
+- [Secretaría De Planificación](/organizaciones/secretaria-de-planificacion)
+- [Asuntos Del Sur](/organizaciones/asuntos-del-sur)
+- [Econsulting S.R.L.](/organizaciones/econsulting-s-r-l)

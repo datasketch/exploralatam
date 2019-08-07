@@ -18,5 +18,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Repórter Brasil](/i/reporter-brasil.html)
-- [InfoAmazonía](/i/infoamazonia.html)
+- [Repórter Brasil](/organizaciones/reporter-brasil)
+- [InfoAmazonía](/organizaciones/infoamazonia)

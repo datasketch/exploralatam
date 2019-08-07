@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Social Apps Lab, University Of California, Berkeley](/i/social-apps-lab-university-of-california-berkeley.html)
+- [Social Apps Lab, University Of California, Berkeley](/organizaciones/social-apps-lab-university-of-california-berkeley)

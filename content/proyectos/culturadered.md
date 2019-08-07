@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Ong Para Iberoamerica](/i/ong-para-iberoamerica.html)
+- [Ong Para Iberoamerica](/organizaciones/ong-para-iberoamerica)

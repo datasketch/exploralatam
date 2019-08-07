@@ -19,7 +19,7 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [AppCivico - EOKOE SOLUÇÕES TECNOLÓGICAS LTDA](/i/appcivico-eokoe-solucoes-tecnologicas.html)
-- [Fgv.Ceapg - Centro De Estudos Em Administração Pública E Governo Da Escola De Administração De Empresas Da Fundação Getulio Vargas](/i/fgv-ceapg-centro-de-estudos-em-administracão-publica-e-governo-da-escola-de-administracão-de-empresas-da-fundacão-getulio-vargas.html)
-- [Associação Fórum Suapoe Espaço Socioambiental](/i/associacão-forum-suapoe-espaco-socioambiental.html)
-- [Fgv.Gdhee - Grupo De Pesquisa Aplicada Em Direitos Humanos E Empresas Da Fundação Getulio Vargas](/i/fgv-gdhee-grupo-de-pesquisa-aplicada-em-direitos-humanos-e-empresas-da-fundacão-getulio-vargas.html)
+- [AppCivico - EOKOE SOLUÇÕES TECNOLÓGICAS LTDA](/organizaciones/appcivico-eokoe-solucoes-tecnologicas)
+- [Fgv.Ceapg - Centro De Estudos Em Administração Pública E Governo Da Escola De Administração De Empresas Da Fundação Getulio Vargas](/organizaciones/fgv-ceapg-centro-de-estudos-em-administracão-publica-e-governo-da-escola-de-administracão-de-empresas-da-fundacão-getulio-vargas)
+- [Associação Fórum Suapoe Espaço Socioambiental](/organizaciones/associacão-forum-suapoe-espaco-socioambiental)
+- [Fgv.Gdhee - Grupo De Pesquisa Aplicada Em Direitos Humanos E Empresas Da Fundação Getulio Vargas](/organizaciones/fgv-gdhee-grupo-de-pesquisa-aplicada-em-direitos-humanos-e-empresas-da-fundacão-getulio-vargas)

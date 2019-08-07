@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Gestión Del Arbolado Urbano](/i/gestion-del-arbolado-urbano.html)
+- [Gestión Del Arbolado Urbano](/proyectos/gestion-del-arbolado-urbano)

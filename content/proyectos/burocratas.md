@@ -18,6 +18,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Karisma](/i/fundacion-karisma.html)
-- [Xue Colombia Ltda](/i/xue-colombia-ltda.html)
-- [Corporación Con Tacto Local](/i/corporacion-con-tacto-local.html)
+- [Fundación Karisma](/organizaciones/fundacion-karisma)
+- [Xue Colombia Ltda](/organizaciones/xue-colombia-ltda)
+- [Corporación Con Tacto Local](/organizaciones/corporacion-con-tacto-local)

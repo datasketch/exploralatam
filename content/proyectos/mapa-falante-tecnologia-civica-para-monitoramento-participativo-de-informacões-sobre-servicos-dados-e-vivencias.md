@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cedaps](/i/cedaps.html)
+- [Cedaps](/organizaciones/cedaps)

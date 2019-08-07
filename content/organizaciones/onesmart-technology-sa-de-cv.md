@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Onesmart Technology](/i/onesmart-technology.html)
+- [Onesmart Technology](/proyectos/onesmart-technology)

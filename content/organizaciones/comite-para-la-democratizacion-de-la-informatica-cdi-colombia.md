@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sistema De Alerta Inmediata Para Protección A Mujeres En Riesgo De Agresión Violenta](/i/sistema-de-alerta-inmediata-para-proteccion-a-mujeres-en-riesgo-de-agresion-violenta.html)
+- [Sistema De Alerta Inmediata Para Protección A Mujeres En Riesgo De Agresión Violenta](/proyectos/sistema-de-alerta-inmediata-para-proteccion-a-mujeres-en-riesgo-de-agresion-violenta)

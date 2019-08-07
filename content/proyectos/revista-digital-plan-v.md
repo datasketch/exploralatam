@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- ["Sociedad De Hecho \"La Pesetera\"](/i/sociedad-de-hecho-la-pesetera.html)
+- ["Sociedad De Hecho \"La Pesetera\"](/organizaciones/sociedad-de-hecho-la-pesetera)

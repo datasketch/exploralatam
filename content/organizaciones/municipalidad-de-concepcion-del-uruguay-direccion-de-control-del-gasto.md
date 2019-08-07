@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Portal De Transparencia De Gastos De Gobiernos Locales (Subnacionales) + Engage Cívico](/i/portal-de-transparencia-de-gastos-de-gobiernos-locales-subnacionales-engage-civico.html)
+- [Portal De Transparencia De Gastos De Gobiernos Locales (Subnacionales) + Engage Cívico](/proyectos/portal-de-transparencia-de-gastos-de-gobiernos-locales-subnacionales-engage-civico)

@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Innovación Y Apertura En Las Políticas Públicas (Innovapp)](/i/innovacion-y-apertura-en-las-politicas-publicas-innovapp.html)
+- [Innovación Y Apertura En Las Políticas Públicas (Innovapp)](/proyectos/innovacion-y-apertura-en-las-politicas-publicas-innovapp)

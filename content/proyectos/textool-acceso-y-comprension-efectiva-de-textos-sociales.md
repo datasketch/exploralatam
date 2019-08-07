@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Artnumerica](/i/artnumerica.html)
+- [Artnumerica](/organizaciones/artnumerica)

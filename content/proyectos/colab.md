@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Colab](/i/colab.html)
+- [Colab](/organizaciones/colab)

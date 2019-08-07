@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro De Assessoria Multiprofissional](/i/centro-de-assessoria-multiprofissional.html)
+- [Centro De Assessoria Multiprofissional](/organizaciones/centro-de-assessoria-multiprofissional)

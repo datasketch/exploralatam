@@ -13,11 +13,11 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Panama Papers](/i/panama-papers.html)
-- [Paradise Papers](/i/paradise-papers.html)
+- [Panama Papers](/proyectos/panama-papers)
+- [Paradise Papers](/proyectos/paradise-papers)

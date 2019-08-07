@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Soy Vecino](/i/soy-vecino.html)
+- [Soy Vecino](/proyectos/soy-vecino)

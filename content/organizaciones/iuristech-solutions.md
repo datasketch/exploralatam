@@ -24,4 +24,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Opendataplus (Od+)](/i/opendataplus-od.html)
+- [Opendataplus (Od+)](/proyectos/opendataplus-od)

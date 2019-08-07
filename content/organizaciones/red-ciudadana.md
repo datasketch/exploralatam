@@ -19,5 +19,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Espanta Cacos](/i/espanta-cacos.html)
-- [Congreso Abierto Guatemala](/i/congreso-abierto-guatemala.html)
+- [Espanta Cacos](/proyectos/espanta-cacos)
+- [Congreso Abierto Guatemala](/proyectos/congreso-abierto-guatemala)

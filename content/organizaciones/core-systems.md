@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma Carazo Sostenible](/i/plataforma-carazo-sostenible.html)
+- [Plataforma Carazo Sostenible](/proyectos/plataforma-carazo-sostenible)

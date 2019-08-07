@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro De Justicia Y Paz - Cepaz](/i/centro-de-justicia-y-paz-cepaz.html)
+- [Centro De Justicia Y Paz - Cepaz](/organizaciones/centro-de-justicia-y-paz-cepaz)

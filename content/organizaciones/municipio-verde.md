@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Municipio Verde](/i/municipio-verde.html)
+- [Municipio Verde](/proyectos/municipio-verde)

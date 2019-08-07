@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Ojo Al Voto](/i/ojo-al-voto.html)
+- [Ojo Al Voto](/proyectos/ojo-al-voto)

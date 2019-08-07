@@ -24,4 +24,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Avisora](/i/avisora.html)
+- [Avisora](/proyectos/avisora)

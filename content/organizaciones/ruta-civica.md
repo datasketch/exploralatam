@@ -22,5 +22,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/obra-chueca.html)
-- [Obra Chueca](/i/obra-chueca.html)
+- [](/proyectos/obra-chueca)
+- [Obra Chueca](/proyectos/obra-chueca)

@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Inppares - Instituto Peruano De Paternidad Responsables](/i/inppares-instituto-peruano-de-paternidad-responsables.html)
+- [Inppares - Instituto Peruano De Paternidad Responsables](/organizaciones/inppares-instituto-peruano-de-paternidad-responsables)

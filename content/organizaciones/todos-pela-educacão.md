@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Observatório Do Plano Nacional De Educação (Opne)](/i/observatorio-do-plano-nacional-de-educacão-opne.html)
+- [Observatório Do Plano Nacional De Educação (Opne)](/proyectos/observatorio-do-plano-nacional-de-educacão-opne)

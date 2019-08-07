@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Construyendo Caminos Seguros](/i/construyendo-caminos-seguros.html)
+- [Construyendo Caminos Seguros](/proyectos/construyendo-caminos-seguros)

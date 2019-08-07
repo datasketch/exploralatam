@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Mapa Da Segurança E Transparência](/i/mapa-da-seguranca-e-transparencia.html)
+- [Mapa Da Segurança E Transparência](/proyectos/mapa-da-seguranca-e-transparencia)

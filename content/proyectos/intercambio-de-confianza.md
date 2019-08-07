@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Red Infodesarrollo](/i/red-infodesarrollo.html)
+- [Red Infodesarrollo](/organizaciones/red-infodesarrollo)

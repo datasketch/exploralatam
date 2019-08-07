@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [El Mirador De Salud Sexual Y Reproductiva](/i/el-mirador-de-salud-sexual-y-reproductiva.html)
+- [El Mirador De Salud Sexual Y Reproductiva](/proyectos/el-mirador-de-salud-sexual-y-reproductiva)

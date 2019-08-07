@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Entre Ojos](/i/entre-ojos.html)
+- [Entre Ojos](/organizaciones/entre-ojos)

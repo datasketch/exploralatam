@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro Bicicultura](/i/centro-bicicultura.html)
+- [Centro Bicicultura](/organizaciones/centro-bicicultura)

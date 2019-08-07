@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Presupuesto Participativo](/i/presupuesto-participativo.html)
+- [Presupuesto Participativo](/proyectos/presupuesto-participativo)

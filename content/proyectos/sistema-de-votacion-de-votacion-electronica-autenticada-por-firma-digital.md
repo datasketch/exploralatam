@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Solvo](/i/solvo.html)
+- [Solvo](/organizaciones/solvo)

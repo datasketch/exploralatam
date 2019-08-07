@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Harvest Api](/i/harvest-api.html)
+- [Harvest Api](/proyectos/harvest-api)

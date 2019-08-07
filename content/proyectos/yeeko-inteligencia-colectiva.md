@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Yeeko Inteligencia Colectiva](/i/yeeko-inteligencia-colectiva.html)
+- [Yeeko Inteligencia Colectiva](/organizaciones/yeeko-inteligencia-colectiva)

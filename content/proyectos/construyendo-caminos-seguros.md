@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Asi - Asesores Para La Inversión Social](/i/asi-asesores-para-la-inversion-social.html)
+- [Asi - Asesores Para La Inversión Social](/organizaciones/asi-asesores-para-la-inversion-social)

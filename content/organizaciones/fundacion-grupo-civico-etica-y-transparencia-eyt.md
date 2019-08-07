@@ -25,4 +25,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Mapa Cívico Nicaragua](/i/mapa-civico-nicaragua.html)
+- [Mapa Cívico Nicaragua](/proyectos/mapa-civico-nicaragua)

@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Ecuador Chequea](/i/ecuador-chequea.html)
+- [Ecuador Chequea](/proyectos/ecuador-chequea)

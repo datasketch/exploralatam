@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Ciudadanía Inteligente](/i/ciudadania-inteligente.html)
+- [Ciudadanía Inteligente](/organizaciones/ciudadania-inteligente)

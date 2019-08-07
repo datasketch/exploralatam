@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Promoción De Buenas Prácticas De Gestión Y Transparencia En Organizaciones Sin Fines De Lucro](/i/promocion-de-buenas-practicas-de-gestion-y-transparencia-en-organizaciones-sin-fines-de-lucro.html)
+- [Promoción De Buenas Prácticas De Gestión Y Transparencia En Organizaciones Sin Fines De Lucro](/proyectos/promocion-de-buenas-practicas-de-gestion-y-transparencia-en-organizaciones-sin-fines-de-lucro)

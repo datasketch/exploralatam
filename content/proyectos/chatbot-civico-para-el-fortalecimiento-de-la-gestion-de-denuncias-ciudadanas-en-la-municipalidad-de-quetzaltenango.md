@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Asociación Civil Guatecambia](/i/asociacion-civil-guatecambia.html)
+- [Asociación Civil Guatecambia](/organizaciones/asociacion-civil-guatecambia)

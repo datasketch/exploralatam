@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Estamos Córdoba: Aplicaciones Para Una Administración Relacional](/i/estamos-cordoba-aplicaciones-para-una-administracion-relacional.html)
+- [Estamos Córdoba: Aplicaciones Para Una Administración Relacional](/proyectos/estamos-cordoba-aplicaciones-para-una-administracion-relacional)

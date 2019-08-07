@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fáctico Periodismo Móvil](/i/factico-periodismo-movil.html)
+- [Fáctico Periodismo Móvil](/organizaciones/factico-periodismo-movil)

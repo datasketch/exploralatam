@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Checkuy](/i/checkuy.html)
+- [Checkuy](/organizaciones/checkuy)

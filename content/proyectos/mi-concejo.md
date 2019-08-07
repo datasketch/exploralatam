@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Cívico Social Pro Cartagena - Funcicar](/i/fundacion-civico-social-pro-cartagena-funcicar.html)
+- [Fundación Cívico Social Pro Cartagena - Funcicar](/organizaciones/fundacion-civico-social-pro-cartagena-funcicar)

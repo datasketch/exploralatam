@@ -27,9 +27,9 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Habítala](/i/habitala.html)
-- [Serendipia](/i/serendipia.html)
-- [Análisis De Campaña Para Candidatos Independientes](/i/analisis-de-campana-para-candidatos-independientes.html)
-- [Plataforma De Contrataciones Abiertas Mx](/i/plataforma-de-contrataciones-abiertas-mx.html)
-- [Gobierno Fácil](/i/gobierno-facil.html)
-- [México En Datos](/i/mexico-en-datos.html)
+- [Habítala](/proyectos/habitala)
+- [Serendipia](/proyectos/serendipia)
+- [Análisis De Campaña Para Candidatos Independientes](/proyectos/analisis-de-campana-para-candidatos-independientes)
+- [Plataforma De Contrataciones Abiertas Mx](/proyectos/plataforma-de-contrataciones-abiertas-mx)
+- [Gobierno Fácil](/proyectos/gobierno-facil)
+- [México En Datos](/proyectos/mexico-en-datos)

@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Asociación Horizonte Positivo](/i/asociacion-horizonte-positivo.html)
+- [Asociación Horizonte Positivo](/organizaciones/asociacion-horizonte-positivo)

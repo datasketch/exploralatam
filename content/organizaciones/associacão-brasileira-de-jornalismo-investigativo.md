@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Datascópio E Cruza Dados](/i/datascopio-e-cruza-dados.html)
+- [Datascópio E Cruza Dados](/proyectos/datascopio-e-cruza-dados)

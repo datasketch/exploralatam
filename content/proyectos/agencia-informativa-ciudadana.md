@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Beetec Inteligencia Colectiva](/i/beetec-inteligencia-colectiva.html)
+- [Beetec Inteligencia Colectiva](/organizaciones/beetec-inteligencia-colectiva)

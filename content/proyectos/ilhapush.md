@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Ilhasoft](/i/ilhasoft.html)
+- [Ilhasoft](/organizaciones/ilhasoft)

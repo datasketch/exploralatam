@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundação Darcy Ribeiro](/i/fundacão-darcy-ribeiro.html)
+- [Fundação Darcy Ribeiro](/organizaciones/fundacão-darcy-ribeiro)

@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Comunidad Indígena Por La Participación Ciudadana En Oaxaca](/i/comunidad-indigena-por-la-participacion-ciudadana-en-oaxaca.html)
+- [Comunidad Indígena Por La Participación Ciudadana En Oaxaca](/proyectos/comunidad-indigena-por-la-participacion-ciudadana-en-oaxaca)

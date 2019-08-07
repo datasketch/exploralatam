@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Demos](/i/instituto-demos.html)
+- [Instituto Demos](/organizaciones/instituto-demos)

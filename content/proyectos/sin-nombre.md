@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Enredo](/i/enredo.html)
+- [Enredo](/organizaciones/enredo)

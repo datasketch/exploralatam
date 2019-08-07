@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Protrash](/i/protrash.html)
+- [Protrash](/proyectos/protrash)

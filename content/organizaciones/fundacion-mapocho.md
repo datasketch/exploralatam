@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Banca Ética Latinoamérica](/i/banca-etica-latinoamerica.html)
+- [Banca Ética Latinoamérica](/proyectos/banca-etica-latinoamerica)

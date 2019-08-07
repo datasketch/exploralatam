@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cobracriada](/i/cobracriada.html)
+- [Cobracriada](/organizaciones/cobracriada)

@@ -21,6 +21,6 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/omunaire.html)
-- [Comunaire](/i/comunaire.html)
-- [](/i/planeadores-ciudadanos.html)
+- [](/proyectos/omunaire)
+- [Comunaire](/proyectos/comunaire)
+- [](/proyectos/planeadores-ciudadanos)

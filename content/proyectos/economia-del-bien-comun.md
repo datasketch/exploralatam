@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Asociación Nacional Para El Fomento De La Economia Del Bien Común En Chile](/i/asociacion-nacional-para-el-fomento-de-la-economia-del-bien-comun-en-chile.html)
+- [Asociación Nacional Para El Fomento De La Economia Del Bien Común En Chile](/organizaciones/asociacion-nacional-para-el-fomento-de-la-economia-del-bien-comun-en-chile)

@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Derecho, Ambiente Y Recursos Naturales](/i/derecho-ambiente-y-recursos-naturales.html)
+- [Derecho, Ambiente Y Recursos Naturales](/organizaciones/derecho-ambiente-y-recursos-naturales)

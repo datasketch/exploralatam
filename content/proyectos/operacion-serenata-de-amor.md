@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Open Knowledge Brasil](/i/open-knowledge-brasil.html)
+- [Open Knowledge Brasil](/organizaciones/open-knowledge-brasil)

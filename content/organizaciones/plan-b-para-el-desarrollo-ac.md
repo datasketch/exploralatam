@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Click Social](/i/click-social.html)
+- [Click Social](/proyectos/click-social)

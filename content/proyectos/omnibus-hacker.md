@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Omnibus Hacker](/i/omnibus-hacker.html)
+- [Omnibus Hacker](/organizaciones/omnibus-hacker)

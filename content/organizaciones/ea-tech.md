@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Petgram](/i/petgram.html)
+- [Petgram](/proyectos/petgram)

@@ -19,5 +19,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Comunidades De Software Libre](/i/comunidades-de-software-libre.html)
-- [Grupo Informal De Creative Commons](/i/grupo-informal-de-creative-commons.html)
+- [Comunidades De Software Libre](/proyectos/comunidades-de-software-libre)
+- [Grupo Informal De Creative Commons](/proyectos/grupo-informal-de-creative-commons)

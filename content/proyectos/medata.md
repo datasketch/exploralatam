@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Corporación Ruta N](/i/corporacion-ruta-n.html)
+- [Corporación Ruta N](/organizaciones/corporacion-ruta-n)

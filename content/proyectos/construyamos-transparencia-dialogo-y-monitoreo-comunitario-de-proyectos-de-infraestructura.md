@@ -19,6 +19,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Para El Desarrollo De Políticas Sustentables (Fundeps)](/i/fundacion-para-el-desarrollo-de-politicas-sustentables-fundeps.html)
-- [Fundación Ambiente Y Recursos Naturales (Farn)](/i/fundacion-ambiente-y-recursos-naturales-farn.html)
-- [Moodstudio](/i/moodstudio.html)
+- [Fundación Para El Desarrollo De Políticas Sustentables (Fundeps)](/organizaciones/fundacion-para-el-desarrollo-de-politicas-sustentables-fundeps)
+- [Fundación Ambiente Y Recursos Naturales (Farn)](/organizaciones/fundacion-ambiente-y-recursos-naturales-farn)
+- [Moodstudio](/organizaciones/moodstudio)

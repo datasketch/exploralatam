@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Investigación E Innovación Factual, A.C.](/i/investigacion-e-innovacion-factual-a-c.html)
+- [Investigación E Innovación Factual, A.C.](/organizaciones/investigacion-e-innovacion-factual-a-c)

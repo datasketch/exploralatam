@@ -17,6 +17,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Lima Cómo Vamos](/i/lima-como-vamos.html)
-- [Detona](/i/detona.html)
-- [Asociación Unacem](/i/asociacion-unacem.html)
+- [Lima Cómo Vamos](/organizaciones/lima-como-vamos)
+- [Detona](/organizaciones/detona)
+- [Asociación Unacem](/organizaciones/asociacion-unacem)

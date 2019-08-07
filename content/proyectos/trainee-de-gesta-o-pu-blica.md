@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Vetor Brasil](/i/vetor-brasil.html)
+- [Vetor Brasil](/organizaciones/vetor-brasil)

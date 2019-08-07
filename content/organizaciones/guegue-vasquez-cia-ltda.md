@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-21
+date_last_modified: 2019-07-29
 uid: guegue-vasquez-cia-ltda
 title: "Guegue Vasquez Cia Ltda"
 legal_name: 
@@ -24,5 +24,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Por Mi Barrio Nicaragua](/i/por-mi-barrio-nicaragua.html)
-- [](/i/por-mi-barrio-nicaragua.html)
+- [Por Mi Barrio Nicaragua](/proyectos/por-mi-barrio-nicaragua)

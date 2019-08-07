@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Primera Unidad Latinoamericana De Periodismo De Datos](/i/primera-unidad-latinoamericana-de-periodismo-de-datos.html)
+- [Primera Unidad Latinoamericana De Periodismo De Datos](/proyectos/primera-unidad-latinoamericana-de-periodismo-de-datos)

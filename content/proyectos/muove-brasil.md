@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro De Liderança Pública](/i/centro-de-lideranca-publica.html)
-- [Muove Brasil](/i/muove-brasil.html)
+- [Centro De Liderança Pública](/organizaciones/centro-de-lideranca-publica)
+- [Muove Brasil](/organizaciones/muove-brasil)

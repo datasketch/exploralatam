@@ -20,5 +20,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Monitoreo Y Seguimiento De Temas Medio Ambientales En El Sur De Bolivia (Chuquisaca, Tarija, Potosí Y Chaco).](/i/monitoreo-y-seguimiento-de-temas-medio-ambientales-en-el-sur-de-bolivia-chuquisaca-tarija-potosi-y-chaco.html)
-- [](/i/1-monitoreo-y-seguimiento-de-temas-medio-ambientales-en-el-sur-de-bolivia-chuquisaca-tarija-potosi-y-chaco.html)
+- [Monitoreo Y Seguimiento De Temas Medio Ambientales En El Sur De Bolivia (Chuquisaca, Tarija, Potosí Y Chaco).](/proyectos/monitoreo-y-seguimiento-de-temas-medio-ambientales-en-el-sur-de-bolivia-chuquisaca-tarija-potosi-y-chaco)
+- [](/proyectos/1-monitoreo-y-seguimiento-de-temas-medio-ambientales-en-el-sur-de-bolivia-chuquisaca-tarija-potosi-y-chaco)

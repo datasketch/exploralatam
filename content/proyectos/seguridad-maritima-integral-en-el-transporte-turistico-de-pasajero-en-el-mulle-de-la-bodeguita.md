@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Zeus Tecnologica S.A](/i/zeus-tecnologica-s-a.html)
+- [Zeus Tecnologica S.A](/organizaciones/zeus-tecnologica-s-a)

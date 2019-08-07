@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Incentivo A Cultura Digital](/i/incentivo-a-cultura-digital.html)
+- [Incentivo A Cultura Digital](/proyectos/incentivo-a-cultura-digital)

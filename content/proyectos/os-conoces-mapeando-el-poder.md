@@ -16,5 +16,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [The Engine Room](/i/the-engine-room.html)
-- [Asociación Civil Japiqay, Memoria y Ciudadana](/i/asociacion-civil-japiqay-memoria-y-ciudadana.html)
+- [The Engine Room](/organizaciones/the-engine-room)
+- [Asociación Civil Japiqay, Memoria y Ciudadana](/organizaciones/asociacion-civil-japiqay-memoria-y-ciudadana)

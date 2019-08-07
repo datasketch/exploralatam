@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Información Y Datos Para Combatir La Violencia Contra La Mujer En Brasil](/i/informacion-y-datos-para-combatir-la-violencia-contra-la-mujer-en-brasil.html)
+- [Información Y Datos Para Combatir La Violencia Contra La Mujer En Brasil](/proyectos/informacion-y-datos-para-combatir-la-violencia-contra-la-mujer-en-brasil)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Rancho Electronico](/i/rancho-electronico.html)
+- [Rancho Electronico](/organizaciones/rancho-electronico)

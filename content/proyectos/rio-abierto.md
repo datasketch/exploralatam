@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [La Diaria](/i/la-diaria.html)
+- [La Diaria](/organizaciones/la-diaria)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Hacklab Cochabamba](/i/hacklab-cochabamba.html)
+- [Hacklab Cochabamba](/organizaciones/hacklab-cochabamba)

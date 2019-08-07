@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Lojasoft Solutions](/i/lojasoft-solutions.html)
+- [Lojasoft Solutions](/organizaciones/lojasoft-solutions)

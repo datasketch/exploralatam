@@ -18,5 +18,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Corporación Somos Más](/i/corporacion-somos-mas.html)
-- [Universidad Nacional (Vivelab)](/i/universidad-nacional-vivelab.html)
+- [Corporación Somos Más](/organizaciones/corporacion-somos-mas)
+- [Universidad Nacional (Vivelab)](/organizaciones/universidad-nacional-vivelab)

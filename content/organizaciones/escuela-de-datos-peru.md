@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Escuela De Datos Peru](/i/escuela-de-datos-peru.html)
+- [Escuela De Datos Peru](/proyectos/escuela-de-datos-peru)

@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Concive Y Tecnologia Civica](/i/concive-y-tecnologia-civica.html)
+- [Concive Y Tecnologia Civica](/proyectos/concive-y-tecnologia-civica)

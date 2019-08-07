@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma Digital De Participación Y Fiscalización Ciudadana De Las Personas Jóvenes Rurales De Cartago](/i/plataforma-digital-de-participacion-y-fiscalizacion-ciudadana-de-las-personas-jovenes-rurales-de-cartago.html)
+- [Plataforma Digital De Participación Y Fiscalización Ciudadana De Las Personas Jóvenes Rurales De Cartago](/proyectos/plataforma-digital-de-participacion-y-fiscalizacion-ciudadana-de-las-personas-jovenes-rurales-de-cartago)

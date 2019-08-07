@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [¿Los Conoces? Mapeando El Poder](/i/os-conoces-mapeando-el-poder.html)
+- [¿Los Conoces? Mapeando El Poder](/proyectos/os-conoces-mapeando-el-poder)

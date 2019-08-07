@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Observatorio Virtual Nuestropresupuesto.Org](/i/observatorio-virtual-nuestropresupuesto-org.html)
+- [Observatorio Virtual Nuestropresupuesto.Org](/proyectos/observatorio-virtual-nuestropresupuesto-org)

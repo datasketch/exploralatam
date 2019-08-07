@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Panapana Informacao E Educacao Ltda ­ Me](/i/panapana-informacao-e-educacao-ltda-me.html)
-- [Areta Valente Guimarães Mei](/i/areta-valente-guimarães-mei.html)
+- [Panapana Informacao E Educacao Ltda ­ Me](/organizaciones/panapana-informacao-e-educacao-ltda-me)
+- [Areta Valente Guimarães Mei](/organizaciones/areta-valente-guimarães-mei)

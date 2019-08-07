@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/ministerio-de-economia.html)
+- [X](/organizaciones/ministerio-de-economia)

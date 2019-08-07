@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Vivero De Iniciativas Ciudadanas](/i/vivero-de-iniciativas-ciudadanas.html)
+- [Vivero De Iniciativas Ciudadanas](/organizaciones/vivero-de-iniciativas-ciudadanas)

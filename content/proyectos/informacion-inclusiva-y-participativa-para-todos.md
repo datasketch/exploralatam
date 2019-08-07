@@ -16,5 +16,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Dtlnet Ltda.](/i/dtlnet-ltda.html)
-- [Fundación Inhoy](/i/fundacion-inhoy.html)
+- [Dtlnet Ltda.](/organizaciones/dtlnet-ltda)
+- [Fundación Inhoy](/organizaciones/fundacion-inhoy)

@@ -21,5 +21,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/tecnologia-civica-para-mejorar-la-movilidad-de-manera-participativa.html)
-- [Tecnología Cívica Para Mejorar La Movilidad De Manera Participativa](/i/tecnologia-civica-para-mejorar-la-movilidad-de-manera-participativa.html)
+- [](/proyectos/tecnologia-civica-para-mejorar-la-movilidad-de-manera-participativa)
+- [Tecnología Cívica Para Mejorar La Movilidad De Manera Participativa](/proyectos/tecnologia-civica-para-mejorar-la-movilidad-de-manera-participativa)

@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Cultivando Futuro](/i/cultivando-futuro.html)
+- [Cultivando Futuro](/proyectos/cultivando-futuro)

@@ -19,5 +19,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Rancho Electrìoico](/i/rancho-electrioico.html)
-- [Biblioteca Digital Campechana Mental](/i/biblioteca-digital-campechana-mental.html)
+- [Rancho Electrìoico](/proyectos/rancho-electrioico)
+- [Biblioteca Digital Campechana Mental](/proyectos/biblioteca-digital-campechana-mental)

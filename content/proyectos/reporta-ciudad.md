@@ -19,6 +19,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Data Uruguay](/i/data-uruguay.html)
-- [Red Ciudadana Nuestra Córdoba – Asociación Civil Nuestra Córdoba](/i/red-ciudadana-nuestra-cordoba-asociacion-civil-nuestra-cordoba.html)
-- [DATA (Datos Abiertos Transparencia y Acceso a la información)](/i/data-datos-abiertos-transparencia-y-acceso-a-la-informacion.html)
+- [Data Uruguay](/organizaciones/data-uruguay)
+- [Red Ciudadana Nuestra Córdoba – Asociación Civil Nuestra Córdoba](/organizaciones/red-ciudadana-nuestra-cordoba-asociacion-civil-nuestra-cordoba)
+- [DATA (Datos Abiertos Transparencia y Acceso a la información)](/organizaciones/data-datos-abiertos-transparencia-y-acceso-a-la-informacion)

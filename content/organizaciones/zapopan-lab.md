@@ -23,5 +23,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/red-tonos-cihuatl.html)
-- [Red Tonos Cihuatl](/i/red-tonos-cihuatl.html)
+- [](/proyectos/red-tonos-cihuatl)
+- [Red Tonos Cihuatl](/proyectos/red-tonos-cihuatl)

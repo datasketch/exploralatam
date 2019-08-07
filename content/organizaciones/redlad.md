@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [App Para La Inclusión Y El Respeto A La Sociedad Civil](/i/app-para-la-inclusion-y-el-respeto-a-la-sociedad-civil.html)
+- [App Para La Inclusión Y El Respeto A La Sociedad Civil](/proyectos/app-para-la-inclusion-y-el-respeto-a-la-sociedad-civil)

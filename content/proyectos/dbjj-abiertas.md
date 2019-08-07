@@ -16,7 +16,7 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Poder Ciudadano](/i/poder-ciudadano.html)
-- [ACIJ - Asociación Civil por la Igualdad y la Justicia](/i/asociacion-civil-por-la-igualdad-y-la-justicia-arg.html)
-- [Directorio Legislativo](/i/directorio-legislativo.html)
-- [Diario La Nación](/i/diario-la-nacion.html)
+- [Poder Ciudadano](/organizaciones/poder-ciudadano)
+- [ACIJ - Asociación Civil por la Igualdad y la Justicia](/organizaciones/asociacion-civil-por-la-igualdad-y-la-justicia-arg)
+- [Directorio Legislativo](/organizaciones/directorio-legislativo)
+- [Diario La Nación](/organizaciones/diario-la-nacion)

@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Thot Group](/i/thot-group.html)
+- [Thot Group](/organizaciones/thot-group)

@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Pleno Ciudadano](/i/pleno-ciudadano.html)
+- [Pleno Ciudadano](/proyectos/pleno-ciudadano)

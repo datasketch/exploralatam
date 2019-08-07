@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Global penicillin shortages are bringing back old diseases, and creating new, deadlier ones](/i/syphilis-is-on-the-rise-because-penicillin-isnt-profitable.html)
+- [Global penicillin shortages are bringing back old diseases, and creating new, deadlier ones](/proyectos/syphilis-is-on-the-rise-because-penicillin-isnt-profitable)

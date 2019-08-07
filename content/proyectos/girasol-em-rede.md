@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cooperativa Girasol De Cosumo Solidário](/i/cooperativa-girasol-de-cosumo-solidario.html)
+- [Cooperativa Girasol De Cosumo Solidário](/organizaciones/cooperativa-girasol-de-cosumo-solidario)

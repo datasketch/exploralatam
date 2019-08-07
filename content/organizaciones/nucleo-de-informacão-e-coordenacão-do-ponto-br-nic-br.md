@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Cidades Transparentes: Inovações A Partir De Dados Abertos](/i/cidades-transparentes-inovacões-a-partir-de-dados-abertos.html)
+- [Cidades Transparentes: Inovações A Partir De Dados Abertos](/proyectos/cidades-transparentes-inovacões-a-partir-de-dados-abertos)

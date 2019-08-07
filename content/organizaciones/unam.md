@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Voto Informado](/i/voto-informado-2018.html)
+- [Voto Informado](/proyectos/voto-informado-2018)

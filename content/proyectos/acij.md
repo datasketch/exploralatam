@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [ACIJ - Asociación Civil por la Igualdad y la Justicia](/i/asociacion-civil-por-la-igualdad-y-la-justicia-arg.html)
+- [ACIJ - Asociación Civil por la Igualdad y la Justicia](/organizaciones/asociacion-civil-por-la-igualdad-y-la-justicia-arg)

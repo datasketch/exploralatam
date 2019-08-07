@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Parapapapp Sas](/i/parapapapp-sas.html)
+- [Parapapapp Sas](/organizaciones/parapapapp-sas)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- ["\"PRESABIS\" Prevención, Salud y Bienestar Social"](/i/resabis-prevencion-salud-y-bienestar-social.html)
+- ["\"PRESABIS\" Prevención, Salud y Bienestar Social"](/organizaciones/resabis-prevencion-salud-y-bienestar-social)

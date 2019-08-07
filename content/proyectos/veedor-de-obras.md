@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Veeduria Distrital De Bogotá, Veeduría Delegada Para La Contratación](/i/veeduria-distrital-de-bogota-veeduria-delegada-para-la-contratacion.html)
+- [Veeduria Distrital De Bogotá, Veeduría Delegada Para La Contratación](/organizaciones/veeduria-distrital-de-bogota-veeduria-delegada-para-la-contratacion)

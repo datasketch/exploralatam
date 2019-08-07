@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Co-Creamos (Plataforma De Co-Creación Digital Junto A Escuelas, Sector Publico Y Sociedad Civil)](/i/co-creamos-plataforma-de-co-creacion-digital-junto-a-escuelas-sector-publico-y-sociedad-civil.html)
+- [Co-Creamos (Plataforma De Co-Creación Digital Junto A Escuelas, Sector Publico Y Sociedad Civil)](/proyectos/co-creamos-plataforma-de-co-creacion-digital-junto-a-escuelas-sector-publico-y-sociedad-civil)

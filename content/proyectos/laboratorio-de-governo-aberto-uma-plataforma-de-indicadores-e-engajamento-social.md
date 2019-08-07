@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Casa Da Cidade](/i/instituto-casa-da-cidade.html)
+- [Instituto Casa Da Cidade](/organizaciones/instituto-casa-da-cidade)

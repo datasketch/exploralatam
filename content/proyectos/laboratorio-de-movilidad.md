@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Llactalab - Ciudades Sustentables](/i/llactalab-ciudades-sustentables.html)
-- [Fundación Biciacción](/i/fundacion-biciaccion.html)
+- [Llactalab - Ciudades Sustentables](/organizaciones/llactalab-ciudades-sustentables)
+- [Fundación Biciacción](/organizaciones/fundacion-biciaccion)

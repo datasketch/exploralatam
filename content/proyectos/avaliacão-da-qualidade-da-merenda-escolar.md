@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Emude Tecnologia Em Cidades](/i/emude-tecnologia-em-cidades.html)
+- [Emude Tecnologia Em Cidades](/organizaciones/emude-tecnologia-em-cidades)

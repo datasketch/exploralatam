@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Obras De Mi Ciudad](/i/obras-de-mi-ciudad.html)
+- [Obras De Mi Ciudad](/proyectos/obras-de-mi-ciudad)

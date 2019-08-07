@@ -24,4 +24,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Compromiso Ciudadano](/i/compromiso-ciudadano.html)
+- [Compromiso Ciudadano](/proyectos/compromiso-ciudadano)

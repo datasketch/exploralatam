@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Limaio.Com](/i/limaio-com.html)
+- [Limaio.Com](/proyectos/limaio-com)

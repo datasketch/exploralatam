@@ -17,5 +17,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Emagic](/i/emagic.html)
-- [Fundación Democracia Digital Ecuador](/i/fundacion-democracia-digital-ecuador.html)
+- [Emagic](/organizaciones/emagic)
+- [Fundación Democracia Digital Ecuador](/organizaciones/fundacion-democracia-digital-ecuador)

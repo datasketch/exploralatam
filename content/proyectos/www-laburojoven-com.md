@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Enseñá Por Argentina](/i/fundacion-ensena-por-argentina.html)
+- [Fundación Enseñá Por Argentina](/organizaciones/fundacion-ensena-por-argentina)

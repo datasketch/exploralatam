@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Facultad De Ingenería Universidad De Los Andes](/i/facultad-de-ingeneria-universidad-de-los-andes.html)
+- [Facultad De Ingenería Universidad De Los Andes](/organizaciones/facultad-de-ingeneria-universidad-de-los-andes)

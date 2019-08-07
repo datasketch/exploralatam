@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Run Run Es](/i/run-run-es.html)
+- [Run Run Es](/organizaciones/run-run-es)

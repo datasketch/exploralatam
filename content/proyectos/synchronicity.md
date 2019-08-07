@@ -21,5 +21,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cocidade](/i/cocidade.html)
-- [Núcleo Digital,Nucleo Digital](/i/nucleo-digital-nucleo-digital.html)
+- [Cocidade](/organizaciones/cocidade)
+- [Núcleo Digital,Nucleo Digital](/organizaciones/nucleo-digital-nucleo-digital)

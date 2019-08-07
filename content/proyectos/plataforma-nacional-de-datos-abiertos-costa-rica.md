@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Gobierno De Costa Rica](/i/gobierno-de-costa-rica.html)
+- [Gobierno De Costa Rica](/organizaciones/gobierno-de-costa-rica)

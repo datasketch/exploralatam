@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Minga - Manejo Colectivo De Residuos](/i/minga-manejo-colectivo-de-residuos.html)
+- [Minga - Manejo Colectivo De Residuos](/proyectos/minga-manejo-colectivo-de-residuos)

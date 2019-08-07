@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [México Checa](/i/mexico-checa.html)
+- [México Checa](/proyectos/mexico-checa)

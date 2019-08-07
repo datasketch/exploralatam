@@ -21,5 +21,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Silice](/i/silice.html)
-- [Nuestra Mendoza,Fundación Nuestra Mendoza](/i/nuestra-mendoza-fundacion-nuestra-mendoza.html)
+- [Silice](/organizaciones/silice)
+- [Nuestra Mendoza,Fundación Nuestra Mendoza](/organizaciones/nuestra-mendoza-fundacion-nuestra-mendoza)

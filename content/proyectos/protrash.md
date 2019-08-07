@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Protrash](/i/protrash.html)
+- [Protrash](/organizaciones/protrash)

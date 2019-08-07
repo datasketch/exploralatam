@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Phomenta](/i/instituto-phomenta.html)
+- [Instituto Phomenta](/organizaciones/instituto-phomenta)

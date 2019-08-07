@@ -23,5 +23,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/vihsion-ciudadana-tecnologia-periodismo-y-experiencia-en-el-sector-para-monitorear-analizar-y-comparar-politicas-publicas-en-vih-en-latinoamerica.html)
-- [Vihsión Ciudadana - Tecnología, Periodismo Y Experiencia En El Sector Para Monitorear, Analizar Y Comparar Políticas Públicas En Vih En Latinoamérica.](/i/vihsion-ciudadana-tecnologia-periodismo-y-experiencia-en-el-sector-para-monitorear-analizar-y-comparar-politicas-publicas-en-vih-en-latinoamerica.html)
+- [](/proyectos/vihsion-ciudadana-tecnologia-periodismo-y-experiencia-en-el-sector-para-monitorear-analizar-y-comparar-politicas-publicas-en-vih-en-latinoamerica)
+- [Vihsión Ciudadana - Tecnología, Periodismo Y Experiencia En El Sector Para Monitorear, Analizar Y Comparar Políticas Públicas En Vih En Latinoamérica.](/proyectos/vihsion-ciudadana-tecnologia-periodismo-y-experiencia-en-el-sector-para-monitorear-analizar-y-comparar-politicas-publicas-en-vih-en-latinoamerica)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Mídia Étnica](/i/instituto-midia-etnica.html)
+- [Instituto Mídia Étnica](/organizaciones/instituto-midia-etnica)

@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Enmobi](/i/enmobi.html)
+- [Enmobi](/proyectos/enmobi)

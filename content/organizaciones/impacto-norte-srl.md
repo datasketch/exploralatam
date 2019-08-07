@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Warmi  (Mujer En Quechua) -](/i/warmi-mujer-en-quechua.html)
+- [Warmi  (Mujer En Quechua) -](/proyectos/warmi-mujer-en-quechua)

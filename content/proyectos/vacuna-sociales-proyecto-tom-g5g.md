@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Mindball Ong Planeta](/i/mindball-ong-planeta.html)
+- [Mindball Ong Planeta](/organizaciones/mindball-ong-planeta)

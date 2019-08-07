@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Análise Da Governança De Ti Em Órgãos Públicos: Identificação Dos Índices De Alinhamento Por Órgão A Partir De Uma Plataforma Mobile](/i/analise-da-governanca-de-ti-em-orgãos-publicos-identificacão-dos-indices-de-alinhamento-por-orgão-a-partir-de-uma-plataforma-mobile.html)
+- [Análise Da Governança De Ti Em Órgãos Públicos: Identificação Dos Índices De Alinhamento Por Órgão A Partir De Uma Plataforma Mobile](/proyectos/analise-da-governanca-de-ti-em-orgãos-publicos-identificacão-dos-indices-de-alinhamento-por-orgão-a-partir-de-uma-plataforma-mobile)

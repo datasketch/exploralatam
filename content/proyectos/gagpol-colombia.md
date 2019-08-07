@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Corporación Red Somos](/i/corporacion-red-somos.html)
+- [Corporación Red Somos](/organizaciones/corporacion-red-somos)

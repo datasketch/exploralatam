@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [¿Es La Cárcel La Solución? Abrir El Debate Ciudadano Sobre El Sistema Penal Boliviano](/i/s-la-carcel-la-solucion-abrir-el-debate-ciudadano-sobre-el-sistema-penal-boliviano.html)
+- [¿Es La Cárcel La Solución? Abrir El Debate Ciudadano Sobre El Sistema Penal Boliviano](/proyectos/s-la-carcel-la-solucion-abrir-el-debate-ciudadano-sobre-el-sistema-penal-boliviano)

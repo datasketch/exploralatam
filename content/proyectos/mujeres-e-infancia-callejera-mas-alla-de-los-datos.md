@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [El Caracol](/i/el-caracol.html)
+- [El Caracol](/organizaciones/el-caracol)

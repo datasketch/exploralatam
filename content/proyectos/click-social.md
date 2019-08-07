@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Plan B Para El Desarrollo, Ac](/i/plan-b-para-el-desarrollo-ac.html)
-- [Sociedad En Movimiento, Ac](/i/sociedad-en-movimiento-ac.html)
+- [Plan B Para El Desarrollo, Ac](/organizaciones/plan-b-para-el-desarrollo-ac)
+- [Sociedad En Movimiento, Ac](/organizaciones/sociedad-en-movimiento-ac)

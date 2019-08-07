@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [ILDA](/i/ilda.html)
+- [ILDA](/organizaciones/ilda)

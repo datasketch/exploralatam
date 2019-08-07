@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Gobierno De Panamá](/i/gobierno-de-panama.html)
+- [Gobierno De Panamá](/organizaciones/gobierno-de-panama)

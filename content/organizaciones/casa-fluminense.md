@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Cocozap](/i/cocozap.html)
+- [Cocozap](/proyectos/cocozap)

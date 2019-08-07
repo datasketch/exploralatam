@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/tercera-cumbre-ciudadana.html)
+- [X](/organizaciones/tercera-cumbre-ciudadana)

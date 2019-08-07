@@ -18,5 +18,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Generación Sin Límite](/i/fundacion-generacion-sin-limite.html)
-- [Maga Systems & Consulting](/i/maga-systems-consulting.html)
+- [Fundación Generación Sin Límite](/organizaciones/fundacion-generacion-sin-limite)
+- [Maga Systems & Consulting](/organizaciones/maga-systems-consulting)

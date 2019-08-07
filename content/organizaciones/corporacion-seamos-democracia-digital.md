@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Seamos Democracia Digital](/i/seamos-democracia-digital.html)
+- [Seamos Democracia Digital](/proyectos/seamos-democracia-digital)

@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Asociación Transporte Ativo](/i/asociacion-transporte-ativo.html)
+- [Asociación Transporte Ativo](/organizaciones/asociacion-transporte-ativo)

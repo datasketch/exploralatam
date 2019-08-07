@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Ferramenta De Avaliação De Mandatos Parlamentares (Famp)](/i/ferramenta-de-avaliacão-de-mandatos-parlamentares-famp.html)
+- [Ferramenta De Avaliação De Mandatos Parlamentares (Famp)](/proyectos/ferramenta-de-avaliacão-de-mandatos-parlamentares-famp)

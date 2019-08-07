@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Pesquisa Eleitoral para Presidente](/i/pesquisas-eleitorais.html)
+- [Pesquisa Eleitoral para Presidente](/proyectos/pesquisas-eleitorais)

@@ -24,4 +24,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Movialidad](/i/movialidad.html)
+- [Movialidad](/proyectos/movialidad)

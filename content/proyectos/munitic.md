@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Colnodo – Asociación Colombiana De Organizaciones No Gubernamentales Para La Comunicación Vía Correo Electrónico](/i/colnodo-asociacion-colombiana-de-organizaciones-no-gubernamentales-para-la-comunicacion-via-correo-electronico.html)
+- [Colnodo – Asociación Colombiana De Organizaciones No Gubernamentales Para La Comunicación Vía Correo Electrónico](/organizaciones/colnodo-asociacion-colombiana-de-organizaciones-no-gubernamentales-para-la-comunicacion-via-correo-electronico)

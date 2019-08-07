@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Acuña](/i/instituto-acuna.html)
+- [Instituto Acuña](/organizaciones/instituto-acuna)

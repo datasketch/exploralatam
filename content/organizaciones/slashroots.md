@@ -20,6 +20,6 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sin Nombre](/i/sin-nombre.html)
-- [Code For The Caribbean](/i/code-for-the-caribbean.html)
-- [Harvest Api](/i/harvest-api.html)
+- [Sin Nombre](/proyectos/sin-nombre)
+- [Code For The Caribbean](/proyectos/code-for-the-caribbean)
+- [Harvest Api](/proyectos/harvest-api)

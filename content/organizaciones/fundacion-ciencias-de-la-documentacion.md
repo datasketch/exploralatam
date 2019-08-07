@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Tecnología Social](/i/tecnologia-social.html)
+- [Tecnología Social](/proyectos/tecnologia-social)

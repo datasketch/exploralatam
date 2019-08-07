@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Tapamihueco](/i/tapamihueco.html)
+- [Tapamihueco](/proyectos/tapamihueco)

@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Laboratorio De Movilidad](/i/laboratorio-de-movilidad.html)
+- [Laboratorio De Movilidad](/proyectos/laboratorio-de-movilidad)

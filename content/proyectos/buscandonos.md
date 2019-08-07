@@ -18,5 +18,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Este País, A.C.](/i/este-pais-a-c.html)
-- [Animal S. De R.L. De C.V](/i/animal-s-de-r-l-de-c-v.html)
+- [Este País, A.C.](/organizaciones/este-pais-a-c)
+- [Animal S. De R.L. De C.V](/organizaciones/animal-s-de-r-l-de-c-v)

@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Gagpol Colombia](/i/gagpol-colombia.html)
+- [Gagpol Colombia](/proyectos/gagpol-colombia)

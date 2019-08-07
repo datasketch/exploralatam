@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Postdata Club](/i/postdata-club-cuba.html)
+- [Postdata Club](/organizaciones/postdata-club-cuba)

@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto De Estudios Del Trabajo -Inet-](/i/instituto-de-estudios-del-trabajo-inet.html)
-- [Central Del Movimiento De Trabajadores Costarricenses -Cmtc-](/i/central-del-movimiento-de-trabajadores-costarricenses-cmtc.html)
+- [Instituto De Estudios Del Trabajo -Inet-](/organizaciones/instituto-de-estudios-del-trabajo-inet)
+- [Central Del Movimiento De Trabajadores Costarricenses -Cmtc-](/organizaciones/central-del-movimiento-de-trabajadores-costarricenses-cmtc)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Diario La Nación](/i/diario-la-nacion.html)
+- [Diario La Nación](/organizaciones/diario-la-nacion)

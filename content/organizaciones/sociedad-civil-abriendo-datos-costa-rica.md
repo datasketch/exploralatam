@@ -20,5 +20,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Atisbando El Bus](/i/atisbando-el-bus.html)
-- [Tour Virtual De Parques Nacionales De Costa Rica](/i/tour-virtual-de-parques-nacionales-de-costa-rica.html)
+- [Atisbando El Bus](/proyectos/atisbando-el-bus)
+- [Tour Virtual De Parques Nacionales De Costa Rica](/proyectos/tour-virtual-de-parques-nacionales-de-costa-rica)

@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Bolivia Mapa De Inverson Publica](/i/bolivia-mapa-de-inverson-publica.html)
+- [Bolivia Mapa De Inverson Publica](/proyectos/bolivia-mapa-de-inverson-publica)

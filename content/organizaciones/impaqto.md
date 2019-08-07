@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Mi Emprendimiento Abierto](/i/mi-emprendimiento-abierto.html)
+- [Mi Emprendimiento Abierto](/proyectos/mi-emprendimiento-abierto)

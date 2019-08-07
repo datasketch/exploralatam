@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Socioambiental](/i/instituto-socioambiental.html)
+- [Instituto Socioambiental](/organizaciones/instituto-socioambiental)

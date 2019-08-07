@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Convoca](/i/convoca.html)
+- [Convoca](/organizaciones/convoca)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/infodf.html)
+- [X](/organizaciones/infodf)

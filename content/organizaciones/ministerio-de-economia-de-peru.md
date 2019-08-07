@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Consulta Amigable](/i/consulta-amigable.html)
+- [Consulta Amigable](/proyectos/consulta-amigable)

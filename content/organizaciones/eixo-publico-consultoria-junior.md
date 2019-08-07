@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Ligando Os Pontos](/i/ligando-os-pontos.html)
+- [Ligando Os Pontos](/proyectos/ligando-os-pontos)

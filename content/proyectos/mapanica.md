@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Openstreetmap Nicaragua](/i/openstreetmap-nicaragua.html)
+- [Openstreetmap Nicaragua](/organizaciones/openstreetmap-nicaragua)

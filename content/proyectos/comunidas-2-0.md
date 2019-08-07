@@ -18,6 +18,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Red Argentina Para La Cooperacio´N Internacional (Raci)](/i/red-argentina-para-la-cooperacio-n-internacional-raci.html)
-- [Grupo Faro](/i/grupo-faro.html)
-- [Jóvenes Contra La Violencia/Centroamérica](/i/jovenes-contra-la-violencia-centroamerica.html)
+- [Red Argentina Para La Cooperacio´N Internacional (Raci)](/organizaciones/red-argentina-para-la-cooperacio-n-internacional-raci)
+- [Grupo Faro](/organizaciones/grupo-faro)
+- [Jóvenes Contra La Violencia/Centroamérica](/organizaciones/jovenes-contra-la-violencia-centroamerica)

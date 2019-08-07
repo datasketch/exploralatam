@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Combate A La Pobreza Multidimensional Mediante Alianzas Público Privadas](/i/combate-a-la-pobreza-multidimensional-mediante-alianzas-publico-privadas.html)
+- [Combate A La Pobreza Multidimensional Mediante Alianzas Público Privadas](/proyectos/combate-a-la-pobreza-multidimensional-mediante-alianzas-publico-privadas)

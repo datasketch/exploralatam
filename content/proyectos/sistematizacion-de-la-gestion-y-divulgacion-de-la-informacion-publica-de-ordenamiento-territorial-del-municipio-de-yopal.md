@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Municipio De Yopal](/i/municipio-de-yopal.html)
+- [Municipio De Yopal](/organizaciones/municipio-de-yopal)

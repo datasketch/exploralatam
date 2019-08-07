@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Plaza Pública](/i/plaza-publica.html)
+- [Plaza Pública](/organizaciones/plaza-publica)

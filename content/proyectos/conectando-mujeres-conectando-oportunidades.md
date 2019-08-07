@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Mkk Group](/i/mkk-group.html)
+- [Mkk Group](/organizaciones/mkk-group)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cide](/i/cide.html)
+- [Cide](/organizaciones/cide)

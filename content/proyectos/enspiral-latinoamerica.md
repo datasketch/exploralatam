@@ -18,5 +18,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Pictórica Comunicações S/C Ltda](/i/pictorica-comunicacoes-s-c-ltda.html)
-- [Loomio Cooperative Limited](/i/loomio-cooperative-limited.html)
+- [Pictórica Comunicações S/C Ltda](/organizaciones/pictorica-comunicacoes-s-c-ltda)
+- [Loomio Cooperative Limited](/organizaciones/loomio-cooperative-limited)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/open-knowledge.html)
+- [X](/organizaciones/open-knowledge)

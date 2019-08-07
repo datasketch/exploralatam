@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Mapas Coletivos](/i/mapas-coletivos.html)
+- [Mapas Coletivos](/proyectos/mapas-coletivos)

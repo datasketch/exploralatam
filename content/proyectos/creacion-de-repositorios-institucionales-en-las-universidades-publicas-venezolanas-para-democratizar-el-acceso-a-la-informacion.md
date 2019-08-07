@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Asociación Nacional De Directores De Bibliotecas, Redes Y Servicios De Información Del Sector Académico, Universitario Y De Investigación (Anabisai)](/i/asociacion-nacional-de-directores-de-bibliotecas-redes-y-servicios-de-informacion-del-sector-academico-universitario-y-de-investigacion-anabisai.html)
+- [Asociación Nacional De Directores De Bibliotecas, Redes Y Servicios De Información Del Sector Académico, Universitario Y De Investigación (Anabisai)](/organizaciones/asociacion-nacional-de-directores-de-bibliotecas-redes-y-servicios-de-informacion-del-sector-academico-universitario-y-de-investigacion-anabisai)

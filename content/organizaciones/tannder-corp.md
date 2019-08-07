@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Tannder, Educación Virtual Al Alcance De Todos](/i/tannder-educacion-virtual-al-alcance-de-todos.html)
+- [Tannder, Educación Virtual Al Alcance De Todos](/proyectos/tannder-educacion-virtual-al-alcance-de-todos)

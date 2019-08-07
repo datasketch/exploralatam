@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Entre Vecinos](/i/entre-vecinos.html)
+- [Entre Vecinos](/proyectos/entre-vecinos)

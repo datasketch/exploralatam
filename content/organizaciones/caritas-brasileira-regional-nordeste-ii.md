@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Social Games: Energía Eólica: Energía Limpia Para Quién?](/i/social-games-energia-eolica-energia-limpia-para-quien.html)
+- [Social Games: Energía Eólica: Energía Limpia Para Quién?](/proyectos/social-games-energia-eolica-energia-limpia-para-quien)

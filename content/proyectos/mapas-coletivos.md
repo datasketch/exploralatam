@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Mapas Coletivos](/i/mapas-coletivos.html)
-- [Instituto Sincronicidade Para A Interação Social (Ispis)](/i/instituto-sincronicidade-para-a-interacão-social-ispis.html)
+- [Mapas Coletivos](/organizaciones/mapas-coletivos)
+- [Instituto Sincronicidade Para A Interação Social (Ispis)](/organizaciones/instituto-sincronicidade-para-a-interacão-social-ispis)

@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Portales Para El Ciudadano](/i/portales-para-el-ciudadano.html)
+- [Portales Para El Ciudadano](/proyectos/portales-para-el-ciudadano)

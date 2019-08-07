@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Acción Ciudadana](/i/accion-ciudadana.html)
+- [Acción Ciudadana](/organizaciones/accion-ciudadana)

@@ -26,7 +26,7 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Experimentos Tecnológicos Locales](/i/experimentos-tecnologicos-locales.html)
-- [Experimentos Locales](/i/experimentos-locales.html)
-- [Sin Nombre](/i/sin-nombre.html)
-- [Plataforma Pro Municipio](/i/plataforma-pro-municipio.html)
+- [Experimentos Tecnológicos Locales](/proyectos/experimentos-tecnologicos-locales)
+- [Experimentos Locales](/proyectos/experimentos-locales)
+- [Sin Nombre](/proyectos/sin-nombre)
+- [Plataforma Pro Municipio](/proyectos/plataforma-pro-municipio)

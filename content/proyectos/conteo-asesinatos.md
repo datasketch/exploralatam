@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/strategia-electoral.html)
+- [X](/organizaciones/strategia-electoral)

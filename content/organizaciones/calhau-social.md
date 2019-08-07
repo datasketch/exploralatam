@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Calhau Social](/i/calhau-social.html)
+- [Calhau Social](/proyectos/calhau-social)

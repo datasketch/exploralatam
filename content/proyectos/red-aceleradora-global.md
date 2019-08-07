@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Red Aceleradora Global](/i/red-aceleradora-global.html)
+- [Red Aceleradora Global](/organizaciones/red-aceleradora-global)

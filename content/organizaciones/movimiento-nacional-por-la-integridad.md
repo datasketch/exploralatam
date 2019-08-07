@@ -26,4 +26,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Ciudadano App](/i/ciudadano-app.html)
+- [Ciudadano App](/proyectos/ciudadano-app)

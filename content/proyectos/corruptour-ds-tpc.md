@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Datasketch](/i/datasketch.html)
+- [Datasketch](/organizaciones/datasketch)

@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Yeeko Inteligencia Colectiva](/i/yeeko-inteligencia-colectiva.html)
+- [Yeeko Inteligencia Colectiva](/proyectos/yeeko-inteligencia-colectiva)

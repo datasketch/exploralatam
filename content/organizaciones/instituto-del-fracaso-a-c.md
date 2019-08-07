@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Open Failure](/i/open-failure.html)
+- [Open Failure](/proyectos/open-failure)

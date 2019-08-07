@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Yo Propongo](/i/yo-propongo.html)
+- [Yo Propongo](/proyectos/yo-propongo)

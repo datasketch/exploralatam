@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Chapi - Poder Ciudadano](/i/chapi-poder-ciudadano.html)
+- [Chapi - Poder Ciudadano](/proyectos/chapi-poder-ciudadano)

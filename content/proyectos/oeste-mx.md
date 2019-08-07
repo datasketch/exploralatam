@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Oeste.Mx](/i/oeste-mx.html)
+- [Oeste.Mx](/organizaciones/oeste-mx)

@@ -17,7 +17,7 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Núcleo De Estudos Em Inteligência, Gestão E Tecnologias Para Inovação (Igti)](/i/nucleo-de-estudos-em-inteligencia-gestão-e-tecnologias-para-inovacão-igti.html)
-- [Universidade Federal De Santa Catarina](/i/universidade-federal-de-santa-catarina.html)
-- [Centro Tecnológico (Ctc)](/i/centro-tecnologico-ctc.html)
-- [Departamento De Engenharia E Gestão Do Conhecimento (Degc)](/i/departamento-de-engenharia-e-gestão-do-conhecimento-degc.html)
+- [Núcleo De Estudos Em Inteligência, Gestão E Tecnologias Para Inovação (Igti)](/organizaciones/nucleo-de-estudos-em-inteligencia-gestão-e-tecnologias-para-inovacão-igti)
+- [Universidade Federal De Santa Catarina](/organizaciones/universidade-federal-de-santa-catarina)
+- [Centro Tecnológico (Ctc)](/organizaciones/centro-tecnologico-ctc)
+- [Departamento De Engenharia E Gestão Do Conhecimento (Degc)](/organizaciones/departamento-de-engenharia-e-gestão-do-conhecimento-degc)

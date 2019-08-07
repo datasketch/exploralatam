@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Chatbot Cívico Para El Fortalecimiento De La Gestión De Denuncias Ciudadanas En La Municipalidad De Quetzaltenango](/i/chatbot-civico-para-el-fortalecimiento-de-la-gestion-de-denuncias-ciudadanas-en-la-municipalidad-de-quetzaltenango.html)
+- [Chatbot Cívico Para El Fortalecimiento De La Gestión De Denuncias Ciudadanas En La Municipalidad De Quetzaltenango](/proyectos/chatbot-civico-para-el-fortalecimiento-de-la-gestion-de-denuncias-ciudadanas-en-la-municipalidad-de-quetzaltenango)

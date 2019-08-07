@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cristian Damián Cazón](/i/cristian-damian-cazon.html)
+- [Cristian Damián Cazón](/organizaciones/cristian-damian-cazon)

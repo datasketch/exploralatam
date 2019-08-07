@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro De Estudos Avançados De Promoção Social E Ambiental - Ceaps / Projeto Saúde & Alegria](/i/centro-de-estudos-avancados-de-promocão-social-e-ambiental-ceaps-projeto-saude-alegria.html)
+- [Centro De Estudos Avançados De Promoção Social E Ambiental - Ceaps / Projeto Saúde & Alegria](/organizaciones/centro-de-estudos-avancados-de-promocão-social-e-ambiental-ceaps-projeto-saude-alegria)

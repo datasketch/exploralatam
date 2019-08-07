@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Red Ciudadana](/i/red-ciudadana.html)
+- [Red Ciudadana](/organizaciones/red-ciudadana)

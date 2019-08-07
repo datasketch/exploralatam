@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Presidencia Del Consejo De Ministros](/i/presidencia-del-consejo-de-ministros.html)
+- [Presidencia Del Consejo De Ministros](/organizaciones/presidencia-del-consejo-de-ministros)

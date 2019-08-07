@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Invernaideas](/i/invernaideas.html)
+- [Invernaideas](/organizaciones/invernaideas)

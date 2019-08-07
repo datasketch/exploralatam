@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-21
+date_last_modified: 2019-07-29
 uid: wingu
 title: "Wingu"
 legal_name: 
@@ -28,14 +28,11 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Datarepública: Tecnología Y Datos Para El Desarrollo Sostenible En América Latina](/i/datarepublica-tecnologia-y-datos-para-el-desarrollo-sostenible-en-america-latina.html)
-- [Ruta De Las Medicinas](/i/ruta-de-las-medicinas.html)
-- [Caminos De La Villa](/i/caminos-de-la-villa.html)
-- [El Recorrido: Tecnología Ciudadana Para Mejorar La Detección Temprana Del Cáncer En El Sistema Público De Salud.](/i/el-recorrido-tecnologia-ciudadana-para-mejorar-la-deteccion-temprana-del-cancer-en-el-sistema-publico-de-salud.html)
-- [Relevamiento De Asentamientos Informales En Centro América](/i/relevamiento-de-asentamientos-informales-en-centro-america.html)
-- [Wingu](/i/wingu.html)
-- [Cdlv: El Monitor De Los Procesos De Urbanización De Villas](/i/cdlv-el-monitor-de-los-procesos-de-urbanizacion-de-villas.html)
-- [](/i/el-recorrido-tecnologia-ciudadana-para-mejorar-la-deteccion-temprana-del-cancer-en-el-sistema-publico-de-salud.html)
-- [](/i/ruta-de-las-medicinas.html)
-- [](/i/datarepublica-tecnologia-y-datos-para-el-desarrollo-sostenible-en-america-latina.html)
-- [Calculadora De La Desigualdad De Género](/i/calculadora-de-la-desigualdad-de-genero.html)
+- [Datarepública: Tecnología Y Datos Para El Desarrollo Sostenible En América Latina](/proyectos/datarepublica-tecnologia-y-datos-para-el-desarrollo-sostenible-en-america-latina)
+- [Ruta De Las Medicinas](/proyectos/ruta-de-las-medicinas)
+- [Caminos De La Villa](/proyectos/caminos-de-la-villa)
+- [El Recorrido: Tecnología Ciudadana Para Mejorar La Detección Temprana Del Cáncer En El Sistema Público De Salud.](/proyectos/el-recorrido-tecnologia-ciudadana-para-mejorar-la-deteccion-temprana-del-cancer-en-el-sistema-publico-de-salud)
+- [Relevamiento De Asentamientos Informales En Centro América](/proyectos/relevamiento-de-asentamientos-informales-en-centro-america)
+- [Wingu](/proyectos/wingu)
+- [Cdlv: El Monitor De Los Procesos De Urbanización De Villas](/proyectos/cdlv-el-monitor-de-los-procesos-de-urbanizacion-de-villas)
+- [Calculadora De La Desigualdad De Género](/proyectos/calculadora-de-la-desigualdad-de-genero)

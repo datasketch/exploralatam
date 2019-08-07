@@ -19,5 +19,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Od500Mx.](/i/od500mx.html)
-- [Estrategia Digital Nacional De Datos Abiertos](/i/estrategia-digital-nacional-de-datos-abiertos.html)
+- [Od500Mx.](/proyectos/od500mx)
+- [Estrategia Digital Nacional De Datos Abiertos](/proyectos/estrategia-digital-nacional-de-datos-abiertos)

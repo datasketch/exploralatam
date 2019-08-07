@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Desarrollo Social Lealtad Chile](/i/fundacion-desarrollo-social-lealtad-chile.html)
+- [Fundación Desarrollo Social Lealtad Chile](/organizaciones/fundacion-desarrollo-social-lealtad-chile)

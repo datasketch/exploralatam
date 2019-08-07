@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fáctico](/i/factico.html)
+- [Fáctico](/organizaciones/factico)

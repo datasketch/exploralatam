@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto De Liderazgo Simone De Beauvoir A.C.](/i/instituto-de-liderazgo-simone-de-beauvoir-a-c.html)
+- [Instituto De Liderazgo Simone De Beauvoir A.C.](/organizaciones/instituto-de-liderazgo-simone-de-beauvoir-a-c)

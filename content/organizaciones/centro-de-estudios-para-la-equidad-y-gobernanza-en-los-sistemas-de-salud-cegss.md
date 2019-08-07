@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma De Vigilancia Ciudadana](/i/plataforma-de-vigilancia-ciudadana.html)
+- [Plataforma De Vigilancia Ciudadana](/proyectos/plataforma-de-vigilancia-ciudadana)

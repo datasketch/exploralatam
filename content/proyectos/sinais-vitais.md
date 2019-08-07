@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Icom - Instituto Comunitário Grande Florianópolis](/i/icom-instituto-comunitario-grande-florianopolis.html)
-- [Tekis Tecnologia Avançadas Ltda.](/i/tekis-tecnologia-avancadas-ltda.html)
+- [Icom - Instituto Comunitário Grande Florianópolis](/organizaciones/icom-instituto-comunitario-grande-florianopolis)
+- [Tekis Tecnologia Avançadas Ltda.](/organizaciones/tekis-tecnologia-avancadas-ltda)

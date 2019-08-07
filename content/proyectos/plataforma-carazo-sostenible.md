@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Core Systems](/i/core-systems.html)
-- [Fundación Nicaragüense Para La Defensa Del Medio Ambiente Y Protección De Los Recursos Naturales (Fundenatura)](/i/fundacion-nicaraguense-para-la-defensa-del-medio-ambiente-y-proteccion-de-los-recursos-naturales-fundenatura.html)
+- [Core Systems](/organizaciones/core-systems)
+- [Fundación Nicaragüense Para La Defensa Del Medio Ambiente Y Protección De Los Recursos Naturales (Fundenatura)](/organizaciones/fundacion-nicaraguense-para-la-defensa-del-medio-ambiente-y-proteccion-de-los-recursos-naturales-fundenatura)

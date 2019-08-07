@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Codium](/i/codium.html)
-- [Mingarã. Asociación Para El Desarrollo Sustentable](/i/mingarã-asociacion-para-el-desarrollo-sustentable.html)
+- [Codium](/organizaciones/codium)
+- [Mingarã. Asociación Para El Desarrollo Sustentable](/organizaciones/mingarã-asociacion-para-el-desarrollo-sustentable)

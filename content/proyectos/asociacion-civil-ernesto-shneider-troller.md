@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Asociación Civil Ernesto Shneider Troller](/i/asociacion-civil-ernesto-shneider-troller.html)
+- [Asociación Civil Ernesto Shneider Troller](/organizaciones/asociacion-civil-ernesto-shneider-troller)

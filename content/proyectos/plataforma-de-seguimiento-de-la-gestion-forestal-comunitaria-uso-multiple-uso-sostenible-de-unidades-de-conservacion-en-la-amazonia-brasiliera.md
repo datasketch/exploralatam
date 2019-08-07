@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Floresta Tropical](/i/instituto-floresta-tropical.html)
+- [Instituto Floresta Tropical](/organizaciones/instituto-floresta-tropical)

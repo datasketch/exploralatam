@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Kiik. Plataforma Digital Para La Donación Altruista De Sangre.](/i/kiik-plataforma-digital-para-la-donacion-altruista-de-sangre.html)
+- [Kiik. Plataforma Digital Para La Donación Altruista De Sangre.](/proyectos/kiik-plataforma-digital-para-la-donacion-altruista-de-sangre)

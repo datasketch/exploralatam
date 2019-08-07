@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Ecomunidad](/i/fundacion-ecomunidad.html)
+- [Fundación Ecomunidad](/organizaciones/fundacion-ecomunidad)

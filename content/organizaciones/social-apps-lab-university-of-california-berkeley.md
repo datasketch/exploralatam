@@ -21,5 +21,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/civic-backoffice-plataforma-de-gestion-semi-automatica-de-la-innovacion-publica-y-la-participacion-ciudadana.html)
-- [Civic Backoffice: Plataforma De Gestión Semi-Automática De La Innovación Pública Y La Participación Ciudadana](/i/civic-backoffice-plataforma-de-gestion-semi-automatica-de-la-innovacion-publica-y-la-participacion-ciudadana.html)
+- [](/proyectos/civic-backoffice-plataforma-de-gestion-semi-automatica-de-la-innovacion-publica-y-la-participacion-ciudadana)
+- [Civic Backoffice: Plataforma De Gestión Semi-Automática De La Innovación Pública Y La Participación Ciudadana](/proyectos/civic-backoffice-plataforma-de-gestion-semi-automatica-de-la-innovacion-publica-y-la-participacion-ciudadana)

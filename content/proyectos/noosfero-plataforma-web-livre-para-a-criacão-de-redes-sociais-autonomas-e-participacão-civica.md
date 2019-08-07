@@ -21,6 +21,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Associação Software Livre.Org](/i/associacão-software-livre-org.html)
-- [Colivre - Cooperativa De Tecnologias Livres](/i/colivre-cooperativa-de-tecnologias-livres.html)
-- [Secretaria De Estado Dos Direitos Humanos E Participação Popular](/i/secretaria-de-estado-dos-direitos-humanos-e-participacão-popular.html)
+- [Associação Software Livre.Org](/organizaciones/associacão-software-livre-org)
+- [Colivre - Cooperativa De Tecnologias Livres](/organizaciones/colivre-cooperativa-de-tecnologias-livres)
+- [Secretaria De Estado Dos Direitos Humanos E Participação Popular](/organizaciones/secretaria-de-estado-dos-direitos-humanos-e-participacão-popular)

@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Blackbox Solutions Y Copropiedad](/i/blackbox-solutions-y-copropiedad.html)
+- [Blackbox Solutions Y Copropiedad](/organizaciones/blackbox-solutions-y-copropiedad)

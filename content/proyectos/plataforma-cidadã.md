@@ -16,5 +16,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Acecci - Associação Cearense De Combate À Corrupção E À Impunidade](/i/acecci-associacão-cearense-de-combate-a-corrupcão-e-a-impunidade.html)
-- [Instituto Banco Da Periferia - Palmas Lab](/i/instituto-banco-da-periferia-palmas-lab.html)
+- [Acecci - Associação Cearense De Combate À Corrupção E À Impunidade](/organizaciones/acecci-associacão-cearense-de-combate-a-corrupcão-e-a-impunidade)
+- [Instituto Banco Da Periferia - Palmas Lab](/organizaciones/instituto-banco-da-periferia-palmas-lab)

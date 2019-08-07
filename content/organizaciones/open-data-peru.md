@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Hackeo Al Gasto Electoral En Las Elecciones Subnacionales - Perú 2018](/i/hackeo-al-gasto-electoral-en-las-elecciones-subnacionales-peru-2018.html)
+- [Hackeo Al Gasto Electoral En Las Elecciones Subnacionales - Perú 2018](/proyectos/hackeo-al-gasto-electoral-en-las-elecciones-subnacionales-peru-2018)

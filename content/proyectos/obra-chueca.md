@@ -21,6 +21,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Ruta Cívica](/i/ruta-civica.html)
-- [VISUAL REPORTING TECHNOLOGIES, S. DE R.L. DE C.V.](/i/visual-reporting-technologies-s-de-r-l-de-c-v.html)
-- [Visual Reporting Technologies](/i/visual-reporting-technologies.html)
+- [Ruta Cívica](/organizaciones/ruta-civica)
+- [VISUAL REPORTING TECHNOLOGIES, S. DE R.L. DE C.V.](/organizaciones/visual-reporting-technologies-s-de-r-l-de-c-v)
+- [Visual Reporting Technologies](/organizaciones/visual-reporting-technologies)

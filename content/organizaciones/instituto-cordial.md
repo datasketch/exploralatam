@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Rede Cordial](/i/rede-cordial.html)
+- [Rede Cordial](/proyectos/rede-cordial)

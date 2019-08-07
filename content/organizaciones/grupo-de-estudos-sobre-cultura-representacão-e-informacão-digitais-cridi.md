@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Mapa Internacional De Instituições Arquivísticas (Archives World Map)](/i/mapa-internacional-de-instituicões-arquivisticas-archives-world-map.html)
+- [Mapa Internacional De Instituições Arquivísticas (Archives World Map)](/proyectos/mapa-internacional-de-instituicões-arquivisticas-archives-world-map)

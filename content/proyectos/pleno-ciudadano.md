@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Internet Of Government (Iog)](/i/internet-of-government-iog.html)
+- [Internet Of Government (Iog)](/organizaciones/internet-of-government-iog)

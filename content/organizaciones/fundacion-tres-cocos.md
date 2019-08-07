@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Tres Cocos: Análisis Digital Del Realismo Mágico.](/i/tres-cocos-analisis-digital-del-realismo-magico.html)
+- [Tres Cocos: Análisis Digital Del Realismo Mágico.](/proyectos/tres-cocos-analisis-digital-del-realismo-magico)

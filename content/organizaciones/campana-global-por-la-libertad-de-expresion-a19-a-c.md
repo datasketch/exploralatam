@@ -19,5 +19,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Observatorio De Publicidad Oficial](/i/observatorio-de-publicidad-oficial.html)
-- [Plataforma De Rendición De Cuentas De Servidores Públicos](/i/plataforma-de-rendicion-de-cuentas-de-servidores-publicos.html)
+- [Observatorio De Publicidad Oficial](/proyectos/observatorio-de-publicidad-oficial)
+- [Plataforma De Rendición De Cuentas De Servidores Públicos](/proyectos/plataforma-de-rendicion-de-cuentas-de-servidores-publicos)

@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Mi Concejo](/i/mi-concejo.html)
+- [Mi Concejo](/proyectos/mi-concejo)

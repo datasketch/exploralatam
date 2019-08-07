@@ -16,6 +16,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Wingu](/i/wingu.html)
-- [ACIJ - Asociación Civil por la Igualdad y la Justicia](/i/asociacion-civil-por-la-igualdad-y-la-justicia-arg.html)
-- [Avina Americas](/i/avina.html)
+- [Wingu](/organizaciones/wingu)
+- [ACIJ - Asociación Civil por la Igualdad y la Justicia](/organizaciones/asociacion-civil-por-la-igualdad-y-la-justicia-arg)
+- [Avina Americas](/organizaciones/avina)

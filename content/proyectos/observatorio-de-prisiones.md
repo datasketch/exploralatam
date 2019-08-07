@@ -17,5 +17,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Documenta: Análisis Y Acción Para La Justicia Social A.C.](/i/documenta-analisis-y-accion-para-la-justicia-social-a-c.html)
-- [Visual Reporting Technologies](/i/visual-reporting-technologies.html)
+- [Documenta: Análisis Y Acción Para La Justicia Social A.C.](/organizaciones/documenta-analisis-y-accion-para-la-justicia-social-a-c)
+- [Visual Reporting Technologies](/organizaciones/visual-reporting-technologies)

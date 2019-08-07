@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Carla Barbedo Zorzanelli](/i/carla-barbedo-zorzanelli.html)
+- [Carla Barbedo Zorzanelli](/organizaciones/carla-barbedo-zorzanelli)

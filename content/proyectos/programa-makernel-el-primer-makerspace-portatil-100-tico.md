@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Costa Rica Para La Innovación](/i/fundacion-costa-rica-para-la-innovacion.html)
+- [Fundación Costa Rica Para La Innovación](/organizaciones/fundacion-costa-rica-para-la-innovacion)

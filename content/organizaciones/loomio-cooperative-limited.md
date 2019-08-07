@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Enspiral Latinoamerica](/i/enspiral-latinoamerica.html)
+- [Enspiral Latinoamerica](/proyectos/enspiral-latinoamerica)

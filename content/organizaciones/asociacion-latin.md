@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Latin - Iniciativa Latinoamericana De Tecnologías Y Recursos Abiertos Para La Educación](/i/latin-iniciativa-latinoamericana-de-tecnologias-y-recursos-abiertos-para-la-educacion.html)
+- [Latin - Iniciativa Latinoamericana De Tecnologías Y Recursos Abiertos Para La Educación](/proyectos/latin-iniciativa-latinoamericana-de-tecnologias-y-recursos-abiertos-para-la-educacion)

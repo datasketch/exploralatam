@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Startup Rei](/i/startup-rei.html)
+- [Startup Rei](/proyectos/startup-rei)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Repórter Brasil](/i/reporter-brasil.html)
+- [Repórter Brasil](/organizaciones/reporter-brasil)

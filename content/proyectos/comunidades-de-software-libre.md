@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Comunidades De Software Libre](/i/comunidades-de-software-libre.html)
+- [Comunidades De Software Libre](/organizaciones/comunidades-de-software-libre)

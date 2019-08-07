@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma De Participación Y Seguridad Ciudadana](/i/plataforma-de-participacion-y-seguridad-ciudadana.html)
+- [Plataforma De Participación Y Seguridad Ciudadana](/proyectos/plataforma-de-participacion-y-seguridad-ciudadana)

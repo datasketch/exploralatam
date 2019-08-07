@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Asociación Colectivo Mujeres Al Derecho](/i/asociacion-colectivo-mujeres-al-derecho.html)
+- [Asociación Colectivo Mujeres Al Derecho](/organizaciones/asociacion-colectivo-mujeres-al-derecho)

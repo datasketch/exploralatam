@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/que-si-cuente.html)
+- [X](/organizaciones/que-si-cuente)

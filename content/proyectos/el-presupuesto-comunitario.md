@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Committee For A Better New Orleans/Comité Por Una Mejor Nueva Orleans](/i/committee-for-a-better-new-orleans-comite-por-una-mejor-nueva-orleans.html)
+- [Committee For A Better New Orleans/Comité Por Una Mejor Nueva Orleans](/organizaciones/committee-for-a-better-new-orleans-comite-por-una-mejor-nueva-orleans)

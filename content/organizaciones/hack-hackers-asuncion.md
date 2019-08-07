@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Hack Hackers Asuncion](/i/hack-hackers-asuncion.html)
+- [Hack Hackers Asuncion](/proyectos/hack-hackers-asuncion)

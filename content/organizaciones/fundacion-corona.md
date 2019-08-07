@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-21
+date_last_modified: 2019-07-29
 uid: fundacion-corona
 title: "Fundación Corona"
 legal_name: 
@@ -23,6 +23,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/tecnologia-civica-para-una-sociedad-conectada-y-participativa.html)
-- [Ciudatos, Te Acerca A Tu Ciudad](/i/ciudatos-te-acerca-a-tu-ciudad.html)
-- [Tecnología Cívica Para Una Sociedad Conectada Y Participativa.](/i/tecnologia-civica-para-una-sociedad-conectada-y-participativa.html)
+- [Ciudatos, Te Acerca A Tu Ciudad](/proyectos/ciudatos-te-acerca-a-tu-ciudad)
+- [Tecnología Cívica Para Una Sociedad Conectada Y Participativa.](/proyectos/tecnologia-civica-para-una-sociedad-conectada-y-participativa)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Tigo](/i/tigo.html)
+- [Tigo](/organizaciones/tigo)

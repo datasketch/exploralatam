@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cicatal](/i/cicatal.html)
+- [Cicatal](/organizaciones/cicatal)

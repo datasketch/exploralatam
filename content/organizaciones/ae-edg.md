@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Asociación De Estudiantes De Escuela De Gobierno](/i/asociacion-de-estudiantes-de-escuela-de-gobierno.html)
+- [Asociación De Estudiantes De Escuela De Gobierno](/proyectos/asociacion-de-estudiantes-de-escuela-de-gobierno)

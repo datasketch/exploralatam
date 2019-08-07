@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Cordial](/i/instituto-cordial.html)
+- [Instituto Cordial](/organizaciones/instituto-cordial)

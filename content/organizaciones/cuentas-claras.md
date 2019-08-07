@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Cuentas Claras](/i/cuentas-claras.html)
+- [Cuentas Claras](/proyectos/cuentas-claras)

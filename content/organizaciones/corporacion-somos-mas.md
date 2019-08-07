@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Asamblea](/i/asamblea.html)
+- [Asamblea](/proyectos/asamblea)

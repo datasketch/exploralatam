@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Opendata.Py](/i/opendata-py.html)
+- [Opendata.Py](/organizaciones/opendata-py)

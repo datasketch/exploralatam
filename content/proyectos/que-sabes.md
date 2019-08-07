@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Data UY](/i/data-uy.html)
+- [Data UY](/organizaciones/data-uy)

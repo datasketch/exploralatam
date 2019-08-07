@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma Digital Do Livro \Aos Trancos E Barrancos: Como O Brasil Deu No Que Deu\", De Darcy Ribeiro"](/i/plataforma-digital-do-livro-aos-trancos-e-barrancos-como-o-brasil-deu-no-que-deu-de-darcy-ribeiro.html)
+- [Plataforma Digital Do Livro \Aos Trancos E Barrancos: Como O Brasil Deu No Que Deu\", De Darcy Ribeiro"](/proyectos/plataforma-digital-do-livro-aos-trancos-e-barrancos-como-o-brasil-deu-no-que-deu-de-darcy-ribeiro)

@@ -23,10 +23,10 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Dinheiro que dá em árvore](/i/dinheiro.html)
-- [Social Progress Index in the Amazon](/i/social-progress-amazon.html)
-- [Alerta de enchentes, Veja as previsões de volume para os rios da região amazônica](/i/alerta-de-enchentes.html)
-- [Alerta De Enchentes Na Amazônia](/i/alerta-de-enchentes-na-amazonia.html)
-- [Visaguas](/i/visaguas.html)
-- [A Política do Desmatamento](/i/politica-do-desmatamento.html)
-- [Costing Nature](/i/costing-nature.html)
+- [Dinheiro que dá em árvore](/proyectos/dinheiro)
+- [Social Progress Index in the Amazon](/proyectos/social-progress-amazon)
+- [Alerta de enchentes, Veja as previsões de volume para os rios da região amazônica](/proyectos/alerta-de-enchentes)
+- [Alerta De Enchentes Na Amazônia](/proyectos/alerta-de-enchentes-na-amazonia)
+- [Visaguas](/proyectos/visaguas)
+- [A Política do Desmatamento](/proyectos/politica-do-desmatamento)
+- [Costing Nature](/proyectos/costing-nature)

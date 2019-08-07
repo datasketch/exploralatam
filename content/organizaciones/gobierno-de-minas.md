@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Dataviva.Info](/i/dataviva-info.html)
+- [Dataviva.Info](/proyectos/dataviva-info)

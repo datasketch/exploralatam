@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Datalat](/i/datalat.html)
-- [Fundación Ciudadania Y Desarrollo](/i/fundacion-ciudadania-y-desarrollo.html)
+- [Datalat](/organizaciones/datalat)
+- [Fundación Ciudadania Y Desarrollo](/organizaciones/fundacion-ciudadania-y-desarrollo)

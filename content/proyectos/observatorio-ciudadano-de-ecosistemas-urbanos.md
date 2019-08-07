@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Kodevian Enterprise Software Solutions](/i/kodevian-enterprise-software-solutions.html)
-- [Centro Peruano Para La Resiliencia De Socioecosistemas Urbanos - Centro Urbes](/i/centro-peruano-para-la-resiliencia-de-socioecosistemas-urbanos-centro-urbes.html)
+- [Kodevian Enterprise Software Solutions](/organizaciones/kodevian-enterprise-software-solutions)
+- [Centro Peruano Para La Resiliencia De Socioecosistemas Urbanos - Centro Urbes](/organizaciones/centro-peruano-para-la-resiliencia-de-socioecosistemas-urbanos-centro-urbes)

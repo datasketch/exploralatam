@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Pides Innovación Social](/i/pides-innovacion-social.html)
+- [Pides Innovación Social](/organizaciones/pides-innovacion-social)

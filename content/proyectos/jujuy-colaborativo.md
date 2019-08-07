@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Dirección De Transparencia Y Gobierno Abierto De La Provincia De Jujuy](/i/direccion-de-transparencia-y-gobierno-abierto-de-la-provincia-de-jujuy.html)
-- [Cooperativa De Trabajo Tecnomática Limitada](/i/cooperativa-de-trabajo-tecnomatica-limitada.html)
+- [Dirección De Transparencia Y Gobierno Abierto De La Provincia De Jujuy](/organizaciones/direccion-de-transparencia-y-gobierno-abierto-de-la-provincia-de-jujuy)
+- [Cooperativa De Trabajo Tecnomática Limitada](/organizaciones/cooperativa-de-trabajo-tecnomatica-limitada)

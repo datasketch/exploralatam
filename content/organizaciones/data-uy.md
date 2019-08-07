@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-22
+date_last_modified: 2019-07-29
 uid: data-uy
 title: "Data UY"
 legal_name: 
@@ -13,13 +13,13 @@ twitter: https://twitter.com/DATAuy
 tags:
 
 cities: 
-  - Costa Rica
+  - Montevideo
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Por mi barrio](/i/por-mi-barrio.html)
-- [Plataforma Educación](/i/plataforma-educacion.html)
-- [¿Qué sabes?](/i/que-sabes.html)
-- [A tu servicio](/i/a-tu-servicio.html)
+- [Por mi barrio](/proyectos/por-mi-barrio)
+- [Plataforma Educación](/proyectos/plataforma-educacion)
+- [¿Qué sabes?](/proyectos/que-sabes)
+- [A tu servicio](/proyectos/a-tu-servicio)

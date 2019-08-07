@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Grupo De Investigación De Sistemas Basados En El Conocimiento - Universidad Técnica Particular De Loja](/i/grupo-de-investigacion-de-sistemas-basados-en-el-conocimiento-universidad-tecnica-particular-de-loja.html)
+- [Grupo De Investigación De Sistemas Basados En El Conocimiento - Universidad Técnica Particular De Loja](/organizaciones/grupo-de-investigacion-de-sistemas-basados-en-el-conocimiento-universidad-tecnica-particular-de-loja)

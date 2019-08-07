@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-21
+date_last_modified: 2019-07-29
 uid: cainfo
 title: "Cainfo"
 legal_name: 
@@ -21,7 +21,6 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Análisis De Portales De Datos Abiertos Gubernamentales,Análisis De Portales De Datos Abiertos Gubernamentales (Segunda Carga Con La Metodología. En La Anterior Aplicación No La Llegamos A Cargar)](/i/analisis-de-portales-de-datos-abiertos-gubernamentales,analisis-de-portales-de-datos-abiertos-gubernamentales-segunda-carga-con-la-metodologia-en-la-anterior-aplicacion-no-la-llegamos-a-cargar.html)
-- [Quesabes.Uy](/i/quesabes-uy.html)
-- [Sin Nombre](/i/sin-nombre.html)
-- [](/i/analisis-de-portales-de-datos-abiertos-gubernamentales-segunda-carga-con-la-metodologia-en-la-anterior-aplicacion-no-la-llegamos-a-cargar.html)
+- [Análisis De Portales De Datos Abiertos Gubernamentales,Análisis De Portales De Datos Abiertos Gubernamentales (Segunda Carga Con La Metodología. En La Anterior Aplicación No La Llegamos A Cargar)](/proyectos/analisis-de-portales-de-datos-abiertos-gubernamentales,analisis-de-portales-de-datos-abiertos-gubernamentales-segunda-carga-con-la-metodologia-en-la-anterior-aplicacion-no-la-llegamos-a-cargar)
+- [Quesabes.Uy](/proyectos/quesabes-uy)
+- [Sin Nombre](/proyectos/sin-nombre)

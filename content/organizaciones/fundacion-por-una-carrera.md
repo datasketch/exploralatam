@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Buscador De Becas Online](/i/buscador-de-becas-online.html)
+- [Buscador De Becas Online](/proyectos/buscador-de-becas-online)

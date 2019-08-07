@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Mascultura.Pe](/i/mascultura-pe.html)
+- [Mascultura.Pe](/proyectos/mascultura-pe)

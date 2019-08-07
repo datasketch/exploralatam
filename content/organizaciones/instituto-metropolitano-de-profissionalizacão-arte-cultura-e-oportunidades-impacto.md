@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Lupa Dca](/i/lupa-dca.html)
+- [Lupa Dca](/proyectos/lupa-dca)

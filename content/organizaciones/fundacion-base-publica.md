@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma De Participación](/i/plataforma-de-participacion.html)
+- [Plataforma De Participación](/proyectos/plataforma-de-participacion)

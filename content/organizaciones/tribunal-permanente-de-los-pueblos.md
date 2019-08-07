@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Tpp](/i/tpp.html)
+- [Tpp](/proyectos/tpp)

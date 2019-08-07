@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Vendata](/i/vendata.html)
+- [Vendata](/organizaciones/vendata)

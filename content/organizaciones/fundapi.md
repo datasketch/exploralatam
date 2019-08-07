@@ -24,6 +24,6 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Arteria: Activa, Responde, Transforma.](/i/arteria-activa-responde-transforma.html)
-- [](/i/.html)
-- [Concejo Abierto](/i/concejo-abierto.html)
+- [Arteria: Activa, Responde, Transforma.](/proyectos/arteria-activa-responde-transforma)
+- [](/proyectos/)
+- [Concejo Abierto](/proyectos/concejo-abierto)

@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Crear Un Centro De Atencion Ciudadana Online Y Semipresencial](/i/crear-un-centro-de-atencion-ciudadana-online-y-semipresencial.html)
+- [Crear Un Centro De Atencion Ciudadana Online Y Semipresencial](/proyectos/crear-un-centro-de-atencion-ciudadana-online-y-semipresencial)

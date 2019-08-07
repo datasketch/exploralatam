@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Ciudad Viva](/i/ciudad-viva.html)
+- [Ciudad Viva](/organizaciones/ciudad-viva)

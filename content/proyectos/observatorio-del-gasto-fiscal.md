@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Universidad De Santiago De Chile, Facultad De Administración Y Economía](/i/universidad-de-santiago-de-chile-facultad-de-administracion-y-economia.html)
-- [Fundación Contexto Ciudadano](/i/fundacion-contexto-ciudadano.html)
+- [Universidad De Santiago De Chile, Facultad De Administración Y Economía](/organizaciones/universidad-de-santiago-de-chile-facultad-de-administracion-y-economia)
+- [Fundación Contexto Ciudadano](/organizaciones/fundacion-contexto-ciudadano)

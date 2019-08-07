@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Corporación Seamos - Democracia Digital](/i/corporacion-seamos-democracia-digital.html)
+- [Corporación Seamos - Democracia Digital](/organizaciones/corporacion-seamos-democracia-digital)

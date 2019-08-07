@@ -20,5 +20,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/observadores-de-comunicacion-ciudadana.html)
-- [Sistema De Información Territorial Prodepaz,Observadores De Comunicación Ciudadana](/i/sistema-de-informacion-territorial-prodepaz,observadores-de-comunicacion-ciudadana.html)
+- [](/proyectos/observadores-de-comunicacion-ciudadana)
+- [Sistema De Información Territorial Prodepaz,Observadores De Comunicación Ciudadana](/proyectos/sistema-de-informacion-territorial-prodepaz,observadores-de-comunicacion-ciudadana)

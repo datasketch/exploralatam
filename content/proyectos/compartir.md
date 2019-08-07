@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cieds - Centro Integrado De Estudos E Programas De Desenvolvimento Sustentável](/i/cieds-centro-integrado-de-estudos-e-programas-de-desenvolvimento-sustentavel.html)
+- [Cieds - Centro Integrado De Estudos E Programas De Desenvolvimento Sustentável](/organizaciones/cieds-centro-integrado-de-estudos-e-programas-de-desenvolvimento-sustentavel)

@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Observatorio Ciudadano De Ecosistemas Urbanos](/i/observatorio-ciudadano-de-ecosistemas-urbanos.html)
+- [Observatorio Ciudadano De Ecosistemas Urbanos](/proyectos/observatorio-ciudadano-de-ecosistemas-urbanos)

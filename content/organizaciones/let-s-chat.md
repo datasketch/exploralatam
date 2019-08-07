@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Let'S Chat](/i/let-s-chat.html)
+- [Let'S Chat](/proyectos/let-s-chat)

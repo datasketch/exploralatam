@@ -20,7 +20,7 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Hecha La Ley](/i/hecha-la-ley.html)
-- [Partido De La Red](/i/partido-de-la-red.html)
-- [Democracy Os](/i/democracy-os.html)
-- [Democracyos - Por Democracia En Red](/i/democracyos-por-democracia-en-red.html)
+- [Hecha La Ley](/proyectos/hecha-la-ley)
+- [Partido De La Red](/proyectos/partido-de-la-red)
+- [Democracy Os](/proyectos/democracy-os)
+- [Democracyos - Por Democracia En Red](/proyectos/democracyos-por-democracia-en-red)

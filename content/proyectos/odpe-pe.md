@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Odpe.Pe](/i/odpe-pe.html)
+- [Odpe.Pe](/organizaciones/odpe-pe)

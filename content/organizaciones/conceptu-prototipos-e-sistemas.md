@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plp 2.0 - Tecnología Social En El Enfrentamiento A La Violencia Contra Las Mujeres](/i/plp-2-0-tecnologia-social-en-el-enfrentamiento-a-la-violencia-contra-las-mujeres.html)
+- [Plp 2.0 - Tecnología Social En El Enfrentamiento A La Violencia Contra Las Mujeres](/proyectos/plp-2-0-tecnologia-social-en-el-enfrentamiento-a-la-violencia-contra-las-mujeres)

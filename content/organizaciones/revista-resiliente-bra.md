@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Apatridas de Brasil](/i/apatridas-no-brasil.html)
+- [Apatridas de Brasil](/proyectos/apatridas-no-brasil)

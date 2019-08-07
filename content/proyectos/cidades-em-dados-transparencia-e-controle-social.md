@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [AppCivico - EOKOE SOLUÇÕES TECNOLÓGICAS LTDA](/i/appcivico-eokoe-solucoes-tecnologicas.html)
-- [World Resources Institute Brasil - Wri Brasil](/i/world-resources-institute-brasil-wri-brasil.html)
+- [AppCivico - EOKOE SOLUÇÕES TECNOLÓGICAS LTDA](/organizaciones/appcivico-eokoe-solucoes-tecnologicas)
+- [World Resources Institute Brasil - Wri Brasil](/organizaciones/world-resources-institute-brasil-wri-brasil)

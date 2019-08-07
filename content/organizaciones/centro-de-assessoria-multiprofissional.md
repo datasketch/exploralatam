@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma Fazer Solidário: Conectando Práticas Econômicas Alternativas](/i/plataforma-fazer-solidario-conectando-praticas-economicas-alternativas.html)
+- [Plataforma Fazer Solidário: Conectando Práticas Econômicas Alternativas](/proyectos/plataforma-fazer-solidario-conectando-praticas-economicas-alternativas)

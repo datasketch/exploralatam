@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [InfoAmazonía](/i/infoamazonia.html)
+- [InfoAmazonía](/organizaciones/infoamazonia)

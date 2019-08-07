@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Abrepuertorico](/i/abrepuertorico.html)
+- [Abrepuertorico](/organizaciones/abrepuertorico)

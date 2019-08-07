@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Ideales Soluciones  Sociales](/i/ideales-soluciones-sociales.html)
+- [Ideales Soluciones  Sociales](/organizaciones/ideales-soluciones-sociales)

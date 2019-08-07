@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Movimiento Nacional Por La Integridad](/i/movimiento-nacional-por-la-integridad.html)
+- [Movimiento Nacional Por La Integridad](/organizaciones/movimiento-nacional-por-la-integridad)

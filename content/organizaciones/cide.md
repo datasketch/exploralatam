@@ -19,5 +19,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Biiacs](/i/biiacs.html)
-- [Sin Nombre](/i/sin-nombre.html)
+- [Biiacs](/proyectos/biiacs)
+- [Sin Nombre](/proyectos/sin-nombre)

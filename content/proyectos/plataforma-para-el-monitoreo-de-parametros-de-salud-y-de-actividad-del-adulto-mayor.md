@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [ATRELAR S.A. (DynamizeIT)](/i/atrelar-s-a-dynamizeit.html)
+- [ATRELAR S.A. (DynamizeIT)](/organizaciones/atrelar-s-a-dynamizeit)

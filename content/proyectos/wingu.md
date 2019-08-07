@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Wingu](/i/wingu.html)
+- [Wingu](/organizaciones/wingu)

@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Verto Technology Corp](/i/verto-technology-corp.html)
+- [Verto Technology Corp](/organizaciones/verto-technology-corp)

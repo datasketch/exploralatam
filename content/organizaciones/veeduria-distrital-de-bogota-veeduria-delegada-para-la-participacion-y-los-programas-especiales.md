@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Mi Compromiso Con Bogotá](/i/mi-compromiso-con-bogota.html)
+- [Mi Compromiso Con Bogotá](/proyectos/mi-compromiso-con-bogota)

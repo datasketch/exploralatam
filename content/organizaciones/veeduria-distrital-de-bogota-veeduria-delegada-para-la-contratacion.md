@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Veedor De Obras](/i/veedor-de-obras.html)
+- [Veedor De Obras](/proyectos/veedor-de-obras)

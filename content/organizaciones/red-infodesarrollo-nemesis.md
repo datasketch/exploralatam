@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-24
+date_last_modified: 2019-07-29
 uid: red-infodesarrollo-nemesis
 title: "Red Infodesarrollo - Némesis"
 legal_name: 
@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+  - Quito
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/intercambio-de-confianza.html)
+- [](/proyectos/intercambio-de-confianza)

@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Fortalecimiento Civico Y Comunitario Por Expertos Sociales](/i/fortalecimiento-civico-y-comunitario-por-expertos-sociales.html)
+- [Fortalecimiento Civico Y Comunitario Por Expertos Sociales](/proyectos/fortalecimiento-civico-y-comunitario-por-expertos-sociales)

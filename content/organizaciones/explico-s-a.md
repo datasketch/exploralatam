@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Micongreso](/i/micongreso.html)
+- [Micongreso](/proyectos/micongreso)

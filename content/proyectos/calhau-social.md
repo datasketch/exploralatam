@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Calhau Social](/i/calhau-social.html)
+- [Calhau Social](/organizaciones/calhau-social)

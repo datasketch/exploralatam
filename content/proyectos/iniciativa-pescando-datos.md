@@ -21,5 +21,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [The Engine Room](/i/the-engine-room.html)
-- [Causa Natura](/i/causa-natura.html)
+- [The Engine Room](/organizaciones/the-engine-room)
+- [Causa Natura](/organizaciones/causa-natura)

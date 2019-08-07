@@ -16,5 +16,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Ciudadanía Inteligente](/i/ciudadania-inteligente.html)
-- [Facultad De Comunicaciones De La Universidad Pontifica De Chile](/i/facultad-de-comunicaciones-de-la-universidad-pontifica-de-chile.html)
+- [Ciudadanía Inteligente](/organizaciones/ciudadania-inteligente)
+- [Facultad De Comunicaciones De La Universidad Pontifica De Chile](/organizaciones/facultad-de-comunicaciones-de-la-universidad-pontifica-de-chile)

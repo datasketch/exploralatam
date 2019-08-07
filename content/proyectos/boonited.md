@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Todavia No Fue Creada Una Empresa](/i/todavia-no-fue-creada-una-empresa.html)
+- [Todavia No Fue Creada Una Empresa](/organizaciones/todavia-no-fue-creada-una-empresa)

@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Ojovaldivia.Cl Denuncia Y Articulación Ciudadana En Línea](/i/ojovaldivia-cl-denuncia-y-articulacion-ciudadana-en-linea.html)
+- [Ojovaldivia.Cl Denuncia Y Articulación Ciudadana En Línea](/proyectos/ojovaldivia-cl-denuncia-y-articulacion-ciudadana-en-linea)

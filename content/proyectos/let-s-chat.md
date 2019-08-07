@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Let'S Chat](/i/let-s-chat.html)
+- [Let'S Chat](/organizaciones/let-s-chat)

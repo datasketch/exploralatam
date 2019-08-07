@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Abre Puerto Rico](/i/abre-puerto-rico.html)
+- [Abre Puerto Rico](/proyectos/abre-puerto-rico)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/ojo-con-mi-pisto.html)
+- [X](/organizaciones/ojo-con-mi-pisto)

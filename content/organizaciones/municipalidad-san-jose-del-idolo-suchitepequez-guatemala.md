@@ -25,4 +25,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Desarrollos Territoriales Rurales Municipales Auto Sostenibles](/i/desarrollos-territoriales-rurales-municipales-auto-sostenibles.html)
+- [Desarrollos Territoriales Rurales Municipales Auto Sostenibles](/proyectos/desarrollos-territoriales-rurales-municipales-auto-sostenibles)

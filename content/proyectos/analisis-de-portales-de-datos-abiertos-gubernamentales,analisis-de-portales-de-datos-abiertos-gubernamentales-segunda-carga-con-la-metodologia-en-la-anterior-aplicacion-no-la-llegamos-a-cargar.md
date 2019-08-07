@@ -20,6 +20,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Conocimiento Abierto](/i/fundacion-conocimiento-abierto.html)
-- [Cainfo](/i/cainfo.html)
-- [Dirección De Gobierno Abierto Y Datos Abiertos](/i/direccion-de-gobierno-abierto-y-datos-abiertos.html)
+- [Fundación Conocimiento Abierto](/organizaciones/fundacion-conocimiento-abierto)
+- [Cainfo](/organizaciones/cainfo)
+- [Dirección De Gobierno Abierto Y Datos Abiertos](/organizaciones/direccion-de-gobierno-abierto-y-datos-abiertos)

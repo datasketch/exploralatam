@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Servicios De Ideas Creativas Para El Desarrollo De Organizaciones, A.C.](/i/servicios-de-ideas-creativas-para-el-desarrollo-de-organizaciones-a-c.html)
+- [Servicios De Ideas Creativas Para El Desarrollo De Organizaciones, A.C.](/organizaciones/servicios-de-ideas-creativas-para-el-desarrollo-de-organizaciones-a-c)

@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Congreso Público](/i/congreso-publico.html)
-- [Exxact Negocios Digitales Spa](/i/exxact-negocios-digitales-spa.html)
+- [Congreso Público](/organizaciones/congreso-publico)
+- [Exxact Negocios Digitales Spa](/organizaciones/exxact-negocios-digitales-spa)

@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Del Fracaso A.C.](/i/instituto-del-fracaso-a-c.html)
+- [Instituto Del Fracaso A.C.](/organizaciones/instituto-del-fracaso-a-c)

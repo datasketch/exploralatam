@@ -17,5 +17,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Laboratorio De Políticas Públicas, Lpp](/i/fundacion-laboratorio-de-politicas-publicas-lpp.html)
-- [On The Move](/i/on-the-move.html)
+- [Fundación Laboratorio De Políticas Públicas, Lpp](/organizaciones/fundacion-laboratorio-de-politicas-publicas-lpp)
+- [On The Move](/organizaciones/on-the-move)

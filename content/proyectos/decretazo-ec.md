@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Ciudadania Y Desarrollo](/i/fundacion-ciudadania-y-desarrollo.html)
+- [Fundación Ciudadania Y Desarrollo](/organizaciones/fundacion-ciudadania-y-desarrollo)

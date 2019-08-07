@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Red Social De Sustentabilidad](/i/red-social-de-sustentabilidad.html)
+- [Red Social De Sustentabilidad](/proyectos/red-social-de-sustentabilidad)

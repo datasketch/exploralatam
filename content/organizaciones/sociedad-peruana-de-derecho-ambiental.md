@@ -24,4 +24,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Promesas Verdes](/i/promesas-verdes.html)
+- [Promesas Verdes](/proyectos/promesas-verdes)

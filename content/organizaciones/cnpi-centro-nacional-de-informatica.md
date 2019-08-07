@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Monitoramento De Dados Ambientais Para Análise De Risco](/i/monitoramento-de-dados-ambientais-para-analise-de-risco.html)
+- [Monitoramento De Dados Ambientais Para Análise De Risco](/proyectos/monitoramento-de-dados-ambientais-para-analise-de-risco)

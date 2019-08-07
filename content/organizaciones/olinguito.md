@@ -19,5 +19,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Yointervengo](/i/yointervengo.html)
-- [](/i/.html)
+- [Yointervengo](/proyectos/yointervengo)
+- [](/proyectos/)

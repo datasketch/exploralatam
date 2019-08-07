@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Denunciapp Gt](/i/denunciapp-gt.html)
+- [Denunciapp Gt](/proyectos/denunciapp-gt)

@@ -20,8 +20,8 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Igualdata](/i/igualdata.html)
-- [](/i/calculadora-de-la-desigualdad-de-genero.html)
-- [#AbortoLegal: Los caminos del proyecto](/i/grito-mundial-por-el-derecho-al-aborto.html)
-- [FeminIndex](/i/feminindex.html)
-- [Calculadora De La Desigualdad De Género](/i/calculadora-de-la-desigualdad-de-genero.html)
+- [Igualdata](/proyectos/igualdata)
+- [](/proyectos/calculadora-de-la-desigualdad-de-genero)
+- [#AbortoLegal: Los caminos del proyecto](/proyectos/grito-mundial-por-el-derecho-al-aborto)
+- [FeminIndex](/proyectos/feminindex)
+- [Calculadora De La Desigualdad De Género](/proyectos/calculadora-de-la-desigualdad-de-genero)

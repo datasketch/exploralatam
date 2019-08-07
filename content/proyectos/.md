@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Olinguito](/i/olinguito.html)
+- [Olinguito](/organizaciones/olinguito)

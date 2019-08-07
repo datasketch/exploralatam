@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Comunicación Corporativa De Centroamérica](/i/comunicacion-corporativa-de-centroamerica.html)
+- [Comunicación Corporativa De Centroamérica](/organizaciones/comunicacion-corporativa-de-centroamerica)

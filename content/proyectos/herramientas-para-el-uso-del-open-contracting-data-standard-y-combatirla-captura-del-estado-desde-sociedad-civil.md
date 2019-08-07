@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [PODER](/i/project-poder.html)
+- [PODER](/organizaciones/project-poder)

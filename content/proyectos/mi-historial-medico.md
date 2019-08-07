@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [The Next Services](/i/the-next-services.html)
+- [The Next Services](/organizaciones/the-next-services)

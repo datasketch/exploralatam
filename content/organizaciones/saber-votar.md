@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Saber Votar](/i/saber-votar.html)
+- [Saber Votar](/proyectos/saber-votar)

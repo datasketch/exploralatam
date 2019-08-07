@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Del Desarrollo De La Juventud](/i/instituto-del-desarrollo-de-la-juventud.html)
+- [Instituto Del Desarrollo De La Juventud](/organizaciones/instituto-del-desarrollo-de-la-juventud)

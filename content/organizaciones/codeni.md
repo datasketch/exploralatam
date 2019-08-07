@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Observatorio Sobre Los Derechos Humanos De La Niì±Ez Y Adolescencia Nicaragì_Ense](/i/observatorio-sobre-los-derechos-humanos-de-la-nii-ez-y-adolescencia-nicaragi-ense.html)
+- [Observatorio Sobre Los Derechos Humanos De La Niì±Ez Y Adolescencia Nicaragì_Ense](/proyectos/observatorio-sobre-los-derechos-humanos-de-la-nii-ez-y-adolescencia-nicaragi-ense)

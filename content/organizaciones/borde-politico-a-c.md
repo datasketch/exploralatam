@@ -23,5 +23,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma Digital De Participación Ciudadana En Congresos Locales](/i/plataforma-digital-de-participacion-ciudadana-en-congresos-locales.html)
-- [Plataforma Local De Combate A La Corrupción Y Participación Ciudadana](/i/plataforma-local-de-combate-a-la-corrupcion-y-participacion-ciudadana.html)
+- [Plataforma Digital De Participación Ciudadana En Congresos Locales](/proyectos/plataforma-digital-de-participacion-ciudadana-en-congresos-locales)
+- [Plataforma Local De Combate A La Corrupción Y Participación Ciudadana](/proyectos/plataforma-local-de-combate-a-la-corrupcion-y-participacion-ciudadana)

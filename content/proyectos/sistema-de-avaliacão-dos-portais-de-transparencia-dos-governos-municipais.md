@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Observatório Social De São José (Ossj)](/i/observatorio-social-de-são-jose-ossj.html)
+- [Observatório Social De São José (Ossj)](/organizaciones/observatorio-social-de-são-jose-ossj)

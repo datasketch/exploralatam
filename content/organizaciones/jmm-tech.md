@@ -24,4 +24,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Mobqi](/i/mobqi.html)
+- [Mobqi](/proyectos/mobqi)

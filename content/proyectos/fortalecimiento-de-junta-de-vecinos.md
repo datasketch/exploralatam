@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Proyecto Propio](/i/fundacion-proyecto-propio.html)
+- [Fundación Proyecto Propio](/organizaciones/fundacion-proyecto-propio)

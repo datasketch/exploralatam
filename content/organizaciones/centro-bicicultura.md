@@ -24,4 +24,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Bicimapa App](/i/bicimapa-app.html)
+- [Bicimapa App](/proyectos/bicimapa-app)

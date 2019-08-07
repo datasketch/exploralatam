@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma De Visualización De Plan De Metas De Nuevo León](/i/plataforma-de-visualizacion-de-plan-de-metas-de-nuevo-leon.html)
+- [Plataforma De Visualización De Plan De Metas De Nuevo León](/proyectos/plataforma-de-visualizacion-de-plan-de-metas-de-nuevo-leon)

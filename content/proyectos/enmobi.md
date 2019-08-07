@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Comunideas Sas](/i/comunideas-sas.html)
+- [Comunideas Sas](/organizaciones/comunideas-sas)

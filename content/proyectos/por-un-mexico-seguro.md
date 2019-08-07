@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/onc.html)
+- [X](/organizaciones/onc)

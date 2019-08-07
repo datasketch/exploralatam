@@ -16,5 +16,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Banco Mundial](/i/banco-mundial.html)
-- [X](/i/ministerios-de-planificacion.html)
+- [Banco Mundial](/organizaciones/banco-mundial)
+- [X](/organizaciones/ministerios-de-planificacion)

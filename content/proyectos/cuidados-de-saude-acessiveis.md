@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Nau Interativa](/i/nau-interativa.html)
+- [Nau Interativa](/organizaciones/nau-interativa)

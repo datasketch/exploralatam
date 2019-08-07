@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Visualizacion De Los Resultados Del Semáforo De Eliminación De Pobreza](/i/visualizacion-de-los-resultados-del-semaforo-de-eliminacion-de-pobreza.html)
+- [Visualizacion De Los Resultados Del Semáforo De Eliminación De Pobreza](/proyectos/visualizacion-de-los-resultados-del-semaforo-de-eliminacion-de-pobreza)

@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Naturaleza Para El Futuro (Funafu)](/i/fundacion-naturaleza-para-el-futuro-funafu.html)
+- [Fundación Naturaleza Para El Futuro (Funafu)](/organizaciones/fundacion-naturaleza-para-el-futuro-funafu)

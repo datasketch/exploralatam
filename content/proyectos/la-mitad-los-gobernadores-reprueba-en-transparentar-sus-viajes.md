@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Seredipia](/i/seredipia.html)
+- [Seredipia](/organizaciones/seredipia)

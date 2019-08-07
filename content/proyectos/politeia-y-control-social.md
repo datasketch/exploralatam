@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Corporación Programa De Desarrollo Para La Paz](/i/corporacion-programa-de-desarrollo-para-la-paz.html)
+- [Corporación Programa De Desarrollo Para La Paz](/organizaciones/corporacion-programa-de-desarrollo-para-la-paz)

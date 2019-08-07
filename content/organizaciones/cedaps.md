@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Mapa Falante: Tecnologia Cívica Para Monitoramento Participativo De Informações Sobre Serviços, Dados E Vivências](/i/mapa-falante-tecnologia-civica-para-monitoramento-participativo-de-informacões-sobre-servicos-dados-e-vivencias.html)
+- [Mapa Falante: Tecnologia Cívica Para Monitoramento Participativo De Informações Sobre Serviços, Dados E Vivências](/proyectos/mapa-falante-tecnologia-civica-para-monitoramento-participativo-de-informacões-sobre-servicos-dados-e-vivencias)

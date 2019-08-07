@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Tu Voto Cuenta](/i/tu-voto-cuenta.html)
+- [Tu Voto Cuenta](/proyectos/tu-voto-cuenta)

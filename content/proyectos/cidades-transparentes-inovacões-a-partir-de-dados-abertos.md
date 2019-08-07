@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Núcleo De Informação E Coordenação Do Ponto Br - Nic.Br](/i/nucleo-de-informacão-e-coordenacão-do-ponto-br-nic-br.html)
-- [Agenda Pública - Agência De Análise E Cooperação Em Políticas Públicas](/i/agenda-publica-agencia-de-analise-e-cooperacão-em-politicas-publicas.html)
+- [Núcleo De Informação E Coordenação Do Ponto Br - Nic.Br](/organizaciones/nucleo-de-informacão-e-coordenacão-do-ponto-br-nic-br)
+- [Agenda Pública - Agência De Análise E Cooperação Em Políticas Públicas](/organizaciones/agenda-publica-agencia-de-analise-e-cooperacão-em-politicas-publicas)

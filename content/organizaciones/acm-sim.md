@@ -24,4 +24,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Bolivia Tech Hub Collaborative](/i/bolivia-tech-hub-collaborative.html)
+- [Bolivia Tech Hub Collaborative](/proyectos/bolivia-tech-hub-collaborative)

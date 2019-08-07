@@ -26,4 +26,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Projeto Guardiões Do Cariri - Cidade Modelo Mauriti-Ce](/i/projeto-guardiões-do-cariri-cidade-modelo-mauriti-ce.html)
+- [Projeto Guardiões Do Cariri - Cidade Modelo Mauriti-Ce](/proyectos/projeto-guardiões-do-cariri-cidade-modelo-mauriti-ce)

@@ -23,13 +23,13 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Ojo Pì¼Blico](/i/ojo-pi-blico.html)
-- [Sala de Poder](/i/sala-del-poder.html)
-- [](/i/vihsion-ciudadana-tecnologia-periodismo-y-experiencia-en-el-sector-para-monitorear-analizar-y-comparar-politicas-publicas-en-vih-en-latinoamerica.html)
-- [Lava Jato](/i/lava-jato.html)
-- [Fondos de Papel](/i/fondos-de-papel.html)
-- [](/i/iniciativa-funes-un-metabuscador-para-identificar-personas-de-perfil-de-riesgo-en-la-politica-del-peru.html)
-- [Iniciativa Funes](/i/iniciativa-funes.html)
-- [Dueños de las Noticias](/i/duenos-de-la-noticia.html)
-- [Big Pharma](/i/big-pharma.html)
-- [Los Secretos de Mossack Fonseca en Perú](/i/panama-papers.html)
+- [Ojo Pì¼Blico](/proyectos/ojo-pi-blico)
+- [Sala de Poder](/proyectos/sala-del-poder)
+- [](/proyectos/vihsion-ciudadana-tecnologia-periodismo-y-experiencia-en-el-sector-para-monitorear-analizar-y-comparar-politicas-publicas-en-vih-en-latinoamerica)
+- [Lava Jato](/proyectos/lava-jato)
+- [Fondos de Papel](/proyectos/fondos-de-papel)
+- [](/proyectos/iniciativa-funes-un-metabuscador-para-identificar-personas-de-perfil-de-riesgo-en-la-politica-del-peru)
+- [Iniciativa Funes](/proyectos/iniciativa-funes)
+- [Dueños de las Noticias](/proyectos/duenos-de-la-noticia)
+- [Big Pharma](/proyectos/big-pharma)
+- [Los Secretos de Mossack Fonseca en Perú](/proyectos/panama-papers)

@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Oeste.Mx](/i/oeste-mx.html)
+- [Oeste.Mx](/proyectos/oeste-mx)

@@ -17,5 +17,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Politize](/i/politize.html)
-- [Civitatis Consultoria E Assessoria Educacional Ltda](/i/civitatis-consultoria-e-assessoria-educacional-ltda.html)
+- [Politize](/organizaciones/politize)
+- [Civitatis Consultoria E Assessoria Educacional Ltda](/organizaciones/civitatis-consultoria-e-assessoria-educacional-ltda)

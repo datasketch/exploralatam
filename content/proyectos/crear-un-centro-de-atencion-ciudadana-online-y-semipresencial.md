@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Transformación De Obreros Y Técnicos Esperanza De México Totem A.C](/i/transformacion-de-obreros-y-tecnicos-esperanza-de-mexico-totem-a-c.html)
+- [Transformación De Obreros Y Técnicos Esperanza De México Totem A.C](/organizaciones/transformacion-de-obreros-y-tecnicos-esperanza-de-mexico-totem-a-c)

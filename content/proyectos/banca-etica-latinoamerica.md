@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Mapocho](/i/fundacion-mapocho.html)
+- [Fundación Mapocho](/organizaciones/fundacion-mapocho)

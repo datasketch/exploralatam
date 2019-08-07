@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Cidade Democra´Tica](/i/instituto-cidade-democra-tica.html)
+- [Instituto Cidade Democra´Tica](/organizaciones/instituto-cidade-democra-tica)

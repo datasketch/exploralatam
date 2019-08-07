@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [FUNDACIÓN PARA LAS BUENAS PRÁCTICAS DE LA INTERNET Y LAS TECNOLGÍAS - FUNDABIT](/i/fundacion-para-las-buenas-practicas-de-la-internet-y-las-tecnolgias-fundabit.html)
+- [FUNDACIÓN PARA LAS BUENAS PRÁCTICAS DE LA INTERNET Y LAS TECNOLGÍAS - FUNDABIT](/organizaciones/fundacion-para-las-buenas-practicas-de-la-internet-y-las-tecnolgias-fundabit)

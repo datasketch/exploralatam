@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Avina Americas](/i/avina.html)
+- [Avina Americas](/organizaciones/avina)

@@ -17,5 +17,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundacion Ideas Para La Paz](/i/fundacion-ideas-para-la-paz.html)
-- [Cámara De Comercio De Bogotá - Ccb](/i/camara-de-comercio-de-bogota-ccb.html)
+- [Fundacion Ideas Para La Paz](/organizaciones/fundacion-ideas-para-la-paz)
+- [Cámara De Comercio De Bogotá - Ccb](/organizaciones/camara-de-comercio-de-bogota-ccb)

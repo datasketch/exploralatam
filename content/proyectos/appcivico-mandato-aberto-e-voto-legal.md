@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [AppCivico - EOKOE SOLUÇÕES TECNOLÓGICAS LTDA](/i/appcivico-eokoe-solucoes-tecnologicas.html)
+- [AppCivico - EOKOE SOLUÇÕES TECNOLÓGICAS LTDA](/organizaciones/appcivico-eokoe-solucoes-tecnologicas)

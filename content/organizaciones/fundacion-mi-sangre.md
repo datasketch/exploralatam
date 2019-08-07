@@ -19,5 +19,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/az-en-construccion.html)
-- [Paz En Construcción](/i/paz-en-construccion.html)
+- [](/proyectos/az-en-construccion)
+- [Paz En Construcción](/proyectos/paz-en-construccion)

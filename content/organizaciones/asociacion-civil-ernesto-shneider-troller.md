@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Asociación Civil Ernesto Shneider Troller](/i/asociacion-civil-ernesto-shneider-troller.html)
+- [Asociación Civil Ernesto Shneider Troller](/proyectos/asociacion-civil-ernesto-shneider-troller)

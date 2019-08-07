@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-21
+date_last_modified: 2019-07-29
 uid: mismatica-management-sistemas-de-gestion-mismatica-chile-limitada
 title: "Mismatica Management (Sistemas De Gestión Mismatica Chile Limitada)"
 legal_name: 
@@ -23,5 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Blockchain, Transparencia Y Servicios Públicos](/i/blockchain-transparencia-y-servicios-publicos.html)
-- [](/i/blockchain-transparencia-y-servicios-publicos.html)
+- [Blockchain, Transparencia Y Servicios Públicos](/proyectos/blockchain-transparencia-y-servicios-publicos)

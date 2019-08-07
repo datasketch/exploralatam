@@ -20,6 +20,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Conocimiento Abierto](/i/fundacion-conocimiento-abierto.html)
-- [Dirección De Gobierno Abierto Y Datos Abiertos](/i/direccion-de-gobierno-abierto-y-datos-abiertos.html)
-- [Dirección De Gobierno Abierto Y Datos Abiertos De La Provincia De Buenos Aires](/i/direccion-de-gobierno-abierto-y-datos-abiertos-de-la-provincia-de-buenos-aires.html)
+- [Fundación Conocimiento Abierto](/organizaciones/fundacion-conocimiento-abierto)
+- [Dirección De Gobierno Abierto Y Datos Abiertos](/organizaciones/direccion-de-gobierno-abierto-y-datos-abiertos)
+- [Dirección De Gobierno Abierto Y Datos Abiertos De La Provincia De Buenos Aires](/organizaciones/direccion-de-gobierno-abierto-y-datos-abiertos-de-la-provincia-de-buenos-aires)

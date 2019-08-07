@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Midiendo Los Niveles De Integración Sociourbana De Asentamientos Informales En Argentina](/i/midiendo-los-niveles-de-integracion-sociourbana-de-asentamientos-informales-en-argentina.html)
+- [Midiendo Los Niveles De Integración Sociourbana De Asentamientos Informales En Argentina](/proyectos/midiendo-los-niveles-de-integracion-sociourbana-de-asentamientos-informales-en-argentina)

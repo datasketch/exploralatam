@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Ligue político](/i/ligue-politico.html)
+- [Ligue político](/proyectos/ligue-politico)

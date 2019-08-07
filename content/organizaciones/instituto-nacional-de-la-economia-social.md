@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Observatorio Del Sector Social De La Economía](/i/observatorio-del-sector-social-de-la-economia.html)
+- [Observatorio Del Sector Social De La Economía](/proyectos/observatorio-del-sector-social-de-la-economia)

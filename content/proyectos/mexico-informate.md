@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/mexico-informate.html)
+- [X](/organizaciones/mexico-informate)

@@ -23,5 +23,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Decretazo.Ec](/i/decretazo-ec.html)
-- [Transparencia Y Desarrollo Cívico En Ecuador](/i/transparencia-y-desarrollo-civico-en-ecuador.html)
+- [Decretazo.Ec](/proyectos/decretazo-ec)
+- [Transparencia Y Desarrollo Cívico En Ecuador](/proyectos/transparencia-y-desarrollo-civico-en-ecuador)

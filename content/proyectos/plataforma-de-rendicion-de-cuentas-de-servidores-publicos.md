@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Campaña Global Por La Libertad De Expresión A19, A.C.](/i/campana-global-por-la-libertad-de-expresion-a19-a-c.html)
+- [Campaña Global Por La Libertad De Expresión A19, A.C.](/organizaciones/campana-global-por-la-libertad-de-expresion-a19-a-c)

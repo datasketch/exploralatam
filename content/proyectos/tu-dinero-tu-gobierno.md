@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro De Investigación Económica Y Presupuestaria A.C.](/i/centro-de-investigacion-economica-y-presupuestaria-a-c.html)
-- [Simetría, Centro De Innovación En Políticas Públicas A.C.](/i/simetria-centro-de-innovacion-en-politicas-publicas-a-c.html)
+- [Centro De Investigación Económica Y Presupuestaria A.C.](/organizaciones/centro-de-investigacion-economica-y-presupuestaria-a-c)
+- [Simetría, Centro De Innovación En Políticas Públicas A.C.](/organizaciones/simetria-centro-de-innovacion-en-politicas-publicas-a-c)

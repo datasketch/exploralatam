@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Elleven](/i/elleven.html)
+- [Elleven](/organizaciones/elleven)

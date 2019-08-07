@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/anca-imaginaria-a-cultura-brasileira-em-movimento.html)
+- [](/proyectos/anca-imaginaria-a-cultura-brasileira-em-movimento)

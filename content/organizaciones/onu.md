@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Unicef](/i/unicef.html)
+- [Unicef](/proyectos/unicef)

@@ -18,5 +18,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Observatorio del Gasto Fiscal - via Fundación Contexto Ciudadano](/i/observatorio-del-gasto-fiscal-via-fundacion-contexto-ciudadano.html)
-- [Universidad De Santiago De Chile, Facultad De Administración Y Economía](/i/universidad-de-santiago-de-chile-facultad-de-administracion-y-economia.html)
+- [Observatorio del Gasto Fiscal - via Fundación Contexto Ciudadano](/organizaciones/observatorio-del-gasto-fiscal-via-fundacion-contexto-ciudadano)
+- [Universidad De Santiago De Chile, Facultad De Administración Y Economía](/organizaciones/universidad-de-santiago-de-chile-facultad-de-administracion-y-economia)

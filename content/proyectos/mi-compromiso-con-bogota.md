@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Veeduría Distrital De Bogotá, Veeduría Delegada Para La Participación Y Los Programas Especiales](/i/veeduria-distrital-de-bogota-veeduria-delegada-para-la-participacion-y-los-programas-especiales.html)
+- [Veeduría Distrital De Bogotá, Veeduría Delegada Para La Participación Y Los Programas Especiales](/organizaciones/veeduria-distrital-de-bogota-veeduria-delegada-para-la-participacion-y-los-programas-especiales)

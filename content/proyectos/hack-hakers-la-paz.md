@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Hacks Hackers](/i/hacks-hackers.html)
+- [Hacks Hackers](/organizaciones/hacks-hackers)

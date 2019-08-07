@@ -18,7 +18,7 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Escuela Politécnica Nacional](/i/escuela-politecnica-nacional.html)
-- [Red Infodesarrollo](/i/red-infodesarrollo.html)
-- [Medialab Quito](/i/medialab-quito.html)
-- [Fundapi](/i/fundapi.html)
+- [Escuela Politécnica Nacional](/organizaciones/escuela-politecnica-nacional)
+- [Red Infodesarrollo](/organizaciones/red-infodesarrollo)
+- [Medialab Quito](/organizaciones/medialab-quito)
+- [Fundapi](/organizaciones/fundapi)

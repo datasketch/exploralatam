@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Creathink](/i/creathink.html)
+- [Creathink](/organizaciones/creathink)

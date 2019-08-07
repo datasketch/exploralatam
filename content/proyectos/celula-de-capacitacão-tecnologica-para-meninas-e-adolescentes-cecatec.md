@@ -18,5 +18,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Lar De Maria Dolores](/i/lar-de-maria-dolores.html)
-- [Promec Projetos E Modelagens Em Engenharia E Computação Ltda](/i/promec-projetos-e-modelagens-em-engenharia-e-computacão-ltda.html)
+- [Lar De Maria Dolores](/organizaciones/lar-de-maria-dolores)
+- [Promec Projetos E Modelagens Em Engenharia E Computação Ltda](/organizaciones/promec-projetos-e-modelagens-em-engenharia-e-computacão-ltda)

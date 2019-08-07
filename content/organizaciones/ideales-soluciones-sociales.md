@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Proyecto  De  Integracion  Comunitaria](/i/proyecto-de-integracion-comunitaria.html)
+- [Proyecto  De  Integracion  Comunitaria](/proyectos/proyecto-de-integracion-comunitaria)

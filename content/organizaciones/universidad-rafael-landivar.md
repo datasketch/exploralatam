@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Incytde.Org](/i/incytde-org.html)
+- [Incytde.Org](/proyectos/incytde-org)

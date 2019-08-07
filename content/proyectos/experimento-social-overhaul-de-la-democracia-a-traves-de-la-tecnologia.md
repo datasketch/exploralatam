@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Asociación Centro Ciudadano De Estudios Para Una Sociedad Abierta -Accesa](/i/asociacion-centro-ciudadano-de-estudios-para-una-sociedad-abierta-accesa.html)
+- [Asociación Centro Ciudadano De Estudios Para Una Sociedad Abierta -Accesa](/organizaciones/asociacion-centro-ciudadano-de-estudios-para-una-sociedad-abierta-accesa)

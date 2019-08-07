@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sistema Háblame De Respeto](/i/sistema-hablame-de-respeto.html)
+- [Sistema Háblame De Respeto](/proyectos/sistema-hablame-de-respeto)

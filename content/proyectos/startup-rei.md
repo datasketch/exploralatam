@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Receita Federal](/i/receita-federal.html)
+- [Receita Federal](/organizaciones/receita-federal)

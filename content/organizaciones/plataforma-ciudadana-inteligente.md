@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Citiviva - Ciudadanía Inteligente](/i/citiviva-ciudadania-inteligente.html)
+- [Citiviva - Ciudadanía Inteligente](/proyectos/citiviva-ciudadania-inteligente)

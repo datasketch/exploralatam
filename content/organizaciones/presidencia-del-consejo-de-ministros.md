@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Portal De Transparencia Estandar](/i/portal-de-transparencia-estandar.html)
+- [Portal De Transparencia Estandar](/proyectos/portal-de-transparencia-estandar)

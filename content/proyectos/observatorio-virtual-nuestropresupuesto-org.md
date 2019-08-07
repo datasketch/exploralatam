@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/ieepp.html)
+- [X](/organizaciones/ieepp)

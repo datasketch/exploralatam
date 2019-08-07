@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Red Digital Taturana -  Distribución De Películas Independientes En Circuitos Sociales](/i/red-digital-taturana-distribucion-de-peliculas-independientes-en-circuitos-sociales.html)
+- [Red Digital Taturana -  Distribución De Películas Independientes En Circuitos Sociales](/proyectos/red-digital-taturana-distribucion-de-peliculas-independientes-en-circuitos-sociales)

@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-21
+date_last_modified: 2019-07-29
 uid: econsulting-s-r-l
 title: "Econsulting S.R.L."
 legal_name: 
@@ -21,5 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sistema De Gestión De Proyectos De Inversión De La Provincia De Río Negro](/i/sistema-de-gestion-de-proyectos-de-inversion-de-la-provincia-de-rio-negro.html)
-- [](/i/sistema-de-gestion-de-proyectos-de-inversion-de-la-provincia-de-rio-negro.html)
+- [Sistema De Gestión De Proyectos De Inversión De La Provincia De Río Negro](/proyectos/sistema-de-gestion-de-proyectos-de-inversion-de-la-provincia-de-rio-negro)

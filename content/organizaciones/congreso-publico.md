@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Congreso Público: Tecnología Cívica Para Una Democracia Inclusiva](/i/congreso-publico-tecnologia-civica-para-una-democracia-inclusiva.html)
+- [Congreso Público: Tecnología Cívica Para Una Democracia Inclusiva](/proyectos/congreso-publico-tecnologia-civica-para-una-democracia-inclusiva)

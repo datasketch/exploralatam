@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [¿Cómo Viajamos? App Para Realizar Denuncias Y Reclamos En El Uso Del Transporte Público De Pasajeros De La Región Metropolitana De Buenos Aires](/i/omo-viajamos-app-para-realizar-denuncias-y-reclamos-en-el-uso-del-transporte-publico-de-pasajeros-de-la-region-metropolitana-de-buenos-aires.html)
+- [¿Cómo Viajamos? App Para Realizar Denuncias Y Reclamos En El Uso Del Transporte Público De Pasajeros De La Región Metropolitana De Buenos Aires](/proyectos/omo-viajamos-app-para-realizar-denuncias-y-reclamos-en-el-uso-del-transporte-publico-de-pasajeros-de-la-region-metropolitana-de-buenos-aires)

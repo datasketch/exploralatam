@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Certificaciones De Sostenibilidad Para Empresas Y Consumidores](/i/certificaciones-de-sostenibilidad-para-empresas-y-consumidores.html)
+- [Certificaciones De Sostenibilidad Para Empresas Y Consumidores](/proyectos/certificaciones-de-sostenibilidad-para-empresas-y-consumidores)

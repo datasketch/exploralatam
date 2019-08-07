@@ -16,5 +16,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Ada](/i/ada.html)
-- [ACIJ - Asociación Civil por la Igualdad y la Justicia](/i/asociacion-civil-por-la-igualdad-y-la-justicia-arg.html)
+- [Ada](/organizaciones/ada)
+- [ACIJ - Asociación Civil por la Igualdad y la Justicia](/organizaciones/asociacion-civil-por-la-igualdad-y-la-justicia-arg)

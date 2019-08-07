@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cnpi - Centro Nacional De Informatica](/i/cnpi-centro-nacional-de-informatica.html)
+- [Cnpi - Centro Nacional De Informatica](/organizaciones/cnpi-centro-nacional-de-informatica)

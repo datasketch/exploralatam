@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Red Social Anti-Corrupción Con Acción Jurídica (Aplicapp)](/i/red-social-anti-corrupcion-con-accion-juridica-aplicapp.html)
+- [Red Social Anti-Corrupción Con Acción Jurídica (Aplicapp)](/proyectos/red-social-anti-corrupcion-con-accion-juridica-aplicapp)

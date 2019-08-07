@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Karisma](/i/fundacion-karisma.html)
+- [Fundación Karisma](/organizaciones/fundacion-karisma)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Consejo De La Transparencia](/i/consejo-de-la-transparencia.html)
+- [Consejo De La Transparencia](/organizaciones/consejo-de-la-transparencia)

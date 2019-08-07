@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Boonited](/i/boonited.html)
+- [Boonited](/proyectos/boonited)

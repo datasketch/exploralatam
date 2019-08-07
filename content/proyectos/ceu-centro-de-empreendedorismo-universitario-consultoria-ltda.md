@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro De Empreendedorismo Universitario &Consultoria Ltda](/i/centro-de-empreendedorismo-universitario-consultoria-ltda.html)
+- [Centro De Empreendedorismo Universitario &Consultoria Ltda](/organizaciones/centro-de-empreendedorismo-universitario-consultoria-ltda)

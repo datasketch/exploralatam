@@ -19,5 +19,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sin Nombre](/i/sin-nombre.html)
-- [Dichoalhecho](/i/dichoalhecho.html)
+- [Sin Nombre](/proyectos/sin-nombre)
+- [Dichoalhecho](/proyectos/dichoalhecho)

@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Compras Públicas](/i/compras-publicas.html)
+- [Compras Públicas](/proyectos/compras-publicas)

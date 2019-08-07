@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Universidad Rafael Landivar](/i/universidad-rafael-landivar.html)
+- [Universidad Rafael Landivar](/organizaciones/universidad-rafael-landivar)

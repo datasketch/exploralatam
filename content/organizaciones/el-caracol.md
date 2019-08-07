@@ -19,6 +19,6 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Datos Muerte Poblacion Callejera](/i/datos-muerte-poblacion-callejera.html)
-- [Sin Nombre](/i/sin-nombre.html)
-- [Mujeres E Infancia Callejera Más Allá De Los Datos](/i/mujeres-e-infancia-callejera-mas-alla-de-los-datos.html)
+- [Datos Muerte Poblacion Callejera](/proyectos/datos-muerte-poblacion-callejera)
+- [Sin Nombre](/proyectos/sin-nombre)
+- [Mujeres E Infancia Callejera Más Allá De Los Datos](/proyectos/mujeres-e-infancia-callejera-mas-alla-de-los-datos)

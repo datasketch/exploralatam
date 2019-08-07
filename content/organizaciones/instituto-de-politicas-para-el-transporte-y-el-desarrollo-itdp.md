@@ -25,4 +25,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma Ciudadana De Seguridad Vial Para La Ciudad De México](/i/plataforma-ciudadana-de-seguridad-vial-para-la-ciudad-de-mexico.html)
+- [Plataforma Ciudadana De Seguridad Vial Para La Ciudad De México](/proyectos/plataforma-ciudadana-de-seguridad-vial-para-la-ciudad-de-mexico)

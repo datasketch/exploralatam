@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Softai](/i/softai.html)
+- [Softai](/organizaciones/softai)

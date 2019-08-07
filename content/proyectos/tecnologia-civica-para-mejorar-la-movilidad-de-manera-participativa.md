@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [World Resources Institute México](/i/world-resources-institute-mexico.html)
+- [World Resources Institute México](/organizaciones/world-resources-institute-mexico)

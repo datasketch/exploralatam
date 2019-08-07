@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Guarumo](/i/guarumo.html)
+- [Guarumo](/organizaciones/guarumo)

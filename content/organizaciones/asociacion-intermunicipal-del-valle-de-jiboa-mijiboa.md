@@ -6,7 +6,7 @@ title: "Asociación Intermunicipal Del Valle De Jiboa Mijiboa"
 legal_name: 
 description: ""
 org_type: Otro
-website:
+website: -
 year_founded: 2015
 facebook: 
 twitter: 
@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Desarrollo De Sistema Para Transparentar La Gestión Municipal Mijiboa](/i/desarrollo-de-sistema-para-transparentar-la-gestion-municipal-mijiboa.html)
+- [Desarrollo De Sistema Para Transparentar La Gestión Municipal Mijiboa](/proyectos/desarrollo-de-sistema-para-transparentar-la-gestion-municipal-mijiboa)

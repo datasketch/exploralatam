@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Compras Públicas Transparentes](/i/compras-publicas-transparentes.html)
+- [Compras Públicas Transparentes](/proyectos/compras-publicas-transparentes)

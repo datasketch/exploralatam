@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundar, Centro De Análisis E Investigación](/i/fundar-centro-de-analisis-e-investigacion.html)
+- [Fundar, Centro De Análisis E Investigación](/organizaciones/fundar-centro-de-analisis-e-investigacion)

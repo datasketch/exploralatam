@@ -18,6 +18,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Impaqto](/i/impaqto.html)
-- [Datalat](/i/datalat.html)
-- [Fundación Medialab Quito](/i/fundacion-medialab-quito.html)
+- [Impaqto](/organizaciones/impaqto)
+- [Datalat](/organizaciones/datalat)
+- [Fundación Medialab Quito](/organizaciones/fundacion-medialab-quito)

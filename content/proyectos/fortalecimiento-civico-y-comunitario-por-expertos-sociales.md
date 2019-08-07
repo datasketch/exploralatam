@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Olmeca Soy](/i/olmeca-soy.html)
+- [Olmeca Soy](/organizaciones/olmeca-soy)

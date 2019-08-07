@@ -18,6 +18,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Wingu](/i/wingu.html)
-- [Fundación Pacientes Cáncer De Pulmón](/i/fundacion-pacientes-cancer-de-pulmon.html)
-- [Directorio Legislativo](/i/directorio-legislativo.html)
+- [Wingu](/organizaciones/wingu)
+- [Fundación Pacientes Cáncer De Pulmón](/organizaciones/fundacion-pacientes-cancer-de-pulmon)
+- [Directorio Legislativo](/organizaciones/directorio-legislativo)

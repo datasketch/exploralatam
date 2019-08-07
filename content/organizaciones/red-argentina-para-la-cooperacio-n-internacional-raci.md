@@ -19,5 +19,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/comunidas-2-0.html)
-- [Comunidas 2.0](/i/comunidas-2-0.html)
+- [](/proyectos/comunidas-2-0)
+- [Comunidas 2.0](/proyectos/comunidas-2-0)

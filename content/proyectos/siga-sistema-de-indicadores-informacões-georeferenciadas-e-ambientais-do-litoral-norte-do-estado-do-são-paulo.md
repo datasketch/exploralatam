@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Ilhabela Sustentável](/i/instituto-ilhabela-sustentavel.html)
+- [Instituto Ilhabela Sustentável](/organizaciones/instituto-ilhabela-sustentavel)

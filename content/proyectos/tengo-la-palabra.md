@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Atix Labs Srl](/i/atix-labs-srl.html)
+- [Atix Labs Srl](/organizaciones/atix-labs-srl)

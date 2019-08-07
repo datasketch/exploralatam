@@ -21,7 +21,7 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Municipalidad De Concepción Del Uruguay, Dirección De Control Del Gasto](/i/municipalidad-de-concepcion-del-uruguay-direccion-de-control-del-gasto.html)
-- [Subsidios Claros](/i/subsidios-claros.html)
-- [Datos Concepcion](/i/datos-concepcion.html)
-- [Asociación Pro Arte](/i/asociacion-pro-arte.html)
+- [Municipalidad De Concepción Del Uruguay, Dirección De Control Del Gasto](/organizaciones/municipalidad-de-concepcion-del-uruguay-direccion-de-control-del-gasto)
+- [Subsidios Claros](/organizaciones/subsidios-claros)
+- [Datos Concepcion](/organizaciones/datos-concepcion)
+- [Asociación Pro Arte](/organizaciones/asociacion-pro-arte)

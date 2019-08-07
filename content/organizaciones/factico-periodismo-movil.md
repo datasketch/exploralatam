@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Escuadrón Supercívico](/i/escuadron-supercivico.html)
+- [Escuadrón Supercívico](/proyectos/escuadron-supercivico)

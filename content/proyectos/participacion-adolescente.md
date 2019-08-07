@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Mexicana Para La Planeación Familiar A. C. (Mexfam)](/i/fundacion-mexicana-para-la-planeacion-familiar-a-c-mexfam.html)
+- [Fundación Mexicana Para La Planeación Familiar A. C. (Mexfam)](/organizaciones/fundacion-mexicana-para-la-planeacion-familiar-a-c-mexfam)

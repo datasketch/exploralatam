@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Programa Makernel: El Primer Makerspace Portátil 100% Tico](/i/programa-makernel-el-primer-makerspace-portatil-100-tico.html)
+- [Programa Makernel: El Primer Makerspace Portátil 100% Tico](/proyectos/programa-makernel-el-primer-makerspace-portatil-100-tico)

@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Consolidación Del Portal Para Informantes De Denuncias Anónimas “Filtraciones Digitales” En México Y Su Escalamiento A Colombia, Costa Rica Y Uruguay.](/i/consolidacion-del-portal-para-informantes-de-denuncias-anonimas-filtraciones-digitales-en-mexico-y-su-escalamiento-a-colombia-costa-rica-y-uruguay.html)
+- [Consolidación Del Portal Para Informantes De Denuncias Anónimas “Filtraciones Digitales” En México Y Su Escalamiento A Colombia, Costa Rica Y Uruguay.](/proyectos/consolidacion-del-portal-para-informantes-de-denuncias-anonimas-filtraciones-digitales-en-mexico-y-su-escalamiento-a-colombia-costa-rica-y-uruguay)

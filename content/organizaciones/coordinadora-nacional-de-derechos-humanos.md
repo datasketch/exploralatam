@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Mapa De Criminalizacion De La Protesta](/i/mapa-de-criminalizacion-de-la-protesta.html)
+- [Mapa De Criminalizacion De La Protesta](/proyectos/mapa-de-criminalizacion-de-la-protesta)

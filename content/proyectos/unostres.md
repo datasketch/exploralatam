@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Unostres](/i/unostres.html)
+- [Unostres](/organizaciones/unostres)

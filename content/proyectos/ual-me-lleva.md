@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Sistemas De Información Geográfica Para La Planeación Y Ordenamiento Del Territorio (Sigpot Sa De Cv)](/i/sistemas-de-informacion-geografica-para-la-planeacion-y-ordenamiento-del-territorio-sigpot-sa-de-cv.html)
+- [Sistemas De Información Geográfica Para La Planeación Y Ordenamiento Del Territorio (Sigpot Sa De Cv)](/organizaciones/sistemas-de-informacion-geografica-para-la-planeacion-y-ordenamiento-del-territorio-sigpot-sa-de-cv)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cemoplaf](/i/cemoplaf.html)
+- [Cemoplaf](/organizaciones/cemoplaf)

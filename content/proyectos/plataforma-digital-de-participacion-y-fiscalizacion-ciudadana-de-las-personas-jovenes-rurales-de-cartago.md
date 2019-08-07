@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cooperativa Sulá Batsú](/i/cooperativa-sula-batsu.html)
+- [Cooperativa Sulá Batsú](/organizaciones/cooperativa-sula-batsu)

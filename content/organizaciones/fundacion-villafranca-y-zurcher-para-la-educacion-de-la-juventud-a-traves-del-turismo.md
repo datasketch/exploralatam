@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Red País. Una Plataforma Para Articular El Progreso Social.](/i/red-pais-una-plataforma-para-articular-el-progreso-social.html)
+- [Red País. Una Plataforma Para Articular El Progreso Social.](/proyectos/red-pais-una-plataforma-para-articular-el-progreso-social)

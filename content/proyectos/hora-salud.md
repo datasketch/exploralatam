@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Durán & Asociados Spa.](/i/duran-asociados-spa.html)
+- [Durán & Asociados Spa.](/organizaciones/duran-asociados-spa)

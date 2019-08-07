@@ -18,7 +18,7 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Municipalidad De Rosario, Secretaria De Economia Social, Dirección General De Desarrollo De La Economía Social](/i/municipalidad-de-rosario-secretaria-de-economia-social-direccion-general-de-desarrollo-de-la-economia-social.html)
-- [De La Azotea](/i/de-la-azotea.html)
-- [Fundación Ejercicio Ciudadano](/i/fundacion-ejercicio-ciudadano.html)
-- [Oneeyeant](/i/oneeyeant.html)
+- [Municipalidad De Rosario, Secretaria De Economia Social, Dirección General De Desarrollo De La Economía Social](/organizaciones/municipalidad-de-rosario-secretaria-de-economia-social-direccion-general-de-desarrollo-de-la-economia-social)
+- [De La Azotea](/organizaciones/de-la-azotea)
+- [Fundación Ejercicio Ciudadano](/organizaciones/fundacion-ejercicio-ciudadano)
+- [Oneeyeant](/organizaciones/oneeyeant)

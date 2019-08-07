@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Digital Network Srl](/i/digital-network-srl.html)
-- [Secretaria De Planificacion, Desarrollo Y Modernizacion De La Municipalidad De San Salvador De Jujuy](/i/secretaria-de-planificacion-desarrollo-y-modernizacion-de-la-municipalidad-de-san-salvador-de-jujuy.html)
+- [Digital Network Srl](/organizaciones/digital-network-srl)
+- [Secretaria De Planificacion, Desarrollo Y Modernizacion De La Municipalidad De San Salvador De Jujuy](/organizaciones/secretaria-de-planificacion-desarrollo-y-modernizacion-de-la-municipalidad-de-san-salvador-de-jujuy)

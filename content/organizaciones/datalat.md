@@ -21,5 +21,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Mi Emprendimiento Abierto](/i/mi-emprendimiento-abierto.html)
-- [Transparencia Y Desarrollo Cívico En Ecuador](/i/transparencia-y-desarrollo-civico-en-ecuador.html)
+- [Mi Emprendimiento Abierto](/proyectos/mi-emprendimiento-abierto)
+- [Transparencia Y Desarrollo Cívico En Ecuador](/proyectos/transparencia-y-desarrollo-civico-en-ecuador)

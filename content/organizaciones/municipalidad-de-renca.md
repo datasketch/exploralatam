@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Reconstruyendo Confianzas Desde La Política Local  A Través De Una Estrategia De Participación Ciudadana Transparente](/i/reconstruyendo-confianzas-desde-la-politica-local-a-traves-de-una-estrategia-de-participacion-ciudadana-transparente.html)
+- [Reconstruyendo Confianzas Desde La Política Local  A Través De Una Estrategia De Participación Ciudadana Transparente](/proyectos/reconstruyendo-confianzas-desde-la-politica-local-a-traves-de-una-estrategia-de-participacion-ciudadana-transparente)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [¿QuiénMeRepresenta?](/i/uienmerepresenta.html)
+- [¿QuiénMeRepresenta?](/organizaciones/uienmerepresenta)

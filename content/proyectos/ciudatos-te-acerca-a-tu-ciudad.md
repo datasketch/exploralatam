@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Corona](/i/fundacion-corona.html)
-- [Datasketch](/i/datasketch.html)
+- [Fundación Corona](/organizaciones/fundacion-corona)
+- [Datasketch](/organizaciones/datasketch)

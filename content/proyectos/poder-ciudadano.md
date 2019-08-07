@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Poder Ciudadano](/i/poder-ciudadano.html)
+- [Poder Ciudadano](/organizaciones/poder-ciudadano)

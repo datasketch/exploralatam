@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Montevideo
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Hack Hackers Montevideo](/i/hack-hackers-montevideo.html)
+- [Hack Hackers Montevideo](/proyectos/hack-hackers-montevideo)

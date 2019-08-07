@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Gobierno Abierto Cdmx](/i/gobierno-abierto-cdmx.html)
+- [Gobierno Abierto Cdmx](/organizaciones/gobierno-abierto-cdmx)

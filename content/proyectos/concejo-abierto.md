@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundapi](/i/fundapi.html)
+- [Fundapi](/organizaciones/fundapi)

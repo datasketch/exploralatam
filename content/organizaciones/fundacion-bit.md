@@ -22,6 +22,6 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Appcesible](/i/appcesible.html)
-- [Planeadores Ciudadanos](/i/planeadores-ciudadanos.html)
-- [](/i/planeadores-ciudadanos.html)
+- [Appcesible](/proyectos/appcesible)
+- [Planeadores Ciudadanos](/proyectos/planeadores-ciudadanos)
+- [](/proyectos/planeadores-ciudadanos)

@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Geocensos](/i/geocensos.html)
+- [Geocensos](/proyectos/geocensos)

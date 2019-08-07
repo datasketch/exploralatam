@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Mucha Nota](/i/mucha-nota.html)
+- [Mucha Nota](/proyectos/mucha-nota)

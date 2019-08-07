@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Creative Commons](/i/creative-commons.html)
+- [Creative Commons](/organizaciones/creative-commons)

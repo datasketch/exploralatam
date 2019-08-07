@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Constructora Proyecto Propio](/i/constructora-proyecto-propio.html)
+- [Constructora Proyecto Propio](/organizaciones/constructora-proyecto-propio)

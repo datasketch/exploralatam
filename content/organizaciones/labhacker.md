@@ -24,4 +24,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Toolkit Electoral](/i/toolkit-electoral.html)
+- [Toolkit Electoral](/proyectos/toolkit-electoral)

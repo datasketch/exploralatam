@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cscr](/i/cscr.html)
+- [Cscr](/organizaciones/cscr)

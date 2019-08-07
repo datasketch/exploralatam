@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/la-publica.html)
+- [X](/organizaciones/la-publica)

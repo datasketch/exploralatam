@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [O Instituto Ambiental](/i/o-instituto-ambiental.html)
+- [O Instituto Ambiental](/organizaciones/o-instituto-ambiental)

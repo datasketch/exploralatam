@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Gobierno De Quito](/i/gobierno-de-quito.html)
+- [Gobierno De Quito](/organizaciones/gobierno-de-quito)

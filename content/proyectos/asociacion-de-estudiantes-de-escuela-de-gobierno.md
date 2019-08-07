@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Ae Edg](/i/ae-edg.html)
+- [Ae Edg](/organizaciones/ae-edg)

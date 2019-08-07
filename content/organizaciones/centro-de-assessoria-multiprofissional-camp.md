@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-24
+date_last_modified: 2019-07-29
 uid: centro-de-assessoria-multiprofissional-camp
 title: "Centro de Assessoria Multiprofissional - CAMP"
 legal_name: 
@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+  - Porto Alegre
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/plataforma-fazer-solidario-conectando-praticas-economicas-alternativas.html)
+- [](/proyectos/plataforma-fazer-solidario-conectando-praticas-economicas-alternativas)

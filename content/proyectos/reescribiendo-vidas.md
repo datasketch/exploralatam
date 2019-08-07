@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Unidad de Investigación Periodística](/i/unidad-investigacion-periodistica.html)
+- [Unidad de Investigación Periodística](/organizaciones/unidad-investigacion-periodistica)

@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Taturana Mobilização Social](/i/taturana-mobilizacão-social.html)
+- [Taturana Mobilização Social](/organizaciones/taturana-mobilizacão-social)

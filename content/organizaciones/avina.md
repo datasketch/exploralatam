@@ -21,8 +21,8 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [La Otra Trama](/i/la-otra-trama.html)
-- [Caminos De La Villa](/i/caminos-de-la-villa.html)
-- [Banco Mundial](/i/banco-mundial.html)
-- [Sin Nombre](/i/sin-nombre.html)
-- [Datea.Pe](/i/datea-pe.html)
+- [La Otra Trama](/proyectos/la-otra-trama)
+- [Caminos De La Villa](/proyectos/caminos-de-la-villa)
+- [Banco Mundial](/proyectos/banco-mundial)
+- [Sin Nombre](/proyectos/sin-nombre)
+- [Datea.Pe](/proyectos/datea-pe)

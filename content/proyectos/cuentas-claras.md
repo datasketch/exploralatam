@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/cuentas-claras.html)
+- [X](/organizaciones/cuentas-claras)

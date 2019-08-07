@@ -22,7 +22,7 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [3 de 3](/i/3-de-3.html)
-- [Plataforma Para Participación Ciudadana De Vecinos](/i/plataforma-para-participacion-ciudadana-de-vecinos.html)
-- [Urbem - Urbem.Digital](/i/urbem-urbem-digital.html)
-- [Contratados.Org](/i/contratados-org.html)
+- [3 de 3](/proyectos/3-de-3)
+- [Plataforma Para Participación Ciudadana De Vecinos](/proyectos/plataforma-para-participacion-ciudadana-de-vecinos)
+- [Urbem - Urbem.Digital](/proyectos/urbem-urbem-digital)
+- [Contratados.Org](/proyectos/contratados-org)

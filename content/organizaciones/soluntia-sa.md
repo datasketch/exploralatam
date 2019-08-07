@@ -24,4 +24,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Dyntra Latam](/i/dyntra-latam.html)
+- [Dyntra Latam](/proyectos/dyntra-latam)

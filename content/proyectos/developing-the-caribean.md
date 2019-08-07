@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Regional](/i/regional.html)
+- [Regional](/organizaciones/regional)

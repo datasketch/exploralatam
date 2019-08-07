@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Participación Ciudadana, Capitulo Dominicano Transparencia Internacional](/i/participacion-ciudadana-capitulo-dominicano-transparencia-internacional.html)
+- [Participación Ciudadana, Capitulo Dominicano Transparencia Internacional](/organizaciones/participacion-ciudadana-capitulo-dominicano-transparencia-internacional)

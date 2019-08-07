@@ -19,6 +19,6 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [El SAT condona miles de millones de pesos, la mayoría a grandes empresas, sin explicar por qué](/i/sat-condona-miles-de-millones-de-pesos-sin-explicar-por-que.html)
-- [Venezuela, crímen sin frontera](/i/venezuela-crimen-sin-frontera.html)
-- [Mundial Rusia 2018](/i/mundial-rusia-2018.html)
+- [El SAT condona miles de millones de pesos, la mayoría a grandes empresas, sin explicar por qué](/proyectos/sat-condona-miles-de-millones-de-pesos-sin-explicar-por-que)
+- [Venezuela, crímen sin frontera](/proyectos/venezuela-crimen-sin-frontera)
+- [Mundial Rusia 2018](/proyectos/mundial-rusia-2018)

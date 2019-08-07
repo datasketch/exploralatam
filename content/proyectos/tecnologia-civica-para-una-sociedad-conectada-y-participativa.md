@@ -19,6 +19,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Corona](/i/fundacion-corona.html)
-- [C230](/i/c230.html)
-- [Movilizatorio](/i/movilizatorio.html)
+- [Fundación Corona](/organizaciones/fundacion-corona)
+- [C230](/organizaciones/c230)
+- [Movilizatorio](/organizaciones/movilizatorio)

@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Ceu- Centro De Empreendedorismo Universitario &Consultoria Ltda](/i/ceu-centro-de-empreendedorismo-universitario-consultoria-ltda.html)
+- [Ceu- Centro De Empreendedorismo Universitario &Consultoria Ltda](/proyectos/ceu-centro-de-empreendedorismo-universitario-consultoria-ltda)

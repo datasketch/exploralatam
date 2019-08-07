@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Gobiernateac](/i/gobiernateac.html)
+- [Gobiernateac](/organizaciones/gobiernateac)

@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Observatorio.Eq](/i/observatorio-eq.html)
+- [Observatorio.Eq](/proyectos/observatorio-eq)

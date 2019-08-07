@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Nacional De La Economía Social](/i/instituto-nacional-de-la-economia-social.html)
+- [Instituto Nacional De La Economía Social](/organizaciones/instituto-nacional-de-la-economia-social)

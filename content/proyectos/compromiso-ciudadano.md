@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Innovavista](/i/innovavista.html)
-- [Municipalidad De San Jorge](/i/municipalidad-de-san-jorge.html)
+- [Innovavista](/organizaciones/innovavista)
+- [Municipalidad De San Jorge](/organizaciones/municipalidad-de-san-jorge)

@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sinfonía Unicef](/i/sinfonia-unicef.html)
+- [Sinfonía Unicef](/proyectos/sinfonia-unicef)

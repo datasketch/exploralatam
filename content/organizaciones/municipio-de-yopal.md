@@ -25,4 +25,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sistematización De La Gestión Y Divulgación De La Información Pública De Ordenamiento Territorial Del Municipio De Yopal](/i/sistematizacion-de-la-gestion-y-divulgacion-de-la-informacion-publica-de-ordenamiento-territorial-del-municipio-de-yopal.html)
+- [Sistematización De La Gestión Y Divulgación De La Información Pública De Ordenamiento Territorial Del Municipio De Yopal](/proyectos/sistematizacion-de-la-gestion-y-divulgacion-de-la-informacion-publica-de-ordenamiento-territorial-del-municipio-de-yopal)

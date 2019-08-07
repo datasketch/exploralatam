@@ -21,5 +21,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Stela](/i/instituto-stela.html)
-- [Sumá](/i/suma.html)
+- [Instituto Stela](/organizaciones/instituto-stela)
+- [Sumá](/organizaciones/suma)

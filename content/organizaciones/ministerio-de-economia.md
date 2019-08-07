@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Precios.Uy](/i/precios-uy.html)
+- [Precios.Uy](/proyectos/precios-uy)

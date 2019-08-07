@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Monitor Ciudadano](/i/monitor-ciudadano.html)
+- [Monitor Ciudadano](/proyectos/monitor-ciudadano)

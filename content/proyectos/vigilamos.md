@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Vigilamos](/i/vigilamos.html)
+- [Vigilamos](/organizaciones/vigilamos)

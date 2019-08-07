@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Codeando México](/i/codeando-mexico.html)
+- [Codeando México](/organizaciones/codeando-mexico)

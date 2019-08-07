@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Wingu](/i/wingu.html)
-- [Sonora Ciudadana](/i/sonora-ciudadana-ac.html)
+- [Wingu](/organizaciones/wingu)
+- [Sonora Ciudadana](/organizaciones/sonora-ciudadana-ac)

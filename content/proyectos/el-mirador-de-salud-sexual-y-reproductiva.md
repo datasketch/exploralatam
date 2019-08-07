@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Huésped](/i/fundacion-huesped.html)
+- [Fundación Huésped](/organizaciones/fundacion-huesped)

@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundamedios](/i/fundamedios.html)
+- [Fundamedios](/organizaciones/fundamedios)

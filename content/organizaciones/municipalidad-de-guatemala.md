@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Galileo.Edu Hackathon](/i/galileo-edu-hackathon.html)
+- [Galileo.Edu Hackathon](/proyectos/galileo-edu-hackathon)

@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Somos Dos](/i/somos-dos.html)
+- [Somos Dos](/proyectos/somos-dos)

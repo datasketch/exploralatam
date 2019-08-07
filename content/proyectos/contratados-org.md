@@ -17,5 +17,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cívica Digital civica-digital-mexico-sapi-de-cv](/i/civica-digital.html)
-- [Centro De Los Derechos Del Migrante, Inc.](/i/centro-de-los-derechos-del-migrante-inc.html)
+- [Cívica Digital civica-digital-mexico-sapi-de-cv](/organizaciones/civica-digital)
+- [Centro De Los Derechos Del Migrante, Inc.](/organizaciones/centro-de-los-derechos-del-migrante-inc)

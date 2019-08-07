@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Krieger Electronics De Mexico Sa De Cv](/i/krieger-electronics-de-mexico-sa-de-cv.html)
-- [Consejería Jurídica Y De Servicios Legales De La Cdmx](/i/consejeria-juridica-y-de-servicios-legales-de-la-cdmx.html)
+- [Krieger Electronics De Mexico Sa De Cv](/organizaciones/krieger-electronics-de-mexico-sa-de-cv)
+- [Consejería Jurídica Y De Servicios Legales De La Cdmx](/organizaciones/consejeria-juridica-y-de-servicios-legales-de-la-cdmx)

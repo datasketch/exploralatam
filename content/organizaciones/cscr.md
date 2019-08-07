@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Proyecto Participa 2017](/i/proyecto-participa-2017.html)
+- [Proyecto Participa 2017](/proyectos/proyecto-participa-2017)

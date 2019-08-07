@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Bondiar](/i/bondiar.html)
+- [Bondiar](/organizaciones/bondiar)

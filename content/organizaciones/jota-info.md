@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Lava Jota](/i/lava-jota.html)
+- [Lava Jota](/proyectos/lava-jota)

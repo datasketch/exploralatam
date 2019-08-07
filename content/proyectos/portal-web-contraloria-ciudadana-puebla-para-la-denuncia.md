@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Red Consejo Ciudadano A La Contraloria A.C.](/i/red-consejo-ciudadano-a-la-contraloria-a-c.html)
+- [Red Consejo Ciudadano A La Contraloria A.C.](/organizaciones/red-consejo-ciudadano-a-la-contraloria-a-c)

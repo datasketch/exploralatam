@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Innpactia S.A.S.](/i/innpactia-s-a-s.html)
+- [Innpactia S.A.S.](/organizaciones/innpactia-s-a-s)

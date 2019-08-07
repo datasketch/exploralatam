@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Veias Abertas – Dados Sobre Conflitos Socioambientais](/i/veias-abertas-dados-sobre-conflitos-socioambientais.html)
+- [Veias Abertas – Dados Sobre Conflitos Socioambientais](/proyectos/veias-abertas-dados-sobre-conflitos-socioambientais)

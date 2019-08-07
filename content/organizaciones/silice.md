@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma De Apertura De Gobiernos](/i/plataforma-de-apertura-de-gobiernos.html)
+- [Plataforma De Apertura De Gobiernos](/proyectos/plataforma-de-apertura-de-gobiernos)

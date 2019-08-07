@@ -16,6 +16,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Softex](/i/softex.html)
-- [Arede](/i/arede.html)
-- [Portal Brasil](/i/portal-brasil.html)
+- [Softex](/organizaciones/softex)
+- [Arede](/organizaciones/arede)
+- [Portal Brasil](/organizaciones/portal-brasil)

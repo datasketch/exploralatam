@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Ea Tech](/i/ea-tech.html)
+- [Ea Tech](/organizaciones/ea-tech)

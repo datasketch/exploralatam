@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Nacional Para El Desarrollo (Funde)](/i/fundacion-nacional-para-el-desarrollo-funde.html)
+- [Fundación Nacional Para El Desarrollo (Funde)](/organizaciones/fundacion-nacional-para-el-desarrollo-funde)

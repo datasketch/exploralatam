@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Colombia Check](/i/colombia-check.html)
+- [Colombia Check](/organizaciones/colombia-check)

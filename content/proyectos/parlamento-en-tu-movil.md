@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Que Hacen?: El Parlamento En Tu Movil](/i/que-hacen-el-parlamento-en-tu-movil.html)
+- [Que Hacen?: El Parlamento En Tu Movil](/organizaciones/que-hacen-el-parlamento-en-tu-movil)

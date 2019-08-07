@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [De Olhos Nas Metas](/i/de-olhos-nas-metas.html)
+- [De Olhos Nas Metas](/proyectos/de-olhos-nas-metas)

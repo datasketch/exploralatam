@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Akredito](/i/akredito.html)
+- [Akredito](/organizaciones/akredito)

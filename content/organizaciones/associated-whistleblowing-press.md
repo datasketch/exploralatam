@@ -21,5 +21,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/creacion-de-chileleaks-centroamericaleaks-y-latamleaks-coordinadora-regional-de-las-plataformas-de-whistleblowing.html)
-- [Creación De Chileleaks, Centroaméricaleaks Y  Latamleaks, Coordinadora Regional De Las Plataformas De Whistleblowing.](/i/creacion-de-chileleaks-centroamericaleaks-y-latamleaks-coordinadora-regional-de-las-plataformas-de-whistleblowing.html)
+- [](/proyectos/creacion-de-chileleaks-centroamericaleaks-y-latamleaks-coordinadora-regional-de-las-plataformas-de-whistleblowing)
+- [Creación De Chileleaks, Centroaméricaleaks Y  Latamleaks, Coordinadora Regional De Las Plataformas De Whistleblowing.](/proyectos/creacion-de-chileleaks-centroamericaleaks-y-latamleaks-coordinadora-regional-de-las-plataformas-de-whistleblowing)

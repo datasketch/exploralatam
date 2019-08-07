@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Democracia En Red](/i/democracia-en-red.html)
+- [Democracia En Red](/organizaciones/democracia-en-red)

@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Grupo De Inovacion E Inteligencia Ciudadana](/i/grupo-de-inovacion-e-inteligencia-ciudadana.html)
+- [Grupo De Inovacion E Inteligencia Ciudadana](/organizaciones/grupo-de-inovacion-e-inteligencia-ciudadana)

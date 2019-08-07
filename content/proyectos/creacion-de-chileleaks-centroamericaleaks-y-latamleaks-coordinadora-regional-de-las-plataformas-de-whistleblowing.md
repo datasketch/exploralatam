@@ -22,7 +22,7 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [PODER](/i/project-poder.html)
-- [Associated Whistleblowing Press](/i/associated-whistleblowing-press.html)
-- [Fundación Ciudadano Inteligente](/i/fundacion-ciudadano-inteligente.html)
-- [Plaza Pública](/i/plaza-publica.html)
+- [PODER](/organizaciones/project-poder)
+- [Associated Whistleblowing Press](/organizaciones/associated-whistleblowing-press)
+- [Fundación Ciudadano Inteligente](/organizaciones/fundacion-ciudadano-inteligente)
+- [Plaza Pública](/organizaciones/plaza-publica)

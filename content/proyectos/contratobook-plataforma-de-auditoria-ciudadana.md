@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Ciudadan@S Por La Transparencia A.C](/i/ciudadan-s-por-la-transparencia-a-c.html)
-- [Spaceshipslabs](/i/spaceshipslabs.html)
+- [Ciudadan@S Por La Transparencia A.C](/organizaciones/ciudadan-s-por-la-transparencia-a-c)
+- [Spaceshipslabs](/organizaciones/spaceshipslabs)

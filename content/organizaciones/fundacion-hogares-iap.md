@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma Para Participación Ciudadana De Vecinos](/i/plataforma-para-participacion-ciudadana-de-vecinos.html)
+- [Plataforma Para Participación Ciudadana De Vecinos](/proyectos/plataforma-para-participacion-ciudadana-de-vecinos)

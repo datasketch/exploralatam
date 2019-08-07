@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Corporación Control Social Colombia](/i/corporacion-control-social-colombia.html)
+- [Corporación Control Social Colombia](/organizaciones/corporacion-control-social-colombia)

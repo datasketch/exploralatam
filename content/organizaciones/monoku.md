@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-22
+date_last_modified: 2019-08-05
 uid: monoku
 title: "Monoku"
 legal_name: 
@@ -13,11 +13,11 @@ twitter: https://twitter.com/monoku
 tags:
 
 cities: 
-  - Costa Rica
+  - Bogotá
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Congreso Visible](/i/congreso-visible.html)
-- [Voto Móvil](/i/voto-movil.html)
+- [Congreso Visible](/proyectos/congreso-visible)
+- [Voto Móvil](/proyectos/voto-movil)

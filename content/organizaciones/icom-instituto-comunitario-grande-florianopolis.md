@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sinais Vitais](/i/sinais-vitais.html)
+- [Sinais Vitais](/proyectos/sinais-vitais)

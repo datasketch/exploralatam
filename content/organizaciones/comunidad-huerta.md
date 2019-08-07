@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Comunidad Huerta](/i/comunidad-huerta.html)
+- [Comunidad Huerta](/proyectos/comunidad-huerta)

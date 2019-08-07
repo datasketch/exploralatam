@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Gênero E Número](/i/genero-e-numero.html)
+- [Gênero E Número](/proyectos/genero-e-numero)

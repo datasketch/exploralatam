@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Onu](/i/onu.html)
+- [Onu](/organizaciones/onu)

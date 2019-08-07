@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Sociedad Peruana De Derecho Ambiental](/i/sociedad-peruana-de-derecho-ambiental.html)
+- [Sociedad Peruana De Derecho Ambiental](/organizaciones/sociedad-peruana-de-derecho-ambiental)

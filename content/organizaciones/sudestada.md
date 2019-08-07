@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-22
+date_last_modified: 2019-08-05
 uid: sudestada
 title: "Revista Sudestada"
 legal_name: 
@@ -13,7 +13,7 @@ twitter: https://twitter.com/revsudestada
 tags:
 
 cities: 
-  - Costa Rica
+  - Buenos Aires
 
 ---
 

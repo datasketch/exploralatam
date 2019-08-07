@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Construir](/i/fundacion-construir.html)
+- [Fundación Construir](/organizaciones/fundacion-construir)

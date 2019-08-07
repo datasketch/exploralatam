@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Belisar.Io](/i/belisar-io.html)
+- [Belisar.Io](/proyectos/belisar-io)

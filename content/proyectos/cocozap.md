@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Observatório De Favelas Do Rio De Janeiro](/i/observatorio-de-favelas-do-rio-de-janeiro.html)
-- [Casa Fluminense](/i/casa-fluminense.html)
+- [Observatório De Favelas Do Rio De Janeiro](/organizaciones/observatorio-de-favelas-do-rio-de-janeiro)
+- [Casa Fluminense](/organizaciones/casa-fluminense)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Gerico](/i/gerico.html)
+- [Gerico](/organizaciones/gerico)

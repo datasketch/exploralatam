@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Politica Sporte Club](/i/politica-sporte-club.html)
+- [Politica Sporte Club](/proyectos/politica-sporte-club)

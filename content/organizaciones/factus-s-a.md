@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Democratización De La Información Y Sostenibilidad De Los Medios](/i/democratizacion-de-la-informacion-y-sostenibilidad-de-los-medios.html)
+- [Democratización De La Información Y Sostenibilidad De Los Medios](/proyectos/democratizacion-de-la-informacion-y-sostenibilidad-de-los-medios)

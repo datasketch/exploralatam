@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro De Innovación A La Vivienda (Civ), A.C.](/i/centro-de-innovacion-a-la-vivienda-civ-a-c.html)
+- [Centro De Innovación A La Vivienda (Civ), A.C.](/organizaciones/centro-de-innovacion-a-la-vivienda-civ-a-c)

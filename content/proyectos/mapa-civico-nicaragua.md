@@ -21,5 +21,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Grupo Cívico Ética Y Transparencia (Eyt)](/i/fundacion-grupo-civico-etica-y-transparencia-eyt.html)
-- [Kronoscode](/i/kronoscode.html)
+- [Fundación Grupo Cívico Ética Y Transparencia (Eyt)](/organizaciones/fundacion-grupo-civico-etica-y-transparencia-eyt)
+- [Kronoscode](/organizaciones/kronoscode)

@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-24
+date_last_modified: 2019-07-29
 uid: open-knowledge-brasil
 title: "Open Knowledge Brasil"
 legal_name: 
@@ -13,14 +13,14 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Pedidos De Informação Pública Anônimos](/i/pedidos-de-informacão-publica-anonimos.html)
-- [Escola De Dados](/i/escola-de-dados.html)
-- [Open Spending Brasil](/i/open-spending-brasil.html)
-- [Open Knowledge Brasil](/i/open-knowledge-brasil.html)
-- [Operación Serenata De Amor](/i/operacion-serenata-de-amor.html)
+- [Pedidos De Informação Pública Anônimos](/proyectos/pedidos-de-informacão-publica-anonimos)
+- [Escola De Dados](/proyectos/escola-de-dados)
+- [Open Spending Brasil](/proyectos/open-spending-brasil)
+- [Open Knowledge Brasil](/proyectos/open-knowledge-brasil)
+- [Operación Serenata De Amor](/proyectos/operacion-serenata-de-amor)

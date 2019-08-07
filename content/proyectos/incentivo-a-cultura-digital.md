@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro De Formação E Organização Comunitária - Ceforc](/i/centro-de-formacão-e-organizacão-comunitaria-ceforc.html)
+- [Centro De Formação E Organização Comunitária - Ceforc](/organizaciones/centro-de-formacão-e-organizacão-comunitaria-ceforc)

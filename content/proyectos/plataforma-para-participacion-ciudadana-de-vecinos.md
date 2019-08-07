@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cívica Digital civica-digital-mexico-sapi-de-cv](/i/civica-digital.html)
-- [Fundación Hogares, Iap](/i/fundacion-hogares-iap.html)
+- [Cívica Digital civica-digital-mexico-sapi-de-cv](/organizaciones/civica-digital)
+- [Fundación Hogares, Iap](/organizaciones/fundacion-hogares-iap)

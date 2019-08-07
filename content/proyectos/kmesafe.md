@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Youniversys Srl](/i/youniversys-srl.html)
+- [Youniversys Srl](/organizaciones/youniversys-srl)

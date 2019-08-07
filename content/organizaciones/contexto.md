@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Política En Contexto](/i/politica-en-contexto.html)
+- [Política En Contexto](/proyectos/politica-en-contexto)

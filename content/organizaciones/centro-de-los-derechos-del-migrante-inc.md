@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Contratados.Org](/i/contratados-org.html)
+- [Contratados.Org](/proyectos/contratados-org)

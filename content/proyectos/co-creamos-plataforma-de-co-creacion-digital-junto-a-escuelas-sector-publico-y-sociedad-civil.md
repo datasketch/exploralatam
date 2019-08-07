@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Faro Digital](/i/faro-digital.html)
+- [Faro Digital](/organizaciones/faro-digital)

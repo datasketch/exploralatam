@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cocreamos S.A.S.](/i/cocreamos-s-a-s.html)
+- [Cocreamos S.A.S.](/organizaciones/cocreamos-s-a-s)

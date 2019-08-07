@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Democracia & Desarrollo Internacional (D&D Internacional)](/i/democracia-desarrollo-internacional-d-d-internacional.html)
+- [Democracia & Desarrollo Internacional (D&D Internacional)](/organizaciones/democracia-desarrollo-internacional-d-d-internacional)

@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Cityflag](/i/cityflag.html)
+- [Cityflag](/proyectos/cityflag)

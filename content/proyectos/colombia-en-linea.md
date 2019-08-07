@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Gobierno De Colombia](/i/gobierno-de-colombia.html)
+- [Gobierno De Colombia](/organizaciones/gobierno-de-colombia)

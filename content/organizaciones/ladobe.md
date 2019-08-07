@@ -13,11 +13,11 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sin Nombre](/i/sin-nombre.html)
-- [Periodismo Libre](/i/periodismo-libre.html)
+- [Sin Nombre](/proyectos/sin-nombre)
+- [Periodismo Libre](/proyectos/periodismo-libre)

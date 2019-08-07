@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Hacklab Asunción](/i/hacklab-asuncion.html)
+- [Hacklab Asunción](/organizaciones/hacklab-asuncion)

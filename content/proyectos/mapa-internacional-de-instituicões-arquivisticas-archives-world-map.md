@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Grupo De Estudos Sobre Cultura, Representação E Informação Digitais - Cridi](/i/grupo-de-estudos-sobre-cultura-representacão-e-informacão-digitais-cridi.html)
+- [Grupo De Estudos Sobre Cultura, Representação E Informação Digitais - Cridi](/organizaciones/grupo-de-estudos-sobre-cultura-representacão-e-informacão-digitais-cridi)

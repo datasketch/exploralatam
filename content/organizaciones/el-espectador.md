@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Doña Juana 20 años de la catástrofe ambiental](/i/dona-juana.html)
+- [Doña Juana 20 años de la catástrofe ambiental](/proyectos/dona-juana)

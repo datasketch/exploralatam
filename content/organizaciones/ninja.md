@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Midia Ninja](/i/midia-ninja.html)
+- [Midia Ninja](/proyectos/midia-ninja)

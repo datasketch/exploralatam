@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Escuela De Datos Peru](/i/escuela-de-datos-peru.html)
+- [Escuela De Datos Peru](/organizaciones/escuela-de-datos-peru)

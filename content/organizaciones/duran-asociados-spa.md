@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Hora Salud](/i/hora-salud.html)
+- [Hora Salud](/proyectos/hora-salud)

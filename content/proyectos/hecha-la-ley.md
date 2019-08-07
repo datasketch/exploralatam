@@ -17,5 +17,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Democracia En Red](/i/democracia-en-red.html)
-- [Directorio Legislativo](/i/directorio-legislativo.html)
+- [Democracia En Red](/organizaciones/democracia-en-red)
+- [Directorio Legislativo](/organizaciones/directorio-legislativo)

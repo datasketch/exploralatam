@@ -20,6 +20,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Espacio Público](/i/espacio-publico.html)
-- [Municipalidad De Renca](/i/municipalidad-de-renca.html)
-- [Socio Público](/i/socio-publico.html)
+- [Espacio Público](/organizaciones/espacio-publico)
+- [Municipalidad De Renca](/organizaciones/municipalidad-de-renca)
+- [Socio Público](/organizaciones/socio-publico)

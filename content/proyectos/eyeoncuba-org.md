@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [People In Need](/i/people-in-need.html)
+- [People In Need](/organizaciones/people-in-need)

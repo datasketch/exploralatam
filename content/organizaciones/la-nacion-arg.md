@@ -19,8 +19,8 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Dónde y por qué se corta la luz](/i/donde-y-por-que-se-corta-la-luz.html)
-- [Declaraciones Juradas Abiertas](/i/declaraciones-juradas.html)
-- [A qué precio](/i/a-que-precio.html)
-- [Un tercio de los miembros del Congreso no posee título universitario](/i/un-tercio-de-los-miembros-del-congreso-no-posee-titulo-universitario.html)
-- [Elecciones 2017: en qué provincias ganó Cambiemos y por cuánto](/i/elecciones-2017.html)
+- [Dónde y por qué se corta la luz](/proyectos/donde-y-por-que-se-corta-la-luz)
+- [Declaraciones Juradas Abiertas](/proyectos/declaraciones-juradas)
+- [A qué precio](/proyectos/a-que-precio)
+- [Un tercio de los miembros del Congreso no posee título universitario](/proyectos/un-tercio-de-los-miembros-del-congreso-no-posee-titulo-universitario)
+- [Elecciones 2017: en qué provincias ganó Cambiemos y por cuánto](/proyectos/elecciones-2017)

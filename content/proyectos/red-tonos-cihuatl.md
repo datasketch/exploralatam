@@ -20,6 +20,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cultura Y Educación Para El Desarrollo Y La Autonomía En México](/i/cultura-y-educacion-para-el-desarrollo-y-la-autonomia-en-mexico.html)
-- [Agencia Metropolitana De Seguridad, Laboratorio De Políticas Públicas](/i/agencia-metropolitana-de-seguridad-laboratorio-de-politicas-publicas.html)
-- [Zapopan Lab](/i/zapopan-lab.html)
+- [Cultura Y Educación Para El Desarrollo Y La Autonomía En México](/organizaciones/cultura-y-educacion-para-el-desarrollo-y-la-autonomia-en-mexico)
+- [Agencia Metropolitana De Seguridad, Laboratorio De Políticas Públicas](/organizaciones/agencia-metropolitana-de-seguridad-laboratorio-de-politicas-publicas)
+- [Zapopan Lab](/organizaciones/zapopan-lab)

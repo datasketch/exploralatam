@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Medios De Periodismo Ciudadano, Independientes, Participativos, Transparentes, De Alta Escalabilidad E Impacto Social](/i/medios-de-periodismo-ciudadano-independientes-participativos-transparentes-de-alta-escalabilidad-e-impacto-social.html)
+- [Medios De Periodismo Ciudadano, Independientes, Participativos, Transparentes, De Alta Escalabilidad E Impacto Social](/proyectos/medios-de-periodismo-ciudadano-independientes-participativos-transparentes-de-alta-escalabilidad-e-impacto-social)

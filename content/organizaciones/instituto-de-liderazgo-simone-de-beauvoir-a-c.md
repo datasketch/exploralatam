@@ -24,4 +24,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Hacia La Igualdad De Género A Través De Narrativas Digitales Innovadoras](/i/hacia-la-igualdad-de-genero-a-traves-de-narrativas-digitales-innovadoras.html)
+- [Hacia La Igualdad De Género A Través De Narrativas Digitales Innovadoras](/proyectos/hacia-la-igualdad-de-genero-a-traves-de-narrativas-digitales-innovadoras)

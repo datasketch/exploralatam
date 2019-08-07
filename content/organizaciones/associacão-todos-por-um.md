@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Todos Por Um (Tp1),Associação Todos Por Um  (Tp1)](/i/todos-por-um-tp1,associacão-todos-por-um-tp1.html)
+- [Todos Por Um (Tp1),Associação Todos Por Um  (Tp1)](/proyectos/todos-por-um-tp1,associacão-todos-por-um-tp1)

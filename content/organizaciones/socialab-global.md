@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Socialab Pia: Plataforma De Innovación Abierta](/i/socialab-pia-plataforma-de-innovacion-abierta.html)
+- [Socialab Pia: Plataforma De Innovación Abierta](/proyectos/socialab-pia-plataforma-de-innovacion-abierta)

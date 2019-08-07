@@ -25,4 +25,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Agencia Informativa Ciudadana](/i/agencia-informativa-ciudadana.html)
+- [Agencia Informativa Ciudadana](/proyectos/agencia-informativa-ciudadana)

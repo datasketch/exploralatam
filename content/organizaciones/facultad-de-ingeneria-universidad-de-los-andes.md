@@ -24,4 +24,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Infraestructura Visible](/i/infraestructura-visible.html)
+- [Infraestructura Visible](/proyectos/infraestructura-visible)

@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Reporta Ciudad](/i/reporta-ciudad.html)
+- [Reporta Ciudad](/proyectos/reporta-ciudad)

@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cityflag Sapi De Cv](/i/cityflag-sapi-de-cv.html)
+- [Cityflag Sapi De Cv](/organizaciones/cityflag-sapi-de-cv)

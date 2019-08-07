@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Politeia Y Control Social](/i/politeia-y-control-social.html)
+- [Politeia Y Control Social](/proyectos/politeia-y-control-social)

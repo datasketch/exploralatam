@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Datea.Pe](/i/datea-pe.html)
+- [Datea.Pe](/proyectos/datea-pe)

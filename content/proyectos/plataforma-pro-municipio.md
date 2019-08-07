@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Socialtic](/i/socialtic.html)
-- [Centro De Investigaciones Y Estudios En Antropología Social](/i/centro-de-investigaciones-y-estudios-en-antropologia-social.html)
+- [Socialtic](/organizaciones/socialtic)
+- [Centro De Investigaciones Y Estudios En Antropología Social](/organizaciones/centro-de-investigaciones-y-estudios-en-antropologia-social)

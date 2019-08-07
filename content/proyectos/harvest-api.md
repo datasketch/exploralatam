@@ -17,5 +17,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Code For The Caribbean](/i/code-for-the-caribbean.html)
-- [Slashroots](/i/slashroots.html)
+- [Code For The Caribbean](/organizaciones/code-for-the-caribbean)
+- [Slashroots](/organizaciones/slashroots)

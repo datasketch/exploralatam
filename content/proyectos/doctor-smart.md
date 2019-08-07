@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Central America Software Services](/i/central-america-software-services.html)
+- [Central America Software Services](/organizaciones/central-america-software-services)

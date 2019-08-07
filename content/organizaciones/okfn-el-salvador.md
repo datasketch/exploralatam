@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Datos El Salvador](/i/datos-el-salvador.html)
+- [Datos El Salvador](/proyectos/datos-el-salvador)

@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Get In The Ring Apps](/i/get-in-the-ring-apps.html)
+- [Get In The Ring Apps](/proyectos/get-in-the-ring-apps)

@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma Sas De Participación Ciudadana](/i/plataforma-sas-de-participacion-ciudadana.html)
+- [Plataforma Sas De Participación Ciudadana](/proyectos/plataforma-sas-de-participacion-ciudadana)

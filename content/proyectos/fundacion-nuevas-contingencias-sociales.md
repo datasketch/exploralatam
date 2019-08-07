@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Nuevas Contingencias Sociales](/i/fundacion-nuevas-contingencias-sociales.html)
+- [Fundación Nuevas Contingencias Sociales](/organizaciones/fundacion-nuevas-contingencias-sociales)

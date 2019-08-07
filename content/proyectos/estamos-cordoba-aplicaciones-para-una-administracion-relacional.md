@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Asociación Civil Para La Construcción De Un Gobierno Abierto](/i/asociacion-civil-para-la-construccion-de-un-gobierno-abierto.html)
+- [Asociación Civil Para La Construcción De Un Gobierno Abierto](/organizaciones/asociacion-civil-para-la-construccion-de-un-gobierno-abierto)

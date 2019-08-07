@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Hack Hackers Lima](/i/hack-hackers-lima.html)
+- [Hack Hackers Lima](/organizaciones/hack-hackers-lima)

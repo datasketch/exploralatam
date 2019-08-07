@@ -1,8 +1,8 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-24
-uid: grupo-faro-ame-rica-latina-y-el-caribe
-title: "Grupo FARO Ame´rica Latina y el Caribe"
+date_last_modified: 2019-07-30
+uid: grupo-faro-america-latina-y-el-caribe
+title: "Grupo FARO América Latina y el Caribe"
 legal_name: 
 description: ""
 org_type: 
@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+  - Quito
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/comunidas-2-0.html)
+- [](/proyectos/comunidas-2-0)

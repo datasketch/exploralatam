@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Instituto Del Desarrollo De La Juventud](/i/instituto-del-desarrollo-de-la-juventud.html)
+- [Instituto Del Desarrollo De La Juventud](/proyectos/instituto-del-desarrollo-de-la-juventud)

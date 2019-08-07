@@ -22,8 +22,8 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [DATABOOTCAMP](/i/data-boot-camp.html)
-- [Parlamento Abierto Py](/i/parlamento-abierto-py.html)
-- [Tedic](/i/tedic.html)
-- [¿Quién defiende tus datos?](/i/quien-defiende-tus-datos.html)
-- [Hacia El Empoderamiento De Nuestros Derechos Digitales A Través De La Participación Ciudadana Y El Debate Público.](/i/hacia-el-empoderamiento-de-nuestros-derechos-digitales-a-traves-de-la-participacion-ciudadana-y-el-debate-publico.html)
+- [DATABOOTCAMP](/proyectos/data-boot-camp)
+- [Parlamento Abierto Py](/proyectos/parlamento-abierto-py)
+- [Tedic](/proyectos/tedic)
+- [¿Quién defiende tus datos?](/proyectos/quien-defiende-tus-datos)
+- [Hacia El Empoderamiento De Nuestros Derechos Digitales A Través De La Participación Ciudadana Y El Debate Público.](/proyectos/hacia-el-empoderamiento-de-nuestros-derechos-digitales-a-traves-de-la-participacion-ciudadana-y-el-debate-publico)

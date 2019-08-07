@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma Pro Municipio](/i/plataforma-pro-municipio.html)
+- [Plataforma Pro Municipio](/proyectos/plataforma-pro-municipio)

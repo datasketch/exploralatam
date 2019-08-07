@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [El Uso De Las Tics Para El Desarrollo Social](/i/el-uso-de-las-tics-para-el-desarrollo-social.html)
+- [El Uso De Las Tics Para El Desarrollo Social](/proyectos/el-uso-de-las-tics-para-el-desarrollo-social)

@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro Universitário De Belo Horizonte](/i/centro-universitario-de-belo-horizonte.html)
-- [Anima Educación](/i/anima-educacion.html)
+- [Centro Universitário De Belo Horizonte](/organizaciones/centro-universitario-de-belo-horizonte)
+- [Anima Educación](/organizaciones/anima-educacion)

@@ -20,6 +20,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Responsible Business Alliance (Rba)](/i/responsible-business-alliance-rba.html)
-- [Fundación Villafranca Y Zurcher Para La Educación De La Juventud A Través Del Turismo](/i/fundacion-villafranca-y-zurcher-para-la-educacion-de-la-juventud-a-traves-del-turismo.html)
-- [Estudio Manatí S.A.](/i/estudio-manati-s-a.html)
+- [Responsible Business Alliance (Rba)](/organizaciones/responsible-business-alliance-rba)
+- [Fundación Villafranca Y Zurcher Para La Educación De La Juventud A Través Del Turismo](/organizaciones/fundacion-villafranca-y-zurcher-para-la-educacion-de-la-juventud-a-traves-del-turismo)
+- [Estudio Manatí S.A.](/organizaciones/estudio-manati-s-a)

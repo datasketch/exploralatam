@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [El Presupuesto Comunitario](/i/el-presupuesto-comunitario.html)
+- [El Presupuesto Comunitario](/proyectos/el-presupuesto-comunitario)

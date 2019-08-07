@@ -24,11 +24,11 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Quesabes.Uy](/i/quesabes-uy.html)
-- [Data Uy](/i/data-uy.html)
-- [Por Mi Barrio](/i/por-mi-barrio.html)
-- [Dal](/i/dal.html)
-- [Mutualistas.Uy](/i/mutualistas-uy.html)
-- [Reporta Ciudad](/i/reporta-ciudad.html)
-- [Bicentenario Uruguay](/i/bicentenario-uruguay.html)
-- [Plataforma Educación (Nombre De Trabajo)](/i/plataforma-educacion-nombre-de-trabajo.html)
+- [Quesabes.Uy](/proyectos/quesabes-uy)
+- [Data Uy](/proyectos/data-uy)
+- [Por Mi Barrio](/proyectos/por-mi-barrio)
+- [Dal](/proyectos/dal)
+- [Mutualistas.Uy](/proyectos/mutualistas-uy)
+- [Reporta Ciudad](/proyectos/reporta-ciudad)
+- [Bicentenario Uruguay](/proyectos/bicentenario-uruguay)
+- [Plataforma Educación (Nombre De Trabajo)](/proyectos/plataforma-educacion-nombre-de-trabajo)

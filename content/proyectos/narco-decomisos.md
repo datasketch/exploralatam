@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [La Nación](/i/la-nacion-cr.html)
+- [La Nación](/organizaciones/la-nacion-cr)

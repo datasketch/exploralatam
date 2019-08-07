@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Programa Cidades Sustentaeis](/i/programa-cidades-sustentaeis.html)
+- [Programa Cidades Sustentaeis](/organizaciones/programa-cidades-sustentaeis)

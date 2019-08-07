@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Asociación Latin](/i/asociacion-latin.html)
+- [Asociación Latin](/organizaciones/asociacion-latin)

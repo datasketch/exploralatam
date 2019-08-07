@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cáritas Brasileira Regional Nordeste Ii](/i/caritas-brasileira-regional-nordeste-ii.html)
+- [Cáritas Brasileira Regional Nordeste Ii](/organizaciones/caritas-brasileira-regional-nordeste-ii)

@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Fixmystreet](/i/fixmystreet.html)
+- [Fixmystreet](/proyectos/fixmystreet)

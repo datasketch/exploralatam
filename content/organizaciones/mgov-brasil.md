@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Intercom](/i/intercom.html)
+- [Intercom](/proyectos/intercom)

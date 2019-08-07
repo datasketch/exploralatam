@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Pontificia Universidad Católica Del Perú](/i/pontificia-universidad-catolica-del-peru.html)
+- [Pontificia Universidad Católica Del Perú](/organizaciones/pontificia-universidad-catolica-del-peru)

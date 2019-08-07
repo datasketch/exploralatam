@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Avaliação Da Qualidade Da Merenda Escolar](/i/avaliacão-da-qualidade-da-merenda-escolar.html)
+- [Avaliação Da Qualidade Da Merenda Escolar](/proyectos/avaliacão-da-qualidade-da-merenda-escolar)

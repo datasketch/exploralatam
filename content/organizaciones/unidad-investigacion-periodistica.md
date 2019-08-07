@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-22
+date_last_modified: 2019-08-05
 uid: unidad-investigacion-periodistica
 title: "Unidad de Investigación Periodística"
 legal_name: 
@@ -13,14 +13,14 @@ twitter: https://twitter.com/Guerrayescuela
 tags:
 
 cities: 
-  - Costa Rica
+  - Bogotá
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Reescribiendo Vidas](/i/reescribiendo-vidas.html)
-- [Minas Antipersonal: Amenaza bajo los pies colombianos](/i/minas-antipersona.html)
-- [Eventos naturales en Colombia](/i/eventos-naturales.html)
-- [La Guerra va a la escuela](/i/guerra-y-escuela-i.html)
-- [La Guerra va a la escuela II](/i/guerra-y-escuela-ii.html)
+- [Reescribiendo Vidas](/proyectos/reescribiendo-vidas)
+- [Minas Antipersonal: Amenaza bajo los pies colombianos](/proyectos/minas-antipersona)
+- [Eventos naturales en Colombia](/proyectos/eventos-naturales)
+- [La Guerra va a la escuela](/proyectos/guerra-y-escuela-i)
+- [La Guerra va a la escuela II](/proyectos/guerra-y-escuela-ii)

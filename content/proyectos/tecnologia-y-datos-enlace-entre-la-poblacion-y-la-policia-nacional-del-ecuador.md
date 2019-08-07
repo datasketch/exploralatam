@@ -18,5 +18,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Smart Data Services](/i/smart-data-services.html)
-- [Policía Nacional Del Ecuador](/i/policia-nacional-del-ecuador.html)
+- [Smart Data Services](/organizaciones/smart-data-services)
+- [Policía Nacional Del Ecuador](/organizaciones/policia-nacional-del-ecuador)

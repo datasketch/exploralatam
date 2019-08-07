@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Iniciativa De Innovación Tecnológica Para La Participación Ciudadana En El Monitoreo, Fiscalización E Incidencia En El Congreso Nacional](/i/iniciativa-de-innovacion-tecnologica-para-la-participacion-ciudadana-en-el-monitoreo-fiscalizacion-e-incidencia-en-el-congreso-nacional.html)
+- [Iniciativa De Innovación Tecnológica Para La Participación Ciudadana En El Monitoreo, Fiscalización E Incidencia En El Congreso Nacional](/proyectos/iniciativa-de-innovacion-tecnologica-para-la-participacion-ciudadana-en-el-monitoreo-fiscalizacion-e-incidencia-en-el-congreso-nacional)

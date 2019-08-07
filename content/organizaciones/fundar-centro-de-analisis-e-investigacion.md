@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Transparencia En Publicidad Oficial](/i/transparencia-en-publicidad-oficial.html)
+- [Transparencia En Publicidad Oficial](/proyectos/transparencia-en-publicidad-oficial)

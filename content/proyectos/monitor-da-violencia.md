@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/g1.html)
+- [X](/organizaciones/g1)

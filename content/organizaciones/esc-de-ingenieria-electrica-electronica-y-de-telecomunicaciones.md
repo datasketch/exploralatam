@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Red Ciudadana De Monitoreo De La Calidad Del Aire](/i/red-ciudadana-de-monitoreo-de-la-calidad-del-aire.html)
+- [Red Ciudadana De Monitoreo De La Calidad Del Aire](/proyectos/red-ciudadana-de-monitoreo-de-la-calidad-del-aire)

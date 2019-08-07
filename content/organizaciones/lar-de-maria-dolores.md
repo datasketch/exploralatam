@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Celula De Capacitação Tecnológica Para Meninas E Adolescentes - Cecatec](/i/celula-de-capacitacão-tecnologica-para-meninas-e-adolescentes-cecatec.html)
+- [Celula De Capacitação Tecnológica Para Meninas E Adolescentes - Cecatec](/proyectos/celula-de-capacitacão-tecnologica-para-meninas-e-adolescentes-cecatec)

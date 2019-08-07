@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Democracia Digital](/i/democracia-digital.html)
+- [Democracia Digital](/organizaciones/democracia-digital)

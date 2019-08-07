@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Aguapps: Gestión Participativa Del Agua Para El Chaco](/i/aguapps-gestion-participativa-del-agua-para-el-chaco.html)
+- [Aguapps: Gestión Participativa Del Agua Para El Chaco](/proyectos/aguapps-gestion-participativa-del-agua-para-el-chaco)

@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Economía Local Y Megamineria](/i/economia-local-y-megamineria.html)
+- [Economía Local Y Megamineria](/proyectos/economia-local-y-megamineria)

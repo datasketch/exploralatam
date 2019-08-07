@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Jóvenes Contra La Violencia/Centroamérica](/i/jovenes-contra-la-violencia-centroamerica.html)
+- [Jóvenes Contra La Violencia/Centroamérica](/organizaciones/jovenes-contra-la-violencia-centroamerica)

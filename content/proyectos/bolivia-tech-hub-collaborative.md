@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Acm - Sim](/i/acm-sim.html)
+- [Acm - Sim](/organizaciones/acm-sim)

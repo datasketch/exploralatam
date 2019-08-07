@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [13 Media Sc](/i/13-media-sc.html)
+- [13 Media Sc](/organizaciones/13-media-sc)

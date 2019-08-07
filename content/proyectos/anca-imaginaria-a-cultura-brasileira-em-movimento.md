@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Para O Desenvolvimento Racional Das Cidades](/i/instituto-para-o-desenvolvimento-racional-das-cidades.html)
+- [Instituto Para O Desenvolvimento Racional Das Cidades](/organizaciones/instituto-para-o-desenvolvimento-racional-das-cidades)

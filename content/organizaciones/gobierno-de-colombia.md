@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Colombia En Linea](/i/colombia-en-linea.html)
+- [Colombia En Linea](/proyectos/colombia-en-linea)

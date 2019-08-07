@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cuestión Pública](/i/cuestion-publica.html)
+- [Cuestión Pública](/organizaciones/cuestion-publica)

@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Atentomuni](/i/atentomuni.html)
+- [Atentomuni](/proyectos/atentomuni)

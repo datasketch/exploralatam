@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Saludx](/i/saludx.html)
+- [Saludx](/proyectos/saludx)

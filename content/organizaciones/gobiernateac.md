@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Gobiernateac](/i/gobiernateac.html)
+- [Gobiernateac](/proyectos/gobiernateac)

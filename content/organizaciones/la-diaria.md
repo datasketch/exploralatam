@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Río Abierto](/i/rio-abierto.html)
+- [Río Abierto](/proyectos/rio-abierto)

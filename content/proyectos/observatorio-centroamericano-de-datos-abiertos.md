@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Panameño De Derecho Y Nuevas Tecnologías](/i/instituto-panameno-de-derecho-y-nuevas-tecnologias.html)
-- [Datoselsalvador](/i/datoselsalvador.html)
+- [Instituto Panameño De Derecho Y Nuevas Tecnologías](/organizaciones/instituto-panameno-de-derecho-y-nuevas-tecnologias)
+- [Datoselsalvador](/organizaciones/datoselsalvador)

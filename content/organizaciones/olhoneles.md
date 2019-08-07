@@ -1,8 +1,8 @@
 ---
-date: 2019-07-21T23:22:18.000Z
-date_last_modified: 2019-07-24
-uid: datasketch|transparencia-colombia
-title: "X"
+date: 2019-07-21T23:14:06.000Z
+date_last_modified: 2019-08-07
+uid: olhoneles
+title: "Olhoneles"
 legal_name: 
 description: ""
 org_type: 
@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+  - Minas
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-
+- [Olhoneles.Org](/proyectos/olhoneles-org)

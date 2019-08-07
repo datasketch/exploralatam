@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Innpactia: Acercando Recursos A Las Causas](/i/innpactia-acercando-recursos-a-las-causas.html)
+- [Innpactia: Acercando Recursos A Las Causas](/proyectos/innpactia-acercando-recursos-a-las-causas)

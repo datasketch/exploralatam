@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Burocratas](/i/burocratas.html)
+- [Burocratas](/proyectos/burocratas)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Institución Nacional de Estadística y Geografía](/i/ine-mx.html)
+- [Institución Nacional de Estadística y Geografía](/organizaciones/ine-mx)

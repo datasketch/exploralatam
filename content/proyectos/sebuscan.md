@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Sebuscan Sas](/i/sebuscan-sas.html)
+- [Sebuscan Sas](/organizaciones/sebuscan-sas)

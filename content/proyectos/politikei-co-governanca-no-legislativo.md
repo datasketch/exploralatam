@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Politikei - co-governança no legislativo](/i/politikei-co-governanca-no-legislativo.html)
+- [Politikei - co-governança no legislativo](/organizaciones/politikei-co-governanca-no-legislativo)

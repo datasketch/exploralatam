@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-22
+date_last_modified: 2019-07-29
 uid: seredipia
 title: "Seredipia"
 legal_name: 
@@ -13,16 +13,16 @@ twitter: https://twitter.com/serendipiadata
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [El ABC de las Estadísticas de seguridad y justicia en México](/i/abc-las-estadisticas-seguridad-justicia-en-mexico.html)
-- [Desde 1990, 117 sismos en México han sido de magnitud igual o superior a 6](/i/sismos-mexico.html)
-- [La paradoja de las estadísticas criminales: la cifra gris del secuestro](/i/la-paradoja-de-las-estadisticas-criminales-la-cifra-gris-del-secuestro.html)
-- [23 funcionarios federales reciben 60 días de salario como aguinaldo; el director de una empresa, 30; un trabajador, 15](/i/funcionarios-federales-reciben-60-dias-de-salario-como-aguinaldo.html)
-- [La mitad de los gobernantes mexicanos no transparentan sus viajes](/i/la-mitad-los-gobernadores-reprueba-en-transparentar-sus-viajes.html)
-- [¿Las empresas de seguridad privada han influido en el incremento de violencia en México?](/i/las-empresas-de-seguridad-privada-han-influido-en-incremento-violencia-en-mexico.html)
-- [#Elecciones2018](/i/elecciones-2018.html)
+- [El ABC de las Estadísticas de seguridad y justicia en México](/proyectos/abc-las-estadisticas-seguridad-justicia-en-mexico)
+- [Desde 1990, 117 sismos en México han sido de magnitud igual o superior a 6](/proyectos/sismos-mexico)
+- [La paradoja de las estadísticas criminales: la cifra gris del secuestro](/proyectos/la-paradoja-de-las-estadisticas-criminales-la-cifra-gris-del-secuestro)
+- [23 funcionarios federales reciben 60 días de salario como aguinaldo; el director de una empresa, 30; un trabajador, 15](/proyectos/funcionarios-federales-reciben-60-dias-de-salario-como-aguinaldo)
+- [La mitad de los gobernantes mexicanos no transparentan sus viajes](/proyectos/la-mitad-los-gobernadores-reprueba-en-transparentar-sus-viajes)
+- [¿Las empresas de seguridad privada han influido en el incremento de violencia en México?](/proyectos/las-empresas-de-seguridad-privada-han-influido-en-incremento-violencia-en-mexico)
+- [#Elecciones2018](/proyectos/elecciones-2018)

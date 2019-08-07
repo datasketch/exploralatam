@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Impacto Ciudad](/i/impacto-ciudad.html)
+- [Impacto Ciudad](/proyectos/impacto-ciudad)

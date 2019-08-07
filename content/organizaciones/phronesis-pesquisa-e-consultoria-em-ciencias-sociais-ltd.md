@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Observatório Do Poder Legislativo (Opl)](/i/observatorio-do-poder-legislativo-opl.html)
+- [Observatório Do Poder Legislativo (Opl)](/proyectos/observatorio-do-poder-legislativo-opl)

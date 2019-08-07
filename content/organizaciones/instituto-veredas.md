@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Fact-Check Para Projetos De Lei E Políticas Públicas Informados Por Evidências](/i/fact-check-para-projetos-de-lei-e-politicas-publicas-informados-por-evidencias.html)
+- [Fact-Check Para Projetos De Lei E Políticas Públicas Informados Por Evidências](/proyectos/fact-check-para-projetos-de-lei-e-politicas-publicas-informados-por-evidencias)

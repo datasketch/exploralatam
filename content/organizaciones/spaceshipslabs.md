@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Contratobook: Plataforma De Auditoria Ciudadana](/i/contratobook-plataforma-de-auditoria-ciudadana.html)
+- [Contratobook: Plataforma De Auditoria Ciudadana](/proyectos/contratobook-plataforma-de-auditoria-ciudadana)

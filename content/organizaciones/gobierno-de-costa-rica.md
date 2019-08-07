@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma Nacional De Datos Abiertos Costa Rica](/i/plataforma-nacional-de-datos-abiertos-costa-rica.html)
+- [Plataforma Nacional De Datos Abiertos Costa Rica](/proyectos/plataforma-nacional-de-datos-abiertos-costa-rica)

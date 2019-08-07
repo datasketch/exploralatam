@@ -5,7 +5,7 @@ library(airtabler)
 dotenv::load_dot_env()
 exploralatam <- airtable(
     base = "appphYUEy3ncxEeJr",
-    tables = c("organizations", "initiatives", "cities", "tags")
+    tables = c("organizations", "projects", "cities", "tags")
   )
 
 orgs0 <- exploralatam$organizations$select_all()
@@ -16,8 +16,8 @@ exclude_cols <- c("ID_org","Ciudad ID", "IDS IMPACT", "ID UNICO",
 include_cols <- setdiff(names(orgs0), exclude_cols)
 orgs0 <- orgs0 %>% select(one_of(include_cols))
 
-initiatives0 <- exploralatam$initiatives$select_all()
-initiatives0 <- mop::na_to_empty_chr(initiatives0, empty = c(NA, "NA"))
+projects0 <- exploralatam$projects$select_all()
+projects0 <- mop::na_to_empty_chr(projects0, empty = c(NA, "NA"))
 cities0 <- exploralatam$cities$select_all()
 cities0 <- mop::na_to_empty_chr(cities0, empty = c(NA, "NA"))
 tags0 <- exploralatam$tags$select_all()
@@ -29,12 +29,12 @@ exclude_cols <- c("ID_initiative","ID IMPACT", "ID UNICO", "ID_org",
                   "name_altec", "org_altec", "tags_notes", "orgs_ds",
                   "participation"
                   )
-include_cols <- setdiff(names(initiatives0), exclude_cols)
-initiatives0 <- initiatives0 %>%
+include_cols <- setdiff(names(projects0), exclude_cols)
+projects0 <- projects0 %>%
   filter(!is.null(orgs), orgs != "NULL") %>%
   select(one_of(include_cols))
 
-org_tpl <- read_lines("scripts/org-template.md") %>% paste(collapse = "\n")
+org_tpl <- read_lines("scripts/organizacion-template.md") %>% paste(collapse = "\n")
 
 orgs <- transpose(orgs0)
 
@@ -56,8 +56,8 @@ org_defaults <- list(
 )
 org2 <- modifyList(org_defaults, org)
 
-org_inits <- initiatives0 %>% filter(id %in% org$initiatives) %>% select(uid, name) %>% transpose()
-org2$projects <- map(org_inits, ~glue_data(.,"- [{name}](/i/{uid}.html)")) %>% paste(collapse = "\n")
+org_projs <- projects0 %>% filter(id %in% org$projects) %>% select(uid, name) %>% transpose()
+org2$projects <- map(org_projs, ~glue_data(.,"- [{name}](/proyectos/{uid})")) %>% paste(collapse = "\n")
 org_tags <- tags0 %>% filter(id %in% org$tags) %>% filter(uid != "NA") %>% select(uid, name) %>% transpose()
 org2$tags <- map(org_tags, ~glue_data(.,"  - {uid}")) %>% paste(collapse = "\n")
 org_cities <- cities0 %>% filter(id %in% org$cities) %>% filter(name != "NA") %>% select(name) %>% transpose()
@@ -77,8 +77,8 @@ orgs <- orgs0 %>% transpose()
 
 all_orgs <- map(orgs, safely(function(org){
   org2 <- modifyList(org_defaults, org)
-  org_inits <- initiatives0 %>% filter(id %in% org$initiatives) %>% select(uid, name) %>% transpose()
-  org2$projects <- map(org_inits, ~glue_data(.,"- [{name}](/i/{uid}.html)")) %>% paste(collapse = "\n")
+  org_projs <- projects0 %>% filter(id %in% org$projects) %>% select(uid, name) %>% transpose()
+  org2$projects <- map(org_projs, ~glue_data(.,"- [{name}](/proyectos/{uid})")) %>% paste(collapse = "\n")
   org_tags <- tags0 %>% filter(id %in% org$tags) %>% filter(uid != "NA") %>% select(uid, name) %>% transpose()
   org2$tags <- map(org_tags, ~glue_data(.,"  - {uid}")) %>% paste(collapse = "\n")
   org_cities <- cities0 %>% filter(id %in% org$cities) %>% filter(name != "NA") %>% select(name) %>% transpose()
@@ -86,69 +86,84 @@ all_orgs <- map(orgs, safely(function(org){
   md <- glue_data(org2, org_tpl)
   write_lines(md, paste0("content/organizaciones/", org$uid, ".md"))
   org2$id <- NULL
-  org2$projects <- org_inits
-  org2$initiatives <- NULL
+  org2$projects <- org_projs
+  org2$projects <- NULL
   org2$cities <- org_cities
   org2$tags <- org_tags
   org2$createdTime <- NULL
   org2
 }))
-
+orgs_uids <- orgs %>% map_chr("uid")
+all_orgs <- all_orgs %>% set_names(orgs_uids)
 org_failed <- all_orgs %>% keep(~!is.null(.$error))
+if(length(org_failed)>0){
+  message("failed orgs:", length(org_failed))
+  org_failed2 <- transpose(org_failed)[["error"]] %>%
+  map(`[`,"message") %>%
+  mop::named_list_to_df()
+}
 org_success <-  all_orgs %>% keep(~is.null(.$error))
 all_orgs2 <- transpose(org_success)[["result"]]
 
-## Initiatives
-ini_tpl <- read_lines("scripts/ini-template.md") %>% paste(collapse = "\n")
+## projects
+proj_tpl <- read_lines("scripts/proyecto-template.md") %>% paste(collapse = "\n")
 
-inis <- transpose(initiatives0)
-ini <- inis[[sample(length(inis),1)]]
-ini$type <- "NNN"
+projs <- transpose(projects0)
+proj <- projs[[sample(length(projs),1)]]
+proj$type <- ""
 
-ini_defaults <- list(
+proj_defaults <- list(
   name = "_NOMBRE INICIATIVA NO ENCONTRADO_",
   description = NULL,
   type = "Desconocido"
 )
-ini2 <- modifyList(ini_defaults, ini)
+proj2 <- modifyList(proj_defaults, proj)
 
-ini_orgs <- orgs0 %>% filter(id %in% ini$orgs) %>% select(uid, name) %>% transpose()
-ini2$organizations <- map(ini_orgs, ~glue_data(.,"- [{name}](/i/{uid}.html)")) %>% paste(collapse = "\n")
-ini_tags <- tags0 %>% filter(id %in% ini$tags) %>% filter(uid != "NA") %>% select(uid, name) %>% transpose()
-ini2$tags <- map(ini_tags, ~glue_data(.,"  - {uid}")) %>% paste(collapse = "\n")
-ini_cities <- cities0 %>% filter(id %in% ini$cities) %>% filter(name != "NA") %>% select(name) %>% transpose()
-ini2$cities <- map(ini_cities, ~glue_data(.,"  - {name}")) %>% paste(collapse = "\n")
-glue_data(ini2, ini_tpl)
+proj_orgs <- orgs0 %>% filter(id %in% proj$orgs) %>% select(uid, name) %>% transpose()
+proj2$organizations <- map(proj_orgs, ~glue_data(.,"- [{name}](/organizaciones/{uid})")) %>% paste(collapse = "\n")
+proj_tags <- tags0 %>% filter(id %in% proj$tags) %>% filter(uid != "NA") %>% select(uid, name) %>% transpose()
+proj2$tags <- map(proj_tags, ~glue_data(.,"  - {uid}")) %>% paste(collapse = "\n")
+proj_cities <- cities0 %>% filter(id %in% proj$cities) %>% filter(name != "NA") %>% select(name) %>% transpose()
+proj2$cities <- map(proj_cities, ~glue_data(.,"  - {name}")) %>% paste(collapse = "\n")
+glue_data(proj2, proj_tpl)
 
 ### Generate files
-#my_inis <- c("rio-abierto", "reporte-ciudad", "sobrevivientes","cargografias", "dbjj-abiertas","igualdata")
-#my_inis <- c(my_inis, sample(initiatives0$uid,10))
-#inis <- initiatives0 %>% filter(uid %in% my_inis) %>% transpose()
-inis <- initiatives0 %>% transpose()
+#my_projs <- c("rio-abierto", "reporte-ciudad", "sobrevivientes","cargografias", "dbjj-abiertas","igualdata")
+#my_projs <- c(my_projs, sample(projects0$uid,10))
+#projs <- projects0 %>% filter(uid %in% my_projs) %>% transpose()
+projs <- projects0 %>% transpose()
 
-all_proy <- map(inis, safely(function(ini){
-  ini2 <- modifyList(ini_defaults, ini)
-  ini_orgs <- orgs0 %>% filter(id %in% ini$orgs) %>% select(uid, name) %>% transpose()
-  ini2$organizations <- map(ini_orgs, ~glue_data(.,"- [{name}](/i/{uid}.html)")) %>% paste(collapse = "\n")
-  ini_tags <- tags0 %>% filter(id %in% ini$tags) %>% filter(uid != "NA") %>% select(uid, name) %>% transpose()
-  ini2$tags <- map(ini_tags, ~glue_data(.,"  - {uid}")) %>% paste(collapse = "\n")
-  ini_cities <- cities0 %>% filter(id %in% ini$cities) %>% filter(name != "NA") %>% select(name) %>% transpose()
-  ini2$cities <- map(ini_cities, ~glue_data(.,"  - {name}")) %>% paste(collapse = "\n")
-  md <- glue_data(ini2, ini_tpl)
-  write_lines(md, paste0("content/proyectos/", ini$uid, ".md"))
-  ini2$id <- NULL
-  ini2$orgs <- NULL
-  ini2$organizations <- ini_orgs
-  ini2$cities <- ini_cities
-  ini2$tags <- ini_tags
-  ini2$createdTime <- NULL
-  ini2
+all_proj <- map(projs, safely(function(proj){
+  proj2 <- modifyList(proj_defaults, proj)
+  proj_orgs <- orgs0 %>% filter(id %in% proj$orgs) %>% select(uid, name) %>% transpose()
+  proj2$organizations <- map(proj_orgs, ~glue_data(.,"- [{name}](/organizaciones/{uid})")) %>% paste(collapse = "\n")
+  proj_tags <- tags0 %>% filter(id %in% proj$tags) %>% filter(uid != "NA") %>% select(uid, name) %>% transpose()
+  proj2$tags <- map(proj_tags, ~glue_data(.,"  - {uid}")) %>% paste(collapse = "\n")
+  proj_cities <- cities0 %>% filter(id %in% proj$cities) %>% filter(name != "NA") %>% select(name) %>% transpose()
+  proj2$cities <- map(proj_cities, ~glue_data(.,"  - {name}")) %>% paste(collapse = "\n")
+  md <- glue_data(proj2, proj_tpl)
+  write_lines(md, paste0("content/proyectos/", proj$uid, ".md"))
+  proj2$id <- NULL
+  proj2$orgs <- NULL
+  proj2$organizations <- proj_orgs
+  proj2$cities <- proj_cities
+  proj2$tags <- proj_tags
+  proj2$createdTime <- NULL
+  proj2
 }))
 
-proy_failed <- all_proy %>% keep(~!is.null(.$error))
-proy_success <-  all_proy %>% keep(~is.null(.$error))
-all_proy2 <- transpose(proy_success)[["result"]]
+proj_uids <- projs %>% map_chr("uid")
+all_proj <- all_proj %>% set_names(proj_uids)
+proj_failed <- all_proj %>% keep(~!is.null(.$error))
+if(length(proj_failed) > 0){
+  message("proj failed: ", length(proj_failed))
+  proj_failed2 <- transpose(proj_failed)[["error"]] %>%
+    map(`[`,"message") %>%
+    mop::named_list_to_df()
+}
+proj_success <-  all_proj %>% keep(~is.null(.$error))
+all_proj2 <- transpose(proj_success)[["result"]]
 
 
-jsonlite::write_json(list(organizaciones = all_orgs2, proyectos = all_proy2),
+jsonlite::write_json(list(organizaciones = all_orgs2, proyectos = all_proj2),
                      "data/exploralatam.json", auto_unbox = TRUE)

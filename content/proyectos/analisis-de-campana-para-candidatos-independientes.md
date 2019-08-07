@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Gobierno Fácil](/i/gobierno-facil.html)
+- [Gobierno Fácil](/organizaciones/gobierno-facil)

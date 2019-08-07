@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/lima-i-o.html)
+- [X](/organizaciones/lima-i-o)

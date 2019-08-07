@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Brújula Turística](/i/brujula-turistica.html)
+- [Brújula Turística](/organizaciones/brujula-turistica)

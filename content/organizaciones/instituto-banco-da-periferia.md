@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Periferia Na Palma Da Mão - Conectando Conhecimentos Para Transformar](/i/periferia-na-palma-da-mão-conectando-conhecimentos-para-transformar.html)
+- [Periferia Na Palma Da Mão - Conectando Conhecimentos Para Transformar](/proyectos/periferia-na-palma-da-mão-conectando-conhecimentos-para-transformar)

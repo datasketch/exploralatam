@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Agencia Ecologista De Información Tegantai](/i/agencia-ecologista-de-informacion-tegantai.html)
+- [Agencia Ecologista De Información Tegantai](/organizaciones/agencia-ecologista-de-informacion-tegantai)

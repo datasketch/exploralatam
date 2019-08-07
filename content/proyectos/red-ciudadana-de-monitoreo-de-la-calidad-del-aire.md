@@ -21,8 +21,8 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Grupo Cidic](/i/grupo-cidic.html)
-- [Universidad Industrial De Santander](/i/universidad-industrial-de-santander.html)
-- [Grupo Cemos](/i/grupo-cemos.html)
-- [Derive Lab](/i/derive-lab.html)
-- [Esc. De Ingeniería Eléctrica, Electrónica Y De Telecomunicaciones](/i/esc-de-ingenieria-electrica-electronica-y-de-telecomunicaciones.html)
+- [Grupo Cidic](/organizaciones/grupo-cidic)
+- [Universidad Industrial De Santander](/organizaciones/universidad-industrial-de-santander)
+- [Grupo Cemos](/organizaciones/grupo-cemos)
+- [Derive Lab](/organizaciones/derive-lab)
+- [Esc. De Ingeniería Eléctrica, Electrónica Y De Telecomunicaciones](/organizaciones/esc-de-ingenieria-electrica-electronica-y-de-telecomunicaciones)

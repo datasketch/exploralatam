@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-21
+date_last_modified: 2019-07-29
 uid: project-poder
 title: "PODER"
 legal_name: 
@@ -23,11 +23,10 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Torre de Control](/i/torre-de-control.html)
-- [Herramientas Para El Uso Del Open Contracting Data Standard Y Combatirla Captura Del Estado Desde Sociedad Civil](/i/herramientas-para-el-uso-del-open-contracting-data-standard-y-combatirla-captura-del-estado-desde-sociedad-civil.html)
-- [Rinde Cuentas](/i/rinde-cuentas.html)
-- [Méxicoleaks](/i/mexicoleaks.html)
-- [Quién Es Quién](/i/quien-es-quien-wiki.html)
-- [Creación De Chileleaks, Centroaméricaleaks Y  Latamleaks, Coordinadora Regional De Las Plataformas De Whistleblowing.](/i/creacion-de-chileleaks-centroamericaleaks-y-latamleaks-coordinadora-regional-de-las-plataformas-de-whistleblowing.html)
-- [Quien Es Quien Wiki](/i/quien-es-quien-wiki.html)
-- [Sin Nombre](/i/sin-nombre.html)
+- [Torre de Control](/proyectos/torre-de-control)
+- [Herramientas Para El Uso Del Open Contracting Data Standard Y Combatirla Captura Del Estado Desde Sociedad Civil](/proyectos/herramientas-para-el-uso-del-open-contracting-data-standard-y-combatirla-captura-del-estado-desde-sociedad-civil)
+- [Rinde Cuentas](/proyectos/rinde-cuentas)
+- [Méxicoleaks](/proyectos/mexicoleaks)
+- [Creación De Chileleaks, Centroaméricaleaks Y  Latamleaks, Coordinadora Regional De Las Plataformas De Whistleblowing.](/proyectos/creacion-de-chileleaks-centroamericaleaks-y-latamleaks-coordinadora-regional-de-las-plataformas-de-whistleblowing)
+- [Quien Es Quien Wiki](/proyectos/quien-es-quien-wiki)
+- [Sin Nombre](/proyectos/sin-nombre)

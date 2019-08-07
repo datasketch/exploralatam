@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Redlad](/i/redlad.html)
+- [Redlad](/organizaciones/redlad)

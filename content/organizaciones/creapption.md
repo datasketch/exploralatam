@@ -22,5 +22,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Estacionamiento Inteligente](/i/estacionamiento-inteligente.html)
-- [Innovación Cívica Para La Mejora Del Transporte Público En Mendoza](/i/innovacion-civica-para-la-mejora-del-transporte-publico-en-mendoza.html)
+- [Estacionamiento Inteligente](/proyectos/estacionamiento-inteligente)
+- [Innovación Cívica Para La Mejora Del Transporte Público En Mendoza](/proyectos/innovacion-civica-para-la-mejora-del-transporte-publico-en-mendoza)

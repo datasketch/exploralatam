@@ -25,5 +25,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/tecnologia-civica-para-mejorar-la-movilidad-de-manera-participativa.html)
-- [](/i/centro-civico-por-codeando-mexico.html)
+- [](/proyectos/tecnologia-civica-para-mejorar-la-movilidad-de-manera-participativa)
+- [](/proyectos/centro-civico-por-codeando-mexico)

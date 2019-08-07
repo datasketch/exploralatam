@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Observatorio De Comunicación Pucv](/i/observatorio-de-comunicacion-pucv.html)
+- [Observatorio De Comunicación Pucv](/organizaciones/observatorio-de-comunicacion-pucv)

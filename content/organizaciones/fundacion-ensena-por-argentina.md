@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Www.Laburojoven.Com](/i/www-laburojoven-com.html)
+- [Www.Laburojoven.Com](/proyectos/www-laburojoven-com)

@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Malalai Tecnologia De Segurança Ltda](/i/malalai-tecnologia-de-seguranca-ltda.html)
+- [Malalai Tecnologia De Segurança Ltda](/organizaciones/malalai-tecnologia-de-seguranca-ltda)

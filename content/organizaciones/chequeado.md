@@ -22,9 +22,9 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [A Qué Precio: Un Observatorio De Compras Públicas](/i/a-que-precio-un-observatorio-de-compras-publicas.html)
-- [A qué precio](/i/a-que-precio.html)
-- [Dato Duro El Salvador](/i/dato-duro-el-salvador.html)
-- [Chequeado](/i/chequeado.html)
-- [](/i/a-que-precio-un-observatorio-de-compras-publicas.html)
-- [Dato Duro](/i/dato-duro.html)
+- [A Qué Precio: Un Observatorio De Compras Públicas](/proyectos/a-que-precio-un-observatorio-de-compras-publicas)
+- [A qué precio](/proyectos/a-que-precio)
+- [Dato Duro El Salvador](/proyectos/dato-duro-el-salvador)
+- [Chequeado](/proyectos/chequeado)
+- [](/proyectos/a-que-precio-un-observatorio-de-compras-publicas)
+- [Dato Duro](/proyectos/dato-duro)

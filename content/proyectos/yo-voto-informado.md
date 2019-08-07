@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Conocimiento Abierto](/i/fundacion-conocimiento-abierto.html)
+- [Fundación Conocimiento Abierto](/organizaciones/fundacion-conocimiento-abierto)

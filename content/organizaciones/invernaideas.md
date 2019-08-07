@@ -22,5 +22,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Cazavampiros](/i/cazavampiros.html)
-- [Belisar.Io](/i/belisar-io.html)
+- [Cazavampiros](/proyectos/cazavampiros)
+- [Belisar.Io](/proyectos/belisar-io)

@@ -19,9 +19,9 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Yo Sobreviví](/i/yo-sobreviví.html)
-- [Cartografía del Conflicto](/i/cartografia-del-conflicto.html)
-- [Ríos de vida y muerte](/i/rios-vida-muerte.html)
-- [La Paz en el Terreno](/i/la-paz-en-el-terreno.html)
-- [Los Acuatenientes](/i/acuatenientes.html)
-- [Chupave: por una vida sin coca](/i/por-una-vida-sin-coca.html)
+- [Yo Sobreviví](/proyectos/yo-sobreviví)
+- [Cartografía del Conflicto](/proyectos/cartografia-del-conflicto)
+- [Ríos de vida y muerte](/proyectos/rios-vida-muerte)
+- [La Paz en el Terreno](/proyectos/la-paz-en-el-terreno)
+- [Los Acuatenientes](/proyectos/acuatenientes)
+- [Chupave: por una vida sin coca](/proyectos/por-una-vida-sin-coca)

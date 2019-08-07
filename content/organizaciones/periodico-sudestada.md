@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sudestada.Com.Uy](/i/sudestada-com-uy.html)
+- [Sudestada.Com.Uy](/proyectos/sudestada-com-uy)

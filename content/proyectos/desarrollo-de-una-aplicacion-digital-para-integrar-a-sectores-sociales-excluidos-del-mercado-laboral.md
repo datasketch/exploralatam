@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Universidad Nacional De Rio Negro.](/i/universidad-nacional-de-rio-negro.html)
+- [Universidad Nacional De Rio Negro.](/organizaciones/universidad-nacional-de-rio-negro)

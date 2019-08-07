@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Bondiarapp](/i/bondiarapp.html)
+- [Bondiarapp](/proyectos/bondiarapp)

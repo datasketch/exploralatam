@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [La Vidriera Del Emprendedor](/i/la-vidriera-del-emprendedor.html)
+- [La Vidriera Del Emprendedor](/proyectos/la-vidriera-del-emprendedor)

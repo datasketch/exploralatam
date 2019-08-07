@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Wheels](/i/wheels.html)
+- [Wheels](/organizaciones/wheels)

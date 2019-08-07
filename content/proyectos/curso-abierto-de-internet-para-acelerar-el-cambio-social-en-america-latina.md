@@ -21,5 +21,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Hiperderecho](/i/hiperderecho.html)
-- [Public Knowledge](/i/public-knowledge.html)
+- [Hiperderecho](/organizaciones/hiperderecho)
+- [Public Knowledge](/organizaciones/public-knowledge)

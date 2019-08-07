@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-22
+date_last_modified: 2019-08-05
 uid: la-data-mx
 title: "La Data"
 legal_name: 
@@ -13,14 +13,14 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+  - Ciudad de México
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Chiras Pelas, Calacas Flacas](/i/chiras-pelas.html)
-- [Terremotos en México 100 años y contando](/i/terremotos-mexico.html)
-- [La DATA del boxeo](/i/data-boxeo.html)
-- [19/s ¿Qué nos pasó?](/i/que-nos-paso.html)
-- [Violencia contra las mujeres](/i/violencia-mujeres.html)
+- [Chiras Pelas, Calacas Flacas](/proyectos/chiras-pelas)
+- [Terremotos en México 100 años y contando](/proyectos/terremotos-mexico)
+- [La DATA del boxeo](/proyectos/data-boxeo)
+- [19/s ¿Qué nos pasó?](/proyectos/que-nos-paso)
+- [Violencia contra las mujeres](/proyectos/violencia-mujeres)

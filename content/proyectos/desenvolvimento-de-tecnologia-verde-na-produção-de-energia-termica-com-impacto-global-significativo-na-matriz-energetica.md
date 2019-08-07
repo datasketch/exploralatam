@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro Universitario de Belo Horizonte - UniBh / ANIMA Educación](/i/centro-universitario-de-belo-horizonte-unibh-anima-educacion.html)
+- [Centro Universitario de Belo Horizonte - UniBh / ANIMA Educación](/organizaciones/centro-universitario-de-belo-horizonte-unibh-anima-educacion)

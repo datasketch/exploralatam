@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-21
+date_last_modified: 2019-07-29
 uid: movilizatorio
 title: "Movilizatorio"
 legal_name: 
@@ -22,7 +22,6 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/az-en-construccion.html)
-- [](/i/tecnologia-civica-para-una-sociedad-conectada-y-participativa.html)
-- [Paz En Construcción](/i/paz-en-construccion.html)
-- [Tecnología Cívica Para Una Sociedad Conectada Y Participativa.](/i/tecnologia-civica-para-una-sociedad-conectada-y-participativa.html)
+- [](/proyectos/az-en-construccion)
+- [Paz En Construcción](/proyectos/paz-en-construccion)
+- [Tecnología Cívica Para Una Sociedad Conectada Y Participativa.](/proyectos/tecnologia-civica-para-una-sociedad-conectada-y-participativa)

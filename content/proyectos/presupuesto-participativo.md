@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro De Estudios Ambientales Y Sociales (Ceamso)](/i/centro-de-estudios-ambientales-y-sociales-ceamso.html)
+- [Centro De Estudios Ambientales Y Sociales (Ceamso)](/organizaciones/centro-de-estudios-ambientales-y-sociales-ceamso)

@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Compartir](/i/compartir.html)
+- [Compartir](/proyectos/compartir)

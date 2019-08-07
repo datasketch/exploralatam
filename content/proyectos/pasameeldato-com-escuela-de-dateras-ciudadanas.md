@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundacion Multitudes](/i/fundacion-multitudes.html)
-- [Fundacion Girls In Tech Chile](/i/fundacion-girls-in-tech-chile.html)
+- [Fundacion Multitudes](/organizaciones/fundacion-multitudes)
+- [Fundacion Girls In Tech Chile](/organizaciones/fundacion-girls-in-tech-chile)

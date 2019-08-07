@@ -16,6 +16,6 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [La Nación](/i/la-nacion-arg.html)
-- [Chequeado](/i/chequeado.html)
-- [ACIJ - Asociación Civil por la Igualdad y la Justicia](/i/asociacion-civil-por-la-igualdad-y-la-justicia-arg.html)
+- [La Nación](/organizaciones/la-nacion-arg)
+- [Chequeado](/organizaciones/chequeado)
+- [ACIJ - Asociación Civil por la Igualdad y la Justicia](/organizaciones/asociacion-civil-por-la-igualdad-y-la-justicia-arg)

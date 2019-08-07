@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Unicef](/i/unicef.html)
+- [Unicef](/organizaciones/unicef)

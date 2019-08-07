@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Consuma Conciencia](/i/fundacion-consuma-conciencia.html)
+- [Fundación Consuma Conciencia](/organizaciones/fundacion-consuma-conciencia)

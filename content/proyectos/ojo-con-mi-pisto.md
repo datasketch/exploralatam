@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Laboratorio de Medios](/i/laboratorio-de-medios.html)
+- [Laboratorio de Medios](/organizaciones/laboratorio-de-medios)

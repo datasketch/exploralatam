@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Tannder Corp](/i/tannder-corp.html)
+- [Tannder Corp](/organizaciones/tannder-corp)

@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Datasketch](/i/datasketch.html)
-- [Transparencia por Colombia](/i/transparencia-por-colombia.html)
+- [Datasketch](/organizaciones/datasketch)
+- [Transparencia por Colombia](/organizaciones/transparencia-por-colombia)

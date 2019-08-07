@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [El Faro](/i/el-faro.html)
+- [El Faro](/organizaciones/el-faro)

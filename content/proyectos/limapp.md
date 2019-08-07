@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Grupo Limonta](/i/grupo-limonta.html)
+- [Grupo Limonta](/organizaciones/grupo-limonta)

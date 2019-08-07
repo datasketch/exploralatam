@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Red Colaborativa Para El Desarrollo De La Economía Social](/i/red-colaborativa-para-el-desarrollo-de-la-economia-social.html)
+- [Red Colaborativa Para El Desarrollo De La Economía Social](/proyectos/red-colaborativa-para-el-desarrollo-de-la-economia-social)

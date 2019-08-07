@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Labtam: Plataforma De Innovación Pública Para Ciudades En Latinoamérica](/i/labtam-plataforma-de-innovacion-publica-para-ciudades-en-latinoamerica.html)
+- [Labtam: Plataforma De Innovación Pública Para Ciudades En Latinoamérica](/proyectos/labtam-plataforma-de-innovacion-publica-para-ciudades-en-latinoamerica)

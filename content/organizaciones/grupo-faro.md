@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Comunidas 2.0](/i/comunidas-2-0.html)
+- [Comunidas 2.0](/proyectos/comunidas-2-0)

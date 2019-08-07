@@ -21,5 +21,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Ciudadana Civio](/i/fundacion-ciudadana-civio.html)
-- [Instituto Humanista De Cooperación Para El Desarrollo - Hivos](/i/instituto-humanista-de-cooperacion-para-el-desarrollo-hivos.html)
+- [Fundación Ciudadana Civio](/organizaciones/fundacion-ciudadana-civio)
+- [Instituto Humanista De Cooperación Para El Desarrollo - Hivos](/organizaciones/instituto-humanista-de-cooperacion-para-el-desarrollo-hivos)

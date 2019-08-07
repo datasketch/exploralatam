@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Trainee De Gesta~O Pu´Blica](/i/trainee-de-gesta-o-pu-blica.html)
+- [Trainee De Gesta~O Pu´Blica](/proyectos/trainee-de-gesta-o-pu-blica)

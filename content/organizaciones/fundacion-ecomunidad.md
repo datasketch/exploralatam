@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Inteligencia Artificial Contra La Corrupción](/i/inteligencia-artificial-contra-la-corrupcion.html)
+- [Inteligencia Artificial Contra La Corrupción](/proyectos/inteligencia-artificial-contra-la-corrupcion)

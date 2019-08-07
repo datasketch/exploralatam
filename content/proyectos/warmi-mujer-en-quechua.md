@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Impacto Norte Srl](/i/impacto-norte-srl.html)
+- [Impacto Norte Srl](/organizaciones/impacto-norte-srl)

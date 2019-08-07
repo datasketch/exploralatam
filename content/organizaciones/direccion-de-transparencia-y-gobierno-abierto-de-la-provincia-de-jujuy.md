@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Jujuy Colaborativo](/i/jujuy-colaborativo.html)
+- [Jujuy Colaborativo](/proyectos/jujuy-colaborativo)

@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Onesmart Technology Sa De Cv](/i/onesmart-technology-sa-de-cv.html)
+- [Onesmart Technology Sa De Cv](/organizaciones/onesmart-technology-sa-de-cv)

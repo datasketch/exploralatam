@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Tengo La Palabra](/i/tengo-la-palabra.html)
+- [Tengo La Palabra](/proyectos/tengo-la-palabra)

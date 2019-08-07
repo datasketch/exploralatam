@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/ligue-politico.html)
+- [X](/organizaciones/ligue-politico)

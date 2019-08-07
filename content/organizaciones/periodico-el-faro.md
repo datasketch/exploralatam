@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [La Caza Legislativa](/i/la-caza-legislativa.html)
+- [La Caza Legislativa](/proyectos/la-caza-legislativa)

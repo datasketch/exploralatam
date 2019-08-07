@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Avesso Sustentabilidade](/i/avesso-sustentabilidade.html)
+- [Avesso Sustentabilidade](/organizaciones/avesso-sustentabilidade)

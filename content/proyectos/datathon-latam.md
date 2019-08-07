@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Corporación Científicas De Datos](/i/corporacion-cientificas-de-datos.html)
+- [Corporación Científicas De Datos](/organizaciones/corporacion-cientificas-de-datos)

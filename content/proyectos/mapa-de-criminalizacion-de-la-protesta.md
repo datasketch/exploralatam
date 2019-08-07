@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Coordinadora Nacional De Derechos Humanos](/i/coordinadora-nacional-de-derechos-humanos.html)
+- [Coordinadora Nacional De Derechos Humanos](/organizaciones/coordinadora-nacional-de-derechos-humanos)

@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Camaleon Multimedia Sas](/i/camaleon-multimedia-sas.html)
+- [Camaleon Multimedia Sas](/organizaciones/camaleon-multimedia-sas)

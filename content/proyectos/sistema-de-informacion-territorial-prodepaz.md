@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Corporación Prodepaz](/i/corporacion-prodepaz.html)
+- [Corporación Prodepaz](/organizaciones/corporacion-prodepaz)

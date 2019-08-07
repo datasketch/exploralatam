@@ -17,5 +17,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Capítulo Chileno De Transparencia Internacional, Chile Transparente](/i/capitulo-chileno-de-transparencia-internacional-chile-transparente.html)
-- [Asociación Chilena De Voluntarios](/i/asociacion-chilena-de-voluntarios.html)
+- [Capítulo Chileno De Transparencia Internacional, Chile Transparente](/organizaciones/capitulo-chileno-de-transparencia-internacional-chile-transparente)
+- [Asociación Chilena De Voluntarios](/organizaciones/asociacion-chilena-de-voluntarios)

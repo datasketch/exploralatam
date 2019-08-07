@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Artículo 12, A.C. (Programa “Sontusdatos”)](/i/articulo-12-a-c-programa-sontusdatos.html)
+- [Artículo 12, A.C. (Programa “Sontusdatos”)](/organizaciones/articulo-12-a-c-programa-sontusdatos)

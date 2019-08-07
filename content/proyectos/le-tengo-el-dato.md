@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [GANA - Gobierno Abierto de Nariño](/i/gana-nariño.html)
+- [GANA - Gobierno Abierto de Nariño](/organizaciones/gana-nariño)

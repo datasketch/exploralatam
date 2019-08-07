@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación para la Libertad de Prensa](/i/flip.html)
+- [Fundación para la Libertad de Prensa](/organizaciones/flip)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Grupo de Información de reproducción Elegida](/i/gire.html)
+- [Grupo de Información de reproducción Elegida](/organizaciones/gire)

@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Repositorios Digitales Abiertos En Sistemas De Transporte Público Para Promoción Del Acceso A Información Y Transparencia](/i/repositorios-digitales-abiertos-en-sistemas-de-transporte-publico-para-promocion-del-acceso-a-informacion-y-transparencia.html)
+- [Repositorios Digitales Abiertos En Sistemas De Transporte Público Para Promoción Del Acceso A Información Y Transparencia](/proyectos/repositorios-digitales-abiertos-en-sistemas-de-transporte-publico-para-promocion-del-acceso-a-informacion-y-transparencia)

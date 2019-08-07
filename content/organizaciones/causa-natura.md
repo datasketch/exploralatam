@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Iniciativa Pescando Datos](/i/iniciativa-pescando-datos.html)
+- [Iniciativa Pescando Datos](/proyectos/iniciativa-pescando-datos)

@@ -16,5 +16,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Uniandes](/i/uniandes.html)
-- [Monoku](/i/monoku.html)
+- [Uniandes](/organizaciones/uniandes)
+- [Monoku](/organizaciones/monoku)

@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Policéntrico](/i/policentrico.html)
+- [Policéntrico](/organizaciones/policentrico)

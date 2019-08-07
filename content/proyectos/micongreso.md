@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Explico, S.A.](/i/explico-s-a.html)
+- [Explico, S.A.](/organizaciones/explico-s-a)

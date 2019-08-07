@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Economía Del Bien Común](/i/economia-del-bien-comun.html)
+- [Economía Del Bien Común](/proyectos/economia-del-bien-comun)

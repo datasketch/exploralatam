@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Observatorio Mexicano De La Crisis](/i/observatorio-mexicano-de-la-crisis.html)
+- [Observatorio Mexicano De La Crisis](/organizaciones/observatorio-mexicano-de-la-crisis)

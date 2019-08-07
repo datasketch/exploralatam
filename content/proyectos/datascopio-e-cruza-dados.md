@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Associação Brasileira De Jornalismo Investigativo](/i/associacão-brasileira-de-jornalismo-investigativo.html)
+- [Associação Brasileira De Jornalismo Investigativo](/organizaciones/associacão-brasileira-de-jornalismo-investigativo)

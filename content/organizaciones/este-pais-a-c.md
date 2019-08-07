@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Buscándonos](/i/buscandonos.html)
+- [Buscándonos](/proyectos/buscandonos)

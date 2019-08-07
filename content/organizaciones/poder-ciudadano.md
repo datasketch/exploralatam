@@ -19,5 +19,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Dbjj Abiertas](/i/dbjj-abiertas.html)
-- [Poder Ciudadano](/i/poder-ciudadano.html)
+- [Dbjj Abiertas](/proyectos/dbjj-abiertas)
+- [Poder Ciudadano](/proyectos/poder-ciudadano)

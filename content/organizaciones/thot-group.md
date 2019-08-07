@@ -25,4 +25,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Thot Group](/i/thot-group.html)
+- [Thot Group](/proyectos/thot-group)

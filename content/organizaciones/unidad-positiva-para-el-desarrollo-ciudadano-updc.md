@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Quiero Mi Guatemala Transparente](/i/quiero-mi-guatemala-transparente.html)
+- [Quiero Mi Guatemala Transparente](/proyectos/quiero-mi-guatemala-transparente)

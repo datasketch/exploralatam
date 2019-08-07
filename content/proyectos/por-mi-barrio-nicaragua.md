@@ -21,5 +21,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro Para Programas De Comunicación Nicaragua (Cpcnic)](/i/centro-para-programas-de-comunicacion-nicaragua-cpcnic.html)
-- [Guegue Vasquez Cia Ltda](/i/guegue-vasquez-cia-ltda.html)
+- [Centro Para Programas De Comunicación Nicaragua (Cpcnic)](/organizaciones/centro-para-programas-de-comunicacion-nicaragua-cpcnic)
+- [Guegue Vasquez Cia Ltda](/organizaciones/guegue-vasquez-cia-ltda)

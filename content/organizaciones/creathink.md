@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma De Contralorìa Social Para La Mejora De Los Servicios Pùblicos Municipales](/i/plataforma-de-contraloria-social-para-la-mejora-de-los-servicios-publicos-municipales.html)
+- [Plataforma De Contralorìa Social Para La Mejora De Los Servicios Pùblicos Municipales](/proyectos/plataforma-de-contraloria-social-para-la-mejora-de-los-servicios-publicos-municipales)

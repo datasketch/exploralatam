@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Creapption](/i/creapption.html)
-- [Centro Latinoamericano de Derechos Humanos](/i/centro-latinoamericano-de-derechos-humanos.html)
+- [Creapption](/organizaciones/creapption)
+- [Centro Latinoamericano de Derechos Humanos](/organizaciones/centro-latinoamericano-de-derechos-humanos)

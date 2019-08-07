@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Congreso Transparente](/i/congreso-transparente.html)
+- [Congreso Transparente](/organizaciones/congreso-transparente)

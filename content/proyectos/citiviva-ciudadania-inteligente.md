@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Cleteci S.A](/i/cleteci-s-a.html)
-- [Plataforma Ciudadana Inteligente](/i/plataforma-ciudadana-inteligente.html)
+- [Cleteci S.A](/organizaciones/cleteci-s-a)
+- [Plataforma Ciudadana Inteligente](/organizaciones/plataforma-ciudadana-inteligente)

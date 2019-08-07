@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Estrategias Comunitarias Para Crear Y Fortalecer Un Sistema De Comunicaci Libre Y Comunitaria En La Costa Pac{Ifica De Esmeraldas, Ecuador.](/i/estrategias-comunitarias-para-crear-y-fortalecer-un-sistema-de-comunicaci-libre-y-comunitaria-en-la-costa-pac-ifica-de-esmeraldas-ecuador.html)
+- [Estrategias Comunitarias Para Crear Y Fortalecer Un Sistema De Comunicaci Libre Y Comunitaria En La Costa Pac{Ifica De Esmeraldas, Ecuador.](/proyectos/estrategias-comunitarias-para-crear-y-fortalecer-un-sistema-de-comunicaci-libre-y-comunitaria-en-la-costa-pac-ifica-de-esmeraldas-ecuador)

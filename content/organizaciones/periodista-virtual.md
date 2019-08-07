@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [100 Jovenes Periodistas Todo Bolivia - Periodista Virtual](/i/100-jovenes-periodistas-todo-bolivia-periodista-virtual.html)
+- [100 Jovenes Periodistas Todo Bolivia - Periodista Virtual](/proyectos/100-jovenes-periodistas-todo-bolivia-periodista-virtual)

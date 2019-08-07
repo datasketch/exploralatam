@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Asociación Intermunicipal Del Valle De Jiboa Mijiboa](/i/asociacion-intermunicipal-del-valle-de-jiboa-mijiboa.html)
-- [Instituto Salvadoreño de Desarrollo Municipal (ISDEM)](/i/instituto-salvadoreno-de-desarrollo-municipal-isdem.html)
+- [Asociación Intermunicipal Del Valle De Jiboa Mijiboa](/organizaciones/asociacion-intermunicipal-del-valle-de-jiboa-mijiboa)
+- [Instituto Salvadoreño de Desarrollo Municipal (ISDEM)](/organizaciones/instituto-salvadoreno-de-desarrollo-municipal-isdem)

@@ -13,12 +13,12 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Codigocdmx](/i/codigocdmx.html)
-- [Sin Nombre](/i/sin-nombre.html)
-- [Viztec Cdmx](/i/viztec-cdmx.html)
+- [Codigocdmx](/proyectos/codigocdmx)
+- [Sin Nombre](/proyectos/sin-nombre)
+- [Viztec Cdmx](/proyectos/viztec-cdmx)

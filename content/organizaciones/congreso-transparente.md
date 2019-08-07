@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Congreso Transparente](/i/congreso-transparente.html)
+- [Congreso Transparente](/proyectos/congreso-transparente)

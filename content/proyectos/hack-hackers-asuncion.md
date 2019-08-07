@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Hack Hackers Asuncion](/i/hack-hackers-asuncion.html)
+- [Hack Hackers Asuncion](/organizaciones/hack-hackers-asuncion)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Folha](/i/folha-de-sao-paulo.html)
+- [Folha](/organizaciones/folha-de-sao-paulo)

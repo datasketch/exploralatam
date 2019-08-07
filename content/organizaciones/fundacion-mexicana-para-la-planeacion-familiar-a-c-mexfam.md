@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Participación Adolescente](/i/participacion-adolescente.html)
+- [Participación Adolescente](/proyectos/participacion-adolescente)

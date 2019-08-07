@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Plataforma Nuup Ac](/i/plataforma-nuup-ac.html)
+- [Plataforma Nuup Ac](/organizaciones/plataforma-nuup-ac)

@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Guanadata 2.0](/i/guanadata-2-0.html)
+- [Guanadata 2.0](/proyectos/guanadata-2-0)

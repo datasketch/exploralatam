@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Projeto Felícia - Aplicativos Catatudo](/i/projeto-felicia-aplicativos-catatudo.html)
+- [Projeto Felícia - Aplicativos Catatudo](/proyectos/projeto-felicia-aplicativos-catatudo)

@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma Democracia Digital](/i/plataforma-democracia-digital.html)
+- [Plataforma Democracia Digital](/proyectos/plataforma-democracia-digital)

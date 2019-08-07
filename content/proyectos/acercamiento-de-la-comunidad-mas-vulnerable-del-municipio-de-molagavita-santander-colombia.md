@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Corporación Cobeii](/i/corporacion-cobeii.html)
+- [Corporación Cobeii](/organizaciones/corporacion-cobeii)

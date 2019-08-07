@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Data Uruguay](/i/data-uruguay.html)
+- [Data Uruguay](/organizaciones/data-uruguay)

@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Sociedad Civil Abriendo Datos Costa Rica](/i/sociedad-civil-abriendo-datos-costa-rica.html)
+- [Sociedad Civil Abriendo Datos Costa Rica](/organizaciones/sociedad-civil-abriendo-datos-costa-rica)

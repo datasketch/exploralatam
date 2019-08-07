@@ -19,5 +19,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Mismatica Management (Sistemas De Gestión Mismatica Chile Limitada)](/i/mismatica-management-sistemas-de-gestion-mismatica-chile-limitada.html)
-- [Prince Consulting (Kmt Business Education Sa)](/i/prince-consulting-kmt-business-education-sa.html)
+- [Mismatica Management (Sistemas De Gestión Mismatica Chile Limitada)](/organizaciones/mismatica-management-sistemas-de-gestion-mismatica-chile-limitada)
+- [Prince Consulting (Kmt Business Education Sa)](/organizaciones/prince-consulting-kmt-business-education-sa)

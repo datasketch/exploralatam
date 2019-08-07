@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Consejo Civico De Vecinos](/i/consejo-civico-de-vecinos.html)
+- [Consejo Civico De Vecinos](/organizaciones/consejo-civico-de-vecinos)

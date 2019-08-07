@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Observación Que sí Cuente](/i/que-si-cuente.html)
+- [Observación Que sí Cuente](/proyectos/que-si-cuente)

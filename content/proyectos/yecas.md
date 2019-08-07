@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Yecas](/i/yecas.html)
+- [Yecas](/organizaciones/yecas)

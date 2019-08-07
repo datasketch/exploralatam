@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Slashroots](/i/slashroots.html)
+- [Slashroots](/organizaciones/slashroots)

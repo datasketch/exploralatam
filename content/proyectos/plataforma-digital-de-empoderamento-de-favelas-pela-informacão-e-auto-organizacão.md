@@ -21,5 +21,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Atlântico](/i/instituto-atlantico.html)
-- [Mega Cities](/i/mega-cities.html)
+- [Instituto Atlântico](/organizaciones/instituto-atlantico)
+- [Mega Cities](/organizaciones/mega-cities)

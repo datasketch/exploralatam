@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Dsarhoya Spa](/i/dsarhoya-spa.html)
+- [Dsarhoya Spa](/organizaciones/dsarhoya-spa)

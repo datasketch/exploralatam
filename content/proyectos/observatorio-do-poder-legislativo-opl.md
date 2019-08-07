@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Phronesis Pesquisa E Consultoria Em Ciencias Sociais Ltd](/i/phronesis-pesquisa-e-consultoria-em-ciencias-sociais-ltd.html)
+- [Phronesis Pesquisa E Consultoria Em Ciencias Sociais Ltd](/organizaciones/phronesis-pesquisa-e-consultoria-em-ciencias-sociais-ltd)

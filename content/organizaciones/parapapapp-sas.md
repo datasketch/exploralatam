@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Parapapapp](/i/parapapapp.html)
+- [Parapapapp](/proyectos/parapapapp)

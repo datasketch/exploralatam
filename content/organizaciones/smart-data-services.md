@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Tecnología Y Datos - Enlace Entre La Población Y La Policía Nacional Del Ecuador](/i/tecnologia-y-datos-enlace-entre-la-poblacion-y-la-policia-nacional-del-ecuador.html)
+- [Tecnología Y Datos - Enlace Entre La Población Y La Policía Nacional Del Ecuador](/proyectos/tecnologia-y-datos-enlace-entre-la-poblacion-y-la-policia-nacional-del-ecuador)

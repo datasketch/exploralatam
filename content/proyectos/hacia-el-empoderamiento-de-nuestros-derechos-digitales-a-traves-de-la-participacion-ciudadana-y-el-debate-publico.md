@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Tedic](/i/tedic.html)
+- [Tedic](/organizaciones/tedic)

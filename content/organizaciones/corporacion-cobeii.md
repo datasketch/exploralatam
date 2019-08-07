@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Acercamiento De La Comunidad Mas Vulnerable Del Municipio De Molagavita (Santander – Colombia)](/i/acercamiento-de-la-comunidad-mas-vulnerable-del-municipio-de-molagavita-santander-colombia.html)
+- [Acercamiento De La Comunidad Mas Vulnerable Del Municipio De Molagavita (Santander – Colombia)](/proyectos/acercamiento-de-la-comunidad-mas-vulnerable-del-municipio-de-molagavita-santander-colombia)

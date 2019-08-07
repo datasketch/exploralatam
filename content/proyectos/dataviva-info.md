@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Gobierno De Minas](/i/gobierno-de-minas.html)
+- [Gobierno De Minas](/organizaciones/gobierno-de-minas)

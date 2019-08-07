@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Manejo Inteligente De Residuos Y Gestión Ambiental Minga](/i/manejo-inteligente-de-residuos-y-gestion-ambiental-minga.html)
+- [Manejo Inteligente De Residuos Y Gestión Ambiental Minga](/organizaciones/manejo-inteligente-de-residuos-y-gestion-ambiental-minga)

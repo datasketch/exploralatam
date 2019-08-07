@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Ciencias De La Documentación](/i/fundacion-ciencias-de-la-documentacion.html)
+- [Fundación Ciencias De La Documentación](/organizaciones/fundacion-ciencias-de-la-documentacion)

@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Tres Cocos](/i/fundacion-tres-cocos.html)
+- [Fundación Tres Cocos](/organizaciones/fundacion-tres-cocos)

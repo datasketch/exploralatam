@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Random Monkey SAS](/i/random-monkey-sas.html)
+- [Random Monkey SAS](/organizaciones/random-monkey-sas)

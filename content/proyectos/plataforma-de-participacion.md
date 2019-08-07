@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Base Pública](/i/fundacion-base-publica.html)
+- [Fundación Base Pública](/organizaciones/fundacion-base-publica)

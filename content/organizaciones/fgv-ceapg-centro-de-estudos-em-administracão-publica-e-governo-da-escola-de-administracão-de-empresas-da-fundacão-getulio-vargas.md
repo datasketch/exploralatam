@@ -24,4 +24,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sagui: Sistema De Escucha, Monitoreo Y Alerta Sobre Riesgos Y Impactos De Grandes Emprendimientos En Los Derechos De Las Comunidades Locales](/i/sagui-sistema-de-escucha-monitoreo-y-alerta-sobre-riesgos-y-impactos-de-grandes-emprendimientos-en-los-derechos-de-las-comunidades-locales.html)
+- [Sagui: Sistema De Escucha, Monitoreo Y Alerta Sobre Riesgos Y Impactos De Grandes Emprendimientos En Los Derechos De Las Comunidades Locales](/proyectos/sagui-sistema-de-escucha-monitoreo-y-alerta-sobre-riesgos-y-impactos-de-grandes-emprendimientos-en-los-derechos-de-las-comunidades-locales)

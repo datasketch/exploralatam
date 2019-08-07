@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Chicas Poderosas](/i/chicas-poderosas.html)
+- [Chicas Poderosas](/organizaciones/chicas-poderosas)

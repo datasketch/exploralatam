@@ -25,5 +25,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Obra Chueca](/i/obra-chueca.html)
-- [Observatorio De Prisiones](/i/observatorio-de-prisiones.html)
+- [Obra Chueca](/proyectos/obra-chueca)
+- [Observatorio De Prisiones](/proyectos/observatorio-de-prisiones)

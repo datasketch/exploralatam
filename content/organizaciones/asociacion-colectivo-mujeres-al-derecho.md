@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Mujeres Campesinas Y Jovenes Por  Una Participación Ciudadana Digital  Activa Y Reivindicativa En La Región Caribe Colombiana](/i/mujeres-campesinas-y-jovenes-por-una-participacion-ciudadana-digital-activa-y-reivindicativa-en-la-region-caribe-colombiana.html)
+- [Mujeres Campesinas Y Jovenes Por  Una Participación Ciudadana Digital  Activa Y Reivindicativa En La Región Caribe Colombiana](/proyectos/mujeres-campesinas-y-jovenes-por-una-participacion-ciudadana-digital-activa-y-reivindicativa-en-la-region-caribe-colombiana)

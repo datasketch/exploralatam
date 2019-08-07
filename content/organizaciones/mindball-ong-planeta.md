@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Vacuna Sociales Proyecto Tom G5G](/i/vacuna-sociales-proyecto-tom-g5g.html)
+- [Vacuna Sociales Proyecto Tom G5G](/proyectos/vacuna-sociales-proyecto-tom-g5g)

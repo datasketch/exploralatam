@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Techo](/i/techo.html)
-- [Manas Technology Solutions](/i/manas-technology-solutions.html)
+- [Techo](/organizaciones/techo)
+- [Manas Technology Solutions](/organizaciones/manas-technology-solutions)

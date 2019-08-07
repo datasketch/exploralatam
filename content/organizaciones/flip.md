@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-22
+date_last_modified: 2019-08-05
 uid: flip
 title: "Fundación para la Libertad de Prensa"
 legal_name: 
@@ -13,13 +13,13 @@ twitter: https://twitter.com/FLIP_org
 tags:
 
 cities: 
-  - Costa Rica
+  - Bogotá
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Cartografías de la Información](/i/cartografias-de-información.html)
-- [Impunidad en Colombia](/i/impunidad.html)
-- [Pauta Visible](/i/pauta-visible.html)
-- [Mapa de violaciones a la libertad de prensa](/i/mapa-agresiones.html)
+- [Cartografías de la Información](/proyectos/cartografias-de-información)
+- [Impunidad en Colombia](/proyectos/impunidad)
+- [Pauta Visible](/proyectos/pauta-visible)
+- [Mapa de violaciones a la libertad de prensa](/proyectos/mapa-agresiones)

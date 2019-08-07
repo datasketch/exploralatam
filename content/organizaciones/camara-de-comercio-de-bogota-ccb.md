@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Benchmark Empresas Y Paz](/i/benchmark-empresas-y-paz.html)
+- [Benchmark Empresas Y Paz](/proyectos/benchmark-empresas-y-paz)

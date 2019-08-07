@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Bgood Smart Philanthropy](/i/bgood-smart-philanthropy.html)
+- [Bgood Smart Philanthropy](/organizaciones/bgood-smart-philanthropy)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Rutas del Conflicto](/i/rutas-del-conflicto.html)
+- [Rutas del Conflicto](/organizaciones/rutas-del-conflicto)

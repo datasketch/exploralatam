@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Usocial Maps](/i/usocial-maps.html)
+- [Usocial Maps](/proyectos/usocial-maps)

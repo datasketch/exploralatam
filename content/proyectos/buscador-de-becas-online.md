@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Por Una Carrera](/i/fundacion-por-una-carrera.html)
+- [Fundación Por Una Carrera](/organizaciones/fundacion-por-una-carrera)

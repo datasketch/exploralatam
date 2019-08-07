@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Portal Web Contraloria Ciudadana Puebla Para La Denuncia](/i/portal-web-contraloria-ciudadana-puebla-para-la-denuncia.html)
+- [Portal Web Contraloria Ciudadana Puebla Para La Denuncia](/proyectos/portal-web-contraloria-ciudadana-puebla-para-la-denuncia)

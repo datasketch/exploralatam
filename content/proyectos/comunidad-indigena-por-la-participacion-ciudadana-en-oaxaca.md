@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro Profesional Indígena De Asesoría, Defensa Y Traducción A.C.](/i/centro-profesional-indigena-de-asesoria-defensa-y-traduccion-a-c.html)
+- [Centro Profesional Indígena De Asesoría, Defensa Y Traducción A.C.](/organizaciones/centro-profesional-indigena-de-asesoria-defensa-y-traduccion-a-c)

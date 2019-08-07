@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Cresta App](/i/cresta-app.html)
+- [Cresta App](/proyectos/cresta-app)

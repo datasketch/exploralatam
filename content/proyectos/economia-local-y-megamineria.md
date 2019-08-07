@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Juventud Emprendedora](/i/fundacion-juventud-emprendedora.html)
+- [Fundación Juventud Emprendedora](/organizaciones/fundacion-juventud-emprendedora)

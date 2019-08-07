@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Verto App](/i/verto-app.html)
+- [Verto App](/proyectos/verto-app)

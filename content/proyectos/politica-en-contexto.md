@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Contexto](/i/contexto.html)
+- [Contexto](/organizaciones/contexto)

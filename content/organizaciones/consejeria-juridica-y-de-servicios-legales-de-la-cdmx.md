@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Identidad Digital A Través De Blockchain Para La Reducción De Falsificación Y Corrupción](/i/identidad-digital-a-traves-de-blockchain-para-la-reduccion-de-falsificacion-y-corrupcion.html)
+- [Identidad Digital A Través De Blockchain Para La Reducción De Falsificación Y Corrupción](/proyectos/identidad-digital-a-traves-de-blockchain-para-la-reduccion-de-falsificacion-y-corrupcion)

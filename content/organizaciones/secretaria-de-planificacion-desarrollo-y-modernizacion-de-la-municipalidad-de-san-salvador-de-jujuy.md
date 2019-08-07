@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Geomatica En Organismos Publicos](/i/geomatica-en-organismos-publicos.html)
+- [Geomatica En Organismos Publicos](/proyectos/geomatica-en-organismos-publicos)

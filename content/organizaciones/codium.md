@@ -22,5 +22,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/civic-backoffice-plataforma-de-gestion-semi-automatica-de-la-innovacion-publica-y-la-participacion-ciudadana.html)
-- [Aguapps: Gestión Participativa Del Agua Para El Chaco](/i/aguapps-gestion-participativa-del-agua-para-el-chaco.html)
+- [](/proyectos/civic-backoffice-plataforma-de-gestion-semi-automatica-de-la-innovacion-publica-y-la-participacion-ciudadana)
+- [Aguapps: Gestión Participativa Del Agua Para El Chaco](/proyectos/aguapps-gestion-participativa-del-agua-para-el-chaco)

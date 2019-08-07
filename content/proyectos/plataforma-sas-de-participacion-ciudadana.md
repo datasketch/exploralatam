@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Acción Colectiva](/i/accion-colectiva.html)
+- [Acción Colectiva](/organizaciones/accion-colectiva)

@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [X](/i/semana.html)
+- [X](/organizaciones/semana)

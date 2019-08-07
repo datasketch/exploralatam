@@ -18,5 +18,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Rede Conhecimento Social](/i/rede-conhecimento-social.html)
-- [Instituto  Banco Da Periferia](/i/instituto-banco-da-periferia.html)
+- [Rede Conhecimento Social](/organizaciones/rede-conhecimento-social)
+- [Instituto  Banco Da Periferia](/organizaciones/instituto-banco-da-periferia)

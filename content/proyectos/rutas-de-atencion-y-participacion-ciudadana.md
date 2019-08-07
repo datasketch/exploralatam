@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Fundación Gestores Sociales](/i/fundacion-gestores-sociales.html)
+- [Fundación Gestores Sociales](/organizaciones/fundacion-gestores-sociales)

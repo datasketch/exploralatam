@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sistema De Avaliação Dos Portais De Transparência Dos Governos Municipais](/i/sistema-de-avaliacão-dos-portais-de-transparencia-dos-governos-municipais.html)
+- [Sistema De Avaliação Dos Portais De Transparência Dos Governos Municipais](/proyectos/sistema-de-avaliacão-dos-portais-de-transparencia-dos-governos-municipais)

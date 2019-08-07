@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Red De Activistas Ciudadanos Por Los Derechos Humanos - Activismo Digital](/i/red-de-activistas-ciudadanos-por-los-derechos-humanos-activismo-digital.html)
+- [Red De Activistas Ciudadanos Por Los Derechos Humanos - Activismo Digital](/proyectos/red-de-activistas-ciudadanos-por-los-derechos-humanos-activismo-digital)

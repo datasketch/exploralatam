@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Ojo Al Voto](/i/ojo-al-voto.html)
+- [Ojo Al Voto](/organizaciones/ojo-al-voto)

@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-22
+date_last_modified: 2019-08-05
 uid: entre-ojos
 title: "Entre Ojos"
 legal_name: 
@@ -13,10 +13,10 @@ twitter: https://twitter.com/EntreOjosCo
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Boyacá se raja en el aprovechamiento de sus basuras](/i/boyaca-se-raja-en-el-aprovechamiento-de-sus-basuras.html)
+- [Boyacá se raja en el aprovechamiento de sus basuras](/proyectos/boyaca-se-raja-en-el-aprovechamiento-de-sus-basuras)

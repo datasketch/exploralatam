@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Medata](/i/medata.html)
+- [Medata](/proyectos/medata)

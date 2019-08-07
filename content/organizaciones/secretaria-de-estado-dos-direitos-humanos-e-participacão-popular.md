@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Noosfero: Plataforma Web Livre Para A Criação De Redes Sociais Autônomas E Participação Cívica](/i/noosfero-plataforma-web-livre-para-a-criacão-de-redes-sociais-autonomas-e-participacão-civica.html)
+- [Noosfero: Plataforma Web Livre Para A Criação De Redes Sociais Autônomas E Participação Cívica](/proyectos/noosfero-plataforma-web-livre-para-a-criacão-de-redes-sociais-autonomas-e-participacão-civica)

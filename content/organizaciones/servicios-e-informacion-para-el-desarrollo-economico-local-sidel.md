@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Información Y Gestión De Conocimientos De Políticas Publicas Con Enfoque De Genero](/i/informacion-y-gestion-de-conocimientos-de-politicas-publicas-con-enfoque-de-genero.html)
+- [Información Y Gestión De Conocimientos De Políticas Publicas Con Enfoque De Genero](/proyectos/informacion-y-gestion-de-conocimientos-de-politicas-publicas-con-enfoque-de-genero)

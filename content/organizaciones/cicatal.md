@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Proyecto De Knowledge Sharing Cicatal](/i/proyecto-de-knowledge-sharing-cicatal.html)
+- [Proyecto De Knowledge Sharing Cicatal](/proyectos/proyecto-de-knowledge-sharing-cicatal)

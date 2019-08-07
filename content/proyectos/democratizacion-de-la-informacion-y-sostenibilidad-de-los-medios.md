@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Factus,S.A.](/i/factus-s-a.html)
+- [Factus,S.A.](/organizaciones/factus-s-a)

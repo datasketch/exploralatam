@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Política Na Prática](/i/politica-na-pratica.html)
+- [Política Na Prática](/proyectos/politica-na-pratica)

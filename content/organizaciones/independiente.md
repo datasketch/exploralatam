@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Quien Paga](/i/quien-paga.html)
+- [Quien Paga](/proyectos/quien-paga)

@@ -18,4 +18,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Servicios Universitarios Y Redes De Conocimiento En Oaxaca A C](/i/servicios-universitarios-y-redes-de-conocimiento-en-oaxaca-a-c.html)
+- [Servicios Universitarios Y Redes De Conocimiento En Oaxaca A C](/organizaciones/servicios-universitarios-y-redes-de-conocimiento-en-oaxaca-a-c)

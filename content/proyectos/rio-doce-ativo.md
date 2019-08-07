@@ -20,7 +20,7 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Gafit Soluções Em Automação Ltda - Me](/i/gafit-solucões-em-automacão-ltda-me.html)
-- [Troca: Gestão Social Para A Sustentabilidade](/i/troca-gestão-social-para-a-sustentabilidade.html)
-- [Associação Comunitária De Bento Rodrigues](/i/associacão-comunitaria-de-bento-rodrigues.html)
-- [Nachhaltigkeit Educação Ltda](/i/nachhaltigkeit-educacão-ltda.html)
+- [Gafit Soluções Em Automação Ltda - Me](/organizaciones/gafit-solucões-em-automacão-ltda-me)
+- [Troca: Gestão Social Para A Sustentabilidade](/organizaciones/troca-gestão-social-para-a-sustentabilidade)
+- [Associação Comunitária De Bento Rodrigues](/organizaciones/associacão-comunitaria-de-bento-rodrigues)
+- [Nachhaltigkeit Educação Ltda](/organizaciones/nachhaltigkeit-educacão-ltda)

@@ -20,5 +20,5 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro De Promoción De La Mujer Gregoria Apaza- Cpmga](/i/centro-de-promocion-de-la-mujer-gregoria-apaza-cpmga.html)
-- [Servicios E Información Para El Desarrollo Económico Local-Sidel](/i/servicios-e-informacion-para-el-desarrollo-economico-local-sidel.html)
+- [Centro De Promoción De La Mujer Gregoria Apaza- Cpmga](/organizaciones/centro-de-promocion-de-la-mujer-gregoria-apaza-cpmga)
+- [Servicios E Información Para El Desarrollo Económico Local-Sidel](/organizaciones/servicios-e-informacion-para-el-desarrollo-economico-local-sidel)

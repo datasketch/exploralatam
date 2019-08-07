@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sistema De Gestão De Ideias Para Segurança Pública](/i/sistema-de-gestão-de-ideias-para-seguranca-publica.html)
+- [Sistema De Gestão De Ideias Para Segurança Pública](/proyectos/sistema-de-gestão-de-ideias-para-seguranca-publica)

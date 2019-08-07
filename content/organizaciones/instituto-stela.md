@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sumá - Sistema De Qualificação De Gestores, Operadores E Fornecedores Da Alimentação Institucional](/i/suma-sistema-de-qualificacão-de-gestores-operadores-e-fornecedores-da-alimentacão-institucional.html)
+- [Sumá - Sistema De Qualificação De Gestores, Operadores E Fornecedores Da Alimentação Institucional](/proyectos/suma-sistema-de-qualificacão-de-gestores-operadores-e-fornecedores-da-alimentacão-institucional)

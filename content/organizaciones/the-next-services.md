@@ -20,4 +20,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Mi Historial Médico](/i/mi-historial-medico.html)
+- [Mi Historial Médico](/proyectos/mi-historial-medico)

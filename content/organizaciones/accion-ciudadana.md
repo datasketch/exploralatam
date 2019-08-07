@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [App Interfaz De Verificación De Cuotas Patronales Del Sector Público Y Privado Igss, Guatemala](/i/app-interfaz-de-verificacion-de-cuotas-patronales-del-sector-publico-y-privado-igss-guatemala.html)
+- [App Interfaz De Verificación De Cuotas Patronales Del Sector Público Y Privado Igss, Guatemala](/proyectos/app-interfaz-de-verificacion-de-cuotas-patronales-del-sector-publico-y-privado-igss-guatemala)

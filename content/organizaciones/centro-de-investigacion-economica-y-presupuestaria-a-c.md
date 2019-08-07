@@ -22,4 +22,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Tu Dinero, Tu Gobierno](/i/tu-dinero-tu-gobierno.html)
+- [Tu Dinero, Tu Gobierno](/proyectos/tu-dinero-tu-gobierno)

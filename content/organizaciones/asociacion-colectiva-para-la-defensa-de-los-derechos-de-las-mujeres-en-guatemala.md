@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [La Tecnologia, Un Reto Para El Avance Técnico Y Político De Las Funcionarias Municipales.](/i/la-tecnologia-un-reto-para-el-avance-tecnico-y-politico-de-las-funcionarias-municipales.html)
+- [La Tecnologia, Un Reto Para El Avance Técnico Y Político De Las Funcionarias Municipales.](/proyectos/la-tecnologia-un-reto-para-el-avance-tecnico-y-politico-de-las-funcionarias-municipales)

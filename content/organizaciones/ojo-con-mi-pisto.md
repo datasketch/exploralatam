@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [40 Alcaldías bajo la lupa](/i/40-alcaldias-lupa.html)
+- [40 Alcaldías bajo la lupa](/proyectos/40-alcaldias-lupa)

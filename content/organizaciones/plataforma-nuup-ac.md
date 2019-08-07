@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Fresconsciente](/i/fresconsciente.html)
+- [Fresconsciente](/proyectos/fresconsciente)

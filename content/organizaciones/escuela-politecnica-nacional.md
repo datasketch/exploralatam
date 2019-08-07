@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Arteria: Activa, Responde, Transforma.](/i/arteria-activa-responde-transforma.html)
+- [Arteria: Activa, Responde, Transforma.](/proyectos/arteria-activa-responde-transforma)

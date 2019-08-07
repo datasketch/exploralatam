@@ -23,5 +23,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [](/i/mobilidade-urbana-aberta.html)
-- [Mobilidade Urbana Aberta](/i/mobilidade-urbana-aberta.html)
+- [](/proyectos/mobilidade-urbana-aberta)
+- [Mobilidade Urbana Aberta](/proyectos/mobilidade-urbana-aberta)

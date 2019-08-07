@@ -13,10 +13,10 @@ twitter:
 tags:
 
 cities: 
-  - Costa Rica
+
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Lapublica.Org.Bo](/i/lapublica-org-bo.html)
+- [Lapublica.Org.Bo](/proyectos/lapublica-org-bo)

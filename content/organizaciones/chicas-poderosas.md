@@ -20,5 +20,5 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sin Nombre](/i/sin-nombre.html)
-- [Chicas Poderosas Chile](/i/chicas-poderosas-chile.html)
+- [Sin Nombre](/proyectos/sin-nombre)
+- [Chicas Poderosas Chile](/proyectos/chicas-poderosas-chile)

@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Tu Conteo](/i/tu-conteo.html)
+- [Tu Conteo](/proyectos/tu-conteo)

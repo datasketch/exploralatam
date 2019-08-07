@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Metropolitano De Profissionalização, Arte, Cultura E Oportunidades - Impacto](/i/instituto-metropolitano-de-profissionalizacão-arte-cultura-e-oportunidades-impacto.html)
+- [Instituto Metropolitano De Profissionalização, Arte, Cultura E Oportunidades - Impacto](/organizaciones/instituto-metropolitano-de-profissionalizacão-arte-cultura-e-oportunidades-impacto)

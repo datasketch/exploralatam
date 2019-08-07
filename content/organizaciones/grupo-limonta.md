@@ -21,4 +21,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Limapp](/i/limapp.html)
+- [Limapp](/proyectos/limapp)

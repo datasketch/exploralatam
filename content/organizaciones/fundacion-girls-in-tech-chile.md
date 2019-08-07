@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Pasameeldato.Com - Escuela De Dateras Ciudadanas](/i/pasameeldato-com-escuela-de-dateras-ciudadanas.html)
+- [Pasameeldato.Com - Escuela De Dateras Ciudadanas](/proyectos/pasameeldato-com-escuela-de-dateras-ciudadanas)

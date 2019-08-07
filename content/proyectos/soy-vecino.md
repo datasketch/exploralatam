@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro Eugenio Garza Sada](/i/centro-eugenio-garza-sada.html)
+- [Centro Eugenio Garza Sada](/organizaciones/centro-eugenio-garza-sada)

@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Nova Grupo De Consultoria Sas](/i/nova-grupo-de-consultoria-sas.html)
+- [Nova Grupo De Consultoria Sas](/organizaciones/nova-grupo-de-consultoria-sas)

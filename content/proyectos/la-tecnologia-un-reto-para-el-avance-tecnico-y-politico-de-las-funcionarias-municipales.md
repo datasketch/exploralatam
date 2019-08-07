@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Asociación Colectiva Para La Defensa De Los Derechos De Las Mujeres En Guatemala](/i/asociacion-colectiva-para-la-defensa-de-los-derechos-de-las-mujeres-en-guatemala.html)
+- [Asociación Colectiva Para La Defensa De Los Derechos De Las Mujeres En Guatemala](/organizaciones/asociacion-colectiva-para-la-defensa-de-los-derechos-de-las-mujeres-en-guatemala)

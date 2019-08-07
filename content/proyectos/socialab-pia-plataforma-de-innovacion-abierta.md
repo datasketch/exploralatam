@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Socialab Global](/i/socialab-global.html)
+- [Socialab Global](/organizaciones/socialab-global)

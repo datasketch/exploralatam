@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sos Eleitor (Sos Votante)](/i/sos-eleitor-sos-votante.html)
+- [Sos Eleitor (Sos Votante)](/proyectos/sos-eleitor-sos-votante)

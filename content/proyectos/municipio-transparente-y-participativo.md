@@ -17,4 +17,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Delpuerto Comunicaciones](/i/delpuerto-comunicaciones.html)
+- [Delpuerto Comunicaciones](/organizaciones/delpuerto-comunicaciones)

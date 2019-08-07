@@ -20,6 +20,6 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Genus++: Plataforma De Comunicación Académica Plus](/i/genus-plataforma-de-comunicacion-academica-plus.html)
-- [](/i/plataforma-de-organizacion-y-comunicacion-de-agrupaciones-ciudadanas-suma-e.html)
-- [Suma+E](/i/suma-e.html)
+- [Genus++: Plataforma De Comunicación Académica Plus](/proyectos/genus-plataforma-de-comunicacion-academica-plus)
+- [](/proyectos/plataforma-de-organizacion-y-comunicacion-de-agrupaciones-ciudadanas-suma-e)
+- [Suma+E](/proyectos/suma-e)

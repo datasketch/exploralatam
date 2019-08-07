@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Instituto Educadigital](/i/instituto-educadigital.html)
+- [Instituto Educadigital](/organizaciones/instituto-educadigital)

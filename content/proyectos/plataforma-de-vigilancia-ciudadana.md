@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Centro De Estudios Para La Equidad Y Gobernanza En Los Sistemas De Salud, Cegss](/i/centro-de-estudios-para-la-equidad-y-gobernanza-en-los-sistemas-de-salud-cegss.html)
+- [Centro De Estudios Para La Equidad Y Gobernanza En Los Sistemas De Salud, Cegss](/organizaciones/centro-de-estudios-para-la-equidad-y-gobernanza-en-los-sistemas-de-salud-cegss)

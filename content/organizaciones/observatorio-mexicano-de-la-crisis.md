@@ -23,4 +23,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Sistema De Gestión Participativa Para La Incidencia Social En Políticas Públicas](/i/sistema-de-gestion-participativa-para-la-incidencia-social-en-politicas-publicas.html)
+- [Sistema De Gestión Participativa Para La Incidencia Social En Políticas Públicas](/proyectos/sistema-de-gestion-participativa-para-la-incidencia-social-en-politicas-publicas)

@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-22
+date_last_modified: 2019-08-05
 uid: gana-nariño
 title: "GANA - Gobierno Abierto de Nariño"
 legal_name: 
@@ -13,13 +13,13 @@ twitter: https://twitter.com/GANANARINO
 tags:
 
 cities: 
-  - Costa Rica
+  - Pasto
 
 ---
 
 Esta organización tiene los siguientes proyectos:
 
-- [Gana Pienso](/i/gana-pienso.html)
-- [Le Tengo El Dato](/i/le-tengo-el-dato.html)
-- [Gana Control](/i/gana-control.html)
-- [Portal de Datos Abierto de Nariño](/i/gana-datos.html)
+- [Gana Pienso](/proyectos/gana-pienso)
+- [Le Tengo El Dato](/proyectos/le-tengo-el-dato)
+- [Gana Control](/proyectos/gana-control)
+- [Portal de Datos Abierto de Nariño](/proyectos/gana-datos)

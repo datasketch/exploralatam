@@ -16,4 +16,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Ecosocial Consultores S.A.S](/i/ecosocial-consultores-s-a-s.html)
+- [Ecosocial Consultores S.A.S](/organizaciones/ecosocial-consultores-s-a-s)

@@ -21,4 +21,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Municipalidad San José Del Ídolo Suchitepéquez, Guatemala](/i/municipalidad-san-jose-del-idolo-suchitepequez-guatemala.html)
+- [Municipalidad San José Del Ídolo Suchitepéquez, Guatemala](/organizaciones/municipalidad-san-jose-del-idolo-suchitepequez-guatemala)

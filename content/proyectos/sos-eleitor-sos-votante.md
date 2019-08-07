@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Voter Desenvolvimento De Software Ltda](/i/voter-desenvolvimento-de-software-ltda.html)
+- [Voter Desenvolvimento De Software Ltda](/organizaciones/voter-desenvolvimento-de-software-ltda)

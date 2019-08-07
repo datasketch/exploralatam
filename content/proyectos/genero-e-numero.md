@@ -19,4 +19,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Gênero E Número](/i/genero-e-numero.html)
+- [Gênero E Número](/organizaciones/genero-e-numero)

@@ -20,4 +20,4 @@ cities:
 
 Esta iniciativa fue realizada por:
 
-- [Avisora](/i/avisora.html)
+- [Avisora](/organizaciones/avisora)

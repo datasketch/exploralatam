@@ -19,4 +19,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Gerico Gestión De Riesgo De Colombia](/i/gerico-gestion-de-riesgo-de-colombia.html)
+- [Gerico Gestión De Riesgo De Colombia](/proyectos/gerico-gestion-de-riesgo-de-colombia)

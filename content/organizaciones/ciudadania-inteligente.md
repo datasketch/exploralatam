@@ -19,7 +19,7 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Hay Acuerdos](/i/hay-acuerdos.html)
-- [Congreso Abierto Chile](/i/congreso-abierto-chile.html)
-- [Dichoalhecho](/i/dichoalhecho.html)
-- [Ciudadano Inteligente](/i/ciudadano-inteligente.html)
+- [Hay Acuerdos](/proyectos/hay-acuerdos)
+- [Congreso Abierto Chile](/proyectos/congreso-abierto-chile)
+- [Dichoalhecho](/proyectos/dichoalhecho)
+- [Ciudadano Inteligente](/proyectos/ciudadano-inteligente)

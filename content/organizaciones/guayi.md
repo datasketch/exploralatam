@@ -24,4 +24,4 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Plataforma Ecosol Feminista](/i/plataforma-ecosol-feminista.html)
+- [Plataforma Ecosol Feminista](/proyectos/plataforma-ecosol-feminista)
