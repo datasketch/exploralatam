@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-22
 uid: guatecambia
-title: 'Guatecambia'
+title: |
+  Guatecambia
 legal_name: 
-description: 'Es una organización no gubernamental y sin ánimo de lucro que busca la democracia participativa en Guatemala por medio de la transparencia y la participación ciudadana a través de la tecnología.'
+description: |
+  Es una organización no gubernamental y sin ánimo de lucro que busca la democracia participativa en Guatemala por medio de la transparencia y la participación ciudadana a través de la tecnología.
 org_type: 
 website: http://www.guatecambia.org.gt
 year_founded: 2011

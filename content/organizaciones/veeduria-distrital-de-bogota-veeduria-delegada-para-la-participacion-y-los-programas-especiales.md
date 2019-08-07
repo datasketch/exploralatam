@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: veeduria-distrital-de-bogota-veeduria-delegada-para-la-participacion-y-los-programas-especiales
-title: 'Veeduría Distrital De Bogotá, Veeduría Delegada Para La Participación Y Los Programas Especiales'
+title: |
+  Veeduría Distrital De Bogotá, Veeduría Delegada Para La Participación Y Los Programas Especiales
 legal_name: 
-description: ''
+description: |
+  
 org_type: Gobierno
 website: http://www.veeduriadistrital.gov.co/
 year_founded: 1993

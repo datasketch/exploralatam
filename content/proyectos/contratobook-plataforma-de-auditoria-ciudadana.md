@@ -2,8 +2,10 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-22
 uid: contratobook-plataforma-de-auditoria-ciudadana
-title: 'Contratobook: Plataforma De Auditoria Ciudadana'
-description: ''
+title: |
+  Contratobook: Plataforma De Auditoria Ciudadana
+description: |
+  
 type: 
 website: 
 date_ini: 

@@ -2,8 +2,10 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: primera-unidad-latinoamericana-de-periodismo-de-datos
-title: 'Primera Unidad Latinoamericana De Periodismo De Datos'
-description: ''
+title: |
+  Primera Unidad Latinoamericana De Periodismo De Datos
+description: |
+  
 type: 
 website: 
 date_ini: 

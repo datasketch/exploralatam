@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-08-05
 uid: monoku
-title: 'Monoku'
+title: |
+  Monoku
 legal_name: 
-description: 'Diseña y desarrolla productos tecnológicos'
+description: |
+  Diseña y desarrolla productos tecnológicos
 org_type: 
 website: https://monoku.com/
 year_founded: 2009

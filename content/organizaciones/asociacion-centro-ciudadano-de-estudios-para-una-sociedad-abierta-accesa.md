@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: asociacion-centro-ciudadano-de-estudios-para-una-sociedad-abierta-accesa
-title: 'Asociación Centro Ciudadano De Estudios Para Una Sociedad Abierta -Accesa'
+title: |
+  Asociación Centro Ciudadano De Estudios Para Una Sociedad Abierta -Accesa
 legal_name: 
-description: ''
+description: |
+  
 org_type: Organización civil sin fines de lucro (ONG)
 website: www.accesa.org (actualmente fuera de línea debido a un ataque informático)
 year_founded: 2014

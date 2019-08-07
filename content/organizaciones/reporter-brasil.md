@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-23
 uid: reporter-brasil
-title: 'Repórter Brasil'
+title: |
+  Repórter Brasil
 legal_name: 
-description: 'Busca identificar y hacer públicas situaciones que lesionen derechos laborales y causan daños socioambientales en Brasil para la movilización de líderes sociales, políticos y económicos para la construcción de una sociedad de respeto a los derechos humanos, más justa, igualitaria y democrática.'
+description: |
+  Busca identificar y hacer públicas situaciones que lesionen derechos laborales y causan daños socioambientales en Brasil para la movilización de líderes sociales, políticos y económicos para la construcción de una sociedad de respeto a los derechos humanos, más justa, igualitaria y democrática.
 org_type: Organización civil sin fines de lucro (ONG)
 website: http://reporterbrasil.org.br/
 year_founded: 2001

@@ -2,8 +2,10 @@
 date: 2019-07-21T23:01:54.000Z
 date_last_modified: 2019-07-23
 uid: transparencia-y-desarrollo-civico-en-ecuador
-title: 'Transparencia Y Desarrollo Cívico En Ecuador'
-description: ''
+title: |
+  Transparencia Y Desarrollo Cívico En Ecuador
+description: |
+  
 type: 
 website: 
 date_ini: 

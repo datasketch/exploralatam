@@ -2,8 +2,10 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: gestion-del-arbolado-urbano
-title: 'Gestión Del Arbolado Urbano'
-description: ''
+title: |
+  Gestión Del Arbolado Urbano
+description: |
+  
 type: 
 website: 
 date_ini: 

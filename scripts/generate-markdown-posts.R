@@ -171,6 +171,6 @@ if(length(proj_failed) > 0){
 proj_success <-  all_proj %>% keep(~is.null(.$error))
 all_proj2 <- transpose(proj_success)[["result"]]
 
-
+message("orgs: ", length(all_orgs2), "\nproys: ", length(all_proj2))
 jsonlite::write_json(list(organizaciones = all_orgs2, proyectos = all_proj2),
                      "data/exploralatam.json", auto_unbox = TRUE)

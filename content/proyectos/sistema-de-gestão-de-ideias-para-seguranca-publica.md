@@ -2,8 +2,10 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: sistema-de-gestão-de-ideias-para-seguranca-publica
-title: 'Sistema De Gestão De Ideias Para Segurança Pública'
-description: ''
+title: |
+  Sistema De Gestão De Ideias Para Segurança Pública
+description: |
+  
 type: 
 website: 
 date_ini: 

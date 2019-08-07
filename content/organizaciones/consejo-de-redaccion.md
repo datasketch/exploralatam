@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-08-05
 uid: consejo-de-redaccion
-title: 'Consejo de Redacción'
+title: |
+  Consejo de Redacción
 legal_name: 
-description: 'Promueve el periodismo de investigación en Colombia para contribuir a la democratización de la información.'
+description: |
+  Promueve el periodismo de investigación en Colombia para contribuir a la democratización de la información.
 org_type: 
 website: https://consejoderedaccion.org/
 year_founded: 2006

@@ -2,8 +2,10 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: trainee-de-gesta-o-pu-blica
-title: 'Trainee De Gesta~O Pu´Blica'
-description: ''
+title: |
+  Trainee De Gesta~O Pu´Blica
+description: |
+  
 type: 
 website: 
 date_ini: 

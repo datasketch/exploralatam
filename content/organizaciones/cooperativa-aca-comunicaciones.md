@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: cooperativa-aca-comunicaciones
-title: 'Cooperativa Acá Comunicaciones'
+title: |
+  Cooperativa Acá Comunicaciones
 legal_name: 
-description: ''
+description: |
+  
 org_type: Otro
 website: www.acacomunicaciones.cl
 year_founded: 2009

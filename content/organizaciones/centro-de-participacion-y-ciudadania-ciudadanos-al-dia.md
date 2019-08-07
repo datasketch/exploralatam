@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-29
 uid: centro-de-participacion-y-ciudadania-ciudadanos-al-dia
-title: 'Centro de Participación y Ciudadanía - Ciudadanos al Día'
+title: |
+  Centro de Participación y Ciudadanía - Ciudadanos al Día
 legal_name: 
-description: ''
+description: |
+  
 org_type: 
 website: www.ciudadanosaldia.org
 year_founded: 2002

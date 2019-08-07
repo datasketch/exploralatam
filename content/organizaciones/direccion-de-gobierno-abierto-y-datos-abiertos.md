@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-29
 uid: direccion-de-gobierno-abierto-y-datos-abiertos
-title: 'Dirección De Gobierno Abierto Y Datos Abiertos'
+title: |
+  Dirección De Gobierno Abierto Y Datos Abiertos
 legal_name: 
-description: ''
+description: |
+  
 org_type: Gobierno
 website: https://gobiernoabierto.cordoba.gob.ar/
 year_founded: 2016

@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-23
 uid: infoamazonia
-title: 'InfoAmazonía'
+title: |
+  InfoAmazonía
 legal_name: 
-description: 'Datos y noticias sobre la Amazonia, el mayor bosque tropical continuo del planeta'
+description: |
+  Datos y noticias sobre la Amazonia, el mayor bosque tropical continuo del planeta
 org_type: Otro
 website: http://infoamazonia.org/
 year_founded: 2012

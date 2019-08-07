@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-08-05
 uid: animal-politico
-title: 'Animal Político'
+title: |
+  Animal Político
 legal_name: 
-description: 'Es una nueva publicación digital que reúne a un grupo de periodistas que hemos decidido apostar por esta vía para hacer periodismo.'
+description: |
+  Es una nueva publicación digital que reúne a un grupo de periodistas que hemos decidido apostar por esta vía para hacer periodismo.
 org_type: 
 website: https://www.animalpolitico.com/
 year_founded: 

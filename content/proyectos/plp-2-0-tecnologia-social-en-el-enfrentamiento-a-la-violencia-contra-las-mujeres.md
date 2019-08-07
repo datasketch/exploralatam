@@ -2,8 +2,10 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: plp-2-0-tecnologia-social-en-el-enfrentamiento-a-la-violencia-contra-las-mujeres
-title: 'Plp 2.0 - Tecnología Social En El Enfrentamiento A La Violencia Contra Las Mujeres'
-description: ''
+title: |
+  Plp 2.0 - Tecnología Social En El Enfrentamiento A La Violencia Contra Las Mujeres
+description: |
+  
 type: 
 website: 
 date_ini: 

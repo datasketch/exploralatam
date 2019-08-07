@@ -2,8 +2,10 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-29
 uid: a-que-precio
-title: 'A qué precio'
-description: 'Busca promover el acceso a la información, la transparencia y la rendición de cuentas de las compras públicas.'
+title: |
+  A qué precio
+description: |
+  Busca promover el acceso a la información, la transparencia y la rendición de cuentas de las compras públicas.
 type: Plataforma web
 website: https://altec.lat/es/a-que-precio/
 date_ini: 2017

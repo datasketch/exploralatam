@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-22
 uid: rutas-del-conflicto
-title: 'Rutas del Conflicto'
+title: |
+  Rutas del Conflicto
 legal_name: 
-description: 'Facilitan el acceso a información, organizada y confiable, sobre el conflicto armado en Colombia.'
+description: |
+  Facilitan el acceso a información, organizada y confiable, sobre el conflicto armado en Colombia.
 org_type: 
 website: http://rutasdelconflicto.com/
 year_founded: 2014
@@ -19,7 +21,7 @@ cities:
 
 Esta organización tiene los siguientes proyectos:
 
-- [Yo Sobreviví](/proyectos/yo-sobreviví)
+- [Yo Sobreviví](/proyectos/yo-sobrevivi)
 - [Cartografía del Conflicto](/proyectos/cartografia-del-conflicto)
 - [Ríos de vida y muerte](/proyectos/rios-vida-muerte)
 - [La Paz en el Terreno](/proyectos/la-paz-en-el-terreno)

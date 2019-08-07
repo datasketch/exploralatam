@@ -2,9 +2,11 @@
 date: {createdTime}
 date_last_modified: {date_last_modified}
 uid: {uid}
-title: '{name}'
+title: |
+  {name}
 legal_name: {legal_name}
-description: '{description}'
+description: |
+  {description}
 org_type: {org_type}
 website: {website}
 year_founded: {year_founded}

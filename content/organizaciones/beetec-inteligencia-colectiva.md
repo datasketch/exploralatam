@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: beetec-inteligencia-colectiva
-title: 'Beetec Inteligencia Colectiva'
+title: |
+  Beetec Inteligencia Colectiva
 legal_name: 
-description: ''
+description: |
+  
 org_type: Organización civil sin fines de lucro (ONG)
 website: http://www.kibernum.com/noticias/tag/beetec/
 year_founded: 2014

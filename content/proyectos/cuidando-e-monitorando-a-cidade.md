@@ -2,8 +2,10 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-29
 uid: cuidando-e-monitorando-a-cidade
-title: 'Cuidando E Monitorando A Cidade'
-description: ''
+title: |
+  Cuidando E Monitorando A Cidade
+description: |
+  
 type: 
 website: 
 date_ini: 

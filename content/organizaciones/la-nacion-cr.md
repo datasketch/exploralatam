@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-08-05
 uid: la-nacion-cr
-title: 'La Nación'
+title: |
+  La Nación
 legal_name: 
-description: 'Medio de Comunicación de Costa Rica'
+description: |
+  Medio de Comunicación de Costa Rica
 org_type: 
 website: https://www.nacion.com/
 year_founded: 

@@ -2,8 +2,10 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-22
 uid: sagui-sistema-de-escucha-monitoreo-y-alerta-sobre-riesgos-y-impactos-de-grandes-emprendimientos-en-los-derechos-de-las-comunidades-locales
-title: 'Sagui: Sistema De Escucha, Monitoreo Y Alerta Sobre Riesgos Y Impactos De Grandes Emprendimientos En Los Derechos De Las Comunidades Locales'
-description: ''
+title: |
+  Sagui: Sistema De Escucha, Monitoreo Y Alerta Sobre Riesgos Y Impactos De Grandes Emprendimientos En Los Derechos De Las Comunidades Locales
+description: |
+  
 type: 
 website: 
 date_ini: 

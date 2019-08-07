@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-29
 uid: project-poder
-title: 'PODER'
+title: |
+  PODER
 legal_name: 
-description: 'Pretende fomentar la transparencia y rendición de cuentas de las empresas en América Latina desde la perspectiva de derechos humanos y fortalecer a los actores de la sociedad civil afectados por prácticas empresariales para que actúen como garantes de la rendición de cuentas a largo plazo.'
+description: |
+  Pretende fomentar la transparencia y rendición de cuentas de las empresas en América Latina desde la perspectiva de derechos humanos y fortalecer a los actores de la sociedad civil afectados por prácticas empresariales para que actúen como garantes de la rendición de cuentas a largo plazo.
 org_type: Otro
 website: http://projectpoder.org/es/
 year_founded: 2008

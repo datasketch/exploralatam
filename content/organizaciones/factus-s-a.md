@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: factus-s-a
-title: 'Factus,S.A.'
+title: |
+  Factus,S.A.
 legal_name: 
-description: ''
+description: |
+  
 org_type: Empresa privada (no incluye startup)
 website: www.factus.net
 year_founded: 2000

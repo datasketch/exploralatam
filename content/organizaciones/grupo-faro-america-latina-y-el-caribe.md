@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-30
 uid: grupo-faro-america-latina-y-el-caribe
-title: 'Grupo FARO América Latina y el Caribe'
+title: |
+  Grupo FARO América Latina y el Caribe
 legal_name: 
-description: ''
+description: |
+  
 org_type: 
 website: www.grupofaro.org
 year_founded: 2014

@@ -2,8 +2,10 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-29
 uid: red-peruana-por-ciudades-justas-democraticas-y-sustentables
-title: 'Red Peruana Por Ciudades Justas, Democráticas Y Sustentables'
-description: ''
+title: |
+  Red Peruana Por Ciudades Justas, Democráticas Y Sustentables
+description: |
+  
 type: 
 website: 
 date_ini: 

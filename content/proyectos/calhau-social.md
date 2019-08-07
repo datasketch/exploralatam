@@ -2,8 +2,10 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: calhau-social
-title: 'Calhau Social'
-description: ''
+title: |
+  Calhau Social
+description: |
+  
 type: 
 website: 
 date_ini: 

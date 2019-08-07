@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-08-05
 uid: factico
-title: 'Fáctico'
+title: |
+  Fáctico
 legal_name: 
-description: 'Crean tecnología para promover la libertad de expresión y la participación ciudadana.'
+description: |
+  Crean tecnología para promover la libertad de expresión y la participación ciudadana.
 org_type: 
 website: https://www.factico.com.mx/
 year_founded: 

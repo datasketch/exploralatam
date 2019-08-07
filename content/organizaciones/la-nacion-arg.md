@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-22
 uid: la-nacion-arg
-title: 'La Nación'
+title: |
+  La Nación
 legal_name: 
-description: 'Es un medio digital de periodismo de investigación y de datos, buscan la transparencia, el aprendizaje y el conocimiento convirtiendo los datos en información.'
+description: |
+  Es un medio digital de periodismo de investigación y de datos, buscan la transparencia, el aprendizaje y el conocimiento convirtiendo los datos en información.
 org_type: 
 website: https://www.lanacion.com.ar/data
 year_founded: 2010

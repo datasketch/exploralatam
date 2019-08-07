@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-22
 uid: socialtic
-title: 'Socialtic'
+title: |
+  Socialtic
 legal_name: SocialTIC A.C.
-description: 'Es una organización que se dedica a la formación y a la investigación de la tecnología digital para el empoderamiento social, formando a la comunidad en estrategias digitales y datos.'
+description: |
+  Es una organización que se dedica a la formación y a la investigación de la tecnología digital para el empoderamiento social, formando a la comunidad en estrategias digitales y datos.
 org_type: Organización civil sin fines de lucro (ONG)
 website: https://socialtic.org/
 year_founded: 2012

@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: cnpi-centro-nacional-de-informatica
-title: 'Cnpi - Centro Nacional De Informatica'
+title: |
+  Cnpi - Centro Nacional De Informatica
 legal_name: 
-description: ''
+description: |
+  
 org_type: Empresa privada (no incluye startup)
 website: www.cnpi.org.br
 year_founded: 1995

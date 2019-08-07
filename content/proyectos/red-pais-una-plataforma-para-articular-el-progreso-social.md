@@ -2,8 +2,10 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: red-pais-una-plataforma-para-articular-el-progreso-social
-title: 'Red País. Una Plataforma Para Articular El Progreso Social.'
-description: ''
+title: |
+  Red País. Una Plataforma Para Articular El Progreso Social.
+description: |
+  
 type: 
 website: 
 date_ini: 

@@ -2,8 +2,10 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: red-social-anti-corrupcion-con-accion-juridica-aplicapp
-title: 'Red Social Anti-Corrupción Con Acción Jurídica (Aplicapp)'
-description: ''
+title: |
+  Red Social Anti-Corrupción Con Acción Jurídica (Aplicapp)
+description: |
+  
 type: 
 website: 
 date_ini: 

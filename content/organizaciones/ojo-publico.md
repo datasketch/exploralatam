@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-24
 uid: ojo-publico
-title: 'Ojopúblico'
+title: |
+  Ojopúblico
 legal_name: Ojopúblico - Asociación De Periodismo De Investigación Ojo Público
-description: 'Es un medio digital de periodismo de investigación que busca ofrecer nuevas narrativas sobre historias relevantes, noticias coyunturales y herramientas de información innovadoras.'
+description: |
+  Es un medio digital de periodismo de investigación que busca ofrecer nuevas narrativas sobre historias relevantes, noticias coyunturales y herramientas de información innovadoras.
 org_type: Organización civil sin fines de lucro (ONG)
 website: https://ojo-publico.com/
 year_founded: 2014

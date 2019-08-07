@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: secretaria-de-planificacion-desarrollo-y-modernizacion-de-la-municipalidad-de-san-salvador-de-jujuy
-title: 'Secretaria De Planificacion, Desarrollo Y Modernizacion De La Municipalidad De San Salvador De Jujuy'
+title: |
+  Secretaria De Planificacion, Desarrollo Y Modernizacion De La Municipalidad De San Salvador De Jujuy
 legal_name: 
-description: ''
+description: |
+  
 org_type: Gobierno
 website: http://sansalvadordejujuy.gob.ar/
 year_founded: 2014

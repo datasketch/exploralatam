@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: exxact-negocios-digitales-spa
-title: 'Exxact Negocios Digitales Spa'
+title: |
+  Exxact Negocios Digitales Spa
 legal_name: 
-description: ''
+description: |
+  
 org_type: Empresa privada (no incluye startup)
 website: http://www.exxact.biz/
 year_founded: 2014

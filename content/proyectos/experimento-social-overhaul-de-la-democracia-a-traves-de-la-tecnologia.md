@@ -2,8 +2,10 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: experimento-social-overhaul-de-la-democracia-a-traves-de-la-tecnologia
-title: 'Experimento Social: Overhaul De La Democracia A Través De La Tecnología'
-description: ''
+title: |
+  Experimento Social: Overhaul De La Democracia A Través De La Tecnología
+description: |
+  
 type: 
 website: 
 date_ini: 

@@ -2,8 +2,10 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: innovacion-y-apertura-en-las-politicas-publicas-innovapp
-title: 'Innovación Y Apertura En Las Políticas Públicas (Innovapp)'
-description: ''
+title: |
+  Innovación Y Apertura En Las Políticas Públicas (Innovapp)
+description: |
+  
 type: 
 website: 
 date_ini: 

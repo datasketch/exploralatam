@@ -2,8 +2,10 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: genus-plataforma-de-comunicacion-academica-plus
-title: 'Genus++: Plataforma De Comunicación Académica Plus'
-description: ''
+title: |
+  Genus++: Plataforma De Comunicación Académica Plus
+description: |
+  
 type: 
 website: 
 date_ini: 

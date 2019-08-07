@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: innpactia-s-a-s
-title: 'Innpactia S.A.S.'
+title: |
+  Innpactia S.A.S.
 legal_name: 
-description: ''
+description: |
+  
 org_type: Empresa privada (startup)
 website: www.innpactia.com
 year_founded: 2015

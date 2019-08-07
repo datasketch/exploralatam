@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: observatorio-mexicano-de-la-crisis
-title: 'Observatorio Mexicano De La Crisis'
+title: |
+  Observatorio Mexicano De La Crisis
 legal_name: 
-description: ''
+description: |
+  
 org_type: Organización civil sin fines de lucro (ONG)
 website: www.omec.mx
 year_founded: 2009

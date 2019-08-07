@@ -2,8 +2,10 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: innovacion-civica-plataforma-tecnologica-de-gestion-de-servicios-publicos-para-el-gobierno-local
-title: 'Innovación Cívica: Plataforma Tecnológica De Gestión De Servicios Públicos Para El Gobierno Local'
-description: ''
+title: |
+  Innovación Cívica: Plataforma Tecnológica De Gestión De Servicios Públicos Para El Gobierno Local
+description: |
+  
 type: 
 website: 
 date_ini: 

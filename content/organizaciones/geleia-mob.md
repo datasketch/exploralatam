@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: geleia-mob
-title: 'Geleia .Mob'
+title: |
+  Geleia .Mob
 legal_name: 
-description: ''
+description: |
+  
 org_type: Empresa privada (startup)
 website: apps.geleiamob.com
 year_founded: 2013

@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: krieger-electronics-de-mexico-sa-de-cv
-title: 'Krieger Electronics De Mexico Sa De Cv'
+title: |
+  Krieger Electronics De Mexico Sa De Cv
 legal_name: 
-description: ''
+description: |
+  
 org_type: Empresa privada (no incluye startup)
 website: krieger.mx
 year_founded: 2012

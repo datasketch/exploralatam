@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: cityflag-sapi-de-cv
-title: 'Cityflag Sapi De Cv'
+title: |
+  Cityflag Sapi De Cv
 legal_name: 
-description: ''
+description: |
+  
 org_type: Empresa privada (startup)
 website: www.cityflag.co
 year_founded: 2015

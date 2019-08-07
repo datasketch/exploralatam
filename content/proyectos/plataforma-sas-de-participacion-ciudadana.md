@@ -2,8 +2,10 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: plataforma-sas-de-participacion-ciudadana
-title: 'Plataforma Sas De Participación Ciudadana'
-description: ''
+title: |
+  Plataforma Sas De Participación Ciudadana
+description: |
+  
 type: 
 website: 
 date_ini: 

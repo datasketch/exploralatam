@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-29
 uid: project-on-organizing-development-education-and-research-poder
-title: 'Project on Organizing, Development, Education, and Research (PODER)'
+title: |
+  Project on Organizing, Development, Education, and Research (PODER)
 legal_name: 
-description: ''
+description: |
+  
 org_type: 
 website: projectpoder.org
 year_founded: 2010

@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-29
 uid: prince-consulting-kmt-business-education-sa
-title: 'Prince Consulting (Kmt Business Education Sa)'
+title: |
+  Prince Consulting (Kmt Business Education Sa)
 legal_name: 
-description: ''
+description: |
+  
 org_type: Empresa privada (no incluye startup)
 website: www.princeconsulting.biz
 year_founded: 1999

@@ -2,9 +2,11 @@
 date: 2019-07-21T23:14:06.000Z
 date_last_modified: 2019-07-21
 uid: asociacion-nacional-de-directores-de-bibliotecas-redes-y-servicios-de-informacion-del-sector-academico-universitario-y-de-investigacion-anabisai
-title: 'Asociación Nacional De Directores De Bibliotecas, Redes Y Servicios De Información Del Sector Académico, Universitario Y De Investigación (Anabisai)'
+title: |
+  Asociación Nacional De Directores De Bibliotecas, Redes Y Servicios De Información Del Sector Académico, Universitario Y De Investigación (Anabisai)
 legal_name: 
-description: ''
+description: |
+  
 org_type: Organización civil sin fines de lucro (ONG)
 website: anabisai.org.ve
 year_founded: 1995

@@ -2,8 +2,10 @@
 date: 2019-07-21T23:02:24.000Z
 date_last_modified: 2019-07-21
 uid: inteligencia-artificial-contra-la-corrupcion
-title: 'Inteligencia Artificial Contra La Corrupción'
-description: ''
+title: |
+  Inteligencia Artificial Contra La Corrupción
+description: |
+  
 type: 
 website: 
 date_ini: 
