@@ -113,13 +113,13 @@ function createOrgCard(organization) {
               class: 'block text-right text-xs'
             },
             children: [
-              String(organization.projects.length),
+              organization.projects ? String(organization.projects.length) : '0',
               ' ',
               DOMUtils.createElement('span', {
                 attrs: {
                   class: 'text-gray-700'
                 },
-                children: [organization.projects.length === 1 ? 'proyecto' : 'proyectos']
+                children: [organization.projects ? (organization.projects.length === 1 ? 'proyecto' : 'proyectos') : 'proyectos']
               })
             ]
           })
