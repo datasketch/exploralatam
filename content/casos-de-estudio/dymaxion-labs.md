@@ -1,6 +1,8 @@
 ---
 title: "Dymaxion Labs"
 date: 2019-07-29T17:35:52-05:00
+images:
+  - "images/case_studies/dymaxion.png"
 ---
 
 > “No creamos productos solo para gobiernos”, Federico Baylé

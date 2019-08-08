@@ -8,7 +8,8 @@
           {{ range .Params.partners }}
             <div class="mb-8 border-b border-gray-200 pt-4 pb-8">
               <h2 class="uppercase font-bold text-xl mb-4">{{ replace .name "_" " " }}</h2>
-              <p class="mb-2">{{ .summary }}</p>
+              <style>.partner-summary a { text-decoration: underline }</style>
+              <p class="partner-summary mb-2">{{ .summary | markdownify }}</p>
               <a href="{{ .website }}" rel="noopener noreferrer" target="_blank" class="inline-block font-bold inline-flex items-center justify-start">
                 <span class="mr-2">{{ replaceRE "^https?://([^/]+).*" "$1" .website }}</span>
                 <i class="icon ion-ios-arrow-round-forward text-lg"></i>

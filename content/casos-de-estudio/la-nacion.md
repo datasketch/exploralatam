@@ -1,6 +1,8 @@
 ---
 title: "La Nacion"
 date: 2019-07-29T15:29:57-05:00
+images:
+  - "images/case_studies/la_nacion_data.jpeg"
 ---
 
 [LA NACIÓN Data](https://www.lanacion.com.ar/data) surgió a fines de octubre de 2010 como el equipo de periodismo de datos del diario [LA NACION](https://www.lanacion.com.ar/). En aquel entonces Argentina no contaba con una ley nacional de acceso a la información pública ni portales de datos abiertos gubernamentales que permitieran contar historias periodísticas desde otra óptica. En este contexto, la sección se propuso trabajar sobre dos ejes centrales: desarrollar y promover el periodismo de datos en el interior de la Redacción y activar la demanda de datos e información pública.

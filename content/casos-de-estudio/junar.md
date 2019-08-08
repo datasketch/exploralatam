@@ -3,6 +3,8 @@ title: "Junar"
 date: 2019-07-29T16:06:51-05:00
 quote: "Junar se posiciona como la plataforma para apertura de datos y gestión de APIs líder en Latinoamérica."
 summary: "Junar es una empresa latinoamericana que ofrece a gobiernos una plataforma en la nube para apertura de datos y gestión de APIs."
+images:
+  - "images/case_studies/junar.png"
 ---
 
 > "Junar se posiciona como la plataforma para apertura de datos y gestión de APIs líder en Latinoamérica."
