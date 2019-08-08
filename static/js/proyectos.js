@@ -2,17 +2,17 @@ window.addEventListener('DOMContentLoaded', function () {
   const app = new Vue({
     name: 'App',
     el: '#app',
-    mounted: function() {
+    mounted: function () {
       const self = this
       const input = document.getElementById('data')
       this.data = JSON.parse(input.value)
       this.data = this.data.filter(function (item) {
         return item.name
       })
-      .map(function (item) {
-        item.capital = self.getCapitalLetter(item.name)
-        return item
-      })
+        .map(function (item) {
+          item.capital = self.getCapitalLetter(item.name)
+          return item
+        })
       input.remove()
       this.$el.removeAttribute('hidden')
     },
@@ -23,7 +23,7 @@ window.addEventListener('DOMContentLoaded', function () {
       tag: ''
     },
     computed: {
-      filteredData: function() {
+      filteredData: function () {
         if (!(this.letter || this.query || this.tag)) {
           return this.data
         }
@@ -53,7 +53,7 @@ window.addEventListener('DOMContentLoaded', function () {
         }
         return data
       },
-      alphabet: function() {
+      alphabet: function () {
         return Array.from(new Set(this.data.map(function (item) {
           return item.capital
         }))).sort()

@@ -67,16 +67,16 @@ function readData() {
     organizationsResult.innerHTML = ''
     projectsShowcase.classList.add('hidden')
     organizationsShowcase.classList.add('hidden')
-    
+
     // search pipeline
     const search = event.target.value.toLowerCase()
     if (search) {
       matches.projects = projects.filter(function (project) {
         return project.name.toLowerCase().includes(search)
       }),
-      matches.organizations = organizations.filter(function (organization) {
-        return organization.name.toLowerCase().includes(search)
-      })
+        matches.organizations = organizations.filter(function (organization) {
+          return organization.name.toLowerCase().includes(search)
+        })
     }
     // render projects results
     if (matches.projects.length) {
@@ -97,7 +97,7 @@ function readData() {
   })
 }
 
-function renderLiElement (item, type) {
+function renderLiElement(item, type) {
   const li = DOMUtils.createElement('li', {
     attrs: {
       class: 'mb-4'
@@ -114,10 +114,10 @@ function renderLiElement (item, type) {
   return DOMUtils.render(li)
 }
 
-function renderProjectLi (item) {
+function renderProjectLi(item) {
   return renderLiElement(item, 'proyectos')
 }
 
-function renderOrganizationLi (item) {
+function renderOrganizationLi(item) {
   return renderLiElement(item, 'organizaciones')
 }
