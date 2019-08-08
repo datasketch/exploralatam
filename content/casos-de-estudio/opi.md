@@ -3,6 +3,8 @@ title: "Opi"
 date: 2019-07-29T14:56:05-05:00
 quote: "Lo que buscamos que nos distinga es lo que consideramos la cadena de valor de uso de datos: los datos en sí no sirven de mucho."
 summary: "OPI es una empresa mexicana que crea información accionable a partir de datos. Provee este servicio a organismos de los sectores público y privado a través de implementaciones de sus dos productos, Arquímedes (software de análisis y consulta de datos) y Enrichment (API para sistemas de empresas), y a través de la creación de algoritmos a la medida. Son una plataforma que concentra, analiza y genera modelos predictivos y clasificaciones de más de diez mil variables de tendencias sociales y económicas. Ha recibido inversiones de Mountain Nazca."
+images:
+  - "images/case_studies/opi.jpeg"
 ---
 
 > "Lo que buscamos que nos distinga es lo que consideramos la cadena de valor de uso de datos: los datos en sí no sirven de mucho."

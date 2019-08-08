@@ -2,6 +2,8 @@
 title: "Imco"
 date: 2019-07-29T16:42:51-05:00
 summary: "El Instituto Mexicano para la Competitividad (IMCO), fundado en 2003, es un centro de investigación sin fines de lucro y sin filiación partidista que busca incidir en las políticas públicas de México a través del análisis de evidencia. En 2013 el IMCO estableció como prioridad institucional la apertura de datos para uso ciudadano."
+images:
+  - "images/case_studies/imco.png"
 ---
 
 > “El uso de datos ha permeado nuestro ADN institucional. La construcción de capacidad organizacional que hemos visto nos da elementos para reaccionar a muchas de las propuestas de política pública que está haciendo el nuevo gobierno”

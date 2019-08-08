@@ -1,6 +1,8 @@
 ---
 title: "Datauy"
 date: 2019-07-29T17:52:45-05:00
+images:
+  - "images/case_studies/data_uy.jpg"
 ---
 
 > “Trabajamos en proyectos que nos gustan y nos importan” Daniel Carranza

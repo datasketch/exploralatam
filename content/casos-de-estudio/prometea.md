@@ -1,6 +1,8 @@
 ---
 title: "Prometea"
 date: 2019-07-29T14:21:28-05:00
+images:
+  - "images/case_studies/prometea.png"
 ---
 
 Prometea surgió en 2017 como una herramienta de inteligencia artificial (IA) predictiva para elaborar dictámenes judiciales de manera rápida, acelerando los procesos de resolución de casos los casos (Corvalán, 2017) en la Ciudad de Buenos Aires. La idea del proyecto estuvo estrechamente relacionada a disminuir un conjunto de tareas reiteradas y rutinarias en casos judiciales similares entre sí. El desarrollo se realizó íntegramente en el ámbito de la Fiscalía General del [Ministerio Público Fiscal de la Ciudad de Buenos Aires](https://www.fiscalias.gob.ar/), donde actualmente funciona. A poco de su creación, la institución ya firmó convenios para su aplicación en otros ámbitos, tales como la [Asociación de Mujeres Jueces de la República Argentina (AMJA)](https://www.fiscalias.gob.ar/project/la-fiscalia-firmo-convenio-con-la-asociacion-de-mujeres-jueces-de-la-republica-argentina/) y la Corte Interamericana de Derechos Humanos.

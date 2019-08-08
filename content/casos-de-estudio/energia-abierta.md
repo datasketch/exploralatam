@@ -2,6 +2,8 @@
 title: "Energia Abierta"
 date: 2019-07-29T17:01:46-05:00
 summary: "Energía Abierta es un proyecto de la Comisión Nacional de Energía que consolida, unifica y publica datos abiertos del sector energético en Chile. Ha logrado reducir en 75% los costos de procesos licitatorios, en 30% la cantidad de solicitudes de acceso a la información de la Comisión, y ha creado proyectos derivados como Bencina en línea y Calefacción en línea, que han logrado reducir los gastos de los usuarios entre ocho y diez mil pesos mensuales."
+images:
+  - "images/case_studies/energia_abierta.png"
 ---
 
 > “El objetivo es que Energía Abierta sea un estándar, dentro del sector público y privado, del uso de datos abiertos con un valor de co-creación.”

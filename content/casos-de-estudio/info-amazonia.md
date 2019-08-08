@@ -2,6 +2,8 @@
 title: "Info Amazonia"
 date: 2019-07-29T16:24:58-05:00
 summary: "InfoAmazonia surgió en 2012 como el proyecto principal de Environmental News Lab, un laboratorio de O Eco, el portal de periodismo ambiental más grande de Brasil, para trabajar en proyectos de investigación socioambiental que combinen el periodismo y la innovación tecnológica. En 2015, InfoAmazonia se convirtió en una plataforma independiente y, hasta la fecha, ha publicado 18 proyectos y ganado el premio Online Journalism Awards 2018."
+images:
+  - "images/case_studies/infoamazonia.png"
 ---
 
 > "Lo que estamos haciendo no es seguir construyendo plataformas que puedan ser utilizadas periodísticamente, sino construir productos periodísticos que puedan ser usados como plataformas"

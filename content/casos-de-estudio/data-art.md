@@ -2,6 +2,8 @@
 title: "Data Art"
 date: 2019-07-29T19:03:57-05:00
 summary: DATA ART es un esfuerzo de colaboración entre periodistas de datos y artistas para crear piezas que comuniquen investigaciones relevantes para la realidad de violencia, desapariciones y desigualdad en América Latina. Inspirada en una pieza de Daniel Villatoro, DATA ART surgió como un proceso de creación de piezas para una primera exhibición en el Foro Centroamericano de Periodismo en 2017; desde entonces ha producido piezas en Honduras y Brasil, y se ha exhibido también en Costa Rica y Argentina.
+images:
+  - "images/case_studies/data_art.png"
 ---
 
 > “Ése es el objetivo: que públicos que no quieren ver se impacten con una historia, se informen, y de alguna forma reaccionen ante esa realidad no quieren ver.”

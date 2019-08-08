@@ -12,6 +12,4 @@ Para ello, quienes avanzamos este trabajo pensamos que para maximizar el impacto
 
 Hoy contamos con algunos intentos de sistematización de iniciativas, tales como un mapa de adhesión voluntaria recopilado durante las ediciones de Abrelatam/Condatos, así como también las investigaciones parciales llevadas adelante por los colegas de Distintas Latitudes. Por otro lado, han emergido casos percibidos como exitosos en el uso de la tecnología cívica en países como Uruguay, Paraguay, Argentina. Nuestro objetivo es construir sobre estos pasos iniciales, para sistematizar proyectos y organizaciones que muestren la propuesta de valor de la tecnología cívica y los datos abiertos. Hoy existen pocos intentos de sistematizar estas iniciativas a nivel comparado, aun cuando el ecosistema ha adquirido cierto grado de madurez. Ahí vemos otro valor agregado en nuestro trabajo, ya que puede contribuir a la base de conocimiento de otras regiones.
 
-In this context, in conjunction with the IDB and the Avina Foundation (together with Omidyar Network make up ALTEC
-
-Te invitamos a explorar el mapa, leer los casos de estudio así como buscar organización y/o proyectos!
+En este contexto, con el apoyo del BID y Fundación Avina (que junto a Luminate formal ALTEC) te invitamos a explorar el mapa, leer los casos de estudio así como buscar organización y/o proyectos.

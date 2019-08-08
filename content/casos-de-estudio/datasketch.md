@@ -4,6 +4,8 @@ date: 2019-07-29T14:41:31-05:00
 summary: "Compañía colombiana de servicios basados en datos, así como una plataforma digital de
 periodismo de investigación y datos."
 quote: "Lo más valioso fue mostrar que sí se puede hacer periodismo colaborativo. Las nuevas tendencias de trabajar con datos abiertos dan frutos para otras organizaciones más tradicionales"
+images:
+  - "images/case_studies/datasketch.jpeg"
 ---
 
 > "Lo más valioso fue mostrar que sí se puede hacer periodismo colaborativo. Las nuevas tendencias de trabajar con datos abiertos dan frutos para otras organizaciones más tradicionales"

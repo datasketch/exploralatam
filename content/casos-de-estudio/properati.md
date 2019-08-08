@@ -2,6 +2,8 @@
 title: "Properati"
 date: 2019-07-29T14:07:45-05:00
 quote: "\"Queremos mantener el espíritu de startup\" Martín Sarsale"
+images:
+  - "images/case_studies/properati.png"
 ---
 
 > "Queremos mantener el espíritu de startup" Martín Sarsale

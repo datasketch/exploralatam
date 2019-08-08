@@ -1,6 +1,8 @@
 ---
 title: "Ojo Publico"
 date: 2019-07-29T15:01:42-05:00
+images:
+  - "images/case_studies/ojo_publico.jpg"
 ---
 
 [OjoPúblico](https://ojo-publico.com/) nació en septiembre de 2014 en Perú como un medio de comunicación enteramente digital sin fines de lucro. Bajo el lema “Las historias que otros no te quieren contar”, en su dinámica de trabajo combina herramientas de periodismo de investigación tradicional con nuevas narrativas digitales. Todo con el objetivo de contar “historias relevantes, noticias verdaderas, textos bien escritos y herramientas informativas innovadoras sobre temas urgentes de la agenda pública nacional” (Ojo Público, s.f.).
