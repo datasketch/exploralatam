@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - São Paulo
+projects_uids:
+  - politica-sporte-club
 
 ---
 

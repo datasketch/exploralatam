@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Bogotá
+projects_uids:
+  - gerico-gestion-de-riesgo-de-colombia
 
 ---
 

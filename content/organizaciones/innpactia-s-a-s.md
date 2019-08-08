@@ -18,6 +18,8 @@ tags:
   - otro
 cities: 
   - Bogotá
+projects_uids:
+  - innpactia-acercando-recursos-a-las-causas
 
 ---
 

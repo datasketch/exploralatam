@@ -20,6 +20,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Lima
+projects_uids:
+  - observatorio-ciudadano-de-ecosistemas-urbanos
 
 ---
 

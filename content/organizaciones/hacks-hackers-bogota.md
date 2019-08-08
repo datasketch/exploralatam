@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Bogotá
+projects_uids:
+  - hack-hakers-bogota
 
 ---
 

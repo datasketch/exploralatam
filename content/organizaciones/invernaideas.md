@@ -19,6 +19,9 @@ tags:
 cities: 
   - Puebla
   - Ciudad de México
+projects_uids:
+  - cazavampiros
+  - belisar-io
 
 ---
 

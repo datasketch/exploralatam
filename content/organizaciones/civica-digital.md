@@ -19,6 +19,11 @@ cities:
   - Guadalajara
   - Monterrey
   - Ciudad de México
+projects_uids:
+  - 3-de-3
+  - plataforma-para-participacion-ciudadana-de-vecinos
+  - urbem-urbem-digital
+  - contratados-org
 
 ---
 

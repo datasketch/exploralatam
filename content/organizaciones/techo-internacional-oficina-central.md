@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Santiago
+projects_uids:
+  - relevamiento-de-asentamientos-informales-en-centro-america
 
 ---
 

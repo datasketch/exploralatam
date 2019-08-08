@@ -17,6 +17,8 @@ tags:
   - otro
 cities: 
   - Montevideo
+projects_uids:
+  - bgood-smart-philanthropy
 
 ---
 

@@ -19,6 +19,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Monterrey
+projects_uids:
+  - identidad-digital-a-traves-de-blockchain-para-la-reduccion-de-falsificacion-y-corrupcion
 
 ---
 

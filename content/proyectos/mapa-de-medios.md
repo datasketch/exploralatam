@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Bogotá
+organizations_uids:
+  - mapa-de-medios
 ---
 
 Esta iniciativa fue realizada por:

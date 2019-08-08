@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Bogotá
+projects_uids:
+  - benchmark-empresas-y-paz
 
 ---
 

@@ -17,6 +17,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - plan-b-para-el-desarrollo-ac
+  - sociedad-en-movimiento-ac
 ---
 
 Esta iniciativa fue realizada por:

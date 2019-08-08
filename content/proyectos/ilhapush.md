@@ -14,6 +14,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Maceió
+organizations_uids:
+  - ilhasoft
 ---
 
 Esta iniciativa fue realizada por:

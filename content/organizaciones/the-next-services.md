@@ -17,6 +17,8 @@ tags:
   - otro
 cities: 
   - San Salvador
+projects_uids:
+  - mi-historial-medico
 
 ---
 

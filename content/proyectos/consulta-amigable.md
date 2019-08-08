@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Lima
+organizations_uids:
+  - ministerio-de-economia-de-peru
 ---
 
 Esta iniciativa fue realizada por:

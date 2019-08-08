@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Buenos Aires
+organizations_uids:
+  - fundacion-huesped
 ---
 
 Esta iniciativa fue realizada por:

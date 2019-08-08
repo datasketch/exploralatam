@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Lima
+organizations_uids:
+  - coordinadora-nacional-de-derechos-humanos
 ---
 
 Esta iniciativa fue realizada por:

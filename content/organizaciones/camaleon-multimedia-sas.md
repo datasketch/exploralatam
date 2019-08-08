@@ -19,6 +19,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Bogotá
+projects_uids:
+  - tapamihueco
 
 ---
 

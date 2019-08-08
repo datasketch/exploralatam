@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Florianópolis
+organizations_uids:
+  - voter-desenvolvimento-de-software-ltda
 ---
 
 Esta iniciativa fue realizada por:

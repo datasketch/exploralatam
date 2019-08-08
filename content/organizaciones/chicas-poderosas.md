@@ -17,6 +17,9 @@ tags:
 cities: 
   - Santiago
   - Mundo
+projects_uids:
+  - sin-nombre
+  - chicas-poderosas-chile
 
 ---
 

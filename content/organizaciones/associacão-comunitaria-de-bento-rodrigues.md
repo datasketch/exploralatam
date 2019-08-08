@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Belo Horizonte
+projects_uids:
+  - rio-doce-ativo
 
 ---
 

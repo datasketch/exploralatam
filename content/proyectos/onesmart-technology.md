@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Monterrey
+organizations_uids:
+  - onesmart-technology-sa-de-cv
 ---
 
 Esta iniciativa fue realizada por:

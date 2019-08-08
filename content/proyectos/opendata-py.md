@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Asunción
+organizations_uids:
+  - opendata-py
 ---
 
 Esta iniciativa fue realizada por:

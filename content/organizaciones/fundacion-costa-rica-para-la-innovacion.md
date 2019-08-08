@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - San José
+projects_uids:
+  - programa-makernel-el-primer-makerspace-portatil-100-tico
 
 ---
 

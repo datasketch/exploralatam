@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Puebla
+projects_uids:
+  - red-ciudadana-de-monitoreo-de-la-calidad-del-aire
 
 ---
 

@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Guatemala
+organizations_uids:
+  - asociacion-civil-ernesto-shneider-troller
 ---
 
 Esta iniciativa fue realizada por:

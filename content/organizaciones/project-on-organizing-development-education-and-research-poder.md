@@ -16,6 +16,9 @@ tags:
 
 cities: 
   - Ciudad de México
+projects_uids:
+  - herramientas-para-el-uso-del-open-contracting-data-standard-y-combatirla-captura-del-estado-desde-sociedad-civil
+  - creacion-de-chileleaks-centroamericaleaks-y-latamleaks-coordinadora-regional-de-las-plataformas-de-whistleblowing
 
 ---
 

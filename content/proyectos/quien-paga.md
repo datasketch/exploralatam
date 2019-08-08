@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Montevideo
+organizations_uids:
+  - independiente
 ---
 
 Esta iniciativa fue realizada por:

@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Córdoba
+organizations_uids:
+  - asociacion-civil-para-la-construccion-de-un-gobierno-abierto
 ---
 
 Esta iniciativa fue realizada por:

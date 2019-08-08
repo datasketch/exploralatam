@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Brasilia
+projects_uids:
+  - ozzymandhas-jornalismo-colaborativo
 
 ---
 

@@ -19,6 +19,8 @@ tags:
   - otro
 cities: 
   - Livramento de Nossa Senhora
+projects_uids:
+  - incentivo-a-cultura-digital
 
 ---
 

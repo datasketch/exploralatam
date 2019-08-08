@@ -15,6 +15,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Puebla
+organizations_uids:
+  - gobierno-facil
 ---
 
 Esta iniciativa fue realizada por:

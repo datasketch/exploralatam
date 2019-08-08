@@ -15,6 +15,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Yopal
+organizations_uids:
+  - municipio-de-yopal
 ---
 
 Esta iniciativa fue realizada por:

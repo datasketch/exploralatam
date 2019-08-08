@@ -18,6 +18,9 @@ tags:
 cities: 
   - Monterrey
   - Ciudad de México
+organizations_uids:
+  - krieger-electronics-de-mexico-sa-de-cv
+  - consejeria-juridica-y-de-servicios-legales-de-la-cdmx
 ---
 
 Esta iniciativa fue realizada por:

@@ -15,6 +15,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Buenos Aires
+organizations_uids:
+  - comunidad-huerta
 ---
 
 Esta iniciativa fue realizada por:

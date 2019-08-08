@@ -16,6 +16,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Monterrey
+organizations_uids:
+  - 13-media-sc
 ---
 
 Esta iniciativa fue realizada por:

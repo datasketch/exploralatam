@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Cochabamba
+projects_uids:
+  - red-libre-de-villa-coronilla-en-cochabamba-barriohacker-net
 
 ---
 

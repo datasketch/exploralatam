@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Santiago
+organizations_uids:
+  - artnumerica
 ---
 
 Esta iniciativa fue realizada por:

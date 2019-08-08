@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - laboratorio-de-medios
 ---
 
 Esta iniciativa fue realizada por:

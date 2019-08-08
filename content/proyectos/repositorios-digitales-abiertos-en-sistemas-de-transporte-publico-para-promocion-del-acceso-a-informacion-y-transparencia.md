@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Lima
+organizations_uids:
+  - pontificia-universidad-catolica-del-peru
 ---
 
 Esta iniciativa fue realizada por:

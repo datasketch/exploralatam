@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Belo Horizonte
+organizations_uids:
+  - centro-universitario-de-belo-horizonte
 ---
 
 Esta iniciativa fue realizada por:

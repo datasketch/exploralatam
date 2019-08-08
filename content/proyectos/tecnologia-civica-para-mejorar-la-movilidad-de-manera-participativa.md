@@ -17,6 +17,8 @@ tags:
 cities: 
   - Guadalajara
   - Ciudad de México
+organizations_uids:
+  - world-resources-institute-mexico
 ---
 
 Esta iniciativa fue realizada por:

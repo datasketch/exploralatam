@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Recife
+projects_uids:
+  - social-games-energia-eolica-energia-limpia-para-quien
 
 ---
 

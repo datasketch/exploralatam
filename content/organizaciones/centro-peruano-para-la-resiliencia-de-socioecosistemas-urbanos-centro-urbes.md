@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Lima
+projects_uids:
+  - observatorio-ciudadano-de-ecosistemas-urbanos
 
 ---
 

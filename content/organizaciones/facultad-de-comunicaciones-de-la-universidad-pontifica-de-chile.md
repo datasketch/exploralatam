@@ -16,6 +16,9 @@ tags:
 
 cities: 
   - Santiago
+projects_uids:
+  - sin-nombre
+  - dichoalhecho
 
 ---
 

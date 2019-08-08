@@ -17,6 +17,8 @@ tags:
   - otro
 cities: 
   - São Paulo
+projects_uids:
+  - red-digital-taturana-distribucion-de-peliculas-independientes-en-circuitos-sociales
 
 ---
 

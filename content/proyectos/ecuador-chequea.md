@@ -16,6 +16,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Quito
+organizations_uids:
+  - fundamedios
 ---
 
 Esta iniciativa fue realizada por:

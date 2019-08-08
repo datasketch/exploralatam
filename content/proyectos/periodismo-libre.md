@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Puebla
+organizations_uids:
+  - ladobe
 ---
 
 Esta iniciativa fue realizada por:

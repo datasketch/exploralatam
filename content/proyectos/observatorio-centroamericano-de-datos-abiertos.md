@@ -18,6 +18,9 @@ tags:
 cities: 
   - San Salvador
   - Panamá
+organizations_uids:
+  - instituto-panameno-de-derecho-y-nuevas-tecnologias
+  - datoselsalvador
 ---
 
 Esta iniciativa fue realizada por:

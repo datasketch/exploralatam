@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Santiago
+organizations_uids:
+  - asociacion-chilena-de-proteccion-de-la-familia-aprofa
 ---
 
 Esta iniciativa fue realizada por:

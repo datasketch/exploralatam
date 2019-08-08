@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - red-consejo-ciudadano-a-la-contraloria-a-c
 ---
 
 Esta iniciativa fue realizada por:

@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - corporacion-prodepaz
 ---
 
 Esta iniciativa fue realizada por:

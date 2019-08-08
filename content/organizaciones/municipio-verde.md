@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Santiago
+projects_uids:
+  - municipio-verde
 
 ---
 

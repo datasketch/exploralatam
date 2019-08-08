@@ -18,6 +18,8 @@ tags:
   - otro
 cities: 
   - Santiago
+projects_uids:
+  - socialab-pia-plataforma-de-innovacion-abierta
 
 ---
 

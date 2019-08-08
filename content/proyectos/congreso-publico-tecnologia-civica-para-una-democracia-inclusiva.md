@@ -18,6 +18,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Santiago
+organizations_uids:
+  - congreso-publico
+  - exxact-negocios-digitales-spa
 ---
 
 Esta iniciativa fue realizada por:

@@ -16,6 +16,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - gobierno-facil
 ---
 
 Esta iniciativa fue realizada por:

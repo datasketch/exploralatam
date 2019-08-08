@@ -22,6 +22,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Medellín
+projects_uids:
+  - thot-group
 
 ---
 

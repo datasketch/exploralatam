@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - lojasoft-solutions
 ---
 
 Esta iniciativa fue realizada por:

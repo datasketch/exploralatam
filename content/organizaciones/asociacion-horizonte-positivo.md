@@ -18,6 +18,8 @@ tags:
   - otro
 cities: 
   - San José
+projects_uids:
+  - combate-a-la-pobreza-multidimensional-mediante-alianzas-publico-privadas
 
 ---
 

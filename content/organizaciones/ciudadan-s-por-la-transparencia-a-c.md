@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Guadalajara
+projects_uids:
+  - contratobook-plataforma-de-auditoria-ciudadana
 
 ---
 

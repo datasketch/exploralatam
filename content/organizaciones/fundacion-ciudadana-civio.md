@@ -20,6 +20,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Lima
+projects_uids:
+  - vihsion-ciudadana-tecnologia-periodismo-y-experiencia-en-el-sector-para-monitorear-analizar-y-comparar-politicas-publicas-en-vih-en-latinoamerica
+  - vihsion-ciudadana-tecnologia-periodismo-y-experiencia-en-el-sector-para-monitorear-analizar-y-comparar-politicas-publicas-en-vih-en-latinoamerica
 
 ---
 

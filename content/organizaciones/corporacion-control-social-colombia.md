@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Medellín
+projects_uids:
+  - monitor-ciudadano
 
 ---
 

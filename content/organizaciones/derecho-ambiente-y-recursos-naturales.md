@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Arequipa
+projects_uids:
+  - promoviendo-la-transparencia-y-la-participacion-ambiental-en-el-sector-extractivo
 
 ---
 

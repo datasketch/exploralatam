@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - San José
+organizations_uids:
+  - sociedad-civil-abriendo-datos-costa-rica
 ---
 
 Esta iniciativa fue realizada por:

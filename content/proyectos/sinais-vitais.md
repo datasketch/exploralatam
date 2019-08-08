@@ -18,6 +18,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Florianópolis
+organizations_uids:
+  - icom-instituto-comunitario-grande-florianopolis
+  - tekis-tecnologia-avancadas-ltda
 ---
 
 Esta iniciativa fue realizada por:

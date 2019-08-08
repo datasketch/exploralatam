@@ -19,6 +19,9 @@ tags:
   - participación-ciudadana
 cities: 
   - Asunción
+projects_uids:
+  - civic-backoffice-plataforma-de-gestion-semi-automatica-de-la-innovacion-publica-y-la-participacion-ciudadana
+  - aguapps-gestion-participativa-del-agua-para-el-chaco
 
 ---
 

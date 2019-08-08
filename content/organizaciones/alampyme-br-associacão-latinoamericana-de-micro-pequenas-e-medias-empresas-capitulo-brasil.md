@@ -20,6 +20,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - São Paulo
+projects_uids:
+  - plataforma-brasil-compra-cidadão-fiscaliza
 
 ---
 

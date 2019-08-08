@@ -18,6 +18,11 @@ tags:
 cities: 
   - Mariana
   - Belo Horizonte
+organizations_uids:
+  - gafit-solucões-em-automacão-ltda-me
+  - troca-gestão-social-para-a-sustentabilidade
+  - associacão-comunitaria-de-bento-rodrigues
+  - nachhaltigkeit-educacão-ltda
 ---
 
 Esta iniciativa fue realizada por:

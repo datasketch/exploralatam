@@ -17,6 +17,8 @@ tags:
   - transparencia-y-rendicion-de-cuentas
 cities: 
   - Belo Horizonte
+projects_uids:
+  - rio-doce-ativo
 
 ---
 

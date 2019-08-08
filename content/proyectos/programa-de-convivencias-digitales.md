@@ -17,6 +17,9 @@ tags:
 cities: 
   - Maputo
   - Bogotá
+organizations_uids:
+  - how-to-build-up
+  - policentrico
 ---
 
 Esta iniciativa fue realizada por:

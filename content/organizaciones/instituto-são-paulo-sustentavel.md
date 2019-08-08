@@ -21,6 +21,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Río de Janeiro
+projects_uids:
+  - mobilidade-urbana-aberta
+  - mobilidade-urbana-aberta
 
 ---
 

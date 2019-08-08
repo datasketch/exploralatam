@@ -18,6 +18,10 @@ cities:
   - Montevideo
   - Córdoba
   - Mundo
+projects_uids:
+  - analisis-de-portales-de-datos-abiertos-gubernamentales,analisis-de-portales-de-datos-abiertos-gubernamentales-segunda-carga-con-la-metodologia-en-la-anterior-aplicacion-no-la-llegamos-a-cargar
+  - quesabes-uy
+  - sin-nombre
 
 ---
 

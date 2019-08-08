@@ -17,6 +17,9 @@ tags:
   - participación-ciudadana
 cities: 
   - Lima
+projects_uids:
+  - ocupa-tu-calle
+  - red-peruana-por-ciudades-justas-democraticas-y-sustentables
 
 ---
 

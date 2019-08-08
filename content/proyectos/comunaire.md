@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Bogotá
+organizations_uids:
+  - fundacion-buena-nota
 ---
 
 Esta iniciativa fue realizada por:

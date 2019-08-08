@@ -19,6 +19,10 @@ tags:
 cities: 
   - Medellín
   - Bogotá
+projects_uids:
+  - appcesible
+  - planeadores-ciudadanos
+  - planeadores-ciudadanos
 
 ---
 

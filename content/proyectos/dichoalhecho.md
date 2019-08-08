@@ -14,6 +14,9 @@ tags:
 
 cities: 
   - Santiago
+organizations_uids:
+  - ciudadania-inteligente
+  - facultad-de-comunicaciones-de-la-universidad-pontifica-de-chile
 ---
 
 Esta iniciativa fue realizada por:

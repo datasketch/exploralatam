@@ -16,6 +16,9 @@ tags:
   - otro
 cities: 
   - São Paulo
+projects_uids:
+  - cuidados-de-saude-acessiveis
+  - rede-de-colaboracão-de-plantio-urbano-de-produtos-organicos
 
 ---
 

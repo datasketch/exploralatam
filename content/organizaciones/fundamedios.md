@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Quito
+projects_uids:
+  - ecuador-chequea
 
 ---
 

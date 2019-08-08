@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - La Ceiba
+organizations_uids:
+  - centro-de-promocion-en-salud-y-asistencia-familiar-ceprosaf
 ---
 
 Esta iniciativa fue realizada por:

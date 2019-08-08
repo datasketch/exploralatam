@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - bikedash
 ---
 
 Esta iniciativa fue realizada por:

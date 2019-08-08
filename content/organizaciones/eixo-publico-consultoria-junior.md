@@ -18,6 +18,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Limeira
+projects_uids:
+  - ligando-os-pontos
 
 ---
 

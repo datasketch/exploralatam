@@ -18,6 +18,8 @@ tags:
   - otro
 cities: 
   - Panamá
+projects_uids:
+  - ciudadano-presente
 
 ---
 

@@ -14,6 +14,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Montevideo
+organizations_uids:
+  - asociacion-latin
 ---
 
 Esta iniciativa fue realizada por:

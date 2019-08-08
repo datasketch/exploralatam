@@ -14,6 +14,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Bucaramanga
+organizations_uids:
+  - parapapapp-sas
 ---
 
 Esta iniciativa fue realizada por:

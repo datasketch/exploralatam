@@ -20,6 +20,8 @@ tags:
   - otro
 cities: 
   - Santiago
+projects_uids:
+  - pasameeldato-com-escuela-de-dateras-ciudadanas
 
 ---
 

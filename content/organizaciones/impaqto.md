@@ -18,6 +18,8 @@ tags:
   - otro
 cities: 
   - Quito
+projects_uids:
+  - mi-emprendimiento-abierto
 
 ---
 

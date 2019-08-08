@@ -16,6 +16,9 @@ tags:
   - transparencia-y-rendicion-de-cuentas
 cities: 
   - Ciudad de México
+projects_uids:
+  - observatorio-de-publicidad-oficial
+  - plataforma-de-rendicion-de-cuentas-de-servidores-publicos
 
 ---
 

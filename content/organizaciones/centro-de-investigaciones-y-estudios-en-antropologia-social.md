@@ -17,6 +17,8 @@ tags:
   - otro
 cities: 
   - Ciudad de México
+projects_uids:
+  - plataforma-pro-municipio
 
 ---
 

@@ -15,6 +15,9 @@ tags:
   - participación-ciudadana
 cities: 
   - Bogotá
+organizations_uids:
+  - fundacion-ideas-para-la-paz
+  - camara-de-comercio-de-bogota-ccb
 ---
 
 Esta iniciativa fue realizada por:

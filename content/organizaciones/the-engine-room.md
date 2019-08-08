@@ -22,6 +22,10 @@ cities:
   - Cambridge
   - MA
   - Miami
+projects_uids:
+  - os-conoces-mapeando-el-poder
+  - os-conoces-mapeando-el-poder
+  - iniciativa-pescando-datos
 
 ---
 

@@ -16,6 +16,11 @@ tags:
 cities: 
   - Puebla
   - Ciudad de México
+organizations_uids:
+  - war-contenidos
+  - hormiga-investigacion
+  - invernaideas
+  - rokode-digital
 ---
 
 Esta iniciativa fue realizada por:

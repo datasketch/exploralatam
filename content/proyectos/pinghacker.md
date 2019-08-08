@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - São Paulo
+organizations_uids:
+  - nucleo-digital-nucleo-digital
 ---
 
 Esta iniciativa fue realizada por:

@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Santiago
+organizations_uids:
+  - fundacion-democracia-y-desarrollo
 ---
 
 Esta iniciativa fue realizada por:

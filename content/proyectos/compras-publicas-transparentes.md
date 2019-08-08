@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Asunción
+organizations_uids:
+  - centro-de-desarrollo-sostenible
 ---
 
 Esta iniciativa fue realizada por:

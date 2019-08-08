@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Bogotá
+organizations_uids:
+  - hacks-hackers-bogota
 ---
 
 Esta iniciativa fue realizada por:

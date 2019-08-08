@@ -17,6 +17,8 @@ tags:
   - otro
 cities: 
   - Loja
+projects_uids:
+  - observatorio-de-femicidios-en-latinoamerica-basado-en-datos-abiertos-enlazados-y-web-semantica-lod4vida-linked-open-data-por-la-vida
 
 ---
 

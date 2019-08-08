@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - codeando-mexico
 ---
 
 Esta iniciativa fue realizada por:

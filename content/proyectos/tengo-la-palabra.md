@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Buenos Aires
+organizations_uids:
+  - atix-labs-srl
 ---
 
 Esta iniciativa fue realizada por:

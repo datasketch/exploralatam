@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Cartagena
+organizations_uids:
+  - zeus-tecnologica-s-a
 ---
 
 Esta iniciativa fue realizada por:

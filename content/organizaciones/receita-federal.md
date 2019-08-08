@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Santo Adre
+projects_uids:
+  - startup-rei
 
 ---
 

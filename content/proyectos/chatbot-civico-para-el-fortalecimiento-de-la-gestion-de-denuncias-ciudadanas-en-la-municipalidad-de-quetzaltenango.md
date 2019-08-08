@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Guatemala
+organizations_uids:
+  - asociacion-civil-guatecambia
 ---
 
 Esta iniciativa fue realizada por:

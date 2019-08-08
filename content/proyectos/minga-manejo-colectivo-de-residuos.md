@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Bogotá
+organizations_uids:
+  - manejo-inteligente-de-residuos-y-gestion-ambiental-minga
 ---
 
 Esta iniciativa fue realizada por:

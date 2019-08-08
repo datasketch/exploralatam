@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Managua
+projects_uids:
+  - observatorio-sobre-los-derechos-humanos-de-la-nii-ez-y-adolescencia-nicaragi-ense
 
 ---
 

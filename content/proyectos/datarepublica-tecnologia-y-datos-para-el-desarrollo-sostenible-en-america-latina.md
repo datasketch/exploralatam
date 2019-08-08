@@ -18,6 +18,9 @@ tags:
 cities: 
   - Buenos Aires
   - Bogotá
+organizations_uids:
+  - wingu
+  - centro-de-pensamiento-estrategico-internacional-cepei
 ---
 
 Esta iniciativa fue realizada por:

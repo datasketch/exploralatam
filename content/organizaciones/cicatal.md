@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - 
+projects_uids:
+  - proyecto-de-knowledge-sharing-cicatal
 
 ---
 

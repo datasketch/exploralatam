@@ -19,6 +19,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Santiago
+projects_uids:
+  - congreso-publico-tecnologia-civica-para-una-democracia-inclusiva
 
 ---
 

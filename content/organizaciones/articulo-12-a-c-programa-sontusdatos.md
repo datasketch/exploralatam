@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Puebla
+projects_uids:
+  - consolidacion-del-portal-para-informantes-de-denuncias-anonimas-filtraciones-digitales-en-mexico-y-su-escalamiento-a-colombia-costa-rica-y-uruguay
 
 ---
 

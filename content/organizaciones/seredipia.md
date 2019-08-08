@@ -16,6 +16,14 @@ tags:
 
 cities: 
 
+projects_uids:
+  - abc-las-estadisticas-seguridad-justicia-en-mexico
+  - sismos-mexico
+  - la-paradoja-de-las-estadisticas-criminales-la-cifra-gris-del-secuestro
+  - funcionarios-federales-reciben-60-dias-de-salario-como-aguinaldo
+  - la-mitad-los-gobernadores-reprueba-en-transparentar-sus-viajes
+  - las-empresas-de-seguridad-privada-han-influido-en-incremento-violencia-en-mexico
+  - elecciones-2018
 
 ---
 

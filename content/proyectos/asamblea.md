@@ -16,6 +16,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Bogotá
+organizations_uids:
+  - corporacion-somos-mas
+  - universidad-nacional-vivelab
 ---
 
 Esta iniciativa fue realizada por:

@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Buenos Aires
+organizations_uids:
+  - iniciativa
 ---
 
 Esta iniciativa fue realizada por:

@@ -17,6 +17,8 @@ tags:
   - otro
 cities: 
   - Rosario
+projects_uids:
+  - la-vidriera-del-emprendedor
 
 ---
 

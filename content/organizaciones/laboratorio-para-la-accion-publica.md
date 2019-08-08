@@ -21,6 +21,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Bogotá
+projects_uids:
+  - laboratorio-para-la-accion-publica-appta
 
 ---
 

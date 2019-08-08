@@ -17,6 +17,8 @@ tags:
 cities: 
   - La Paz
   - Cochabamba
+projects_uids:
+
 
 ---
 

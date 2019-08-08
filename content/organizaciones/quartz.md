@@ -16,6 +16,8 @@ tags:
 
 cities: 
 
+projects_uids:
+  - syphilis-is-on-the-rise-because-penicillin-isnt-profitable
 
 ---
 

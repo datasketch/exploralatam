@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - San José
+organizations_uids:
+  - ojo-al-voto
 ---
 
 Esta iniciativa fue realizada por:

@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - São Paulo
+organizations_uids:
+  - omnibus-hacker
 ---
 
 Esta iniciativa fue realizada por:

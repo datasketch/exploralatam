@@ -15,6 +15,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - documenta-analisis-y-accion-para-la-justicia-social-a-c
+  - visual-reporting-technologies
 ---
 
 Esta iniciativa fue realizada por:

@@ -19,6 +19,9 @@ tags:
 cities: 
   - Puebla
   - Madrid
+organizations_uids:
+  - fundacion-capital-los-empleados-mencionados-hacen-referencia-a-toda-la-organizacion-regional-que-esta-conformada-por-varias-sucursales-una-de-ellas-es-mexico-y-es-en-mexico-donde-estamos-proponiendo-realizar-mopa-por-el-momento
+  - ux
 ---
 
 Esta iniciativa fue realizada por:

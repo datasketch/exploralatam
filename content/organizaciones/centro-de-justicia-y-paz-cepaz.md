@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Caracas
+projects_uids:
+  - red-de-activistas-ciudadanos-por-los-derechos-humanos-activismo-digital
 
 ---
 

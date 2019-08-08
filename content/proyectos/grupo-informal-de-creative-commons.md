@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Managua
+organizations_uids:
+  - comunidades-de-software-libre
 ---
 
 Esta iniciativa fue realizada por:

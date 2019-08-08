@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Buenos Aires
+organizations_uids:
+  - open-knowledge
 ---
 
 Esta iniciativa fue realizada por:

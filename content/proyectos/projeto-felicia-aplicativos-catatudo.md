@@ -17,6 +17,9 @@ tags:
 cities: 
   - Tatuí
   - São Paulo
+organizations_uids:
+  - panapana-informacao-e-educacao-ltda-me
+  - areta-valente-guimarães-mei
 ---
 
 Esta iniciativa fue realizada por:

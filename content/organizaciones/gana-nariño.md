@@ -16,6 +16,11 @@ tags:
 
 cities: 
   - Pasto
+projects_uids:
+  - gana-pienso
+  - le-tengo-el-dato
+  - gana-control
+  - gana-datos
 
 ---
 

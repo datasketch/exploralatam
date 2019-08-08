@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Ciudad de México
+organizations_uids:
+  - servicios-de-ideas-creativas-para-el-desarrollo-de-organizaciones-a-c
 ---
 
 Esta iniciativa fue realizada por:

@@ -18,6 +18,10 @@ tags:
   - periodismo-de-datos
 cities: 
   - Bogotá
+projects_uids:
+  - omunaire
+  - comunaire
+  - planeadores-ciudadanos
 
 ---
 

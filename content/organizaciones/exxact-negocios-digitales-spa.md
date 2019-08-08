@@ -18,6 +18,8 @@ tags:
   - otro
 cities: 
   - Santiago
+projects_uids:
+  - congreso-publico-tecnologia-civica-para-una-democracia-inclusiva
 
 ---
 

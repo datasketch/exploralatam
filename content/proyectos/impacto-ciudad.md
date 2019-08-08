@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Bucaramanga
+organizations_uids:
+  - guarumo
 ---
 
 Esta iniciativa fue realizada por:

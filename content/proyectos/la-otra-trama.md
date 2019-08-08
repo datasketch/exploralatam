@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - avina
 ---
 
 Esta iniciativa fue realizada por:

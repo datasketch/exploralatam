@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Porto Alegre
+projects_uids:
+  - girasol-em-rede
 
 ---
 

@@ -20,6 +20,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Rosario
+projects_uids:
+  - movialidad
 
 ---
 

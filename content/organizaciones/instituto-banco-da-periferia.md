@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - São Paulo
+projects_uids:
+  - periferia-na-palma-da-mão-conectando-conhecimentos-para-transformar
 
 ---
 

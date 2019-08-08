@@ -18,6 +18,9 @@ tags:
   - participación-ciudadana
 cities: 
   - Ciudad de México
+projects_uids:
+  - tecnologia-civica-para-mejorar-la-movilidad-de-manera-participativa
+  - tecnologia-civica-para-mejorar-la-movilidad-de-manera-participativa
 
 ---
 

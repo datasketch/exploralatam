@@ -22,6 +22,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Santiago
+projects_uids:
+  - agencia-informativa-ciudadana
 
 ---
 

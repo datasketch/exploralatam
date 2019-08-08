@@ -14,6 +14,9 @@ tags:
 
 cities: 
   - Montevideo
+organizations_uids:
+  - data-uruguay
+  - cainfo
 ---
 
 Esta iniciativa fue realizada por:

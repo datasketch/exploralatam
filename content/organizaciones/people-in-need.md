@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Havana
+projects_uids:
+  - eyeoncuba-org
 
 ---
 

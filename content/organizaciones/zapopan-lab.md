@@ -20,6 +20,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Ciudad de México
+projects_uids:
+  - red-tonos-cihuatl
+  - red-tonos-cihuatl
 
 ---
 

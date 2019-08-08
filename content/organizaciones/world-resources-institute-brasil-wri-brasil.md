@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - São Paulo
+projects_uids:
+  - cidades-em-dados-transparencia-e-controle-social
 
 ---
 

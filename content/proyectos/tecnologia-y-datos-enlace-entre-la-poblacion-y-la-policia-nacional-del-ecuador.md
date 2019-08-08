@@ -16,6 +16,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Quito
+organizations_uids:
+  - smart-data-services
+  - policia-nacional-del-ecuador
 ---
 
 Esta iniciativa fue realizada por:

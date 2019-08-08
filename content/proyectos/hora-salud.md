@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Santiago
+organizations_uids:
+  - duran-asociados-spa
 ---
 
 Esta iniciativa fue realizada por:

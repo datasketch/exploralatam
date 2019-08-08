@@ -20,6 +20,11 @@ cities:
   - Guatemala
   - Ciudad de México
   - Madrid
+organizations_uids:
+  - project-poder
+  - associated-whistleblowing-press
+  - fundacion-ciudadano-inteligente
+  - plaza-publica
 ---
 
 Esta iniciativa fue realizada por:

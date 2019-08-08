@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Río de Janeiro
+projects_uids:
+  - genero-e-numero
 
 ---
 

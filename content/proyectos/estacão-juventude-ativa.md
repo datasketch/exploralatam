@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - João Pessoa
+organizations_uids:
+  - instituto-acuna
 ---
 
 Esta iniciativa fue realizada por:

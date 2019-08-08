@@ -19,6 +19,9 @@ tags:
 cities: 
   - Balneário Camboriu
   - Florianópolis
+organizations_uids:
+  - instituto-stela
+  - suma
 ---
 
 Esta iniciativa fue realizada por:

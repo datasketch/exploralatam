@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Montevideo
+organizations_uids:
+  - hack-hackers-montevideo
 ---
 
 Esta iniciativa fue realizada por:

@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - San José
+organizations_uids:
+  - cooperativa-sula-batsu
 ---
 
 Esta iniciativa fue realizada por:

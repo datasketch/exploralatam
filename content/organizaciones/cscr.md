@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Alajuela
+projects_uids:
+  - proyecto-participa-2017
 
 ---
 

@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Minas
+projects_uids:
+  - olhoneles-org
 
 ---
 

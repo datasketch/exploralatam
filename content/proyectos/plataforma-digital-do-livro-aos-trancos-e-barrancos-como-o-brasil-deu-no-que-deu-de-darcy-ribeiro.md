@@ -16,6 +16,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Río de Janeiro
+organizations_uids:
+  - fundacão-darcy-ribeiro
 ---
 
 Esta iniciativa fue realizada por:

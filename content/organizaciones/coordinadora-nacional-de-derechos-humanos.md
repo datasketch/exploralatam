@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Lima
+projects_uids:
+  - mapa-de-criminalizacion-de-la-protesta
 
 ---
 

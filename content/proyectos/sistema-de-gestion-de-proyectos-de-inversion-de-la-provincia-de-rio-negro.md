@@ -18,6 +18,10 @@ cities:
   - Viedma
   - La Plata
   - Buenos Aires
+organizations_uids:
+  - secretaria-de-planificacion
+  - asuntos-del-sur
+  - econsulting-s-r-l
 ---
 
 Esta iniciativa fue realizada por:

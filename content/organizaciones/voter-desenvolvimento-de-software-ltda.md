@@ -20,6 +20,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Florianópolis
+projects_uids:
+  - sos-eleitor-sos-votante
 
 ---
 

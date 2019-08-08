@@ -17,6 +17,9 @@ tags:
 cities: 
   - Fortaleza
   - San Juan
+projects_uids:
+  - periferia-na-palma-da-mão-conectando-conhecimentos-para-transformar
+  - cuidando-e-monitorando-a-cidade
 
 ---
 

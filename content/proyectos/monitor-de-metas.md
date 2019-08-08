@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - São Paulo
+organizations_uids:
+  - nucleo-digital-nucleo-digital
 ---
 
 Esta iniciativa fue realizada por:

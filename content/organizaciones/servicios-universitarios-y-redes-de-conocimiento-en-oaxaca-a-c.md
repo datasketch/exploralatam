@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Ciudad de México
+projects_uids:
+  - plataforma-civica-para-la-participacion-indigena-mediante-derecho-al-acceso-a-la-informacion
 
 ---
 

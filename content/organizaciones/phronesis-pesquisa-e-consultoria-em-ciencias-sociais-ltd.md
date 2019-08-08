@@ -20,6 +20,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Río de Janeiro
+projects_uids:
+  - observatorio-do-poder-legislativo-opl
 
 ---
 

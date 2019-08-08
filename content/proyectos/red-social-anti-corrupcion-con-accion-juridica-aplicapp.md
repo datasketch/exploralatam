@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Medellín
+organizations_uids:
+  - cocreamos-s-a-s
 ---
 
 Esta iniciativa fue realizada por:

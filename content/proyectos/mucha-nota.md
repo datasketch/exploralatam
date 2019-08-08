@@ -14,6 +14,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Quito
+organizations_uids:
+  - cemoplaf
 ---
 
 Esta iniciativa fue realizada por:

@@ -16,6 +16,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Río de Janeiro
+organizations_uids:
+  - cieds-centro-integrado-de-estudos-e-programas-de-desenvolvimento-sustentavel
 ---
 
 Esta iniciativa fue realizada por:

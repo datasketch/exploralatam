@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Bogotá
+projects_uids:
+  - veedor-de-obras
 
 ---
 

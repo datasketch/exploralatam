@@ -14,6 +14,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Caracas
+organizations_uids:
+  - asociacion-nacional-de-directores-de-bibliotecas-redes-y-servicios-de-informacion-del-sector-academico-universitario-y-de-investigacion-anabisai
 ---
 
 Esta iniciativa fue realizada por:

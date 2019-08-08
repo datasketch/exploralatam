@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Santiago
+organizations_uids:
+  - beetec-inteligencia-colectiva
 ---
 
 Esta iniciativa fue realizada por:

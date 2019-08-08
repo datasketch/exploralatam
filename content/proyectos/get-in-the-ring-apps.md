@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - 
+organizations_uids:
+  - tigo
 ---
 
 Esta iniciativa fue realizada por:

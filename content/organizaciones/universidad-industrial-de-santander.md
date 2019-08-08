@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Bucaramanga
+projects_uids:
+  - red-ciudadana-de-monitoreo-de-la-calidad-del-aire
 
 ---
 

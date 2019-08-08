@@ -16,6 +16,9 @@ tags:
   - participación-ciudadana
 cities: 
   - Bogotá
+projects_uids:
+  - az-en-construccion
+  - paz-en-construccion
 
 ---
 

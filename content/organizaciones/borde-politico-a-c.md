@@ -20,6 +20,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Ciudad de México
+projects_uids:
+  - plataforma-digital-de-participacion-ciudadana-en-congresos-locales
+  - plataforma-local-de-combate-a-la-corrupcion-y-participacion-ciudadana
 
 ---
 

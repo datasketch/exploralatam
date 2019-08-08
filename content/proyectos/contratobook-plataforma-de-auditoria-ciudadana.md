@@ -18,6 +18,9 @@ tags:
 cities: 
   - Guadalajara
   - Ciudad de México
+organizations_uids:
+  - ciudadan-s-por-la-transparencia-a-c
+  - spaceshipslabs
 ---
 
 Esta iniciativa fue realizada por:

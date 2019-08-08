@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - cityflag-sapi-de-cv
 ---
 
 Esta iniciativa fue realizada por:

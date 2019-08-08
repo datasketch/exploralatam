@@ -16,6 +16,10 @@ tags:
 
 cities: 
 
+projects_uids:
+  - codigocdmx
+  - sin-nombre
+  - viztec-cdmx
 
 ---
 

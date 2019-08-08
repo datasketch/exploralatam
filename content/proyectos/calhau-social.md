@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - São Paulo
+organizations_uids:
+  - calhau-social
 ---
 
 Esta iniciativa fue realizada por:

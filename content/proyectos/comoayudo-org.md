@@ -14,6 +14,8 @@ tags:
   - participación-ciudadana
 cities: 
   - San José
+organizations_uids:
+  - comunicacion-corporativa-de-centroamerica
 ---
 
 Esta iniciativa fue realizada por:

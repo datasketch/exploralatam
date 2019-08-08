@@ -14,6 +14,11 @@ tags:
 
 cities: 
   - Buenos Aires
+organizations_uids:
+  - poder-ciudadano
+  - asociacion-civil-por-la-igualdad-y-la-justicia-arg
+  - directorio-legislativo
+  - diario-la-nacion
 ---
 
 Esta iniciativa fue realizada por:

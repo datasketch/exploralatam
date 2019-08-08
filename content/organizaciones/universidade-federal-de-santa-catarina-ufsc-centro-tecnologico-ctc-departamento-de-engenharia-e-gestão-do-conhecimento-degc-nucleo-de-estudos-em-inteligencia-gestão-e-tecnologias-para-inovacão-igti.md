@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Florianópolis
+projects_uids:
+  - sistema-de-gestão-de-ideias-para-seguranca-publica
 
 ---
 

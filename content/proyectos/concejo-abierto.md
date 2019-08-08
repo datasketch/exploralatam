@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Guayaquil
+organizations_uids:
+  - fundapi
 ---
 
 Esta iniciativa fue realizada por:

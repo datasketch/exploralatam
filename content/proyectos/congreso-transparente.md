@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Guatemala
+organizations_uids:
+  - congreso-transparente
 ---
 
 Esta iniciativa fue realizada por:

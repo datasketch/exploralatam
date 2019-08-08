@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Lima
+projects_uids:
+  - red-peruana-por-ciudades-justas-democraticas-y-sustentables
 
 ---
 

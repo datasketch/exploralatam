@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Montevideo
+projects_uids:
+  - latin-iniciativa-latinoamericana-de-tecnologias-y-recursos-abiertos-para-la-educacion
 
 ---
 

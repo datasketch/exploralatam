@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Bogotá
+organizations_uids:
+  - ministerio-de-salud
 ---
 
 Esta iniciativa fue realizada por:

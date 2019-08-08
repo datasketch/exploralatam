@@ -17,6 +17,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Asunción
+organizations_uids:
+  - codium
+  - mingarã-asociacion-para-el-desarrollo-sustentable
 ---
 
 Esta iniciativa fue realizada por:

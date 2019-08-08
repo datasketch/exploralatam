@@ -16,6 +16,10 @@ tags:
 
 cities: 
   - Santiago
+projects_uids:
+  - infolobby
+  - portal-de-transparencia
+  - laboratorio-de-innovacii-n-de-transparencia
 
 ---
 

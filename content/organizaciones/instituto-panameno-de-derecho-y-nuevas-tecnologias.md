@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Panamá
+projects_uids:
+  - observatorio-centroamericano-de-datos-abiertos
 
 ---
 

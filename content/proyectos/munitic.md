@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Bogotá
+organizations_uids:
+  - colnodo-asociacion-colombiana-de-organizaciones-no-gubernamentales-para-la-comunicacion-via-correo-electronico
 ---
 
 Esta iniciativa fue realizada por:

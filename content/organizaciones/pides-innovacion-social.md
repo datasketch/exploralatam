@@ -19,6 +19,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Ciudad de México
+projects_uids:
+  - labtam-plataforma-de-innovacion-publica-para-ciudades-en-latinoamerica
 
 ---
 

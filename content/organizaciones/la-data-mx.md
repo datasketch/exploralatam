@@ -16,6 +16,12 @@ tags:
 
 cities: 
   - Ciudad de México
+projects_uids:
+  - chiras-pelas
+  - terremotos-mexico
+  - data-boxeo
+  - que-nos-paso
+  - violencia-mujeres
 
 ---
 

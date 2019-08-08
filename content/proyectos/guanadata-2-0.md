@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Nicoya
+organizations_uids:
+  - la-voz-de-guanacaste
 ---
 
 Esta iniciativa fue realizada por:

@@ -18,6 +18,10 @@ cities:
   - Montevideo
   - Buenos Aires
   - Córdoba
+organizations_uids:
+  - fundacion-conocimiento-abierto
+  - cainfo
+  - direccion-de-gobierno-abierto-y-datos-abiertos
 ---
 
 Esta iniciativa fue realizada por:

@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Bucaramanga
+projects_uids:
+  - parapapapp
 
 ---
 

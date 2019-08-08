@@ -23,6 +23,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Guatemala
+projects_uids:
+  - ciudadano-app
 
 ---
 

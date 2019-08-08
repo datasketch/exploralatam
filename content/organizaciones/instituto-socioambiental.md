@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - São Paulo
+projects_uids:
+  - veias-abertas-dados-sobre-conflitos-socioambientais
 
 ---
 

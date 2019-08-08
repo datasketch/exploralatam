@@ -19,6 +19,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Ciudad de México
+projects_uids:
+  - plataforma-de-contraloria-social-para-la-mejora-de-los-servicios-publicos-municipales
 
 ---
 

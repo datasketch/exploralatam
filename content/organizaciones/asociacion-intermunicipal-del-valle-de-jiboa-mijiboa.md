@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - San Salvador
+projects_uids:
+  - desarrollo-de-sistema-para-transparentar-la-gestion-municipal-mijiboa
 
 ---
 

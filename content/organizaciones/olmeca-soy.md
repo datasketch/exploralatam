@@ -18,6 +18,8 @@ tags:
   - otro
 cities: 
   - Ciudad de México
+projects_uids:
+  - fortalecimiento-civico-y-comunitario-por-expertos-sociales
 
 ---
 

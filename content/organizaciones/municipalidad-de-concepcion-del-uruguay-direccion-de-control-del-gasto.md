@@ -17,6 +17,8 @@ tags:
   - transparencia-y-rendicion-de-cuentas
 cities: 
   - Concepción del Uruguay
+projects_uids:
+  - portal-de-transparencia-de-gastos-de-gobiernos-locales-subnacionales-engage-civico
 
 ---
 

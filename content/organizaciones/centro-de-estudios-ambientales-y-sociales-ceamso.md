@@ -19,6 +19,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Asunción
+projects_uids:
+  - presupuesto-participativo
 
 ---
 

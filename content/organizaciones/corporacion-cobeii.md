@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Bucaramanga
+projects_uids:
+  - acercamiento-de-la-comunidad-mas-vulnerable-del-municipio-de-molagavita-santander-colombia
 
 ---
 

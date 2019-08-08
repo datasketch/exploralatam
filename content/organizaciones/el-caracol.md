@@ -16,6 +16,10 @@ tags:
 
 cities: 
   - Ciudad de México
+projects_uids:
+  - datos-muerte-poblacion-callejera
+  - sin-nombre
+  - mujeres-e-infancia-callejera-mas-alla-de-los-datos
 
 ---
 

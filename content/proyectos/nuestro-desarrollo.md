@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Bogotá
+organizations_uids:
+  - policentrico
 ---
 
 Esta iniciativa fue realizada por:

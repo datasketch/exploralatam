@@ -18,6 +18,9 @@ tags:
 cities: 
   - Buenos Aires
   - Vicente Lopez
+organizations_uids:
+  - techo
+  - manas-technology-solutions
 ---
 
 Esta iniciativa fue realizada por:

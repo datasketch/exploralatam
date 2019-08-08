@@ -19,6 +19,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - São Paulo
+projects_uids:
+  - ferramenta-de-avaliacão-de-mandatos-parlamentares-famp
 
 ---
 

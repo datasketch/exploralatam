@@ -14,6 +14,8 @@ tags:
   - participación-ciudadana
 cities: 
   - São Paulo
+organizations_uids:
+  - nau-interativa
 ---
 
 Esta iniciativa fue realizada por:

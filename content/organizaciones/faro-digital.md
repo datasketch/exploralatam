@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Buenos Aires
+projects_uids:
+  - co-creamos-plataforma-de-co-creacion-digital-junto-a-escuelas-sector-publico-y-sociedad-civil
 
 ---
 

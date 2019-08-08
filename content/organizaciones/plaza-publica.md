@@ -19,6 +19,12 @@ tags:
 cities: 
   - Guatemala
   - Madrid
+projects_uids:
+  - plaza-publica
+  - congreso-en-datos
+  - creacion-de-chileleaks-centroamericaleaks-y-latamleaks-coordinadora-regional-de-las-plataformas-de-whistleblowing
+  - mapas-y-datos
+  - creacion-de-chileleaks-centroamericaleaks-y-latamleaks-coordinadora-regional-de-las-plataformas-de-whistleblowing
 
 ---
 

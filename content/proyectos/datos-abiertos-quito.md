@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Quito
+organizations_uids:
+  - gobierno-de-quito
 ---
 
 Esta iniciativa fue realizada por:

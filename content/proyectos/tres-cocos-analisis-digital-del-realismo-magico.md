@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Sincelejo
+organizations_uids:
+  - fundacion-tres-cocos
 ---
 
 Esta iniciativa fue realizada por:

@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Río de Janeiro
+projects_uids:
+  - ceu-centro-de-empreendedorismo-universitario-consultoria-ltda
 
 ---
 

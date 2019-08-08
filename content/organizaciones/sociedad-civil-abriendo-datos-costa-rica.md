@@ -17,6 +17,9 @@ tags:
   - otro
 cities: 
   - San José
+projects_uids:
+  - atisbando-el-bus
+  - tour-virtual-de-parques-nacionales-de-costa-rica
 
 ---
 

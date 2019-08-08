@@ -15,6 +15,11 @@ tags:
   - participación-ciudadana
 cities: 
   - Araranguá
+organizations_uids:
+  - nucleo-de-estudos-em-inteligencia-gestão-e-tecnologias-para-inovacão-igti
+  - universidade-federal-de-santa-catarina
+  - centro-tecnologico-ctc
+  - departamento-de-engenharia-e-gestão-do-conhecimento-degc
 ---
 
 Esta iniciativa fue realizada por:

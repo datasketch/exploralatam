@@ -19,6 +19,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Cúcuta
+projects_uids:
+  - agromas
 
 ---
 

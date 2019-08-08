@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - San José
+projects_uids:
+  - ojo-al-voto
 
 ---
 

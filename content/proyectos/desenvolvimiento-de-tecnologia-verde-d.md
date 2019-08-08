@@ -18,6 +18,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Belo Horizonte
+organizations_uids:
+  - centro-universitario-de-belo-horizonte
+  - anima-educacion
 ---
 
 Esta iniciativa fue realizada por:

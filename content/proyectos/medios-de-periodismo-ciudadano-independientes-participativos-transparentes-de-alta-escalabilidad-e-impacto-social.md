@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Santiago
+organizations_uids:
+  - asesorias-e-inversiones-comunidades-ciudadanas-s-a
 ---
 
 Esta iniciativa fue realizada por:

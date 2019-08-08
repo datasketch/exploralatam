@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Minas
+organizations_uids:
+  - gobierno-de-minas
 ---
 
 Esta iniciativa fue realizada por:

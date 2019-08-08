@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Antigua Guatemala
+organizations_uids:
+  - consejo-civico-de-vecinos
 ---
 
 Esta iniciativa fue realizada por:

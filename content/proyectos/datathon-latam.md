@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Pereira
+organizations_uids:
+  - corporacion-cientificas-de-datos
 ---
 
 Esta iniciativa fue realizada por:

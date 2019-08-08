@@ -15,6 +15,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - San Salvador
+organizations_uids:
+  - the-next-services
 ---
 
 Esta iniciativa fue realizada por:

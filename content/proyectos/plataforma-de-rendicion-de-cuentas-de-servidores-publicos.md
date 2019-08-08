@@ -14,6 +14,8 @@ tags:
   - transparencia-y-rendicion-de-cuentas
 cities: 
   - Ciudad de México
+organizations_uids:
+  - campana-global-por-la-libertad-de-expresion-a19-a-c
 ---
 
 Esta iniciativa fue realizada por:

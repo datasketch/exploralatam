@@ -17,6 +17,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Sucre
+projects_uids:
+  - monitoreo-y-seguimiento-de-temas-medio-ambientales-en-el-sur-de-bolivia-chuquisaca-tarija-potosi-y-chaco
+  - 1-monitoreo-y-seguimiento-de-temas-medio-ambientales-en-el-sur-de-bolivia-chuquisaca-tarija-potosi-y-chaco
 
 ---
 

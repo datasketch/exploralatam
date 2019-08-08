@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Santiago
+organizations_uids:
+  - ciudadania-inteligente
 ---
 
 Esta iniciativa fue realizada por:

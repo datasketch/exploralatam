@@ -16,6 +16,12 @@ tags:
 
 cities: 
   - Bogotá
+projects_uids:
+  - reescribiendo-vidas
+  - minas-antipersona
+  - eventos-naturales
+  - guerra-y-escuela-i
+  - guerra-y-escuela-ii
 
 ---
 

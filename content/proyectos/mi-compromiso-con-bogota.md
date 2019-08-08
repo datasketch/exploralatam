@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Bogotá
+organizations_uids:
+  - veeduria-distrital-de-bogota-veeduria-delegada-para-la-participacion-y-los-programas-especiales
 ---
 
 Esta iniciativa fue realizada por:

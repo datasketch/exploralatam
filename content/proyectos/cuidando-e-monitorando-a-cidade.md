@@ -23,6 +23,14 @@ cities:
   - San Juan
   - Curitiba
   - São Paulo
+organizations_uids:
+  - rede-conhecimento-social
+  - centro-de-midias-civicas-do-mit-media-lab
+  - rede-de-observatorio-social-do-brasil
+  - colaboratorio-de-desenvolvimento-e-participacão-universidade-de-são-paulo
+  - laboratorio-de-inovacão-e-controle-no-setor-publico-da-universidade-federal-do-para
+  - instituto-humanitas360
+  - ouvidoria-geral-da-união-ministerio-da-transparencia-fiscalizacão-e-controladoria-geral-da-união-cgu
 ---
 
 Esta iniciativa fue realizada por:

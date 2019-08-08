@@ -19,6 +19,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Mendoza
+projects_uids:
+  - plataforma-de-apertura-de-gobiernos
 
 ---
 

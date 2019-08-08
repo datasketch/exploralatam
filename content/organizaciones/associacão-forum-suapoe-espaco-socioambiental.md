@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Suape
+projects_uids:
+  - sagui-sistema-de-escucha-monitoreo-y-alerta-sobre-riesgos-y-impactos-de-grandes-emprendimientos-en-los-derechos-de-las-comunidades-locales
 
 ---
 

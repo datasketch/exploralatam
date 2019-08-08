@@ -19,6 +19,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - São Paulo
+projects_uids:
+  - fact-check-para-projetos-de-lei-e-politicas-publicas-informados-por-evidencias
 
 ---
 

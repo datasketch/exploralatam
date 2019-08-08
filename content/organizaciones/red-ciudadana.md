@@ -16,6 +16,9 @@ tags:
 
 cities: 
   - Guatemala
+projects_uids:
+  - espanta-cacos
+  - congreso-abierto-guatemala
 
 ---
 

@@ -19,6 +19,10 @@ tags:
   - periodismo-de-datos
 cities: 
   - Londrina
+organizations_uids:
+  - geleia-mob
+  - mz-tecnologia
+  - associacão-todos-por-um
 ---
 
 Esta iniciativa fue realizada por:

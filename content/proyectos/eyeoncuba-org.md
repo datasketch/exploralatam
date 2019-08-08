@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Havana
+organizations_uids:
+  - people-in-need
 ---
 
 Esta iniciativa fue realizada por:

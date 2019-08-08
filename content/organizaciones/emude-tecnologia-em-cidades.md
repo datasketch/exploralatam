@@ -20,6 +20,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Río de Janeiro
+projects_uids:
+  - avaliacão-da-qualidade-da-merenda-escolar
 
 ---
 

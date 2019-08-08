@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - San Juan
+organizations_uids:
+  - abrepuertorico
 ---
 
 Esta iniciativa fue realizada por:

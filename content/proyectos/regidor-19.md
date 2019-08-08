@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Ciudad Juarez
+organizations_uids:
+  - plan-estrategico-de-juarez
 ---
 
 Esta iniciativa fue realizada por:

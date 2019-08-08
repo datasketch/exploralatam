@@ -15,6 +15,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Buenos Aires
+organizations_uids:
+  - fundacion-laboratorio-de-politicas-publicas-lpp
+  - on-the-move
 ---
 
 Esta iniciativa fue realizada por:

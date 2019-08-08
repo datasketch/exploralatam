@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Guatemala
+organizations_uids:
+  - unidad-positiva-para-el-desarrollo-ciudadano-updc
 ---
 
 Esta iniciativa fue realizada por:

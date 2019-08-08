@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Bogotá
+projects_uids:
+  - benchmark-empresas-y-paz
 
 ---
 

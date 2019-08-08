@@ -21,6 +21,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Managua
+projects_uids:
+  - mapa-civico-nicaragua
 
 ---
 

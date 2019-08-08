@@ -20,6 +20,9 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Brasilia
+projects_uids:
+  - mobilidade-urbana-aberta
+  - mobilidade-urbana-aberta
 
 ---
 

@@ -18,6 +18,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Santiago
+organizations_uids:
+  - fundacion-multitudes
+  - fundacion-girls-in-tech-chile
 ---
 
 Esta iniciativa fue realizada por:

@@ -16,6 +16,9 @@ tags:
   - otro
 cities: 
   - Santiago
+projects_uids:
+  - desarrollo-de-proyectos-de-placemaking-creativos-desde-comunidades
+  - fundacion-nuevas-contingencias-sociales
 
 ---
 

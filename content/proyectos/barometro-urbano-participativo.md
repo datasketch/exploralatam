@@ -14,6 +14,9 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - fundacion-encuentro-para-la-participacion-ciudadana-y-la-ampliacion-de-derechos
+  - ctrl-s-a
 ---
 
 Esta iniciativa fue realizada por:

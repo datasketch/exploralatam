@@ -19,6 +19,10 @@ tags:
 cities: 
   - Oaxaca
   - Buenos Aires
+projects_uids:
+  - relevamiento-de-asentamientos-informales-en-centro-america
+  - midiendo-los-niveles-de-integracion-sociourbana-de-asentamientos-informales-en-argentina
+  - asentamientos
 
 ---
 

@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Lima
+organizations_uids:
+  - corresponsales
 ---
 
 Esta iniciativa fue realizada por:

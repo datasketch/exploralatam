@@ -18,6 +18,9 @@ tags:
 cities: 
   - San Salvador
   - Verapaz
+organizations_uids:
+  - asociacion-intermunicipal-del-valle-de-jiboa-mijiboa
+  - instituto-salvadoreno-de-desarrollo-municipal-isdem
 ---
 
 Esta iniciativa fue realizada por:

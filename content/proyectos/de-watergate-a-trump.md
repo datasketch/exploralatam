@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - postdata-club-cuba
 ---
 
 Esta iniciativa fue realizada por:

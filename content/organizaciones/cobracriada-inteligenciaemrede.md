@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Brasilia
+projects_uids:
+  - ozzymandhas-jornalismo-colaborativo
 
 ---
 

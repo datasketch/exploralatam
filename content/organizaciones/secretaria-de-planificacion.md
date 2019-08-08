@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - La Plata
+projects_uids:
+  - sistema-de-gestion-de-proyectos-de-inversion-de-la-provincia-de-rio-negro
 
 ---
 

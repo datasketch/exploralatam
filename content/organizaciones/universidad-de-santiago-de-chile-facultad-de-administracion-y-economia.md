@@ -18,6 +18,10 @@ tags:
   - transparencia-y-rendicion-de-cuentas
 cities: 
   - Santiago
+projects_uids:
+  - gasto-amigable-municipal
+  - compras-publicas
+  - observatorio-del-gasto-fiscal
 
 ---
 

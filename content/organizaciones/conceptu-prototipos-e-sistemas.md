@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Porto Alegre
+projects_uids:
+  - plp-2-0-tecnologia-social-en-el-enfrentamiento-a-la-violencia-contra-las-mujeres
 
 ---
 

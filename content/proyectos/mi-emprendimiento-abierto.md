@@ -16,6 +16,10 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Quito
+organizations_uids:
+  - impaqto
+  - datalat
+  - fundacion-medialab-quito
 ---
 
 Esta iniciativa fue realizada por:

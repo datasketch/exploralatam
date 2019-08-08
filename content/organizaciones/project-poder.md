@@ -20,6 +20,14 @@ cities:
   - Puebla
   - Guatemala
   - Ciudad de México
+projects_uids:
+  - torre-de-control
+  - herramientas-para-el-uso-del-open-contracting-data-standard-y-combatirla-captura-del-estado-desde-sociedad-civil
+  - rinde-cuentas
+  - mexicoleaks
+  - creacion-de-chileleaks-centroamericaleaks-y-latamleaks-coordinadora-regional-de-las-plataformas-de-whistleblowing
+  - quien-es-quien-wiki
+  - sin-nombre
 
 ---
 

@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Florianópolis
+organizations_uids:
+  - todavia-no-fue-creada-una-empresa
 ---
 
 Esta iniciativa fue realizada por:

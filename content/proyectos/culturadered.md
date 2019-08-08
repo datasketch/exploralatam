@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Brasilia
+organizations_uids:
+  - ong-para-iberoamerica
 ---
 
 Esta iniciativa fue realizada por:

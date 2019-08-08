@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - centro-universitario-de-belo-horizonte-unibh-anima-educacion
 ---
 
 Esta iniciativa fue realizada por:

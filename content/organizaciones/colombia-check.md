@@ -16,6 +16,10 @@ tags:
 
 cities: 
 
+projects_uids:
+  - mujeres-sanan-heridas
+  - ddhh-posconflicto
+  - contralorias
 
 ---
 

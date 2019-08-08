@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - central-america-software-services
 ---
 
 Esta iniciativa fue realizada por:

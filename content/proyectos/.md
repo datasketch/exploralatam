@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Bogotá
+organizations_uids:
+  - olinguito
 ---
 
 Esta iniciativa fue realizada por:

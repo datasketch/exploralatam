@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Buenos Aires
+projects_uids:
+  - red-social-de-sustentabilidad
 
 ---
 

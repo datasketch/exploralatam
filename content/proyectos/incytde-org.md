@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Guatemala
+organizations_uids:
+  - universidad-rafael-landivar
 ---
 
 Esta iniciativa fue realizada por:

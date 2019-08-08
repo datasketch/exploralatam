@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Quito
+organizations_uids:
+  - observatorio-ciudadano-de-la-educacion
 ---
 
 Esta iniciativa fue realizada por:

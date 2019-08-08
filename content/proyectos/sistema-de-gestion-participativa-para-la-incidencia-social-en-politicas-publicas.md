@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Ciudad de México
+organizations_uids:
+  - observatorio-mexicano-de-la-crisis
 ---
 
 Esta iniciativa fue realizada por:

@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Santiago
+organizations_uids:
+  - chicas-poderosas
 ---
 
 Esta iniciativa fue realizada por:

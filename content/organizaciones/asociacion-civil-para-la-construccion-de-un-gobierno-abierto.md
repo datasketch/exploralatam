@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Córdoba
+projects_uids:
+  - estamos-cordoba-aplicaciones-para-una-administracion-relacional
 
 ---
 

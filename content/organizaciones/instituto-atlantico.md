@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Río de Janeiro
+projects_uids:
+  - plataforma-digital-de-empoderamento-de-favelas-pela-informacão-e-auto-organizacão
 
 ---
 

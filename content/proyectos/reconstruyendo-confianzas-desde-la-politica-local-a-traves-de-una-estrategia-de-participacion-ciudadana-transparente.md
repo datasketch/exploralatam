@@ -18,6 +18,10 @@ tags:
 cities: 
   - Santiago
   - Buenos Aires
+organizations_uids:
+  - espacio-publico
+  - municipalidad-de-renca
+  - socio-publico
 ---
 
 Esta iniciativa fue realizada por:

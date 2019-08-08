@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Cancún
+organizations_uids:
+  - instituto-de-politicas-para-el-transporte-y-el-desarrollo-itdp
 ---
 
 Esta iniciativa fue realizada por:

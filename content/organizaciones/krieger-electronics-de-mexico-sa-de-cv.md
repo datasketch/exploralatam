@@ -20,6 +20,9 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Ciudad de México
+projects_uids:
+  - desarrollo-de-un-sistema-de-inteligencia-artificial-para-el-analisis-de-oportunidades-de-inversion-y-mejora-en-el-transporte-publico-concesionado
+  - identidad-digital-a-traves-de-blockchain-para-la-reduccion-de-falsificacion-y-corrupcion
 
 ---
 

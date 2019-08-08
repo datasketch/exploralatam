@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Río de Janeiro
+projects_uids:
+  - celula-de-capacitacão-tecnologica-para-meninas-e-adolescentes-cecatec
 
 ---
 

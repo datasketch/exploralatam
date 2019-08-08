@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - San José
+organizations_uids:
+  - dal
 ---
 
 Esta iniciativa fue realizada por:

@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Santiago
+organizations_uids:
+  - consejo-de-la-transparencia
 ---
 
 Esta iniciativa fue realizada por:

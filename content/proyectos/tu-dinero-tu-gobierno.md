@@ -17,6 +17,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - centro-de-investigacion-economica-y-presupuestaria-a-c
+  - simetria-centro-de-innovacion-en-politicas-publicas-a-c
 ---
 
 Esta iniciativa fue realizada por:

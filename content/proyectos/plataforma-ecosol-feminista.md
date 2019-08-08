@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Porto Alegre
+organizations_uids:
+  - guayi
 ---
 
 Esta iniciativa fue realizada por:

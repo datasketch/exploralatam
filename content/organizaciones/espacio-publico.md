@@ -20,6 +20,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Buenos Aires
+projects_uids:
+  - reconstruyendo-confianzas-desde-la-politica-local-a-traves-de-una-estrategia-de-participacion-ciudadana-transparente
 
 ---
 

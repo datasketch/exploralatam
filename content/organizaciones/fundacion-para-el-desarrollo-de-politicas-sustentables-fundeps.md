@@ -19,6 +19,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Córdoba
+projects_uids:
+  - construyamos-transparencia-dialogo-y-monitoreo-comunitario-de-proyectos-de-infraestructura
 
 ---
 

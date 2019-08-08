@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Guatemala
+organizations_uids:
+  - municipalidad-san-jose-del-idolo-suchitepequez-guatemala
 ---
 
 Esta iniciativa fue realizada por:

@@ -21,6 +21,8 @@ tags:
   - otro
 cities: 
   - João Pessoa
+projects_uids:
+  - estacão-juventude-ativa
 
 ---
 

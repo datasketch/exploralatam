@@ -16,6 +16,8 @@ tags:
 
 cities: 
 
+projects_uids:
+  - appcivico-mandato-aberto-e-voto-legal
 
 ---
 

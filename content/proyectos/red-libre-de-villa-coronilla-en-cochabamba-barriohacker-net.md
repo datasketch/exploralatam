@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Cochabamba
+organizations_uids:
+  - hacklab-cochabamba
 ---
 
 Esta iniciativa fue realizada por:

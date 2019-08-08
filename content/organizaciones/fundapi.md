@@ -21,6 +21,10 @@ tags:
 cities: 
   - Quito
   - Guayaquil
+projects_uids:
+  - arteria-activa-responde-transforma
+  - 
+  - concejo-abierto
 
 ---
 

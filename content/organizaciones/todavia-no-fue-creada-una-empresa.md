@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Florianópolis
+projects_uids:
+  - boonited
 
 ---
 

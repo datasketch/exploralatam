@@ -17,6 +17,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - São Paulo
+organizations_uids:
+  - appcivico-eokoe-solucoes-tecnologicas
+  - world-resources-institute-brasil-wri-brasil
 ---
 
 Esta iniciativa fue realizada por:

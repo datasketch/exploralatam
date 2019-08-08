@@ -19,6 +19,11 @@ tags:
 cities: 
   - Brasilia
   - São Paulo
+organizations_uids:
+  - instituto-ecoar-para-a-cidadania
+  - faculdade-latino-americana-de-ciencias-sociais-flacso
+  - alampyme-br-associacão-latinoamericana-de-micro-pequenas-e-medias-empresas-capitulo-brasil
+  - hacklab-servicos-de-tecnologia-ltda
 ---
 
 Esta iniciativa fue realizada por:

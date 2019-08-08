@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Santiago
+organizations_uids:
+  - red-aceleradora-global
 ---
 
 Esta iniciativa fue realizada por:

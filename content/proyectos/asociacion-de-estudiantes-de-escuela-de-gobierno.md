@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Guatemala
+organizations_uids:
+  - ae-edg
 ---
 
 Esta iniciativa fue realizada por:

@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Lima
+organizations_uids:
+  - presidencia-del-consejo-de-ministros
 ---
 
 Esta iniciativa fue realizada por:

@@ -17,6 +17,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - San Salvador
+projects_uids:
+  - obras-de-mi-ciudad
 
 ---
 

@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Paysandú
+projects_uids:
+  - portal-de-transparencia-de-gastos-de-gobiernos-locales-subnacionales-engage-civico
 
 ---
 

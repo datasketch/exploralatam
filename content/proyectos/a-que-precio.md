@@ -14,6 +14,10 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - la-nacion-arg
+  - chequeado
+  - asociacion-civil-por-la-igualdad-y-la-justicia-arg
 ---
 
 Esta iniciativa fue realizada por:

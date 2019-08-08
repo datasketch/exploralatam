@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Montevideo
+organizations_uids:
+  - ministerio-de-economia
 ---
 
 Esta iniciativa fue realizada por:

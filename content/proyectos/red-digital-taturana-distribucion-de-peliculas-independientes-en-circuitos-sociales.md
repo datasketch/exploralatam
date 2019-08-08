@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - São Paulo
+organizations_uids:
+  - taturana-mobilizacão-social
 ---
 
 Esta iniciativa fue realizada por:

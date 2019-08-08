@@ -14,6 +14,9 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - uniandes
+  - monoku
 ---
 
 Esta iniciativa fue realizada por:

@@ -17,6 +17,10 @@ tags:
 cities: 
   - Ciudad de México
   - Bogotá
+organizations_uids:
+  - fundacion-corona
+  - c230
+  - movilizatorio
 ---
 
 Esta iniciativa fue realizada por:

@@ -20,6 +20,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Buenos Aires
+projects_uids:
+  - blockchain-transparencia-y-servicios-publicos
 
 ---
 

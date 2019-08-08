@@ -18,6 +18,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - São Luis
+projects_uids:
+  - noosfero-plataforma-web-livre-para-a-criacão-de-redes-sociais-autonomas-e-participacão-civica
 
 ---
 

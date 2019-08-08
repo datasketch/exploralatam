@@ -17,6 +17,9 @@ tags:
 cities: 
   - Medellín
   - Bogotá
+organizations_uids:
+  - fundacion-mi-sangre
+  - movilizatorio
 ---
 
 Esta iniciativa fue realizada por:

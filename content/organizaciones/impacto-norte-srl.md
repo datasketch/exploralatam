@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - San Salvador de Jujuy
+projects_uids:
+  - warmi-mujer-en-quechua
 
 ---
 

@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Bogotá
+organizations_uids:
+  - nova-grupo-de-consultoria-sas
 ---
 
 Esta iniciativa fue realizada por:

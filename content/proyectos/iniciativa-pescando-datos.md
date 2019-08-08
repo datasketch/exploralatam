@@ -19,6 +19,9 @@ cities:
   - Cambridge
   - Ciudad de México
   - MA
+organizations_uids:
+  - the-engine-room
+  - causa-natura
 ---
 
 Esta iniciativa fue realizada por:

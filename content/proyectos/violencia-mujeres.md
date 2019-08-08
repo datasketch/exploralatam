@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - la-data-mx
 ---
 
 Esta iniciativa fue realizada por:

@@ -21,6 +21,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - São Paulo
+projects_uids:
+  - sagui-sistema-de-escucha-monitoreo-y-alerta-sobre-riesgos-y-impactos-de-grandes-emprendimientos-en-los-derechos-de-las-comunidades-locales
 
 ---
 

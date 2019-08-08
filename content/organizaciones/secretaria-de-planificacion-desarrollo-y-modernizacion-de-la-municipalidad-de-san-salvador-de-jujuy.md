@@ -20,6 +20,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - San Salvador de Jujuy
+projects_uids:
+  - geomatica-en-organismos-publicos
 
 ---
 

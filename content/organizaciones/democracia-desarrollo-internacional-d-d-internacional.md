@@ -19,6 +19,8 @@ tags:
   - otro
 cities: 
   - Lima
+projects_uids:
+  - innovacion-y-apertura-en-las-politicas-publicas-innovapp
 
 ---
 

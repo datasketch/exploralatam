@@ -16,6 +16,8 @@ tags:
 
 cities: 
 
+projects_uids:
+  - os-conoces-mapeando-el-poder
 
 ---
 

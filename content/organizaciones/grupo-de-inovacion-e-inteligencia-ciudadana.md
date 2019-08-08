@@ -20,6 +20,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Guadalajara
+projects_uids:
+  - tu-conteo
 
 ---
 

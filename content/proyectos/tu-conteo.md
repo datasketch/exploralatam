@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Guadalajara
+organizations_uids:
+  - grupo-de-inovacion-e-inteligencia-ciudadana
 ---
 
 Esta iniciativa fue realizada por:

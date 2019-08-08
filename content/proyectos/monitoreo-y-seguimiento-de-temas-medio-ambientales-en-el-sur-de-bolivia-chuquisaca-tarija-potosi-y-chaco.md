@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Sucre
+organizations_uids:
+  - fundacion-accion-cultural-loyola-aclo
 ---
 
 Esta iniciativa fue realizada por:

@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - resabis-prevencion-salud-y-bienestar-social
 ---
 
 Esta iniciativa fue realizada por:

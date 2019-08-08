@@ -19,6 +19,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Bucaramanga
+projects_uids:
+  - impacto-ciudad
 
 ---
 

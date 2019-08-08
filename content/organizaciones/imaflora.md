@@ -18,6 +18,9 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - João Pessoa
+projects_uids:
+  - mobilidade-urbana-aberta
+  - mobilidade-urbana-aberta
 
 ---
 

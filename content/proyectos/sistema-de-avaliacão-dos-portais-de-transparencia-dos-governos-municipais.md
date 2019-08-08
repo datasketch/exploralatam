@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - São José
+organizations_uids:
+  - observatorio-social-de-são-jose-ossj
 ---
 
 Esta iniciativa fue realizada por:

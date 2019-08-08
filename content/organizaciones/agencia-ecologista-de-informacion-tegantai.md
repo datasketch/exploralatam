@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Quito
+projects_uids:
+  - estrategias-comunitarias-para-crear-y-fortalecer-un-sistema-de-comunicaci-libre-y-comunitaria-en-la-costa-pac-ifica-de-esmeraldas-ecuador
 
 ---
 

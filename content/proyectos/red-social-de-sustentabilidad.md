@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Buenos Aires
+organizations_uids:
+  - fundacion-naturaleza-para-el-futuro-funafu
 ---
 
 Esta iniciativa fue realizada por:

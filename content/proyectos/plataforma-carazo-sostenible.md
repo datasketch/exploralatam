@@ -17,6 +17,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Managua
+organizations_uids:
+  - core-systems
+  - fundacion-nicaraguense-para-la-defensa-del-medio-ambiente-y-proteccion-de-los-recursos-naturales-fundenatura
 ---
 
 Esta iniciativa fue realizada por:

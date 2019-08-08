@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Asunción
+organizations_uids:
+  - fundacion-paraguaya
 ---
 
 Esta iniciativa fue realizada por:

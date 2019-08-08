@@ -19,6 +19,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - New Orleans
+projects_uids:
+  - el-presupuesto-comunitario
 
 ---
 

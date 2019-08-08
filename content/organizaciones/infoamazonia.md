@@ -20,6 +20,14 @@ tags:
   - periodismo-de-datos
 cities: 
   - São Paulo
+projects_uids:
+  - dinheiro
+  - social-progress-amazon
+  - alerta-de-enchentes
+  - alerta-de-enchentes-na-amazonia
+  - visaguas
+  - politica-do-desmatamento
+  - costing-nature
 
 ---
 

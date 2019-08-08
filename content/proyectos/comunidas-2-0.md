@@ -16,6 +16,10 @@ cities:
   - Guatemala
   - Buenos Aires
   - Panamá
+organizations_uids:
+  - red-argentina-para-la-cooperacio-n-internacional-raci
+  - grupo-faro
+  - jovenes-contra-la-violencia-centroamerica
 ---
 
 Esta iniciativa fue realizada por:

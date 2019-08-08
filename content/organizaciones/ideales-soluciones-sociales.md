@@ -17,6 +17,8 @@ tags:
   - otro
 cities: 
   - Distrito Nacional
+projects_uids:
+  - proyecto-de-integracion-comunitaria
 
 ---
 

@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Monterrey
+organizations_uids:
+  - transformacion-de-obreros-y-tecnicos-esperanza-de-mexico-totem-a-c
 ---
 
 Esta iniciativa fue realizada por:

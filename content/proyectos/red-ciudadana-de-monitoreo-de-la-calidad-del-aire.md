@@ -19,6 +19,12 @@ cities:
   - Querétaro
   - Ciudad de México
   - Bucaramanga
+organizations_uids:
+  - grupo-cidic
+  - universidad-industrial-de-santander
+  - grupo-cemos
+  - derive-lab
+  - esc-de-ingenieria-electrica-electronica-y-de-telecomunicaciones
 ---
 
 Esta iniciativa fue realizada por:

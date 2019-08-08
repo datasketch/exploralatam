@@ -14,6 +14,9 @@ tags:
 
 cities: 
   - San Salvador
+organizations_uids:
+  - chequeado
+  - el-faro
 ---
 
 Esta iniciativa fue realizada por:

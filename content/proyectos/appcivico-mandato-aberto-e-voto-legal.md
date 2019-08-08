@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - São Paulo
+organizations_uids:
+  - appcivico-eokoe-solucoes-tecnologicas
 ---
 
 Esta iniciativa fue realizada por:

@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Ciudad de México
+organizations_uids:
+  - sistemas-de-informacion-geografica-para-la-planeacion-y-ordenamiento-del-territorio-sigpot-sa-de-cv
 ---
 
 Esta iniciativa fue realizada por:

@@ -18,6 +18,8 @@ tags:
   - otro
 cities: 
   - Ciudad de México
+projects_uids:
+  - kiik-plataforma-digital-para-la-donacion-altruista-de-sangre
 
 ---
 

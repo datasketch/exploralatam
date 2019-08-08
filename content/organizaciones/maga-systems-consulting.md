@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Asunción
+projects_uids:
+  - ciudadano-presente
 
 ---
 

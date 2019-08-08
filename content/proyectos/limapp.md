@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Lima
+organizations_uids:
+  - grupo-limonta
 ---
 
 Esta iniciativa fue realizada por:

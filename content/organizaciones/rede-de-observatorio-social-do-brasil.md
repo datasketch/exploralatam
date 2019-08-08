@@ -21,6 +21,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Washington DC
+projects_uids:
+  - cuidando-e-monitorando-a-cidade
 
 ---
 

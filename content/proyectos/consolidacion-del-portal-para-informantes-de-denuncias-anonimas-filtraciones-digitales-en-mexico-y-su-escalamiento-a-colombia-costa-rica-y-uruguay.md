@@ -15,6 +15,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Puebla
+organizations_uids:
+  - articulo-12-a-c-programa-sontusdatos
 ---
 
 Esta iniciativa fue realizada por:

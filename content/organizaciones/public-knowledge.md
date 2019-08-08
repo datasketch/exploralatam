@@ -20,6 +20,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Madrid
+projects_uids:
+  - curso-abierto-de-internet-para-acelerar-el-cambio-social-en-america-latina
 
 ---
 

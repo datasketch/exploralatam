@@ -17,6 +17,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Lima
+organizations_uids:
+  - kodevian-enterprise-software-solutions
+  - centro-peruano-para-la-resiliencia-de-socioecosistemas-urbanos-centro-urbes
 ---
 
 Esta iniciativa fue realizada por:

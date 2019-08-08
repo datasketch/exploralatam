@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - atrelar-s-a-dynamizeit
 ---
 
 Esta iniciativa fue realizada por:

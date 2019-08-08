@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Montevideo
+organizations_uids:
+  - periodico-sudestada
 ---
 
 Esta iniciativa fue realizada por:

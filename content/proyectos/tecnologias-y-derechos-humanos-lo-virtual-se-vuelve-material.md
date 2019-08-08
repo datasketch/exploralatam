@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - 
+organizations_uids:
+  - capitulo-boliviano-de-derechos-humanos-democracia-y-desarrollo
 ---
 
 Esta iniciativa fue realizada por:

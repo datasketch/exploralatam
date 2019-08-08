@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Panamá
+projects_uids:
+  - citiviva-ciudadania-inteligente
 
 ---
 

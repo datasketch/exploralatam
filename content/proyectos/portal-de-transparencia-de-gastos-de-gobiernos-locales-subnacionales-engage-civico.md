@@ -19,6 +19,11 @@ tags:
 cities: 
   - Concepción del Uruguay
   - Paysandú
+organizations_uids:
+  - municipalidad-de-concepcion-del-uruguay-direccion-de-control-del-gasto
+  - subsidios-claros
+  - datos-concepcion
+  - asociacion-pro-arte
 ---
 
 Esta iniciativa fue realizada por:

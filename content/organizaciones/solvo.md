@@ -16,6 +16,8 @@ tags:
   - transparencia-y-rendicion-de-cuentas
 cities: 
   - Heredia
+projects_uids:
+  - sistema-de-votacion-de-votacion-electronica-autenticada-por-firma-digital
 
 ---
 

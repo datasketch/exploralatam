@@ -18,6 +18,10 @@ cities:
   - Buenos Aires
   - Ciudad de México
   - Córdoba
+organizations_uids:
+  - fundacion-conocimiento-abierto
+  - direccion-de-gobierno-abierto-y-datos-abiertos
+  - direccion-de-gobierno-abierto-y-datos-abiertos-de-la-provincia-de-buenos-aires
 ---
 
 Esta iniciativa fue realizada por:

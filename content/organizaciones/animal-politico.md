@@ -16,6 +16,23 @@ tags:
 
 cities: 
   - Ciudad de México
+projects_uids:
+  - derroche-por-la-democracia
+  - 62-pecados-estado-laico
+  - 10-de-guerra
+  - verificado
+  - narcodata
+  - matar-en-mexico
+  - indigenas-salud
+  - menores-migrantes
+  - violencia-no-normal
+  - prometo-como-eruviel
+  - mexico-desigual
+  - salud-chiapas
+  - el-sabueso
+  - red-karime-duarte
+  - estafa-maestra
+  - segundo-piso-puebla
 
 ---
 

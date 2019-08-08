@@ -19,6 +19,10 @@ tags:
   - periodismo-de-datos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - ruta-civica
+  - visual-reporting-technologies-s-de-r-l-de-c-v
+  - visual-reporting-technologies
 ---
 
 Esta iniciativa fue realizada por:

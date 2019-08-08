@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Río de Janeiro
+organizations_uids:
+  - cedaps
 ---
 
 Esta iniciativa fue realizada por:

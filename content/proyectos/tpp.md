@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Ciudad de México
+organizations_uids:
+  - tribunal-permanente-de-los-pueblos
 ---
 
 Esta iniciativa fue realizada por:

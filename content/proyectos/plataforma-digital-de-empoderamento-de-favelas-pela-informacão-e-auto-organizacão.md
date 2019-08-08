@@ -19,6 +19,9 @@ cities:
   - Río de Janeiro
   - CO
   - Denver
+organizations_uids:
+  - instituto-atlantico
+  - mega-cities
 ---
 
 Esta iniciativa fue realizada por:

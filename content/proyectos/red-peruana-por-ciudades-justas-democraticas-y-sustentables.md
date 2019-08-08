@@ -19,6 +19,11 @@ tags:
 cities: 
   - Lima
   - Trujillo
+organizations_uids:
+  - trujillo-ahora
+  - lima-como-vamos
+  - detona
+  - arequipa-te-queremos
 ---
 
 Esta iniciativa fue realizada por:

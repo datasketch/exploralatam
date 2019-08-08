@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Kingston
+projects_uids:
+  - harvest-api
 
 ---
 

@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Rosario
+projects_uids:
+  - bondiarapp
 
 ---
 

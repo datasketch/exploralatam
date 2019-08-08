@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Divinópolis
+projects_uids:
+  - vacuna-sociales-proyecto-tom-g5g
 
 ---
 

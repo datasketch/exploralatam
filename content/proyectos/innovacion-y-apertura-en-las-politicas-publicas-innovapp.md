@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Lima
+organizations_uids:
+  - democracia-desarrollo-internacional-d-d-internacional
 ---
 
 Esta iniciativa fue realizada por:

@@ -20,6 +20,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - San José
+projects_uids:
+  - red-pais-una-plataforma-para-articular-el-progreso-social
 
 ---
 

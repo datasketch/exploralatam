@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Caribe
+projects_uids:
+  - developing-the-caribean
 
 ---
 

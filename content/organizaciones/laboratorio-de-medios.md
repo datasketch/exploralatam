@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Ciudad de Guatemala
+projects_uids:
+  - ojo-con-mi-pisto
 
 ---
 

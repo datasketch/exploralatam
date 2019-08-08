@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - San José
+projects_uids:
+  - migranet-respaldo
 
 ---
 

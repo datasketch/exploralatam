@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Guatemala
+organizations_uids:
+  - municipalidad-de-guatemala
 ---
 
 Esta iniciativa fue realizada por:

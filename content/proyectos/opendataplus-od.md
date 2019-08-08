@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - San Salvador
+organizations_uids:
+  - iuristech-solutions
 ---
 
 Esta iniciativa fue realizada por:

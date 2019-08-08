@@ -19,6 +19,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Managua
+organizations_uids:
+  - fundacion-grupo-civico-etica-y-transparencia-eyt
+  - kronoscode
 ---
 
 Esta iniciativa fue realizada por:

@@ -16,6 +16,13 @@ tags:
 
 cities: 
   - Bogotá
+projects_uids:
+  - yo-sobrevivi
+  - cartografia-del-conflicto
+  - rios-vida-muerte
+  - la-paz-en-el-terreno
+  - acuatenientes
+  - por-una-vida-sin-coca
 
 ---
 

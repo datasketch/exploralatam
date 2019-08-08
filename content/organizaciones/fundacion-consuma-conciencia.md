@@ -17,6 +17,8 @@ tags:
   - otro
 cities: 
   - Santiago
+projects_uids:
+  - certificaciones-de-sostenibilidad-para-empresas-y-consumidores
 
 ---
 

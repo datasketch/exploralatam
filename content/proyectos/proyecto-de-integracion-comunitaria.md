@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Distrito Nacional
+organizations_uids:
+  - ideales-soluciones-sociales
 ---
 
 Esta iniciativa fue realizada por:

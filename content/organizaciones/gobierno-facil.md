@@ -24,6 +24,13 @@ cities:
   - Oaxaca
   - Monterrey
   - Ciudad de México
+projects_uids:
+  - habitala
+  - serendipia
+  - analisis-de-campana-para-candidatos-independientes
+  - plataforma-de-contrataciones-abiertas-mx
+  - gobierno-facil
+  - mexico-en-datos
 
 ---
 

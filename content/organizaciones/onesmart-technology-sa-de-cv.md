@@ -20,6 +20,8 @@ tags:
   - otro
 cities: 
   - Monterrey
+projects_uids:
+  - onesmart-technology
 
 ---
 

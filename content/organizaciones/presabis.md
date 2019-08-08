@@ -20,6 +20,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - 
+projects_uids:
+  - yo-propongo
 
 ---
 

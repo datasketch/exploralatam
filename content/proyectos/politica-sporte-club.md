@@ -14,6 +14,10 @@ tags:
 
 cities: 
   - São Paulo
+organizations_uids:
+  - softex
+  - arede
+  - portal-brasil
 ---
 
 Esta iniciativa fue realizada por:

@@ -17,6 +17,8 @@ tags:
   - mapeo-ciudadano
 cities: 
   - Río de Janeiro
+projects_uids:
+  - monitoramento-de-dados-ambientais-para-analise-de-risco
 
 ---
 

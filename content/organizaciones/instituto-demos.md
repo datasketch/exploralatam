@@ -18,6 +18,8 @@ tags:
   - otro
 cities: 
   - Guatemala
+projects_uids:
+  - el-uso-de-las-tics-para-el-desarrollo-social
 
 ---
 

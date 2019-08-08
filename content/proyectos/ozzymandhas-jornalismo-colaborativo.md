@@ -15,6 +15,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Brasilia
+organizations_uids:
+  - cobracriada
 ---
 
 Esta iniciativa fue realizada por:

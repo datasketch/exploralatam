@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Río de Janeiro
+organizations_uids:
+  - centro-de-empreendedorismo-universitario-consultoria-ltda
 ---
 
 Esta iniciativa fue realizada por:

@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Hermosillo
+projects_uids:
+  - tecnologia-y-el-mejoramiento-habitacional-urbano
 
 ---
 

@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Santiago
+organizations_uids:
+  - fundacion-proyecto-propio
 ---
 
 Esta iniciativa fue realizada por:

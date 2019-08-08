@@ -16,6 +16,8 @@ tags:
   - compras-publicas
 cities: 
   - Santiago
+projects_uids:
+  - plataforma-de-pequenos-constructores-para-infraestructura-y-bienes-publicos
 
 ---
 

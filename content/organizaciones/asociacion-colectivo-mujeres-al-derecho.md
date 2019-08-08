@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Barranquilla
+projects_uids:
+  - mujeres-campesinas-y-jovenes-por-una-participacion-ciudadana-digital-activa-y-reivindicativa-en-la-region-caribe-colombiana
 
 ---
 

@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Florianópolis
+projects_uids:
+  - proposta-metodologica-para-a-interpretacão-automatizada-geoespacial-da-questão-do-urbano-e-rural-no-brasil
 
 ---
 

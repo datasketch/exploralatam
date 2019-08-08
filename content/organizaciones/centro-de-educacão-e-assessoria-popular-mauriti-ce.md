@@ -23,6 +23,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Mauritice
+projects_uids:
+  - projeto-guardiões-do-cariri-cidade-modelo-mauriti-ce
 
 ---
 

@@ -19,6 +19,8 @@ tags:
   - participación-ciudadana
 cities: 
   - São Paulo
+projects_uids:
+  - laboratorio-de-governo-aberto-uma-plataforma-de-indicadores-e-engajamento-social
 
 ---
 

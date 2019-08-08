@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Santarém
+organizations_uids:
+  - centro-de-estudos-avancados-de-promocão-social-e-ambiental-ceaps-projeto-saude-alegria
 ---
 
 Esta iniciativa fue realizada por:

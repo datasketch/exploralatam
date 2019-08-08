@@ -17,6 +17,9 @@ tags:
   - participación-ciudadana
 cities: 
   - Valdivia
+organizations_uids:
+  - cooperativa-aca-comunicaciones
+  - agrupacion-biosfera
 ---
 
 Esta iniciativa fue realizada por:

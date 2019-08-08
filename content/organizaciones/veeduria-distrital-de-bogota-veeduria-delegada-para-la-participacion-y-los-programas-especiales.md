@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Bogotá
+projects_uids:
+  - mi-compromiso-con-bogota
 
 ---
 

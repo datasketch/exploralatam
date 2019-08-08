@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - olmeca-soy
 ---
 
 Esta iniciativa fue realizada por:

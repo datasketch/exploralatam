@@ -22,6 +22,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Cancún
+projects_uids:
+  - plataforma-ciudadana-de-seguridad-vial-para-la-ciudad-de-mexico
 
 ---
 

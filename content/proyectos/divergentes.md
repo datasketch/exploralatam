@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - pacifista-col
 ---
 
 Esta iniciativa fue realizada por:

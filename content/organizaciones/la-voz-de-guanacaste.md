@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Nicoya
+projects_uids:
+  - guanadata-2-0
 
 ---
 

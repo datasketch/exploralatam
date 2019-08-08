@@ -16,6 +16,8 @@ tags:
   - transparencia-y-rendicion-de-cuentas
 cities: 
   - Palpalá
+projects_uids:
+  - saludx
 
 ---
 

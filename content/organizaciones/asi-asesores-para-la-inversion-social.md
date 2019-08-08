@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Guadalajara
+projects_uids:
+  - construyendo-caminos-seguros
 
 ---
 

@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Lima
+organizations_uids:
+  - mas-cultura
 ---
 
 Esta iniciativa fue realizada por:

@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - São Paulo
+organizations_uids:
+  - mgov-brasil
 ---
 
 Esta iniciativa fue realizada por:

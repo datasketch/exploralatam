@@ -19,6 +19,9 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Ilhéus
+projects_uids:
+  - mobilidade-urbana-aberta
+  - mobilidade-urbana-aberta
 
 ---
 

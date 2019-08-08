@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Valparaíso
+projects_uids:
+  - municipio-transparente-y-participativo
 
 ---
 

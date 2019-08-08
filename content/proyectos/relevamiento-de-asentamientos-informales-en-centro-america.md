@@ -14,6 +14,9 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - techo-internacional-oficina-central
+  - wingu-tecnologia-sin-fines-de-lucro
 ---
 
 Esta iniciativa fue realizada por:

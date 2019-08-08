@@ -16,6 +16,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Belém
+projects_uids:
+  - plataforma-de-seguimiento-de-la-gestion-forestal-comunitaria-uso-multiple-uso-sostenible-de-unidades-de-conservacion-en-la-amazonia-brasiliera
 
 ---
 

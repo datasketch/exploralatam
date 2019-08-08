@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Asunción
+organizations_uids:
+  - tedic
 ---
 
 Esta iniciativa fue realizada por:

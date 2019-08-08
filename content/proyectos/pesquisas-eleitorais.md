@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - gazeta-do-povo
 ---
 
 Esta iniciativa fue realizada por:

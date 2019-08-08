@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Ciudad de México
+organizations_uids:
+  - cide
 ---
 
 Esta iniciativa fue realizada por:

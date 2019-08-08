@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Bogotá
+organizations_uids:
+  - fundacion-gestores-sociales
 ---
 
 Esta iniciativa fue realizada por:

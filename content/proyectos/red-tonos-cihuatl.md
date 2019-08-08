@@ -18,6 +18,10 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - cultura-y-educacion-para-el-desarrollo-y-la-autonomia-en-mexico
+  - agencia-metropolitana-de-seguridad-laboratorio-de-politicas-publicas
+  - zapopan-lab
 ---
 
 Esta iniciativa fue realizada por:

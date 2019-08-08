@@ -19,6 +19,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Mendoza
+organizations_uids:
+  - silice
+  - nuestra-mendoza-fundacion-nuestra-mendoza
 ---
 
 Esta iniciativa fue realizada por:

@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Lima
+organizations_uids:
+  - lima-i-o
 ---
 
 Esta iniciativa fue realizada por:

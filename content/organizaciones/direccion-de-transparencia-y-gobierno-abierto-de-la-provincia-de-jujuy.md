@@ -18,6 +18,8 @@ tags:
   - otro
 cities: 
   - San Salvador de Jujuy
+projects_uids:
+  - jujuy-colaborativo
 
 ---
 

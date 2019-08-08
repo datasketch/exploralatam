@@ -14,6 +14,8 @@ tags:
   - participación-ciudadana
 cities: 
   - São Paulo
+organizations_uids:
+  - vetor-brasil
 ---
 
 Esta iniciativa fue realizada por:

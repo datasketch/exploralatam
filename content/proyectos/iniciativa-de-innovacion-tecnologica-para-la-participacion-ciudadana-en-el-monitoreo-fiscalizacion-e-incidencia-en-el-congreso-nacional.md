@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Santo Domingo
+organizations_uids:
+  - participacion-ciudadana-capitulo-dominicano-transparencia-internacional
 ---
 
 Esta iniciativa fue realizada por:

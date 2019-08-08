@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Santiago
+organizations_uids:
+  - asociacion-nacional-para-el-fomento-de-la-economia-del-bien-comun-en-chile
 ---
 
 Esta iniciativa fue realizada por:

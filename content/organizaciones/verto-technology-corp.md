@@ -17,6 +17,8 @@ tags:
   - otro
 cities: 
   - Guatemala
+projects_uids:
+  - verto-app
 
 ---
 

@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - cuentas-claras
 ---
 
 Esta iniciativa fue realizada por:

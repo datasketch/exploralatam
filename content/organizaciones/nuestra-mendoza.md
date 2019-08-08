@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Mendoza
+projects_uids:
+  - innovacion-civica-para-la-mejora-del-transporte-publico-en-mendoza
 
 ---
 

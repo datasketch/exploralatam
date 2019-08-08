@@ -16,6 +16,11 @@ tags:
 
 cities: 
   - Santiago
+projects_uids:
+  - hay-acuerdos
+  - congreso-abierto-chile
+  - dichoalhecho
+  - ciudadano-inteligente
 
 ---
 

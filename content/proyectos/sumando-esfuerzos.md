@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - sumando-esfuerzos
 ---
 
 Esta iniciativa fue realizada por:

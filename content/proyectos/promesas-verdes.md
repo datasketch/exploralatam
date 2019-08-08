@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Lima
+organizations_uids:
+  - sociedad-peruana-de-derecho-ambiental
 ---
 
 Esta iniciativa fue realizada por:

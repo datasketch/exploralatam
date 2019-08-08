@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Belo Horizonte
+organizations_uids:
+  - malalai-tecnologia-de-seguranca-ltda
 ---
 
 Esta iniciativa fue realizada por:

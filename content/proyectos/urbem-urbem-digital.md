@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - civica-digital
 ---
 
 Esta iniciativa fue realizada por:

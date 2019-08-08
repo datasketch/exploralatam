@@ -16,6 +16,13 @@ tags:
 
 cities: 
 
+projects_uids:
+  - en-dos-ruedas-y-con-electricidad
+  - las-patrias-del-atletismo
+  - de-watergate-a-trump
+  - medicos-de-cuba-para-el-mundo
+  - explora-la-candidatura
+  - consejo-estado-cuba
 
 ---
 

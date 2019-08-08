@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - São Paulo
+organizations_uids:
+  - instituto-casa-da-cidade
 ---
 
 Esta iniciativa fue realizada por:

@@ -14,6 +14,9 @@ tags:
   - participación-ciudadana
 cities: 
   - Buenos Aires
+organizations_uids:
+  - wingu
+  - economia-feminista
 ---
 
 Esta iniciativa fue realizada por:

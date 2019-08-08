@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Iquique
+projects_uids:
+  - economia-local-y-megamineria
 
 ---
 

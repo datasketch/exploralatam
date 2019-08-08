@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Sao Paulo
+projects_uids:
+  - lupa
 
 ---
 

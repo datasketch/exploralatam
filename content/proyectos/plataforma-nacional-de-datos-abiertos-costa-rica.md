@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - San José
+organizations_uids:
+  - gobierno-de-costa-rica
 ---
 
 Esta iniciativa fue realizada por:

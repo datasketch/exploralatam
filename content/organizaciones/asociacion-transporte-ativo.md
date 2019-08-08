@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Río de Janeiro
+projects_uids:
+  - plataforma-de-bicicletas-publicas-y-compartidas-de-america-latina
 
 ---
 

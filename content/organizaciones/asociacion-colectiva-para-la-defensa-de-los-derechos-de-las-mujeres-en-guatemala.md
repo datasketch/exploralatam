@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Guatemala
+projects_uids:
+  - la-tecnologia-un-reto-para-el-avance-tecnico-y-politico-de-las-funcionarias-municipales
 
 ---
 

@@ -16,6 +16,9 @@ tags:
   - participación-ciudadana
 cities: 
   - Londrina
+projects_uids:
+  - todos-por-um-tp1
+  - associacão-todos-por-um-tp1
 
 ---
 

@@ -20,6 +20,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Quito
+projects_uids:
+  - decretazo-ec
+  - transparencia-y-desarrollo-civico-en-ecuador
 
 ---
 

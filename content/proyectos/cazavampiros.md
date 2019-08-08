@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Ciudad de México
+organizations_uids:
+  - invernaideas
 ---
 
 Esta iniciativa fue realizada por:

@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - San José
+projects_uids:
+  - comoayudo-org
 
 ---
 

@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Divinópolis
+organizations_uids:
+  - mindball-ong-planeta
 ---
 
 Esta iniciativa fue realizada por:

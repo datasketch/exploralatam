@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - usocial-maps
 ---
 
 Esta iniciativa fue realizada por:

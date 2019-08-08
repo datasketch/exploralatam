@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - São Paulo
+projects_uids:
+  - plataforma-brasil-compra-cidadão-fiscaliza
 
 ---
 

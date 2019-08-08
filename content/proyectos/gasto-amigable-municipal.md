@@ -16,6 +16,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Santiago
+organizations_uids:
+  - observatorio-del-gasto-fiscal-via-fundacion-contexto-ciudadano
+  - universidad-de-santiago-de-chile-facultad-de-administracion-y-economia
 ---
 
 Esta iniciativa fue realizada por:

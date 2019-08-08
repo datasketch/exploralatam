@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Buenos Aires
+organizations_uids:
+  - democracia-en-red
 ---
 
 Esta iniciativa fue realizada por:

@@ -16,6 +16,9 @@ tags:
 
 cities: 
   - Managua
+projects_uids:
+  - comunidades-de-software-libre
+  - grupo-informal-de-creative-commons
 
 ---
 

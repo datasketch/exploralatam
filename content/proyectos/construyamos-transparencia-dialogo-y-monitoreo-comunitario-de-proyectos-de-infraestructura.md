@@ -17,6 +17,10 @@ tags:
 cities: 
   - Buenos Aires
   - Córdoba
+organizations_uids:
+  - fundacion-para-el-desarrollo-de-politicas-sustentables-fundeps
+  - fundacion-ambiente-y-recursos-naturales-farn
+  - moodstudio
 ---
 
 Esta iniciativa fue realizada por:

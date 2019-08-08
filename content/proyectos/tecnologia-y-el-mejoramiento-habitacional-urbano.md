@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Hermosillo
+organizations_uids:
+  - centro-de-innovacion-a-la-vivienda-civ-a-c
 ---
 
 Esta iniciativa fue realizada por:

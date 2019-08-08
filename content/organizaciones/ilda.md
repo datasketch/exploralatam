@@ -16,6 +16,12 @@ tags:
 
 cities: 
   - Montevideo
+projects_uids:
+  - mapeando-habilidades-y-capacidades-de-la-region
+  - respira-ciudad
+  - datos-y-enfermedades-de-transmision-vectorial
+  - cuidando-de-meu-barrio
+  - genero-datos-y-seguridad
 
 ---
 

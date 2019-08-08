@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - techo
 ---
 
 Esta iniciativa fue realizada por:

@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - São Paulo
+organizations_uids:
+  - todos-pela-educacão
 ---
 
 Esta iniciativa fue realizada por:

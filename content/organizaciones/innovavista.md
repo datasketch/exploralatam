@@ -21,6 +21,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Rosario
+projects_uids:
+  - compromiso-ciudadano
 
 ---
 

@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - São Paulo
+organizations_uids:
+  - associacão-brasileira-de-jornalismo-investigativo
 ---
 
 Esta iniciativa fue realizada por:

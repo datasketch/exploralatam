@@ -16,6 +16,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - San Salvador
+organizations_uids:
+  - fundacion-latitudes
 ---
 
 Esta iniciativa fue realizada por:

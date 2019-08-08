@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - fundar-centro-de-analisis-e-investigacion
 ---
 
 Esta iniciativa fue realizada por:

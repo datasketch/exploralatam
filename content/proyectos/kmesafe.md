@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Santo Domingo
+organizations_uids:
+  - youniversys-srl
 ---
 
 Esta iniciativa fue realizada por:

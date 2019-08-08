@@ -20,6 +20,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Guatemala
+projects_uids:
+  - app-interfaz-de-verificacion-de-cuotas-patronales-del-sector-publico-y-privado-igss-guatemala
 
 ---
 

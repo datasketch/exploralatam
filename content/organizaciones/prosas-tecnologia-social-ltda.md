@@ -19,6 +19,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Belo Horizonte
+projects_uids:
+  - prosas-plataforma-para-selecão-e-monitoramento-de-projetos-sociais
 
 ---
 

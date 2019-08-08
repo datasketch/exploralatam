@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Bruselas
+organizations_uids:
+  - instituto-del-desarrollo-de-la-juventud
 ---
 
 Esta iniciativa fue realizada por:

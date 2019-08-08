@@ -17,6 +17,8 @@ tags:
   - mapeo-ciudadano
 cities: 
   - Florianópolis
+projects_uids:
+  - sinais-vitais
 
 ---
 

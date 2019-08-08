@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Lima
+organizations_uids:
+  - inppares-instituto-peruano-de-paternidad-responsables
 ---
 
 Esta iniciativa fue realizada por:

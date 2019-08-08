@@ -15,6 +15,10 @@ tags:
   - participación-ciudadana
 cities: 
   - Lima
+organizations_uids:
+  - lima-como-vamos
+  - detona
+  - asociacion-unacem
 ---
 
 Esta iniciativa fue realizada por:

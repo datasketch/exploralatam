@@ -16,6 +16,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Loja
+organizations_uids:
+  - grupo-de-investigacion-de-sistemas-basados-en-el-conocimiento-universidad-tecnica-particular-de-loja
 ---
 
 Esta iniciativa fue realizada por:

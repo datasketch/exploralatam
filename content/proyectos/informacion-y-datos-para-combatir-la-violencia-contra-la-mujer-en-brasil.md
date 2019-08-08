@@ -16,6 +16,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - São Paulo
+organizations_uids:
+  - artigo-19-brasil
 ---
 
 Esta iniciativa fue realizada por:

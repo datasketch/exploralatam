@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Limeira
+organizations_uids:
+  - eixo-publico-consultoria-junior
 ---
 
 Esta iniciativa fue realizada por:

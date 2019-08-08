@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Lima
+organizations_uids:
+  - odpe-pe
 ---
 
 Esta iniciativa fue realizada por:

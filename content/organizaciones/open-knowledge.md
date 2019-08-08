@@ -16,6 +16,9 @@ tags:
 
 cities: 
 
+projects_uids:
+  - open-knowledge-paraguay
+  - open-knowledge-argentina
 
 ---
 

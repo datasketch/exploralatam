@@ -16,6 +16,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - este-pais-a-c
+  - animal-s-de-r-l-de-c-v
 ---
 
 Esta iniciativa fue realizada por:

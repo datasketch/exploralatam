@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Lima
+organizations_uids:
+  - ojo-publico
 ---
 
 Esta iniciativa fue realizada por:

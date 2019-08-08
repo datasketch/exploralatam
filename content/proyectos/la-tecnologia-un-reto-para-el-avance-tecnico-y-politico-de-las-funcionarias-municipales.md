@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Guatemala
+organizations_uids:
+  - asociacion-colectiva-para-la-defensa-de-los-derechos-de-las-mujeres-en-guatemala
 ---
 
 Esta iniciativa fue realizada por:

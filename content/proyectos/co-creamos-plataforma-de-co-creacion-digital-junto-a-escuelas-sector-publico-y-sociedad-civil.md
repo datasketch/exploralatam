@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Buenos Aires
+organizations_uids:
+  - faro-digital
 ---
 
 Esta iniciativa fue realizada por:

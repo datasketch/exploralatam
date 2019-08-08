@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Asunción
+organizations_uids:
+  - hack-hackers-asuncion
 ---
 
 Esta iniciativa fue realizada por:

@@ -21,6 +21,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Belo Horizonte
+projects_uids:
+  - mobqi
 
 ---
 

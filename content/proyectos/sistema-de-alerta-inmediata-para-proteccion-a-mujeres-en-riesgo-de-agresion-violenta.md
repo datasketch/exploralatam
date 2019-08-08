@@ -15,6 +15,9 @@ tags:
 cities: 
   - Bogotá
   - Bucaramanga
+organizations_uids:
+  - comite-para-la-democratizacion-de-la-informatica-cdi-colombia
+  - inkco-sas
 ---
 
 Esta iniciativa fue realizada por:

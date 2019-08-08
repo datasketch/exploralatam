@@ -19,6 +19,10 @@ tags:
 cities: 
   - Medellín
   - Bogotá
+projects_uids:
+  - az-en-construccion
+  - paz-en-construccion
+  - tecnologia-civica-para-una-sociedad-conectada-y-participativa
 
 ---
 

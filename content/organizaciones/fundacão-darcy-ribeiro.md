@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Río de Janeiro
+projects_uids:
+  - plataforma-digital-do-livro-aos-trancos-e-barrancos-como-o-brasil-deu-no-que-deu-de-darcy-ribeiro
 
 ---
 

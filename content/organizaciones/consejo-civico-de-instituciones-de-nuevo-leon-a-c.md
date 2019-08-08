@@ -19,6 +19,8 @@ tags:
   - otro
 cities: 
   - Cancún
+projects_uids:
+  - plataforma-de-visualizacion-de-plan-de-metas-de-nuevo-leon
 
 ---
 

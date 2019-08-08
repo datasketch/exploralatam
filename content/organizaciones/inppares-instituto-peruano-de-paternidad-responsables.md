@@ -19,6 +19,8 @@ tags:
   - otro
 cities: 
   - Lima
+projects_uids:
+  - conectados-tecnologia-civica-para-el-acceso-de-los-servicios-de-salud-y-ejercicio-de-los-derechos-sexuales-y-derechos-reproductivos-de-adolescentes-y-jovenes
 
 ---
 

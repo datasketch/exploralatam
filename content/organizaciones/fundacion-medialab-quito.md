@@ -20,6 +20,8 @@ tags:
 cities: 
   - Quito
   - Guayaquil
+projects_uids:
+  - mi-emprendimiento-abierto
 
 ---
 

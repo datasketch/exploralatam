@@ -16,6 +16,9 @@ tags:
 
 cities: 
   - Ciudad de México
+projects_uids:
+  - od500mx
+  - estrategia-digital-nacional-de-datos-abiertos
 
 ---
 

@@ -25,6 +25,15 @@ cities:
   - Buenos Aires
   - Ciudad de México
   - Bogotá
+projects_uids:
+  - datarepublica-tecnologia-y-datos-para-el-desarrollo-sostenible-en-america-latina
+  - ruta-de-las-medicinas
+  - caminos-de-la-villa
+  - el-recorrido-tecnologia-ciudadana-para-mejorar-la-deteccion-temprana-del-cancer-en-el-sistema-publico-de-salud
+  - relevamiento-de-asentamientos-informales-en-centro-america
+  - wingu
+  - cdlv-el-monitor-de-los-procesos-de-urbanizacion-de-villas
+  - calculadora-de-la-desigualdad-de-genero
 
 ---
 

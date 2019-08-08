@@ -18,6 +18,12 @@ cities:
   - Buenos Aires
   - Lima
   - Mundo
+projects_uids:
+  - la-otra-trama
+  - caminos-de-la-villa
+  - banco-mundial
+  - sin-nombre
+  - datea-pe
 
 ---
 

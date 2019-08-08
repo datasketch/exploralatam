@@ -14,6 +14,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Buenos Aires
+organizations_uids:
+  - atlas-smart-cities
 ---
 
 Esta iniciativa fue realizada por:

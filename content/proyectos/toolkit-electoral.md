@@ -14,6 +14,10 @@ tags:
 
 cities: 
   - São Paulo
+organizations_uids:
+  - aparabolica
+  - update
+  - labhacker
 ---
 
 Esta iniciativa fue realizada por:

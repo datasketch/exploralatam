@@ -16,6 +16,9 @@ tags:
   - otro
 cities: 
   - Panamá
+projects_uids:
+  - comunidas-2-0
+  - comunidas-2-0
 
 ---
 

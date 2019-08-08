@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Panamá
+organizations_uids:
+  - gobierno-de-panama
 ---
 
 Esta iniciativa fue realizada por:

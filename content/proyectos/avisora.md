@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - avisora
 ---
 
 Esta iniciativa fue realizada por:

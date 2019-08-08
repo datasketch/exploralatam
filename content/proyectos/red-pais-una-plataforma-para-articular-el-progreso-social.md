@@ -18,6 +18,10 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - San José
+organizations_uids:
+  - responsible-business-alliance-rba
+  - fundacion-villafranca-y-zurcher-para-la-educacion-de-la-juventud-a-traves-del-turismo
+  - estudio-manati-s-a
 ---
 
 Esta iniciativa fue realizada por:

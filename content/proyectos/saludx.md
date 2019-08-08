@@ -16,6 +16,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Palpalá
+organizations_uids:
+  - cristian-damian-cazon
 ---
 
 Esta iniciativa fue realizada por:

@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Porto Alegre
+organizations_uids:
+  - centro-de-assessoria-multiprofissional
 ---
 
 Esta iniciativa fue realizada por:

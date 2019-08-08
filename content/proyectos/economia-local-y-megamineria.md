@@ -14,6 +14,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Iquique
+organizations_uids:
+  - fundacion-juventud-emprendedora
 ---
 
 Esta iniciativa fue realizada por:

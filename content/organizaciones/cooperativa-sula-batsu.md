@@ -20,6 +20,8 @@ tags:
   - otro
 cities: 
   - San José
+projects_uids:
+  - plataforma-digital-de-participacion-y-fiscalizacion-ciudadana-de-las-personas-jovenes-rurales-de-cartago
 
 ---
 

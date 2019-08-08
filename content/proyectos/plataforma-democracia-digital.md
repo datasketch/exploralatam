@@ -15,6 +15,9 @@ tags:
   - participación-ciudadana
 cities: 
   - Quito
+organizations_uids:
+  - emagic
+  - fundacion-democracia-digital-ecuador
 ---
 
 Esta iniciativa fue realizada por:

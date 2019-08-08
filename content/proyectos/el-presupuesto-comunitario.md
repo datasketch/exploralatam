@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - New Orleans
+organizations_uids:
+  - committee-for-a-better-new-orleans-comite-por-una-mejor-nueva-orleans
 ---
 
 Esta iniciativa fue realizada por:

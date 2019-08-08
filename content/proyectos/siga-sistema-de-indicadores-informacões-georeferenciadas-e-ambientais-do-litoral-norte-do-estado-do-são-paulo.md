@@ -14,6 +14,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Ilhabela
+organizations_uids:
+  - instituto-ilhabela-sustentavel
 ---
 
 Esta iniciativa fue realizada por:

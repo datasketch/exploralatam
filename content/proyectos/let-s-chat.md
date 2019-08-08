@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Santiago
+organizations_uids:
+  - let-s-chat
 ---
 
 Esta iniciativa fue realizada por:

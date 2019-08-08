@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Minas
+organizations_uids:
+  - olhoneles
 ---
 
 Esta iniciativa fue realizada por:

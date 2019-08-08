@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - São Paulo
+organizations_uids:
+  - ninja
 ---
 
 Esta iniciativa fue realizada por:

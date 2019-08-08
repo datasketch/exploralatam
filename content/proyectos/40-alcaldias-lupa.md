@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - ojo-con-mi-pisto
 ---
 
 Esta iniciativa fue realizada por:

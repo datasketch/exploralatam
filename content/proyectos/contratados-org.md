@@ -15,6 +15,9 @@ tags:
 cities: 
   - Guadalajara
   - Ciudad de México
+organizations_uids:
+  - civica-digital
+  - centro-de-los-derechos-del-migrante-inc
 ---
 
 Esta iniciativa fue realizada por:

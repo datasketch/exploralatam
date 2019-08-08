@@ -20,6 +20,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Ciudad de México
+projects_uids:
+  - sistema-de-gestion-participativa-para-la-incidencia-social-en-politicas-publicas
 
 ---
 

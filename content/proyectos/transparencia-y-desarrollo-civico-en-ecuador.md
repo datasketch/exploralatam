@@ -17,6 +17,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Quito
+organizations_uids:
+  - datalat
+  - fundacion-ciudadania-y-desarrollo
 ---
 
 Esta iniciativa fue realizada por:

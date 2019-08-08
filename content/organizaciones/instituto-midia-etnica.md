@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Salvador
+projects_uids:
+  - vojo-brasil-conectando-comunidades-afros-do-brasil
 
 ---
 

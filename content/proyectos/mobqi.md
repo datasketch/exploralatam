@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Belo Horizonte
+organizations_uids:
+  - jmm-tech
 ---
 
 Esta iniciativa fue realizada por:

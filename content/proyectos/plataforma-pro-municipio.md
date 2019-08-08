@@ -17,6 +17,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - socialtic
+  - centro-de-investigaciones-y-estudios-en-antropologia-social
 ---
 
 Esta iniciativa fue realizada por:

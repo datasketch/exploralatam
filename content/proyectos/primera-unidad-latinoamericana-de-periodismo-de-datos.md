@@ -14,6 +14,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - investigacion-e-innovacion-factual-a-c
 ---
 
 Esta iniciativa fue realizada por:

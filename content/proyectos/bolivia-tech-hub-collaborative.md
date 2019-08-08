@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - 
+organizations_uids:
+  - acm-sim
 ---
 
 Esta iniciativa fue realizada por:

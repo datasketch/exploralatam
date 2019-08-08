@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Rosario
+organizations_uids:
+  - bondiar
 ---
 
 Esta iniciativa fue realizada por:

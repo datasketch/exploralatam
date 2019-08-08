@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Río de Janeiro
+organizations_uids:
+  - olabi
 ---
 
 Esta iniciativa fue realizada por:

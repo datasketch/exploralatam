@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Buenos Aires
+projects_uids:
+  - omo-viajamos-app-para-realizar-denuncias-y-reclamos-en-el-uso-del-transporte-publico-de-pasajeros-de-la-region-metropolitana-de-buenos-aires
 
 ---
 

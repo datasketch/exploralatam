@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Ciudad de México
+projects_uids:
+  - fresconsciente
 
 ---
 

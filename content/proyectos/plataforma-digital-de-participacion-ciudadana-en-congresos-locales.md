@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - borde-politico-a-c
 ---
 
 Esta iniciativa fue realizada por:

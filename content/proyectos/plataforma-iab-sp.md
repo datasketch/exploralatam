@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - São Paulo
+organizations_uids:
+  - instituto-de-arquitetos-do-brasil-departamento-de-são-paulo-iab-sp
 ---
 
 Esta iniciativa fue realizada por:

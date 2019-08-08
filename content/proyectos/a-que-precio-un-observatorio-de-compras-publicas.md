@@ -14,6 +14,9 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - chequeado
+  - lndata
 ---
 
 Esta iniciativa fue realizada por:

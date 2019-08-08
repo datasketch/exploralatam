@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Las Condes
+projects_uids:
+  - blockchain-transparencia-y-servicios-publicos
 
 ---
 

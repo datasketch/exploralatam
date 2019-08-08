@@ -20,6 +20,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Quito
+projects_uids:
+  - laboratorio-de-movilidad
 
 ---
 

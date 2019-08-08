@@ -21,6 +21,11 @@ tags:
   - periodismo-de-datos
 cities: 
   - Buenos Aires
+projects_uids:
+  - a-que-precio-un-observatorio-de-compras-publicas
+  - dbjj-abiertas
+  - la-nacion-data
+  - voz-data
 
 ---
 

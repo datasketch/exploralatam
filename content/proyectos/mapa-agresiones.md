@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - flip
 ---
 
 Esta iniciativa fue realizada por:

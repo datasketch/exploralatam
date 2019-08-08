@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - São Paulo
+organizations_uids:
+  - programa-cidades-sustentaeis
 ---
 
 Esta iniciativa fue realizada por:

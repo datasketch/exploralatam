@@ -14,6 +14,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Salvador
+organizations_uids:
+  - instituto-midia-etnica
 ---
 
 Esta iniciativa fue realizada por:

@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - monoku
 ---
 
 Esta iniciativa fue realizada por:

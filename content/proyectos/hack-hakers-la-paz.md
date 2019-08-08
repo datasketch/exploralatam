@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - 
+organizations_uids:
+  - hacks-hackers
 ---
 
 Esta iniciativa fue realizada por:

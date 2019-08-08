@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Bucaramanga
+organizations_uids:
+  - corporacion-cobeii
 ---
 
 Esta iniciativa fue realizada por:

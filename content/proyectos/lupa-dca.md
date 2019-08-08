@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Jaboatao dos Guararapes
+organizations_uids:
+  - instituto-metropolitano-de-profissionalizacão-arte-cultura-e-oportunidades-impacto
 ---
 
 Esta iniciativa fue realizada por:

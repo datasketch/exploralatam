@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Guatemala
+organizations_uids:
+  - red-ciudadana
 ---
 
 Esta iniciativa fue realizada por:

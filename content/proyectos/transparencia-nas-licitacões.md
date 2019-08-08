@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - São Paulo
+organizations_uids:
+  - transparencia-brasil
 ---
 
 Esta iniciativa fue realizada por:

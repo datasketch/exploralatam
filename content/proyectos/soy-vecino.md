@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Monterrey
+organizations_uids:
+  - centro-eugenio-garza-sada
 ---
 
 Esta iniciativa fue realizada por:

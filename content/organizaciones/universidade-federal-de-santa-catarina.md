@@ -22,6 +22,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Araranguá
+projects_uids:
+  - sistema-de-gestão-de-ideias-para-seguranca-publica
 
 ---
 

@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Montevideo
+organizations_uids:
+  - checkuy
 ---
 
 Esta iniciativa fue realizada por:

@@ -21,6 +21,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Porto Alegre
+projects_uids:
+  - plataforma-ecosol-feminista
 
 ---
 

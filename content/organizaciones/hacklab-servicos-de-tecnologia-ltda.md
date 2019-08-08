@@ -21,6 +21,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Sao Paulo
+projects_uids:
+  - plataforma-brasil-compra-cidadão-fiscaliza
 
 ---
 

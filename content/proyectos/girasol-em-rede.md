@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Porto Alegre
+organizations_uids:
+  - cooperativa-girasol-de-cosumo-solidario
 ---
 
 Esta iniciativa fue realizada por:

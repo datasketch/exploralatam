@@ -21,6 +21,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - 
+projects_uids:
+  - bolivia-tech-hub-collaborative
 
 ---
 

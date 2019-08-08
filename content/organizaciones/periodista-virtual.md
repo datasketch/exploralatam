@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - 
+projects_uids:
+  - 100-jovenes-periodistas-todo-bolivia-periodista-virtual
 
 ---
 

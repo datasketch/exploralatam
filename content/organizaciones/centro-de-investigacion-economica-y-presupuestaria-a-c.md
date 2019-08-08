@@ -19,6 +19,8 @@ tags:
   - otro
 cities: 
   - Ciudad de México
+projects_uids:
+  - tu-dinero-tu-gobierno
 
 ---
 

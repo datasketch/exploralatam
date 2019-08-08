@@ -20,6 +20,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Guatemala
+projects_uids:
+  - plataforma-de-vigilancia-ciudadana
 
 ---
 

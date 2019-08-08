@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Lima
+organizations_uids:
+  - tannder-corp
 ---
 
 Esta iniciativa fue realizada por:

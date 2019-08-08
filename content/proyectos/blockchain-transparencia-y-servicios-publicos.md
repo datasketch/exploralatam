@@ -17,6 +17,9 @@ tags:
 cities: 
   - Las Condes
   - Buenos Aires
+organizations_uids:
+  - mismatica-management-sistemas-de-gestion-mismatica-chile-limitada
+  - prince-consulting-kmt-business-education-sa
 ---
 
 Esta iniciativa fue realizada por:

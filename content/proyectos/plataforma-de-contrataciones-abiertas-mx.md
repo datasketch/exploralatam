@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Monterrey
+organizations_uids:
+  - gobierno-facil
 ---
 
 Esta iniciativa fue realizada por:

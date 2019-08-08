@@ -16,6 +16,8 @@ tags:
   - transparencia-y-rendicion-de-cuentas
 cities: 
   - São Paulo
+projects_uids:
+  - cidades-transparentes-inovacões-a-partir-de-dados-abertos
 
 ---
 

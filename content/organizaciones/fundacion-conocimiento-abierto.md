@@ -21,6 +21,10 @@ tags:
 cities: 
   - Montevideo
   - Córdoba
+projects_uids:
+  - analisis-de-portales-de-datos-abiertos-gubernamentales,analisis-de-portales-de-datos-abiertos-gubernamentales-segunda-carga-con-la-metodologia-en-la-anterior-aplicacion-no-la-llegamos-a-cargar
+  - yo-voto-informado
+  - herramienta-para-diseno-gestion-y-diagnostico-de-estrategia-para-gobiernos-locales-abiertos
 
 ---
 

@@ -20,6 +20,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Monterrey
+projects_uids:
+  - crear-un-centro-de-atencion-ciudadana-online-y-semipresencial
 
 ---
 

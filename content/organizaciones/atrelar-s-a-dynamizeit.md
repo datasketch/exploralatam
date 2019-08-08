@@ -19,6 +19,8 @@ cities:
   - Montevideo
   - Quito
   - Miami
+projects_uids:
+  - plataforma-para-el-monitoreo-de-parametros-de-salud-y-de-actividad-del-adulto-mayor
 
 ---
 

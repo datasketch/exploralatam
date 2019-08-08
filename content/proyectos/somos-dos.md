@@ -14,6 +14,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Bogotá
+organizations_uids:
+  - ecosocial-consultores-s-a-s
 ---
 
 Esta iniciativa fue realizada por:

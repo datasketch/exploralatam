@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Altaneira
+projects_uids:
+  - plataforma-cidadã
 
 ---
 

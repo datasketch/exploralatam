@@ -17,6 +17,9 @@ tags:
 cities: 
   - Quito
   - Mundo
+projects_uids:
+  - creative-commons-ecuador
+  - sin-nombre
 
 ---
 

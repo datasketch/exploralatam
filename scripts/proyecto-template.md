@@ -14,6 +14,8 @@ tags:
 {tags}
 cities: 
 {cities}
+organizations_uids:
+{organizations_uids_yaml}
 ---
 
 Esta iniciativa fue realizada por:

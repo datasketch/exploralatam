@@ -14,6 +14,9 @@ tags:
 
 cities: 
   - 
+organizations_uids:
+  - hivos
+  - periodista-virtual
 ---
 
 Esta iniciativa fue realizada por:

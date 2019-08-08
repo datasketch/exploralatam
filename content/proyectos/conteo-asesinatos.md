@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - strategia-electoral
 ---
 
 Esta iniciativa fue realizada por:

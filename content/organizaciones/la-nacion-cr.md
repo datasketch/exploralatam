@@ -16,6 +16,11 @@ tags:
 
 cities: 
   - San José
+projects_uids:
+  - las-silenciadas
+  - voto-de-fe
+  - elecciones-2018
+  - narco-decomisos
 
 ---
 

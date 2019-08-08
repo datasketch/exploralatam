@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Guatemala
+organizations_uids:
+  - verto-technology-corp
 ---
 
 Esta iniciativa fue realizada por:

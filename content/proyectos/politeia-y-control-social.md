@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - La Dorada
+organizations_uids:
+  - corporacion-programa-de-desarrollo-para-la-paz
 ---
 
 Esta iniciativa fue realizada por:

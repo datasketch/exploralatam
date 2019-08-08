@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Medellín
+projects_uids:
+  - fundacion-la-network
 
 ---
 

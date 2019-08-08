@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Santiago
+projects_uids:
+  - banca-etica-latinoamerica
 
 ---
 

@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Medellín
+organizations_uids:
+  - thot-group
 ---
 
 Esta iniciativa fue realizada por:

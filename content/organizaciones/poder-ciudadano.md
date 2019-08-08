@@ -16,6 +16,9 @@ tags:
 
 cities: 
   - Buenos Aires
+projects_uids:
+  - dbjj-abiertas
+  - poder-ciudadano
 
 ---
 

@@ -18,6 +18,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Antigua Guatemala
+projects_uids:
+  - concive-y-tecnologia-civica
 
 ---
 

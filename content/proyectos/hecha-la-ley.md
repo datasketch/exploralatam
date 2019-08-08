@@ -15,6 +15,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Buenos Aires
+organizations_uids:
+  - democracia-en-red
+  - directorio-legislativo
 ---
 
 Esta iniciativa fue realizada por:

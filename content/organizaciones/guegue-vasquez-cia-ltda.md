@@ -21,6 +21,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Nueva York
+projects_uids:
+  - por-mi-barrio-nicaragua
 
 ---
 

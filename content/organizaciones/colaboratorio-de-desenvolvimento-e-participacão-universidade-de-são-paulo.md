@@ -19,6 +19,8 @@ tags:
   - participación-ciudadana
 cities: 
   - São Paulo
+projects_uids:
+  - cuidando-e-monitorando-a-cidade
 
 ---
 

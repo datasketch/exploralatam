@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Lima
+organizations_uids:
+  - escuela-de-datos-peru
 ---
 
 Esta iniciativa fue realizada por:

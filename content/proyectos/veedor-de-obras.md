@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Bogotá
+organizations_uids:
+  - veeduria-distrital-de-bogota-veeduria-delegada-para-la-contratacion
 ---
 
 Esta iniciativa fue realizada por:

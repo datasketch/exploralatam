@@ -14,6 +14,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Buenos Aires
+organizations_uids:
+  - fundacion-ensena-por-argentina
 ---
 
 Esta iniciativa fue realizada por:

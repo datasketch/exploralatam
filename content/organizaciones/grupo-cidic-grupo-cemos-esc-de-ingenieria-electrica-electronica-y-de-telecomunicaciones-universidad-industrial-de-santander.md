@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Bucaramanga
+projects_uids:
+
 
 ---
 

@@ -18,6 +18,9 @@ tags:
 cities: 
   - San Jorge
   - Rosario
+organizations_uids:
+  - innovavista
+  - municipalidad-de-san-jorge
 ---
 
 Esta iniciativa fue realizada por:

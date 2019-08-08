@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Ciudad de México
+organizations_uids:
+  - oeste-mx
 ---
 
 Esta iniciativa fue realizada por:

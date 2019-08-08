@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Bogotá
+organizations_uids:
+  - laboratorio-para-la-accion-publica
 ---
 
 Esta iniciativa fue realizada por:

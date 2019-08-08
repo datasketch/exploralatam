@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Aguascalientes
+projects_uids:
+  - rendicion-cuentas-mx
 
 ---
 

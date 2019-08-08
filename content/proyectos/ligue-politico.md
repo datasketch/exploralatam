@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - ligue-politico
 ---
 
 Esta iniciativa fue realizada por:

@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - São Paulo
+organizations_uids:
+  - avesso-sustentabilidade
 ---
 
 Esta iniciativa fue realizada por:

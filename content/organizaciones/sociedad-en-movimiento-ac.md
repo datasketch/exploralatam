@@ -19,6 +19,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Ciudad de México
+projects_uids:
+  - click-social
 
 ---
 

@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Valparaíso
+organizations_uids:
+  - delpuerto-comunicaciones
 ---
 
 Esta iniciativa fue realizada por:

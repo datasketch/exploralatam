@@ -16,6 +16,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Bogotá
+organizations_uids:
+  - sebuscan-sas
 ---
 
 Esta iniciativa fue realizada por:

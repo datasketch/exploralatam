@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - folha-de-sao-paulo
 ---
 
 Esta iniciativa fue realizada por:

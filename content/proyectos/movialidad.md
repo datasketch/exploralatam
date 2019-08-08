@@ -17,6 +17,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Rosario
+organizations_uids:
+  - rosario-mobile-apps
+  - direccion-general-de-informatica-de-la-municipalidad-de-rosario
 ---
 
 Esta iniciativa fue realizada por:

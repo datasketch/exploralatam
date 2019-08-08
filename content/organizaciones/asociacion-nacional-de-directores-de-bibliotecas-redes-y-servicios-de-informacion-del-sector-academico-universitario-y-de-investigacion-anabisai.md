@@ -18,6 +18,8 @@ tags:
   - transparencia-y-rendicion-de-cuentas
 cities: 
   - Caracas
+projects_uids:
+  - creacion-de-repositorios-institucionales-en-las-universidades-publicas-venezolanas-para-democratizar-el-acceso-a-la-informacion
 
 ---
 

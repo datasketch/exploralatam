@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Puebla
+organizations_uids:
+  - project-poder
 ---
 
 Esta iniciativa fue realizada por:

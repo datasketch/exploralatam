@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Quito
+organizations_uids:
+  - sociedad-de-hecho-la-pesetera
 ---
 
 Esta iniciativa fue realizada por:

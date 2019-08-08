@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Santiago
+organizations_uids:
+  - municipio-verde
 ---
 
 Esta iniciativa fue realizada por:

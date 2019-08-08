@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Montevideo
+projects_uids:
+  - parlamento-en-tu-movil
 
 ---
 

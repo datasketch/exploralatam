@@ -14,6 +14,8 @@ tags:
   - participación-ciudadana
 cities: 
   - San José
+organizations_uids:
+  - fundacion-costa-rica-para-la-innovacion
 ---
 
 Esta iniciativa fue realizada por:

@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Santiago
+organizations_uids:
+  - fundacion-por-una-carrera
 ---
 
 Esta iniciativa fue realizada por:

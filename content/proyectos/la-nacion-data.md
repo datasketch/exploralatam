@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Buenos Aires
+organizations_uids:
+  - diario-la-nacion
 ---
 
 Esta iniciativa fue realizada por:

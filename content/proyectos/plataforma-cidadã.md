@@ -14,6 +14,9 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - acecci-associacão-cearense-de-combate-a-corrupcão-e-a-impunidade
+  - instituto-banco-da-periferia-palmas-lab
 ---
 
 Esta iniciativa fue realizada por:

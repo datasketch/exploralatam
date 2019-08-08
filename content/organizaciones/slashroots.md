@@ -17,6 +17,10 @@ tags:
 cities: 
   - Kingston
   - Caribe
+projects_uids:
+  - sin-nombre
+  - code-for-the-caribbean
+  - harvest-api
 
 ---
 

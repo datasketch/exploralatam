@@ -17,6 +17,12 @@ tags:
   - periodismo-de-datos
 cities: 
   - Buenos Aires
+projects_uids:
+  - igualdata
+  - calculadora-de-la-desigualdad-de-genero
+  - grito-mundial-por-el-derecho-al-aborto
+  - feminindex
+  - calculadora-de-la-desigualdad-de-genero
 
 ---
 

@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Asunción
+organizations_uids:
+  - centro-de-estudios-ambientales-y-sociales-ceamso
 ---
 
 Esta iniciativa fue realizada por:

@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - quartz
 ---
 
 Esta iniciativa fue realizada por:

@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Curitiba
+projects_uids:
+  - cuidando-e-monitorando-a-cidade
 
 ---
 

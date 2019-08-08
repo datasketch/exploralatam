@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Alajuela
+organizations_uids:
+  - cscr
 ---
 
 Esta iniciativa fue realizada por:

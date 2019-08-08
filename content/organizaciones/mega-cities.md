@@ -17,6 +17,8 @@ tags:
 cities: 
   - CO
   - Denver
+projects_uids:
+  - plataforma-digital-de-empoderamento-de-favelas-pela-informacão-e-auto-organizacão
 
 ---
 

@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - gire
 ---
 
 Esta iniciativa fue realizada por:

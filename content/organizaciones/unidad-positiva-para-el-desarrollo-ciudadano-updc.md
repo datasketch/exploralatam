@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Guatemala
+projects_uids:
+  - quiero-mi-guatemala-transparente
 
 ---
 

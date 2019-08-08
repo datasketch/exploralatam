@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - 
+projects_uids:
+  - get-in-the-ring-apps
 
 ---
 

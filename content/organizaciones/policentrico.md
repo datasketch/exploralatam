@@ -20,6 +20,9 @@ tags:
 cities: 
   - Maputo
   - Bogotá
+projects_uids:
+  - programa-de-convivencias-digitales
+  - nuestro-desarrollo
 
 ---
 

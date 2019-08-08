@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - instituto-para-o-desenvolvimento-racional-das-cidades
 ---
 
 Esta iniciativa fue realizada por:

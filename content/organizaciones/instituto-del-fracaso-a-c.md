@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Cuernavaca
+projects_uids:
+  - open-failure
 
 ---
 

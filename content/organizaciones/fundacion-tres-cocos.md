@@ -19,6 +19,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Sincelejo
+projects_uids:
+  - tres-cocos-analisis-digital-del-realismo-magico
 
 ---
 

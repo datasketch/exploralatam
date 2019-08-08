@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - quito
+organizations_uids:
+  - red-infodesarrollo
 ---
 
 Esta iniciativa fue realizada por:

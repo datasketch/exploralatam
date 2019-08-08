@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Lima
+projects_uids:
+  - escuela-de-datos-peru
 
 ---
 

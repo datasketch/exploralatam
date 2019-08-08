@@ -18,6 +18,10 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Mendoza
+organizations_uids:
+  - creapption
+  - fundacion-centro-latinoamericano-de-derechos-humanos
+  - nuestra-mendoza
 ---
 
 Esta iniciativa fue realizada por:

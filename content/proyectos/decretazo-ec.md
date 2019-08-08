@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Quito
+organizations_uids:
+  - fundacion-ciudadania-y-desarrollo
 ---
 
 Esta iniciativa fue realizada por:

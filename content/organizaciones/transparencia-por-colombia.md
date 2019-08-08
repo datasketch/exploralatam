@@ -17,6 +17,9 @@ tags:
   - participación-ciudadana
 cities: 
   - Bogotá
+projects_uids:
+  - corruptour-ds-tpc
+  - hackeando-la-corrupcion-con-voz-ciudadana
 
 ---
 

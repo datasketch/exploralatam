@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Río de Janeiro
+organizations_uids:
+  - cnpi-centro-nacional-de-informatica
 ---
 
 Esta iniciativa fue realizada por:

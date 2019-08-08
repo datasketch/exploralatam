@@ -16,6 +16,9 @@ tags:
   - transparencia-y-rendicion-de-cuentas
 cities: 
   - São Luis
+projects_uids:
+  - mobilidade-urbana-aberta
+  - mobilidade-urbana-aberta
 
 ---
 

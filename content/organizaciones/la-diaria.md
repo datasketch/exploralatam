@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Montevideo
+projects_uids:
+  - rio-abierto
 
 ---
 

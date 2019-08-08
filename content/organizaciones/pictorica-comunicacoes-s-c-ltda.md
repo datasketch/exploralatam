@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Barcelona
+projects_uids:
+  - enspiral-latinoamerica
 
 ---
 

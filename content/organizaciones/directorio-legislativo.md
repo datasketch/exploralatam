@@ -18,6 +18,10 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Buenos Aires
+projects_uids:
+  - el-recorrido-tecnologia-ciudadana-para-mejorar-la-deteccion-temprana-del-cancer-en-el-sistema-publico-de-salud
+  - hecha-la-ley
+  - dbjj-abiertas
 
 ---
 

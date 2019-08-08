@@ -18,6 +18,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Río de Janeiro
+organizations_uids:
+  - observatorio-de-favelas-do-rio-de-janeiro
+  - casa-fluminense
 ---
 
 Esta iniciativa fue realizada por:

@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Buenos Aires
+projects_uids:
+  - herramienta-para-diseno-gestion-y-diagnostico-de-estrategia-para-gobiernos-locales-abiertos
 
 ---
 

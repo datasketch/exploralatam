@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Araranguá
+projects_uids:
+  - sistema-de-gestão-de-ideias-para-seguranca-publica
 
 ---
 

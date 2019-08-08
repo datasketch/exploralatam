@@ -17,6 +17,8 @@ tags:
   - transparencia-y-rendicion-de-cuentas
 cities: 
   - Lima
+projects_uids:
+  - hackeo-al-gasto-electoral-en-las-elecciones-subnacionales-peru-2018
 
 ---
 

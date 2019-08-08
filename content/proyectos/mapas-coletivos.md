@@ -18,6 +18,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - São Paulo
+organizations_uids:
+  - mapas-coletivos
+  - instituto-sincronicidade-para-a-interacão-social-ispis
 ---
 
 Esta iniciativa fue realizada por:

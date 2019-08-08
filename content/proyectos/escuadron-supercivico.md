@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Managua
+organizations_uids:
+  - factico-periodismo-movil
 ---
 
 Esta iniciativa fue realizada por:

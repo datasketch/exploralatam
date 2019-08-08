@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - San José
+organizations_uids:
+  - contexto
 ---
 
 Esta iniciativa fue realizada por:

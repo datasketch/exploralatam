@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Quito
+organizations_uids:
+  - creative-commons
 ---
 
 Esta iniciativa fue realizada por:

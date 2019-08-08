@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Guatemala
+projects_uids:
+  - democratizacion-de-la-informacion-y-sostenibilidad-de-los-medios
 
 ---
 

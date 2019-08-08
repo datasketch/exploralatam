@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Río de Janeiro
+projects_uids:
+  - compartir
 
 ---
 

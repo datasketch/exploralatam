@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Santiago
+organizations_uids:
+  - centro-bicicultura
 ---
 
 Esta iniciativa fue realizada por:

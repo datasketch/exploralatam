@@ -14,6 +14,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Monterrey
+organizations_uids:
+  - ea-tech
 ---
 
 Esta iniciativa fue realizada por:

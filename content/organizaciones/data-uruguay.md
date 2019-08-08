@@ -21,6 +21,15 @@ tags:
   - periodismo-de-datos
 cities: 
   - Montevideo
+projects_uids:
+  - quesabes-uy
+  - data-uy
+  - por-mi-barrio
+  - dal
+  - mutualistas-uy
+  - reporta-ciudad
+  - bicentenario-uruguay
+  - plataforma-educacion-nombre-de-trabajo
 
 ---
 

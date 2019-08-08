@@ -18,6 +18,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Ciudad de México
+projects_uids:
+  - creacion-de-chileleaks-centroamericaleaks-y-latamleaks-coordinadora-regional-de-las-plataformas-de-whistleblowing
+  - creacion-de-chileleaks-centroamericaleaks-y-latamleaks-coordinadora-regional-de-las-plataformas-de-whistleblowing
 
 ---
 

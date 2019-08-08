@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Asunción
+organizations_uids:
+  - open-knowledge
 ---
 
 Esta iniciativa fue realizada por:

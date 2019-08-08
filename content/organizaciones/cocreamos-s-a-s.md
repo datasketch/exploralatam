@@ -17,6 +17,8 @@ tags:
   - otro
 cities: 
   - Medellín
+projects_uids:
+  - red-social-anti-corrupcion-con-accion-juridica-aplicapp
 
 ---
 

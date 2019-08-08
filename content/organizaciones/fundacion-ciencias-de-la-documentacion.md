@@ -17,6 +17,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Panamá
+projects_uids:
+  - tecnologia-social
 
 ---
 

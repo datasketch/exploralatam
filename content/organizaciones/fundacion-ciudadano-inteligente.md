@@ -19,6 +19,9 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Santiago
+projects_uids:
+  - creacion-de-chileleaks-centroamericaleaks-y-latamleaks-coordinadora-regional-de-las-plataformas-de-whistleblowing
+  - creacion-de-chileleaks-centroamericaleaks-y-latamleaks-coordinadora-regional-de-las-plataformas-de-whistleblowing
 
 ---
 

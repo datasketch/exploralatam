@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - San Juan
+projects_uids:
+  - abre-puerto-rico
 
 ---
 

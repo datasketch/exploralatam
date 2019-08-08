@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - São José
+projects_uids:
+  - sistema-de-avaliacão-dos-portais-de-transparencia-dos-governos-municipais
 
 ---
 

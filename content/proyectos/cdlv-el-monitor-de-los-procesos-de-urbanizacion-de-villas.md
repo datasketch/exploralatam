@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - wingu-tecnologia-sin-fines-de-lucro
 ---
 
 Esta iniciativa fue realizada por:

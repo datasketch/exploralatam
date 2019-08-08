@@ -19,6 +19,8 @@ tags:
   - otro
 cities: 
   - Guatemala
+projects_uids:
+  - asociacion-civil-ernesto-shneider-troller
 
 ---
 

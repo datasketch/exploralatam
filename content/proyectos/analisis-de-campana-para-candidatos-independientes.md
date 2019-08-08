@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Oaxaca
+organizations_uids:
+  - gobierno-facil
 ---
 
 Esta iniciativa fue realizada por:

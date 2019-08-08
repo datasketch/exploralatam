@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Bogotá
+organizations_uids:
+  - enredo
 ---
 
 Esta iniciativa fue realizada por:

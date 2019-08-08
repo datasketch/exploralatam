@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Río de Janeiro
+organizations_uids:
+  - genero-e-numero
 ---
 
 Esta iniciativa fue realizada por:

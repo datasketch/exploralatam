@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - diario-de-pernambuco
 ---
 
 Esta iniciativa fue realizada por:

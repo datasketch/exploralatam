@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Buenos Aires
+projects_uids:
+  - datarepublica-tecnologia-y-datos-para-el-desarrollo-sostenible-en-america-latina
 
 ---
 

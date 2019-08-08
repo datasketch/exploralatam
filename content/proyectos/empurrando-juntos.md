@@ -14,6 +14,8 @@ tags:
   - participación-ciudadana
 cities: 
   - São Paulo
+organizations_uids:
+  - instituto-cidade-democra-tica
 ---
 
 Esta iniciativa fue realizada por:

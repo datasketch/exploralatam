@@ -19,6 +19,13 @@ tags:
 cities: 
   - San Salvador
   - Buenos Aires
+projects_uids:
+  - a-que-precio-un-observatorio-de-compras-publicas
+  - a-que-precio
+  - dato-duro-el-salvador
+  - chequeado
+  - a-que-precio-un-observatorio-de-compras-publicas
+  - dato-duro
 
 ---
 

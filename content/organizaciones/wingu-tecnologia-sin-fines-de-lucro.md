@@ -16,6 +16,10 @@ tags:
 
 cities: 
   - Buenos Aires
+projects_uids:
+  - calculadora-de-la-desigualdad-de-genero
+  - relevamiento-de-asentamientos-informales-en-centro-america
+  - cdlv-el-monitor-de-los-procesos-de-urbanizacion-de-villas
 
 ---
 

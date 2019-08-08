@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Bogotá
+organizations_uids:
+  - facultad-de-ingeneria-universidad-de-los-andes
 ---
 
 Esta iniciativa fue realizada por:

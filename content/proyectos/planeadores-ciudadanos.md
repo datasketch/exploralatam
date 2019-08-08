@@ -14,6 +14,9 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - fundacion-buena-nota
+  - fundacion-bit
 ---
 
 Esta iniciativa fue realizada por:

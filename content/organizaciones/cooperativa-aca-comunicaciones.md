@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Valdivia
+projects_uids:
+  - ojovaldivia-cl-denuncia-y-articulacion-ciudadana-en-linea
 
 ---
 

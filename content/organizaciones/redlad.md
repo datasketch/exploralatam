@@ -16,6 +16,8 @@ tags:
   - mapeo-ciudadano
 cities: 
   - Berkeley
+projects_uids:
+  - app-para-la-inclusion-y-el-respeto-a-la-sociedad-civil
 
 ---
 

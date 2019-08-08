@@ -17,6 +17,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - São Paulo
+organizations_uids:
+  - nucleo-de-informacão-e-coordenacão-do-ponto-br-nic-br
+  - agenda-publica-agencia-de-analise-e-cooperacão-em-politicas-publicas
 ---
 
 Esta iniciativa fue realizada por:

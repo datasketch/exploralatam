@@ -17,6 +17,9 @@ tags:
 cities: 
   - Monterrey
   - Ciudad de México
+organizations_uids:
+  - civica-digital
+  - fundacion-hogares-iap
 ---
 
 Esta iniciativa fue realizada por:

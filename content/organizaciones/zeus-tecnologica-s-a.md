@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Cartagena
+projects_uids:
+  - seguridad-maritima-integral-en-el-transporte-turistico-de-pasajero-en-el-mulle-de-la-bodeguita
 
 ---
 

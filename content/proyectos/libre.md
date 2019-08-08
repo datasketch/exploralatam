@@ -14,6 +14,10 @@ tags:
 
 cities: 
   - São Paulo
+organizations_uids:
+  - appcivico-eokoe-solucoes-tecnologicas
+  - fluxo
+  - open-knowledge-foundation-brasil
 ---
 
 Esta iniciativa fue realizada por:

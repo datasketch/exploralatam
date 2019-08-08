@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Cancún
+organizations_uids:
+  - consejo-civico-de-instituciones-de-nuevo-leon-a-c
 ---
 
 Esta iniciativa fue realizada por:

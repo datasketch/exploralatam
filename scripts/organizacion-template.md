@@ -16,6 +16,8 @@ tags:
 {tags}
 cities: 
 {cities}
+projects_uids:
+{projects_uids_yaml}
 
 ---
 

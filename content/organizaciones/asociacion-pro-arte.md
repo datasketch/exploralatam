@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Concepción del Uruguay
+projects_uids:
+  - portal-de-transparencia-de-gastos-de-gobiernos-locales-subnacionales-engage-civico
 
 ---
 

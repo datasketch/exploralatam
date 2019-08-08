@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Curitiba
+projects_uids:
+  - politikei-co-governanca-no-legislativo
 
 ---
 

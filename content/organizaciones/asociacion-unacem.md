@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Lima
+projects_uids:
+  - ocupa-tu-calle
 
 ---
 

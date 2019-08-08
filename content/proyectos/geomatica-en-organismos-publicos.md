@@ -18,6 +18,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - San Salvador de Jujuy
+organizations_uids:
+  - digital-network-srl
+  - secretaria-de-planificacion-desarrollo-y-modernizacion-de-la-municipalidad-de-san-salvador-de-jujuy
 ---
 
 Esta iniciativa fue realizada por:

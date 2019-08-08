@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Ciudad de México
+organizations_uids:
+  - infodf
 ---
 
 Esta iniciativa fue realizada por:

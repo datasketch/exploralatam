@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Bogotá
+projects_uids:
+  - gagpol-colombia
 
 ---
 

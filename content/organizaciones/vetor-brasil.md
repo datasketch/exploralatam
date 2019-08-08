@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - São Paulo
+projects_uids:
+  - trainee-de-gesta-o-pu-blica
 
 ---
 

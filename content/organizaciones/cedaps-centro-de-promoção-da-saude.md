@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Río de Janeiro
+projects_uids:
+  - mapa-falante-tecnologia-civica-para-monitoramento-participativo-de-informacões-sobre-servicos-dados-e-vivencias
 
 ---
 

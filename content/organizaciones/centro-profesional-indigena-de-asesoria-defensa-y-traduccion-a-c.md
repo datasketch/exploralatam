@@ -16,6 +16,8 @@ tags:
   - monitoreo-de-servicios-publicos
 cities: 
   - Ciudad de México
+projects_uids:
+  - comunidad-indigena-por-la-participacion-ciudadana-en-oaxaca
 
 ---
 

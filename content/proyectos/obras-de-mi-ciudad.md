@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - San Salvador
+organizations_uids:
+  - fundacion-nacional-para-el-desarrollo-funde
 ---
 
 Esta iniciativa fue realizada por:

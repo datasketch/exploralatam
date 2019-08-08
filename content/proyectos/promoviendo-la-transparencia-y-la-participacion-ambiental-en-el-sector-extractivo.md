@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Arequipa
+organizations_uids:
+  - derecho-ambiente-y-recursos-naturales
 ---
 
 Esta iniciativa fue realizada por:

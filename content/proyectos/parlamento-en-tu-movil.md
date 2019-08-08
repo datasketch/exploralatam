@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Montevideo
+organizations_uids:
+  - que-hacen-el-parlamento-en-tu-movil
 ---
 
 Esta iniciativa fue realizada por:

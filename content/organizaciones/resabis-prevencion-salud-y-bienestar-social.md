@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - La Paz
+projects_uids:
+  - yo-propongo
 
 ---
 

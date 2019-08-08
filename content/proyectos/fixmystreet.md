@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Santiago
+organizations_uids:
+  - ciudad-viva
 ---
 
 Esta iniciativa fue realizada por:

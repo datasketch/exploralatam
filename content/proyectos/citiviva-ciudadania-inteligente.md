@@ -18,6 +18,9 @@ tags:
 cities: 
   - Wellington
   - Panamá
+organizations_uids:
+  - cleteci-s-a
+  - plataforma-ciudadana-inteligente
 ---
 
 Esta iniciativa fue realizada por:

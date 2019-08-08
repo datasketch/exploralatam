@@ -17,6 +17,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - wingu
+  - sonora-ciudadana-ac
 ---
 
 Esta iniciativa fue realizada por:

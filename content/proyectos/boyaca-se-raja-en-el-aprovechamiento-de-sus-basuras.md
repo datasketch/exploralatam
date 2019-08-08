@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - entre-ojos
 ---
 
 Esta iniciativa fue realizada por:

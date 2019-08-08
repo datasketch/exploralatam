@@ -19,6 +19,9 @@ tags:
 cities: 
   - Nueva York
   - Managua
+organizations_uids:
+  - centro-para-programas-de-comunicacion-nicaragua-cpcnic
+  - guegue-vasquez-cia-ltda
 ---
 
 Esta iniciativa fue realizada por:

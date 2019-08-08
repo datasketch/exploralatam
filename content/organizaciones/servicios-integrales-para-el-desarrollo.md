@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Cochabamba
+projects_uids:
+  - plataforma-civica-ciudadana-cochabamba
 
 ---
 

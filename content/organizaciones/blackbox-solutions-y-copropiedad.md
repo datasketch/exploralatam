@@ -16,6 +16,8 @@ tags:
   - transparencia-y-rendicion-de-cuentas
 cities: 
   - Guatemala
+projects_uids:
+  - portales-para-el-ciudadano
 
 ---
 

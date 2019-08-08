@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Asunción
+organizations_uids:
+  - tedic
 ---
 
 Esta iniciativa fue realizada por:

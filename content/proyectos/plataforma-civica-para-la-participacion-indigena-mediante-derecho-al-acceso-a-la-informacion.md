@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - servicios-universitarios-y-redes-de-conocimiento-en-oaxaca-a-c
 ---
 
 Esta iniciativa fue realizada por:

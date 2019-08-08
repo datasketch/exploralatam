@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Bogotá
+organizations_uids:
+  - corporacion-seamos-democracia-digital
 ---
 
 Esta iniciativa fue realizada por:

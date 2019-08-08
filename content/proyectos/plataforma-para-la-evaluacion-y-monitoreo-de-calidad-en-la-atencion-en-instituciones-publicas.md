@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Lima
+organizations_uids:
+  - centro-de-participacion-y-ciudadania-ciudadanos-al-dia
 ---
 
 Esta iniciativa fue realizada por:

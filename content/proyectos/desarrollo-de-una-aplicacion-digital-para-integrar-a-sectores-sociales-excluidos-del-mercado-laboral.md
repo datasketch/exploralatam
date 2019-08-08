@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Viedma
+organizations_uids:
+  - universidad-nacional-de-rio-negro
 ---
 
 Esta iniciativa fue realizada por:

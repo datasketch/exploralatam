@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Cartagena
+projects_uids:
+  - mi-concejo
 
 ---
 

@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Salvador
+organizations_uids:
+  - grupo-de-estudos-sobre-cultura-representacão-e-informacão-digitais-cridi
 ---
 
 Esta iniciativa fue realizada por:

@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Lima
+organizations_uids:
+  - hack-hackers-lima
 ---
 
 Esta iniciativa fue realizada por:

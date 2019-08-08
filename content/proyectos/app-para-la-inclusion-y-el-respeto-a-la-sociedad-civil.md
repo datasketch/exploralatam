@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Berkeley
+organizations_uids:
+  - redlad
 ---
 
 Esta iniciativa fue realizada por:

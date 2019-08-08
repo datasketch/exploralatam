@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Medellín
+organizations_uids:
+  - corporacion-ruta-n
 ---
 
 Esta iniciativa fue realizada por:

@@ -18,6 +18,9 @@ tags:
 cities: 
   - San Salvador
   - Texistepeque
+organizations_uids:
+  - instituto-salvadoreno-de-desarrollo-municipal-isdem
+  - asociacion-ecologica-de-los-municipios-de-santa-ana-asemusa
 ---
 
 Esta iniciativa fue realizada por:

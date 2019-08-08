@@ -14,6 +14,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Ciudad de México
+organizations_uids:
+  - plataforma-nuup-ac
 ---
 
 Esta iniciativa fue realizada por:

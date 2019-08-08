@@ -17,6 +17,8 @@ tags:
   - mapeo-ciudadano
 cities: 
   - Asunción
+projects_uids:
+  - aguapps-gestion-participativa-del-agua-para-el-chaco
 
 ---
 

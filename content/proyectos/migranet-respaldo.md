@@ -17,6 +17,9 @@ tags:
 cities: 
   - Guatemala
   - San José
+organizations_uids:
+  - instituto-de-estudios-del-trabajo-inet
+  - central-del-movimiento-de-trabajadores-costarricenses-cmtc
 ---
 
 Esta iniciativa fue realizada por:

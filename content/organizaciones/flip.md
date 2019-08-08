@@ -16,6 +16,11 @@ tags:
 
 cities: 
   - Bogotá
+projects_uids:
+  - cartografias-de-información
+  - impunidad
+  - pauta-visible
+  - mapa-agresiones
 
 ---
 

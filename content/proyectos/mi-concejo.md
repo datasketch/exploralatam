@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Cartagena
+organizations_uids:
+  - fundacion-civico-social-pro-cartagena-funcicar
 ---
 
 Esta iniciativa fue realizada por:

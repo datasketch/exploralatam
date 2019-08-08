@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Guatemala
+organizations_uids:
+  - movimiento-nacional-por-la-integridad
 ---
 
 Esta iniciativa fue realizada por:

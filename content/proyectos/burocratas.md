@@ -16,6 +16,10 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Bogotá
+organizations_uids:
+  - fundacion-karisma
+  - xue-colombia-ltda
+  - corporacion-con-tacto-local
 ---
 
 Esta iniciativa fue realizada por:

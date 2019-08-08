@@ -18,6 +18,9 @@ tags:
 cities: 
   - 
   - El Alto
+organizations_uids:
+  - centro-de-promocion-de-la-mujer-gregoria-apaza-cpmga
+  - servicios-e-informacion-para-el-desarrollo-economico-local-sidel
 ---
 
 Esta iniciativa fue realizada por:

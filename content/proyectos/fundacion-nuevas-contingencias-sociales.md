@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Santiago
+organizations_uids:
+  - fundacion-nuevas-contingencias-sociales
 ---
 
 Esta iniciativa fue realizada por:

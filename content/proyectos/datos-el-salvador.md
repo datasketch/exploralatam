@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - San Salvador
+organizations_uids:
+  - okfn-el-salvador
 ---
 
 Esta iniciativa fue realizada por:

@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Santiago
+projects_uids:
+  - textool-acceso-y-comprension-efectiva-de-textos-sociales
 
 ---
 

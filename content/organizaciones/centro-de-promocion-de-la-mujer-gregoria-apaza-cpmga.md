@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - El Alto
+projects_uids:
+  - informacion-y-gestion-de-conocimientos-de-politicas-publicas-con-enfoque-de-genero
 
 ---
 

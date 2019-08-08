@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Cochabamba
+organizations_uids:
+  - servicios-integrales-para-el-desarrollo
 ---
 
 Esta iniciativa fue realizada por:

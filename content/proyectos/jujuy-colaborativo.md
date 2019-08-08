@@ -17,6 +17,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - San Salvador de Jujuy
+organizations_uids:
+  - direccion-de-transparencia-y-gobierno-abierto-de-la-provincia-de-jujuy
+  - cooperativa-de-trabajo-tecnomatica-limitada
 ---
 
 Esta iniciativa fue realizada por:

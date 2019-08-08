@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Caribe
+organizations_uids:
+  - regional
 ---
 
 Esta iniciativa fue realizada por:

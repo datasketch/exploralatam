@@ -16,6 +16,9 @@ tags:
 
 cities: 
   - Bogotá
+projects_uids:
+  - congreso-visible
+  - infraestructura-visible
 
 ---
 

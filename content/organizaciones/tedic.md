@@ -19,6 +19,12 @@ tags:
   - periodismo-de-datos
 cities: 
   - Asunción
+projects_uids:
+  - data-boot-camp
+  - parlamento-abierto-py
+  - tedic
+  - quien-defiende-tus-datos
+  - hacia-el-empoderamiento-de-nuestros-derechos-digitales-a-traves-de-la-participacion-ciudadana-y-el-debate-publico
 
 ---
 

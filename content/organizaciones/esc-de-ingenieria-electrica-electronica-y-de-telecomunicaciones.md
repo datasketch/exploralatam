@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Ciudad de México
+projects_uids:
+  - red-ciudadana-de-monitoreo-de-la-calidad-del-aire
 
 ---
 

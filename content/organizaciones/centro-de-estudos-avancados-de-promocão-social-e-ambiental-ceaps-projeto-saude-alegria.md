@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Santarém
+projects_uids:
+  - novas-tecnicas-para-monitoramento-de-sistemas-produtivos-agroecologicos-com-participacão-comunitaria
 
 ---
 

@@ -16,6 +16,11 @@ tags:
   - otro
 cities: 
   - Bogotá
+projects_uids:
+  - lab-its
+  - klab
+  - burocratas
+  - laboratorio-tecnologico
 
 ---
 

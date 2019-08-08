@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Montevideo
+organizations_uids:
+  - data-uruguay
 ---
 
 Esta iniciativa fue realizada por:

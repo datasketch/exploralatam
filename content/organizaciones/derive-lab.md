@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Querétaro
+projects_uids:
+  - red-ciudadana-de-monitoreo-de-la-calidad-del-aire
 
 ---
 

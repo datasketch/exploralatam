@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - San Salvador de Jujuy
+organizations_uids:
+  - softai
 ---
 
 Esta iniciativa fue realizada por:

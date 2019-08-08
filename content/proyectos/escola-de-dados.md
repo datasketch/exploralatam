@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - São Paulo
+organizations_uids:
+  - open-knowledge-brasil
 ---
 
 Esta iniciativa fue realizada por:

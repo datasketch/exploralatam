@@ -16,6 +16,11 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Rosario
+organizations_uids:
+  - municipalidad-de-rosario-secretaria-de-economia-social-direccion-general-de-desarrollo-de-la-economia-social
+  - de-la-azotea
+  - fundacion-ejercicio-ciudadano
+  - oneeyeant
 ---
 
 Esta iniciativa fue realizada por:

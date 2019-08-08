@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - krieger-electronics-de-mexico-sa-de-cv
 ---
 
 Esta iniciativa fue realizada por:

@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Río de Janeiro
+organizations_uids:
+  - phronesis-pesquisa-e-consultoria-em-ciencias-sociais-ltd
 ---
 
 Esta iniciativa fue realizada por:

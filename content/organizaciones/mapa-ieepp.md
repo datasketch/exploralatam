@@ -17,6 +17,8 @@ tags:
 cities: 
   - Managua
   - Bogotá
+projects_uids:
+
 
 ---
 

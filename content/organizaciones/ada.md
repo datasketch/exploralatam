@@ -17,6 +17,9 @@ tags:
 cities: 
   - Buenos Aires
   - Mundo
+projects_uids:
+  - concursos-transparentes
+  - sin-nombre
 
 ---
 

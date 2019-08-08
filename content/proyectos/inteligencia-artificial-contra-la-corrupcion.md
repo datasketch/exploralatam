@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Bogotá
+organizations_uids:
+  - fundacion-ecomunidad
 ---
 
 Esta iniciativa fue realizada por:

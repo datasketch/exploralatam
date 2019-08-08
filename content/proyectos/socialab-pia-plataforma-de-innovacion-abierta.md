@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Santiago
+organizations_uids:
+  - socialab-global
 ---
 
 Esta iniciativa fue realizada por:

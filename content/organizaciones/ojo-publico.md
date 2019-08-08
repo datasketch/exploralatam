@@ -20,6 +20,17 @@ tags:
   - periodismo-de-datos
 cities: 
   - Lima
+projects_uids:
+  - ojo-pi-blico
+  - sala-del-poder
+  - vihsion-ciudadana-tecnologia-periodismo-y-experiencia-en-el-sector-para-monitorear-analizar-y-comparar-politicas-publicas-en-vih-en-latinoamerica
+  - lava-jato
+  - fondos-de-papel
+  - iniciativa-funes-un-metabuscador-para-identificar-personas-de-perfil-de-riesgo-en-la-politica-del-peru
+  - iniciativa-funes
+  - duenos-de-la-noticia
+  - big-pharma
+  - panama-papers
 
 ---
 

@@ -16,6 +16,9 @@ tags:
 cities: 
   - Asunción
   - Panamá
+organizations_uids:
+  - fundacion-generacion-sin-limite
+  - maga-systems-consulting
 ---
 
 Esta iniciativa fue realizada por:

@@ -16,6 +16,9 @@ tags:
 cities: 
   - Barcelona
   - São Paulo
+organizations_uids:
+  - pictorica-comunicacoes-s-c-ltda
+  - loomio-cooperative-limited
 ---
 
 Esta iniciativa fue realizada por:

@@ -19,6 +19,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Madrid
+projects_uids:
+  - mopa
 
 ---
 

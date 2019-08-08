@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Jaboatao dos Guararapes
+projects_uids:
+  - lupa-dca
 
 ---
 

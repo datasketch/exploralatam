@@ -19,6 +19,9 @@ tags:
 cities: 
   - Lima
   - Madrid
+organizations_uids:
+  - hiperderecho
+  - public-knowledge
 ---
 
 Esta iniciativa fue realizada por:

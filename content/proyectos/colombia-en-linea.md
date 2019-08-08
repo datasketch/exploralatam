@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Bogotá
+organizations_uids:
+  - gobierno-de-colombia
 ---
 
 Esta iniciativa fue realizada por:

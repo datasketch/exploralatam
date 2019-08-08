@@ -17,6 +17,8 @@ tags:
   - compras-publicas
 cities: 
   - Florianópolis
+projects_uids:
+  - suma-sistema-de-qualificacão-de-gestores-operadores-e-fornecedores-da-alimentacão-institucional
 
 ---
 

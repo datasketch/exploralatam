@@ -18,6 +18,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Santiago
+organizations_uids:
+  - universidad-de-santiago-de-chile-facultad-de-administracion-y-economia
+  - fundacion-contexto-ciudadano
 ---
 
 Esta iniciativa fue realizada por:

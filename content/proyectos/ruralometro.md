@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - reporter-brasil
 ---
 
 Esta iniciativa fue realizada por:

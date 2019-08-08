@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Monterrey
+projects_uids:
+  - soy-vecino
 
 ---
 

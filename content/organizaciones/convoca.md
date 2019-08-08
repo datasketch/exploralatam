@@ -16,6 +16,28 @@ tags:
 
 cities: 
   - Lima
+projects_uids:
+  - las-bambas
+  - convoca
+  - sancionados
+  - peru-leaks
+  - paradise-papers
+  - espinar
+  - excesos-sin-castigo
+  - ilusion-fiscal
+  - rastreador-politico
+  - promesas-ppk
+  - amazonia-arrasada
+  - patrimonio-sa
+  - palmas-para-nadie
+  - juegos-del-poder
+  - mapa-electoral
+  - niñas-madres
+  - investiga-lava-jato
+  - tierra-herida
+  - memorias-de-la-corrupcion
+  - via-sobrecosto
+  - expediente-lava-jato-peru
 
 ---
 

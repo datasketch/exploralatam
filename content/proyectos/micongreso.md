@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Guatemala
+organizations_uids:
+  - explico-s-a
 ---
 
 Esta iniciativa fue realizada por:

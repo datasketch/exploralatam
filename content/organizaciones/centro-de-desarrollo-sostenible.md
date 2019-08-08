@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Asunción
+projects_uids:
+  - compras-publicas-transparentes
 
 ---
 

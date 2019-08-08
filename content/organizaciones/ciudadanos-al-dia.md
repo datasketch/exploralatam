@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Lima
+projects_uids:
+  - potenciando-una-comunidad-de-datos-para-el-desarrollo-sostenible-en-peru
 
 ---
 

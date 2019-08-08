@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Porto Alegre
+projects_uids:
+  - plataforma-fazer-solidario-conectando-praticas-economicas-alternativas
 
 ---
 

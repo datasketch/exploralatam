@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - La Dorada
+projects_uids:
+  - politeia-y-control-social
 
 ---
 

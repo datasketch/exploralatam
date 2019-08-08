@@ -18,6 +18,9 @@ tags:
   - otro
 cities: 
   - Berkeley
+projects_uids:
+  - civic-backoffice-plataforma-de-gestion-semi-automatica-de-la-innovacion-publica-y-la-participacion-ciudadana
+  - civic-backoffice-plataforma-de-gestion-semi-automatica-de-la-innovacion-publica-y-la-participacion-ciudadana
 
 ---
 

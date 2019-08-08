@@ -17,6 +17,10 @@ tags:
   - otro
 cities: 
   - Loja
+projects_uids:
+  - genus-plataforma-de-comunicacion-academica-plus
+  - plataforma-de-organizacion-y-comunicacion-de-agrupaciones-ciudadanas-suma-e
+  - suma-e
 
 ---
 

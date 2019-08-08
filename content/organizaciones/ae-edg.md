@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Guatemala
+projects_uids:
+  - asociacion-de-estudiantes-de-escuela-de-gobierno
 
 ---
 

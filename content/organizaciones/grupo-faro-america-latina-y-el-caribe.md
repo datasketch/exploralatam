@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Quito
+projects_uids:
+  - comunidas-2-0
 
 ---
 

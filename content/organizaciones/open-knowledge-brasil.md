@@ -16,6 +16,12 @@ tags:
 
 cities: 
 
+projects_uids:
+  - pedidos-de-informacão-publica-anonimos
+  - escola-de-dados
+  - open-spending-brasil
+  - open-knowledge-brasil
+  - operacion-serenata-de-amor
 
 ---
 

@@ -17,6 +17,11 @@ tags:
 cities: 
   - Recife
   - São Paulo
+organizations_uids:
+  - appcivico-eokoe-solucoes-tecnologicas
+  - fgv-ceapg-centro-de-estudos-em-administracão-publica-e-governo-da-escola-de-administracão-de-empresas-da-fundacão-getulio-vargas
+  - associacão-forum-suapoe-espaco-socioambiental
+  - fgv-gdhee-grupo-de-pesquisa-aplicada-em-direitos-humanos-e-empresas-da-fundacão-getulio-vargas
 ---
 
 Esta iniciativa fue realizada por:

@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Morelia
+organizations_uids:
+  - instituto-de-liderazgo-simone-de-beauvoir-a-c
 ---
 
 Esta iniciativa fue realizada por:

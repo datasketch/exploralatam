@@ -18,6 +18,9 @@ tags:
   - otro
 cities: 
   - Quito
+projects_uids:
+  - mi-emprendimiento-abierto
+  - transparencia-y-desarrollo-civico-en-ecuador
 
 ---
 

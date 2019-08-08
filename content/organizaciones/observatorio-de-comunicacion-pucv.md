@@ -17,6 +17,9 @@ tags:
   - participación-ciudadana
 cities: 
   - Valparaíso
+projects_uids:
+  - observadores-de-comunicacion-ciudadana
+  - sistema-de-informacion-territorial-prodepaz,observadores-de-comunicacion-ciudadana
 
 ---
 

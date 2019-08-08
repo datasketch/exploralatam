@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - gana-nariño
 ---
 
 Esta iniciativa fue realizada por:

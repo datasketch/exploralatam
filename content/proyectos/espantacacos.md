@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Guatemala
+organizations_uids:
+  - jovenes-contra-la-violencia-centroamerica
 ---
 
 Esta iniciativa fue realizada por:

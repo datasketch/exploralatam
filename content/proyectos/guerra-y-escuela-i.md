@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - unidad-investigacion-periodistica
 ---
 
 Esta iniciativa fue realizada por:

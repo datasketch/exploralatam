@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - tercera-cumbre-ciudadana
 ---
 
 Esta iniciativa fue realizada por:

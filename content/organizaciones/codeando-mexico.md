@@ -22,6 +22,9 @@ tags:
 cities: 
   - Guadalajara
   - Ciudad de México
+projects_uids:
+  - tecnologia-civica-para-mejorar-la-movilidad-de-manera-participativa
+  - centro-civico-por-codeando-mexico
 
 ---
 

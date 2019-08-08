@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Guatemala
+organizations_uids:
+  - plaza-publica
 ---
 
 Esta iniciativa fue realizada por:

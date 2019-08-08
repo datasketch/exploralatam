@@ -15,6 +15,9 @@ tags:
   - participación-ciudadana
 cities: 
   - Porto Alegre
+organizations_uids:
+  - conceptu-prototipos-e-sistemas
+  - themis-genero-justica-e-direitos-humanos
 ---
 
 Esta iniciativa fue realizada por:

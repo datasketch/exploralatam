@@ -20,6 +20,9 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - San José
+projects_uids:
+  - innovacion-civica-plataforma-tecnologica-de-gestion-de-servicios-publicos-para-el-gobierno-local
+  - experimento-social-overhaul-de-la-democracia-a-traves-de-la-tecnologia
 
 ---
 

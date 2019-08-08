@@ -23,6 +23,11 @@ tags:
   - periodismo-de-datos
 cities: 
   - Ciudad de México
+projects_uids:
+  - experimentos-tecnologicos-locales
+  - experimentos-locales
+  - sin-nombre
+  - plataforma-pro-municipio
 
 ---
 

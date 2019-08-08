@@ -16,6 +16,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - São Paulo
+organizations_uids:
+  - reporter-brasil
+  - infoamazonia
 ---
 
 Esta iniciativa fue realizada por:

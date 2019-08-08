@@ -17,6 +17,18 @@ tags:
   - periodismo-de-datos
 cities: 
   - São Paulo
+projects_uids:
+  - campo-em-guerra
+  - os-caminhos-sinuosos-de-suape
+  - e-hora-de-ouvi-los
+  - 100-anos-de-servidao
+  - alerta-de-enchentes-na-amazonia
+  - o-acre
+  - dourada
+  - fazenda-brasil-verde
+  - moedo-gente
+  - ruralometro
+  - hidreletricas
 
 ---
 

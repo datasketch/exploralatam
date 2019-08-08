@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Trujillo
+projects_uids:
+  - red-peruana-por-ciudades-justas-democraticas-y-sustentables
 
 ---
 

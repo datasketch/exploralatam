@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Medellín
+organizations_uids:
+  - comunideas-sas
 ---
 
 Esta iniciativa fue realizada por:

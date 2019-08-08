@@ -18,6 +18,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Fortaleza
+projects_uids:
+  - plataforma-cidadã
+  - plataforma-cidadã
 
 ---
 

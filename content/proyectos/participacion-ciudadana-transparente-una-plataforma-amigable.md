@@ -15,6 +15,9 @@ tags:
   - participación-ciudadana
 cities: 
   - Santiago
+organizations_uids:
+  - capitulo-chileno-de-transparencia-internacional-chile-transparente
+  - asociacion-chilena-de-voluntarios
 ---
 
 Esta iniciativa fue realizada por:

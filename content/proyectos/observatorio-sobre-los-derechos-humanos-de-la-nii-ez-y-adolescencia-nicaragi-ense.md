@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Managua
+organizations_uids:
+  - codeni
 ---
 
 Esta iniciativa fue realizada por:

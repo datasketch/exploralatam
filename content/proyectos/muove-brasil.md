@@ -17,6 +17,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - São Paulo
+organizations_uids:
+  - centro-de-lideranca-publica
+  - muove-brasil
 ---
 
 Esta iniciativa fue realizada por:

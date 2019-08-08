@@ -19,6 +19,10 @@ cities:
   - Salvador
   - São Luis
   - Porto Alegre
+organizations_uids:
+  - associacão-software-livre-org
+  - colivre-cooperativa-de-tecnologias-livres
+  - secretaria-de-estado-dos-direitos-humanos-e-participacão-popular
 ---
 
 Esta iniciativa fue realizada por:

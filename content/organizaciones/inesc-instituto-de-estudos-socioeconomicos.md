@@ -17,6 +17,9 @@ tags:
   - participación-ciudadana
 cities: 
   - Recife
+projects_uids:
+  - mobilidade-urbana-aberta
+  - mobilidade-urbana-aberta
 
 ---
 

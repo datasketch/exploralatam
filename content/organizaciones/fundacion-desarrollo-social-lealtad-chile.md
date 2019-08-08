@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Santiago
+projects_uids:
+  - promocion-de-buenas-practicas-de-gestion-y-transparencia-en-organizaciones-sin-fines-de-lucro
 
 ---
 

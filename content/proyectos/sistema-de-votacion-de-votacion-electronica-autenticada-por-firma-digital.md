@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Heredia
+organizations_uids:
+  - solvo
 ---
 
 Esta iniciativa fue realizada por:

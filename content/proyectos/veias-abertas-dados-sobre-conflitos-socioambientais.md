@@ -16,6 +16,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - São Paulo
+organizations_uids:
+  - instituto-socioambiental
 ---
 
 Esta iniciativa fue realizada por:

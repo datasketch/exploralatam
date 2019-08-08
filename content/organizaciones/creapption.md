@@ -19,6 +19,9 @@ tags:
   - participación-ciudadana
 cities: 
   - Mendoza
+projects_uids:
+  - estacionamiento-inteligente
+  - innovacion-civica-para-la-mejora-del-transporte-publico-en-mendoza
 
 ---
 

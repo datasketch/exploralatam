@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - economia-feminista
 ---
 
 Esta iniciativa fue realizada por:

@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Cúcuta
+organizations_uids:
+  - corporacion-integral-de-innovacion-social-innovar
 ---
 
 Esta iniciativa fue realizada por:

@@ -17,6 +17,11 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Buenos Aires
+projects_uids:
+  - hecha-la-ley
+  - partido-de-la-red
+  - democracy-os
+  - democracyos-por-democracia-en-red
 
 ---
 

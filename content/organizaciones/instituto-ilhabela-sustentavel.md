@@ -24,6 +24,10 @@ tags:
 cities: 
   - Ilhabela
   - São Paulo
+projects_uids:
+  - siga-sistema-de-indicadores-informacões-georeferenciadas-e-ambientais-do-litoral-norte-do-estado-do-são-paulo
+  - mobilidade-urbana-aberta
+  - mobilidade-urbana-aberta
 
 ---
 

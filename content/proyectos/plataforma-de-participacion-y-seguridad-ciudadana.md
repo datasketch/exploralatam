@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Córdoba
+organizations_uids:
+  - v-smart-s-a
 ---
 
 Esta iniciativa fue realizada por:

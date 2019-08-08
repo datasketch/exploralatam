@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Buenos Aires
+projects_uids:
+  - a-que-precio-un-observatorio-de-compras-publicas
 
 ---
 

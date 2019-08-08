@@ -20,6 +20,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Quito
+projects_uids:
+  - arteria-activa-responde-transforma
 
 ---
 

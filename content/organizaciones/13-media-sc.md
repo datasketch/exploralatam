@@ -18,6 +18,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Monterrey
+projects_uids:
+  - mexico-checa
 
 ---
 

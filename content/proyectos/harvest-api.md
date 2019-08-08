@@ -15,6 +15,9 @@ tags:
 cities: 
   - Kingston
   - Caribe
+organizations_uids:
+  - code-for-the-caribbean
+  - slashroots
 ---
 
 Esta iniciativa fue realizada por:

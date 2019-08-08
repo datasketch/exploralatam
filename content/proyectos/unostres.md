@@ -15,6 +15,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Quito
+organizations_uids:
+  - unostres
 ---
 
 Esta iniciativa fue realizada por:

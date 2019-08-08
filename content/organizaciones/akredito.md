@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Río de Janeiro
+projects_uids:
+  - akredito
 
 ---
 

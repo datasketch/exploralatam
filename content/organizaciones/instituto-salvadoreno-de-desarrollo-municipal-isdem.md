@@ -16,6 +16,9 @@ tags:
 
 cities: 
   - San Salvador
+projects_uids:
+  - desarrollo-de-sistema-para-la-acreditacion-del-derecho-a-la-identidad-asemusa
+  - desarrollo-de-sistema-para-transparentar-la-gestion-municipal-mijiboa
 
 ---
 

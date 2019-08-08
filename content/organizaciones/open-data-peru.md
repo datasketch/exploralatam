@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Lima
+projects_uids:
+  - hackeo-al-gasto-electoral-en-las-elecciones-subnacionales-peru-2018
 
 ---
 

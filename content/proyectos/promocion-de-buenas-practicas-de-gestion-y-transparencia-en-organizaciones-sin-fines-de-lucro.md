@@ -14,6 +14,8 @@ tags:
   - transparencia-y-rendicion-de-cuentas
 cities: 
   - Santiago
+organizations_uids:
+  - fundacion-desarrollo-social-lealtad-chile
 ---
 
 Esta iniciativa fue realizada por:

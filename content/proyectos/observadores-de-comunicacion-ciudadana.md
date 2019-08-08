@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - observatorio-de-comunicacion-pucv
 ---
 
 Esta iniciativa fue realizada por:

@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - infoamazonia
 ---
 
 Esta iniciativa fue realizada por:

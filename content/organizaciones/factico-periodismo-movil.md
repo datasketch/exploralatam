@@ -19,6 +19,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Managua
+projects_uids:
+  - escuadron-supercivico
 
 ---
 

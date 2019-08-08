@@ -14,6 +14,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Rosario
+organizations_uids:
+  - accion-colectiva
 ---
 
 Esta iniciativa fue realizada por:

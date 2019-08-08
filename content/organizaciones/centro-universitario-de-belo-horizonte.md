@@ -20,6 +20,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Belo Horizonte
+projects_uids:
+  - celulas-solares-a-partir-de-compostos-reutilizados-de-pilhas-não-alcalinas
+  - desenvolvimiento-de-tecnologia-verde-d
 
 ---
 

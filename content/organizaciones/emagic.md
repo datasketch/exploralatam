@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Quito
+projects_uids:
+  - plataforma-democracia-digital
 
 ---
 

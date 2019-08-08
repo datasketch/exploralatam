@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - São Paulo
+projects_uids:
+  - informacion-y-datos-para-combatir-la-violencia-contra-la-mujer-en-brasil
 
 ---
 

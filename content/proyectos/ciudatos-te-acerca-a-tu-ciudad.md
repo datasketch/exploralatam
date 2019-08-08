@@ -17,6 +17,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Bogotá
+organizations_uids:
+  - fundacion-corona
+  - datasketch
 ---
 
 Esta iniciativa fue realizada por:

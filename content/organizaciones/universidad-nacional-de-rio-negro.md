@@ -18,6 +18,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Viedma
+projects_uids:
+  - desarrollo-de-una-aplicacion-digital-para-integrar-a-sectores-sociales-excluidos-del-mercado-laboral
 
 ---
 

@@ -19,6 +19,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Buenos Aires
+projects_uids:
+  - el-mirador-de-salud-sexual-y-reproductiva
 
 ---
 

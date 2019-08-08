@@ -19,6 +19,8 @@ tags:
   - otro
 cities: 
   - Santiago
+projects_uids:
+  - hora-salud
 
 ---
 

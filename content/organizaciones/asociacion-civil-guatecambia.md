@@ -17,6 +17,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Guatemala
+projects_uids:
+  - chatbot-civico-para-el-fortalecimiento-de-la-gestion-de-denuncias-ciudadanas-en-la-municipalidad-de-quetzaltenango
 
 ---
 

@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Rosario
+projects_uids:
+  - la-vidriera-del-emprendedor
 
 ---
 

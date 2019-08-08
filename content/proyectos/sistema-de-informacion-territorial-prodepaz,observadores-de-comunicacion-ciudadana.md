@@ -16,6 +16,9 @@ tags:
 cities: 
   - Río Negro
   - Valparaíso
+organizations_uids:
+  - observatorio-de-comunicacion-pucv
+  - corporacion-prodepaz
 ---
 
 Esta iniciativa fue realizada por:

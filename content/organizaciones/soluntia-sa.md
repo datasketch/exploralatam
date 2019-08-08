@@ -21,6 +21,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Panamá
+projects_uids:
+  - dyntra-latam
 
 ---
 

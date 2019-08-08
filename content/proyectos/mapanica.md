@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Managua
+organizations_uids:
+  - openstreetmap-nicaragua
 ---
 
 Esta iniciativa fue realizada por:

@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Asunción
+projects_uids:
+  - opendata-py
 
 ---
 

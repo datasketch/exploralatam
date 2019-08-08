@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - São Paulo
+organizations_uids:
+  - forum-brasileiro-de-seguranca-publica
 ---
 
 Esta iniciativa fue realizada por:

@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - 
+organizations_uids:
+  - brujula-turistica
 ---
 
 Esta iniciativa fue realizada por:

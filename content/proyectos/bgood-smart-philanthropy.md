@@ -14,6 +14,8 @@ tags:
   - transparencia-y-rendicion-de-cuentas
 cities: 
   - Montevideo
+organizations_uids:
+  - bgood-smart-philanthropy
 ---
 
 Esta iniciativa fue realizada por:

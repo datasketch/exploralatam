@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Medellín
+organizations_uids:
+  - corporacion-control-social-colombia
 ---
 
 Esta iniciativa fue realizada por:

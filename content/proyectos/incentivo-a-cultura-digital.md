@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Livramento de Nossa Senhora
+organizations_uids:
+  - centro-de-formacão-e-organizacão-comunitaria-ceforc
 ---
 
 Esta iniciativa fue realizada por:

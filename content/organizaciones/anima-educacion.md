@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Belo Horizonte
+projects_uids:
+  - desenvolvimiento-de-tecnologia-verde-d
 
 ---
 

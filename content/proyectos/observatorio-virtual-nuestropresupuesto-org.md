@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Managua
+organizations_uids:
+  - ieepp
 ---
 
 Esta iniciativa fue realizada por:

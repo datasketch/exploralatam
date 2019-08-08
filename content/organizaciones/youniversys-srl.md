@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Santo Domingo
+projects_uids:
+  - kmesafe
 
 ---
 

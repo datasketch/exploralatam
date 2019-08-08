@@ -16,6 +16,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Ciudad de México
+organizations_uids:
+  - centro-profesional-indigena-de-asesoria-defensa-y-traduccion-a-c
 ---
 
 Esta iniciativa fue realizada por:

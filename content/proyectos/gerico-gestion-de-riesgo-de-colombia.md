@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Bogotá
+organizations_uids:
+  - gerico
 ---
 
 Esta iniciativa fue realizada por:

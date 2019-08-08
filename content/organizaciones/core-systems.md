@@ -17,6 +17,8 @@ tags:
   - otro
 cities: 
   - Managua
+projects_uids:
+  - plataforma-carazo-sostenible
 
 ---
 

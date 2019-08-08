@@ -16,6 +16,8 @@ tags:
   - transparencia-y-rendicion-de-cuentas
 cities: 
   - Córdoba
+projects_uids:
+  - construyamos-transparencia-dialogo-y-monitoreo-comunitario-de-proyectos-de-infraestructura
 
 ---
 

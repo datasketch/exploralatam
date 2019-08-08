@@ -17,6 +17,14 @@ tags:
 cities: 
   - Buenos Aires
   - Vicente Lopez
+projects_uids:
+  - a-que-precio-un-observatorio-de-compras-publicas
+  - caminos-de-la-villa
+  - concursos-transparentes
+  - a-que-precio
+  - cdlv-el-monitor-de-los-procesos-de-urbanizacion-de-villas
+  - acij
+  - dbjj-abiertas
 
 ---
 

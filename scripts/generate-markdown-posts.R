@@ -60,6 +60,7 @@ org2$name <- gsub("'", "\\\\'", org2$name)
 org2$description <- gsub("'", "\\\\'", org2$description)
 org_projs <- projects0 %>% filter(id %in% org$projects) %>% select(uid, name) %>% transpose()
 org2$projects <- map(org_projs, ~glue_data(.,"- [{name}](/proyectos/{uid})")) %>% paste(collapse = "\n")
+org2$projects_uids_yaml <-  map(org_projs, ~glue_data(.,"  - {uid}")) %>% paste(collapse = "\n")
 org_tags <- tags0 %>% filter(id %in% org$tags) %>% filter(uid != "NA") %>% select(uid, name) %>% transpose()
 org2$tags <- map(org_tags, ~glue_data(.,"  - {uid}")) %>% paste(collapse = "\n")
 org_cities <- cities0 %>% filter(id %in% org$cities) %>% filter(name != "NA") %>% select(name) %>% transpose()
@@ -83,6 +84,7 @@ all_orgs <- map(orgs, safely(function(org){
   org2$description <- gsub("'", "\\\\'", org2$description)
   org_projs <- projects0 %>% filter(id %in% org$projects) %>% select(uid, name) %>% transpose()
   org2$projects <- map(org_projs, ~glue_data(.,"- [{name}](/proyectos/{uid})")) %>% paste(collapse = "\n")
+  org2$projects_uids_yaml <-  map(org_projs, ~glue_data(.,"  - {uid}")) %>% paste(collapse = "\n")
   org_tags <- tags0 %>% filter(id %in% org$tags) %>% filter(uid != "NA") %>% select(uid, name) %>% transpose()
   org2$tags <- map(org_tags, ~glue_data(.,"  - {uid}")) %>% paste(collapse = "\n")
   org_cities <- cities0 %>% filter(id %in% org$cities) %>% filter(name != "NA") %>% select(name) %>% transpose()
@@ -91,10 +93,10 @@ all_orgs <- map(orgs, safely(function(org){
   write_lines(md, paste0("content/organizaciones/", org$uid, ".md"))
   org2$id <- NULL
   org2$projects <- org_projs
-  org2$projects <- NULL
   org2$cities <- org_cities
   org2$tags <- org_tags
   org2$createdTime <- NULL
+  org2$projects_uids_yaml <- NULL
   org2
 }))
 orgs_uids <- orgs %>% map_chr("uid")
@@ -126,6 +128,7 @@ proj2$name <- gsub("'", "\\\\'", proj2$name)
 proj2$description <- gsub("'", "\\\\'", proj2$description)
 proj_orgs <- orgs0 %>% filter(id %in% proj$orgs) %>% select(uid, name) %>% transpose()
 proj2$organizations <- map(proj_orgs, ~glue_data(.,"- [{name}](/organizaciones/{uid})")) %>% paste(collapse = "\n")
+proj2$organizations_uids_yaml <-  map(proj_orgs, ~glue_data(.,"  - {uid}")) %>% paste(collapse = "\n")
 proj_tags <- tags0 %>% filter(id %in% proj$tags) %>% filter(uid != "NA") %>% select(uid, name) %>% transpose()
 proj2$tags <- map(proj_tags, ~glue_data(.,"  - {uid}")) %>% paste(collapse = "\n")
 proj_cities <- cities0 %>% filter(id %in% proj$cities) %>% filter(name != "NA") %>% select(name) %>% transpose()
@@ -144,6 +147,7 @@ all_proj <- map(projs, safely(function(proj){
   proj2$description <- gsub("'", "\\\\'", proj2$description)
   proj_orgs <- orgs0 %>% filter(id %in% proj$orgs) %>% select(uid, name) %>% transpose()
   proj2$organizations <- map(proj_orgs, ~glue_data(.,"- [{name}](/organizaciones/{uid})")) %>% paste(collapse = "\n")
+  proj2$organizations_uids_yaml <-  map(proj_orgs, ~glue_data(.,"  - {uid}")) %>% paste(collapse = "\n")
   proj_tags <- tags0 %>% filter(id %in% proj$tags) %>% filter(uid != "NA") %>% select(uid, name) %>% transpose()
   proj2$tags <- map(proj_tags, ~glue_data(.,"  - {uid}")) %>% paste(collapse = "\n")
   proj_cities <- cities0 %>% filter(id %in% proj$cities) %>% filter(name != "NA") %>% select(name) %>% transpose()
@@ -156,6 +160,7 @@ all_proj <- map(projs, safely(function(proj){
   proj2$cities <- proj_cities
   proj2$tags <- proj_tags
   proj2$createdTime <- NULL
+  proj2$organizations_uids_yaml <- NULL
   proj2
 }))
 

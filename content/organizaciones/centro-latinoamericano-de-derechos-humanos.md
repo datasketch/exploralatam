@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Mendoza
+projects_uids:
+  - estacionamiento-inteligente
 
 ---
 

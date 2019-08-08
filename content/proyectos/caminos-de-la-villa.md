@@ -14,6 +14,10 @@ tags:
 
 cities: 
   - Buenos Aires
+organizations_uids:
+  - wingu
+  - asociacion-civil-por-la-igualdad-y-la-justicia-arg
+  - avina
 ---
 
 Esta iniciativa fue realizada por:

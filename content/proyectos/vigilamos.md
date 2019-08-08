@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - vigilamos
 ---
 
 Esta iniciativa fue realizada por:

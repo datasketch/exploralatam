@@ -22,6 +22,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Yopal
+projects_uids:
+  - sistematizacion-de-la-gestion-y-divulgacion-de-la-informacion-publica-de-ordenamiento-territorial-del-municipio-de-yopal
 
 ---
 

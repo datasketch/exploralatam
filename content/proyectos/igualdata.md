@@ -14,6 +14,9 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - economia-feminista
+  - datasketch
 ---
 
 Esta iniciativa fue realizada por:

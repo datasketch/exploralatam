@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - fundacion-karisma
 ---
 
 Esta iniciativa fue realizada por:

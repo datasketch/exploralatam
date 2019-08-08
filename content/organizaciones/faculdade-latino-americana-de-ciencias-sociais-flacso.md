@@ -18,6 +18,8 @@ tags:
   - otro
 cities: 
   - Brasilia
+projects_uids:
+  - plataforma-brasil-compra-cidadão-fiscaliza
 
 ---
 

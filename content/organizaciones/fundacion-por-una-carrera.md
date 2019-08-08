@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Santiago
+projects_uids:
+  - buscador-de-becas-online
 
 ---
 

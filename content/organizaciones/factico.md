@@ -16,6 +16,9 @@ tags:
 
 cities: 
 
+projects_uids:
+  - supercivicos
+  - escudo-ciudadano
 
 ---
 

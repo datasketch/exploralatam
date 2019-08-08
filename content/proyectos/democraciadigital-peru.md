@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Lima
+organizations_uids:
+  - democracia-digital
 ---
 
 Esta iniciativa fue realizada por:

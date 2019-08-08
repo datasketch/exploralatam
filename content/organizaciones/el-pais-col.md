@@ -16,6 +16,10 @@ tags:
 
 cities: 
   - Cali
+projects_uids:
+  - sat-condona-miles-de-millones-de-pesos-sin-explicar-por-que
+  - venezuela-crimen-sin-frontera
+  - mundial-rusia-2018
 
 ---
 

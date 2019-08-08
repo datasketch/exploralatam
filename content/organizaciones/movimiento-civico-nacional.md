@@ -17,6 +17,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Guatemala
+projects_uids:
+  - denunciapp-gt
 
 ---
 

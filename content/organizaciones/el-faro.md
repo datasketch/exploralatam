@@ -17,6 +17,11 @@ tags:
 cities: 
   - San Salvador
   - Ciudad de México
+projects_uids:
+  - dato-duro-el-salvador
+  - 72-migrantes
+  - sin-nombre
+  - la-caza-legislativa
 
 ---
 

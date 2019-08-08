@@ -16,6 +16,11 @@ tags:
 
 cities: 
   - Montevideo
+projects_uids:
+  - por-mi-barrio
+  - plataforma-educacion
+  - que-sabes
+  - a-tu-servicio
 
 ---
 

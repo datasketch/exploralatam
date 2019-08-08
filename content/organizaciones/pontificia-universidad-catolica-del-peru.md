@@ -20,6 +20,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Lima
+projects_uids:
+  - repositorios-digitales-abiertos-en-sistemas-de-transporte-publico-para-promocion-del-acceso-a-informacion-y-transparencia
 
 ---
 

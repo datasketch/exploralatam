@@ -14,6 +14,9 @@ tags:
   - participación-ciudadana
 cities: 
   - Santiago
+organizations_uids:
+  - dtlnet-ltda
+  - fundacion-inhoy
 ---
 
 Esta iniciativa fue realizada por:

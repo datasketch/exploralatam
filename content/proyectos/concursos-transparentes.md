@@ -14,6 +14,9 @@ tags:
 
 cities: 
   - Buenos Aires
+organizations_uids:
+  - ada
+  - asociacion-civil-por-la-igualdad-y-la-justicia-arg
 ---
 
 Esta iniciativa fue realizada por:

@@ -17,6 +17,8 @@ tags:
   - mapeo-ciudadano
 cities: 
   - San Salvador de Jujuy
+projects_uids:
+  - geomatica-en-organismos-publicos
 
 ---
 

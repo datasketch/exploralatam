@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Lima
+organizations_uids:
+  - ciudadanos-al-dia
 ---
 
 Esta iniciativa fue realizada por:

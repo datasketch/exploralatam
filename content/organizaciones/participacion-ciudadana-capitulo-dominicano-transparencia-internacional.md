@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Santo Domingo
+projects_uids:
+  - iniciativa-de-innovacion-tecnologica-para-la-participacion-ciudadana-en-el-monitoreo-fiscalizacion-e-incidencia-en-el-congreso-nacional
 
 ---
 

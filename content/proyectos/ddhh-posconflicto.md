@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - colombia-check
 ---
 
 Esta iniciativa fue realizada por:

@@ -19,6 +19,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Mendoza
+projects_uids:
+  - yecas
 
 ---
 

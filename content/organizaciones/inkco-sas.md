@@ -17,6 +17,8 @@ tags:
   - otro
 cities: 
   - Bogotá
+projects_uids:
+  - sistema-de-alerta-inmediata-para-proteccion-a-mujeres-en-riesgo-de-agresion-violenta
 
 ---
 

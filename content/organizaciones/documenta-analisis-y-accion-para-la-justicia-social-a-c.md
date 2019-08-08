@@ -17,6 +17,9 @@ tags:
   - otro
 cities: 
   - Ciudad de México
+projects_uids:
+  - observatorio-de-prisiones
+  - observatorio-de-prisiones
 
 ---
 

@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Quito
+organizations_uids:
+  - agencia-ecologista-de-informacion-tegantai
 ---
 
 Esta iniciativa fue realizada por:

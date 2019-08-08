@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - g1
 ---
 
 Esta iniciativa fue realizada por:

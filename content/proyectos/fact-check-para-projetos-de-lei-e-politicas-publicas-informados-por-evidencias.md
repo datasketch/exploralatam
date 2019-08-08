@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - São Paulo
+organizations_uids:
+  - instituto-veredas
 ---
 
 Esta iniciativa fue realizada por:

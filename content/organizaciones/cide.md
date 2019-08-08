@@ -16,6 +16,9 @@ tags:
 
 cities: 
   - Ciudad de México
+projects_uids:
+  - biiacs
+  - sin-nombre
 
 ---
 

@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - fundacion-para-las-buenas-practicas-de-la-internet-y-las-tecnolgias-fundabit
 ---
 
 Esta iniciativa fue realizada por:

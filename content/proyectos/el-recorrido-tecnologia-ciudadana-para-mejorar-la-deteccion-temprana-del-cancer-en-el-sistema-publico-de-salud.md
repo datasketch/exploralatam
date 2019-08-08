@@ -16,6 +16,10 @@ tags:
   - participación-ciudadana
 cities: 
   - Buenos Aires
+organizations_uids:
+  - wingu
+  - fundacion-pacientes-cancer-de-pulmon
+  - directorio-legislativo
 ---
 
 Esta iniciativa fue realizada por:

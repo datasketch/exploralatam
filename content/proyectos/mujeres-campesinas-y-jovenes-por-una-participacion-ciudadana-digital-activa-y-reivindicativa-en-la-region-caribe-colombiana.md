@@ -14,6 +14,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Barranquilla
+organizations_uids:
+  - asociacion-colectivo-mujeres-al-derecho
 ---
 
 Esta iniciativa fue realizada por:

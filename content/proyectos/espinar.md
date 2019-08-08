@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - convoca
 ---
 
 Esta iniciativa fue realizada por:

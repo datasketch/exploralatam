@@ -15,6 +15,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Santiago
+organizations_uids:
+  - constructora-proyecto-propio
 ---
 
 Esta iniciativa fue realizada por:

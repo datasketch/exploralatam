@@ -20,6 +20,8 @@ tags:
   - otro
 cities: 
   - Balneário Camboriu
+projects_uids:
+  - suma-sistema-de-qualificacão-de-gestores-operadores-e-fornecedores-da-alimentacão-institucional
 
 ---
 

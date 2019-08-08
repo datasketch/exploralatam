@@ -16,6 +16,8 @@ tags:
   - participación-ciudadana
 cities: 
   - San Jorge
+projects_uids:
+  - compromiso-ciudadano
 
 ---
 

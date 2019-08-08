@@ -16,6 +16,8 @@ tags:
   - transparencia-y-rendicion-de-cuentas
 cities: 
   - João Pessoa
+projects_uids:
+  - analise-da-governanca-de-ti-em-orgãos-publicos-identificacão-dos-indices-de-alinhamento-por-orgão-a-partir-de-uma-plataforma-mobile
 
 ---
 

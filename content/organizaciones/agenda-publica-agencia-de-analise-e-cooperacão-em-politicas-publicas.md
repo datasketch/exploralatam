@@ -19,6 +19,8 @@ tags:
   - participación-ciudadana
 cities: 
   - São Paulo
+projects_uids:
+  - cidades-transparentes-inovacões-a-partir-de-dados-abertos
 
 ---
 

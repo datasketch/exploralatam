@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Mendoza
+organizations_uids:
+  - yecas
 ---
 
 Esta iniciativa fue realizada por:

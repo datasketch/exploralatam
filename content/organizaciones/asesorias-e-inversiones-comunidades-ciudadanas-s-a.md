@@ -17,6 +17,8 @@ tags:
   - otro
 cities: 
   - Santiago
+projects_uids:
+  - medios-de-periodismo-ciudadano-independientes-participativos-transparentes-de-alta-escalabilidad-e-impacto-social
 
 ---
 

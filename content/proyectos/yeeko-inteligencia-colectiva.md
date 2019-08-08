@@ -14,6 +14,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Ciudad de México
+organizations_uids:
+  - yeeko-inteligencia-colectiva
 ---
 
 Esta iniciativa fue realizada por:

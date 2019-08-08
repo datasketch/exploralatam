@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Panamá
+organizations_uids:
+  - fundacion-ciencias-de-la-documentacion
 ---
 
 Esta iniciativa fue realizada por:

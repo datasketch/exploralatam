@@ -16,6 +16,9 @@ tags:
 
 cities: 
   - Montevideo
+projects_uids:
+  - sin-nombre
+  - mutualistas-uy
 
 ---
 

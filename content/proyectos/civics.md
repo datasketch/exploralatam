@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Madrid
+organizations_uids:
+  - vivero-de-iniciativas-ciudadanas
 ---
 
 Esta iniciativa fue realizada por:

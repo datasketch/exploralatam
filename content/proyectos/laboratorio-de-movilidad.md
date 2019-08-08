@@ -18,6 +18,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Quito
+organizations_uids:
+  - llactalab-ciudades-sustentables
+  - fundacion-biciaccion
 ---
 
 Esta iniciativa fue realizada por:

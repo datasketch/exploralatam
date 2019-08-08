@@ -20,6 +20,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Brasilia
+projects_uids:
+  - cuidando-e-monitorando-a-cidade
 
 ---
 

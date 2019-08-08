@@ -15,6 +15,9 @@ tags:
 cities: 
   - Joinville
   - São Paulo
+organizations_uids:
+  - politize
+  - civitatis-consultoria-e-assessoria-educacional-ltda
 ---
 
 Esta iniciativa fue realizada por:

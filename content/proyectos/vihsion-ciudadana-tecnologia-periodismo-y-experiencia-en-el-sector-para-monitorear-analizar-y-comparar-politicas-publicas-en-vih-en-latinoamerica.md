@@ -19,6 +19,9 @@ tags:
 cities: 
   - Guatemala
   - Lima
+organizations_uids:
+  - fundacion-ciudadana-civio
+  - instituto-humanista-de-cooperacion-para-el-desarrollo-hivos
 ---
 
 Esta iniciativa fue realizada por:

@@ -20,6 +20,9 @@ tags:
   - periodismo-de-datos
 cities: 
   - Bogotá
+projects_uids:
+  - ciudatos-te-acerca-a-tu-ciudad
+  - tecnologia-civica-para-una-sociedad-conectada-y-participativa
 
 ---
 

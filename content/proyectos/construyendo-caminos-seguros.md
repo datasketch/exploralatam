@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Guadalajara
+organizations_uids:
+  - asi-asesores-para-la-inversion-social
 ---
 
 Esta iniciativa fue realizada por:

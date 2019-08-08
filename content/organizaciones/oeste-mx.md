@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Ciudad de México
+projects_uids:
+  - oeste-mx
 
 ---
 

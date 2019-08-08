@@ -16,6 +16,8 @@ tags:
   - otro
 cities: 
   - Mariana
+projects_uids:
+  - rio-doce-ativo
 
 ---
 

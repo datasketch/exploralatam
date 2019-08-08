@@ -17,6 +17,9 @@ tags:
   - participación-ciudadana
 cities: 
   - Río Negro
+projects_uids:
+  - sistema-de-informacion-territorial-prodepaz
+  - sistema-de-informacion-territorial-prodepaz,observadores-de-comunicacion-ciudadana
 
 ---
 

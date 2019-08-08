@@ -17,6 +17,10 @@ tags:
   - participación-ciudadana
 cities: 
   - Montevideo
+organizations_uids:
+  - data-uruguay
+  - red-ciudadana-nuestra-cordoba-asociacion-civil-nuestra-cordoba
+  - data-datos-abiertos-transparencia-y-acceso-a-la-informacion
 ---
 
 Esta iniciativa fue realizada por:

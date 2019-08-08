@@ -16,6 +16,10 @@ tags:
 
 cities: 
   - Ciudad Juarez
+projects_uids:
+  - regidor-19
+  - asi-estamos-juarez
+  - sin-nombre
 
 ---
 

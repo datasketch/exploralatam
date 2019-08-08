@@ -17,6 +17,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - San José
+organizations_uids:
+  - asociacion-horizonte-positivo
 ---
 
 Esta iniciativa fue realizada por:

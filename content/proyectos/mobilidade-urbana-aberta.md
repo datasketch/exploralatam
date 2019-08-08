@@ -26,6 +26,19 @@ cities:
   - São Luis
   - São Paulo
   - Piracicaba
+organizations_uids:
+  - appcivico-eokoe-solucoes-tecnologicas
+  - instituto-são-paulo-sustentavel
+  - observatorio-do-recife
+  - imaflora
+  - movimento-nossa-bh
+  - appcivico
+  - instituto-ilhabela-sustentavel
+  - instituto-soma-brasil
+  - associacão-casa-fluminense
+  - instituto-nossa-ilheus
+  - inesc-instituto-de-estudos-socioeconomicos
+  - instituto-de-cidadania-empresarial-do-maranhão
 ---
 
 Esta iniciativa fue realizada por:

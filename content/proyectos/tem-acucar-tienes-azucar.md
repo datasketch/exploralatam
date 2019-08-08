@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Río de Janeiro
+organizations_uids:
+  - carla-barbedo-zorzanelli
 ---
 
 Esta iniciativa fue realizada por:

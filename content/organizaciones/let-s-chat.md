@@ -18,6 +18,8 @@ tags:
   - otro
 cities: 
   - Santiago
+projects_uids:
+  - let-s-chat
 
 ---
 

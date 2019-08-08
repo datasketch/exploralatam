@@ -16,6 +16,8 @@ tags:
   - mapeo-ciudadano
 cities: 
   - Valdivia
+projects_uids:
+  - ojovaldivia-cl-denuncia-y-articulacion-ciudadana-en-linea
 
 ---
 

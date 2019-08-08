@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Belém
+organizations_uids:
+  - instituto-floresta-tropical
 ---
 
 Esta iniciativa fue realizada por:

@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Montevideo
+organizations_uids:
+  - la-diaria
 ---
 
 Esta iniciativa fue realizada por:

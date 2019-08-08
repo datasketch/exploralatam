@@ -18,6 +18,8 @@ tags:
   - otro
 cities: 
   - São Paulo
+projects_uids:
+  - iniciativa-educacão-aberta-brasil
 
 ---
 

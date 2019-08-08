@@ -20,6 +20,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Córdoba
+projects_uids:
+  - plataforma-de-participacion-y-seguridad-ciudadana
 
 ---
 

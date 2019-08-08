@@ -18,6 +18,18 @@ tags:
   - periodismo-de-datos
 cities: 
   - Bogotá
+projects_uids:
+  - igualdata
+  - datasketch
+  - sobrevivientes
+  - lideres-sociales
+  - corruptour-ds-tpc
+  - cocina-colombiana
+  - no-bote-el-voto
+  - infraestructura-visible
+  - ciudatos-te-acerca-a-tu-ciudad
+  - hackeando-la-corrupcion-con-voz-ciudadana
+  - arboles-bogota
 
 ---
 

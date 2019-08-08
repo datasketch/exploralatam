@@ -16,6 +16,9 @@ tags:
 cities: 
   - Fortaleza
   - São Paulo
+organizations_uids:
+  - rede-conhecimento-social
+  - instituto-banco-da-periferia
 ---
 
 Esta iniciativa fue realizada por:

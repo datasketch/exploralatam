@@ -20,6 +20,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Ciudad de México
+projects_uids:
+  - cityflag
 
 ---
 

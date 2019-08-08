@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Guatemala
+organizations_uids:
+  - movimiento-civico-nacional
 ---
 
 Esta iniciativa fue realizada por:

@@ -15,6 +15,9 @@ tags:
   - participación-ciudadana
 cities: 
   - Lima
+organizations_uids:
+  - proetica-capitulo-peruano-de-transparency-international
+  - open-data-peru
 ---
 
 Esta iniciativa fue realizada por:

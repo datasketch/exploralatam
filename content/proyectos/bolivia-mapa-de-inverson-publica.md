@@ -14,6 +14,9 @@ tags:
 
 cities: 
   - 
+organizations_uids:
+  - banco-mundial
+  - ministerios-de-planificacion
 ---
 
 Esta iniciativa fue realizada por:

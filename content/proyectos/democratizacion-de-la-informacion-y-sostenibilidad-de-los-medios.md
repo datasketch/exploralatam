@@ -15,6 +15,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Guatemala
+organizations_uids:
+  - factus-s-a
 ---
 
 Esta iniciativa fue realizada por:

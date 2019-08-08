@@ -17,6 +17,8 @@ tags:
   - transparencia-y-rendicion-de-cuentas
 cities: 
   - Mendoza
+projects_uids:
+  - plataforma-de-apertura-de-gobiernos
 
 ---
 

@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Panamá
+organizations_uids:
+  - soluntia-sa
 ---
 
 Esta iniciativa fue realizada por:

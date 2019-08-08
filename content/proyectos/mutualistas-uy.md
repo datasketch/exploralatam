@@ -14,6 +14,9 @@ tags:
 
 cities: 
   - Montevideo
+organizations_uids:
+  - data-uruguay
+  - 180data
 ---
 
 Esta iniciativa fue realizada por:

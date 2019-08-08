@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Pereira
+projects_uids:
+  - datathon-latam
 
 ---
 

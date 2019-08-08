@@ -18,6 +18,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Bogotá
+organizations_uids:
+  - datasketch
+  - transparencia-por-colombia
 ---
 
 Esta iniciativa fue realizada por:

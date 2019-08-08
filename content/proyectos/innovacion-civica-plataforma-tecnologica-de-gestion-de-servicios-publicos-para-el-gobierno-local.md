@@ -18,6 +18,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - San José
+organizations_uids:
+  - asociacion-centro-ciudadano-de-estudios-para-una-sociedad-abierta-accesa
 ---
 
 Esta iniciativa fue realizada por:

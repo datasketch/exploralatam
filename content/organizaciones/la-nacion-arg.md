@@ -16,6 +16,12 @@ tags:
 
 cities: 
   - Buenos Aires
+projects_uids:
+  - donde-y-por-que-se-corta-la-luz
+  - declaraciones-juradas
+  - a-que-precio
+  - un-tercio-de-los-miembros-del-congreso-no-posee-titulo-universitario
+  - elecciones-2017
 
 ---
 

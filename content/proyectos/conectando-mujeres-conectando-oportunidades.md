@@ -14,6 +14,8 @@ tags:
   - participación-ciudadana
 cities: 
   - 
+organizations_uids:
+  - mkk-group
 ---
 
 Esta iniciativa fue realizada por:

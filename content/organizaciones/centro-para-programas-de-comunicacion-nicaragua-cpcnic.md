@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Managua
+projects_uids:
+  - por-mi-barrio-nicaragua
 
 ---
 

@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Santiago
+organizations_uids:
+  - fundacion-base-publica
 ---
 
 Esta iniciativa fue realizada por:

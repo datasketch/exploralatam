@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Asunción
+projects_uids:
+  - visualizacion-de-los-resultados-del-semaforo-de-eliminacion-de-pobreza
 
 ---
 

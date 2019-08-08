@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Lima
+organizations_uids:
+  - cultura-peru
 ---
 
 Esta iniciativa fue realizada por:

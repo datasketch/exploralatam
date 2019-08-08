@@ -25,6 +25,8 @@ cities:
   - Buenos Aires
   - Ciudad de México
   - Asunción
+projects_uids:
+  - innovacion-civica-para-la-mejora-del-transporte-publico-en-mendoza
 
 ---
 

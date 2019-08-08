@@ -15,6 +15,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Recife
+organizations_uids:
+  - caritas-brasileira-regional-nordeste-ii
 ---
 
 Esta iniciativa fue realizada por:

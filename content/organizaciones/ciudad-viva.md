@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Santiago
+projects_uids:
+  - fixmystreet
 
 ---
 

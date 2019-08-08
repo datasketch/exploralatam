@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Wellington
+projects_uids:
+  - citiviva-ciudadania-inteligente
 
 ---
 

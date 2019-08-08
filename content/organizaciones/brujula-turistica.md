@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - 
+projects_uids:
+  - appacheta-desarrollo-de-un-turismo-colaborativo-que-apoye-a-la-mejora-de-los-servicios-turisticos-basado-en-recomendaciones-y-experiencias-ciudadanas
 
 ---
 

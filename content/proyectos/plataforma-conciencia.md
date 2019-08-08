@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - referente
 ---
 
 Esta iniciativa fue realizada por:

@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - cuestion-publica
 ---
 
 Esta iniciativa fue realizada por:

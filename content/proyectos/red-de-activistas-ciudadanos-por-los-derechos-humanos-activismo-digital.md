@@ -14,6 +14,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Caracas
+organizations_uids:
+  - centro-de-justicia-y-paz-cepaz
 ---
 
 Esta iniciativa fue realizada por:

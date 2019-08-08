@@ -21,6 +21,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Morelia
+projects_uids:
+  - hacia-la-igualdad-de-genero-a-traves-de-narrativas-digitales-innovadoras
 
 ---
 

@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Guatemala
+organizations_uids:
+  - blackbox-solutions-y-copropiedad
 ---
 
 Esta iniciativa fue realizada por:

@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - random-monkey-sas
 ---
 
 Esta iniciativa fue realizada por:

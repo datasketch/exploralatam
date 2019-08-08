@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - fundacion-conocimiento-abierto
 ---
 
 Esta iniciativa fue realizada por:

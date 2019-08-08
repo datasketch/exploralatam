@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - São Paulo
+organizations_uids:
+  - de-olhos-nas-metas
 ---
 
 Esta iniciativa fue realizada por:

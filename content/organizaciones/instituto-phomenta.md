@@ -16,6 +16,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Campinas
+projects_uids:
+  - phomenta-doe-profissionalmente
 
 ---
 

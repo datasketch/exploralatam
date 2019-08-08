@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Quito
+projects_uids:
+  - tecnologia-y-datos-enlace-entre-la-poblacion-y-la-policia-nacional-del-ecuador
 
 ---
 

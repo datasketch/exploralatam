@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Belo Horizonte
+organizations_uids:
+  - prosas-tecnologia-social-ltda
 ---
 
 Esta iniciativa fue realizada por:

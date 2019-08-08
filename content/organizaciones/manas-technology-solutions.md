@@ -17,6 +17,8 @@ tags:
   - parlamento-abierto-monitoreo-legislativo
 cities: 
   - Vicente Lopez
+projects_uids:
+  - midiendo-los-niveles-de-integracion-sociourbana-de-asentamientos-informales-en-argentina
 
 ---
 

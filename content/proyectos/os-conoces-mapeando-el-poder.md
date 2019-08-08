@@ -14,6 +14,9 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - the-engine-room
+  - asociacion-civil-japiqay-memoria-y-ciudadana
 ---
 
 Esta iniciativa fue realizada por:

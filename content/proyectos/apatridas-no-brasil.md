@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - revista-resiliente-bra
 ---
 
 Esta iniciativa fue realizada por:

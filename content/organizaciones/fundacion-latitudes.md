@@ -18,6 +18,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - San Salvador
+projects_uids:
+  - sistema-hablame-de-respeto
 
 ---
 

@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - San José
+projects_uids:
+  - politica-en-contexto
 
 ---
 

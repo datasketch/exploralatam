@@ -17,6 +17,8 @@ tags:
   - otro
 cities: 
   - Santiago
+projects_uids:
+  - fortalecimiento-de-junta-de-vecinos
 
 ---
 

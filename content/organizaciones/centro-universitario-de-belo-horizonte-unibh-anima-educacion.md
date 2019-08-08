@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Belo Horizonte
+projects_uids:
+  - desenvolvimento-de-tecnologia-verde-na-produção-de-energia-termica-com-impacto-global-significativo-na-matriz-energetica
 
 ---
 

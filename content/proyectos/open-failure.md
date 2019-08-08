@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Cuernavaca
+organizations_uids:
+  - instituto-del-fracaso-a-c
 ---
 
 Esta iniciativa fue realizada por:

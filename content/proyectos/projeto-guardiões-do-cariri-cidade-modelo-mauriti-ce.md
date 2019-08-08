@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Mauritice
+organizations_uids:
+  - centro-de-educacão-e-assessoria-popular-mauriti-ce
 ---
 
 Esta iniciativa fue realizada por:

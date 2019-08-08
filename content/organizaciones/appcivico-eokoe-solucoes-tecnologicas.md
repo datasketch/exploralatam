@@ -22,6 +22,13 @@ tags:
 cities: 
   - Recife
   - São Paulo
+projects_uids:
+  - cidades-em-dados-transparencia-e-controle-social
+  - sagui-sistema-de-escucha-monitoreo-y-alerta-sobre-riesgos-y-impactos-de-grandes-emprendimientos-en-los-derechos-de-las-comunidades-locales
+  - appcivico-mandato-aberto-e-voto-legal
+  - mobilidade-urbana-aberta
+  - libre
+  - mobilidade-urbana-aberta
 
 ---
 

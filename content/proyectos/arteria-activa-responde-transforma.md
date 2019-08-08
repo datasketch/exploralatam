@@ -16,6 +16,11 @@ tags:
 cities: 
   - Quito
   - Guayaquil
+organizations_uids:
+  - escuela-politecnica-nacional
+  - red-infodesarrollo
+  - medialab-quito
+  - fundapi
 ---
 
 Esta iniciativa fue realizada por:

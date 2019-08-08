@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Ciudad de México
+projects_uids:
+  - portal-web-contraloria-ciudadana-puebla-para-la-denuncia
 
 ---
 

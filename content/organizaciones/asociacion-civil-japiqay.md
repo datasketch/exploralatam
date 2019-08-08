@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Lima
+projects_uids:
+  - os-conoces-mapeando-el-poder
 
 ---
 

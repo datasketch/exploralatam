@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - São Paulo
+projects_uids:
+  - plataforma-tecnoli-gica-de-monitoramento-de-indicadores-iota
 
 ---
 

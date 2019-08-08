@@ -14,6 +14,9 @@ tags:
 
 cities: 
   - Lima
+organizations_uids:
+  - la-factura
+  - avina
 ---
 
 Esta iniciativa fue realizada por:

@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - San Salvador de Jujuy
+projects_uids:
+  - chapi-poder-ciudadano
 
 ---
 

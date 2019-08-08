@@ -17,6 +17,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - São Paulo
+projects_uids:
+  - libre
 
 ---
 

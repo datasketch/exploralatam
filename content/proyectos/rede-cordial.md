@@ -16,6 +16,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - São Paulo
+organizations_uids:
+  - instituto-cordial
 ---
 
 Esta iniciativa fue realizada por:

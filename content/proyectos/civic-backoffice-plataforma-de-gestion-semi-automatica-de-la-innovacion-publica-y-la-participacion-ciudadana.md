@@ -15,6 +15,8 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Berkeley
+organizations_uids:
+  - social-apps-lab-university-of-california-berkeley
 ---
 
 Esta iniciativa fue realizada por:

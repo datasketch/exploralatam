@@ -17,6 +17,9 @@ tags:
   - participación-ciudadana
 cities: 
   - Fortaleza
+projects_uids:
+  - plataforma-cidadã
+  - plataforma-cidadã
 
 ---
 

@@ -19,6 +19,8 @@ tags:
   - periodismo-de-datos
 cities: 
   - Guatemala
+organizations_uids:
+  - centro-de-estudios-para-la-equidad-y-gobernanza-en-los-sistemas-de-salud-cegss
 ---
 
 Esta iniciativa fue realizada por:

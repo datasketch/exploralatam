@@ -16,6 +16,9 @@ tags:
   - uso-de-datos-abiertos
 cities: 
   - Río de Janeiro
+organizations_uids:
+  - lar-de-maria-dolores
+  - promec-projetos-e-modelagens-em-engenharia-e-computacão-ltda
 ---
 
 Esta iniciativa fue realizada por:

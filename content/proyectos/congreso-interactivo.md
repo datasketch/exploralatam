@@ -14,6 +14,8 @@ tags:
 
 cities: 
   - Buenos Aires
+organizations_uids:
+  - congreso-interactivo
 ---
 
 Esta iniciativa fue realizada por:

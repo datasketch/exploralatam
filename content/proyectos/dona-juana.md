@@ -14,6 +14,8 @@ tags:
 
 cities: 
 
+organizations_uids:
+  - el-espectador
 ---
 
 Esta iniciativa fue realizada por:

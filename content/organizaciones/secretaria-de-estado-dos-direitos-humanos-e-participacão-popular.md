@@ -18,6 +18,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Salvador
+projects_uids:
+  - noosfero-plataforma-web-livre-para-a-criacão-de-redes-sociais-autonomas-e-participacão-civica
 
 ---
 

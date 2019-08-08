@@ -16,6 +16,8 @@ tags:
 
 cities: 
   - Lima
+projects_uids:
+  - portal-de-transparencia-estandar
 
 ---
 

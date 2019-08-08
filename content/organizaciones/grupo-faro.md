@@ -17,6 +17,8 @@ tags:
   - participación-ciudadana
 cities: 
   - Buenos Aires
+projects_uids:
+  - comunidas-2-0
 
 ---
 

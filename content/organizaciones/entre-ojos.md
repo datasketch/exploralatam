@@ -16,6 +16,8 @@ tags:
 
 cities: 
 
+projects_uids:
+  - boyaca-se-raja-en-el-aprovechamiento-de-sus-basuras
 
 ---
 
