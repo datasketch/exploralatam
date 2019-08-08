@@ -12,28 +12,39 @@
         <a href="/agregar-proyecto" class="text-sm text-chocolate font-bold uppercase bg-white rounded-full leading-none underline">añade tu proyecto</a>
       </div>
     </div>
-    <div id="interactive">
-      <div class="flex flex-wrap" id="filters">
-        <button class="bg-swirl text-chocolate font-bold mr-2 px-3 py-1 rounded uppercase mb-2 btn-filter" data-letter="">Todos</button>
+  </div>
+  <div id="app" hidden>
+    <div class="container px-4 mx-auto pb-12">
+      <div class="flex flex-wrap">
+        <button :class="['bg-swirl text-chocolate font-bold mr-2 px-3 py-1 rounded uppercase mb-2', { 'bg-red-600': !letter }]" @click="filterByLetter()">Todos</button>
+        <button v-for="l in alphabet" :key="l" :class="['bg-swirl text-chocolate font-bold mr-2 px-3 py-1 rounded uppercase mb-2', { 'bg-red-600': l === letter }]" @click="filterByLetter(l)">{{ "{{l}}" | safeHTML }}</button>
       </div>
     </div>
-  </div>
-  <div class="bg-swirl">
-    <div class="container mx-auto px-4 py-12">
-      <div class="flex flex-col -mx-2 lg:flex-row">
-        <div class="lg:w-2/6 px-4">
-          <div class="mb-4">
-            <h2 class="text-chocolate uppercase font-bold text-lg mb-2">Filtrar proyectos</h2>
-            <div class="searchbar relative lg:max-w-md">
-              <input type="text" placeholder="Buscar por palabra clave, tipo o proyecto" class="appearance-none bg-transparent border-b border-chocolate p-2 block w-full" id="searchbar">
-              <div class="bg-swirl absolute right-0 text-xl z-10 block px-1" style="top: 50%; transform: translateY(-50%)">
-                <i class="icon ion-ios-search"></i>
+    <div class="bg-swirl">
+      <div class="container mx-auto px-4 py-12">
+        <div class="flex flex-col -mx-2 lg:flex-row">
+          <div class="lg:w-2/6 px-4">
+            <div class="mb-4">
+              <h2 class="text-chocolate uppercase font-bold text-lg mb-2">Filtrar proyectos</h2>
+              <div class="searchbar relative lg:max-w-md">
+                <input type="text" placeholder="Buscar por palabra clave, tipo o proyecto" class="appearance-none bg-transparent border-b border-chocolate p-2 block w-full" @keyup="filterByQuery($event.target.value)">
+                <div class="bg-swirl absolute right-0 text-xl z-10 block px-1" style="top: 50%; transform: translateY(-50%)">
+                  <i class="icon ion-ios-search"></i>
+                </div>
               </div>
             </div>
           </div>
-        </div>
-        <div class="lg:w-4/6 px-4">
-          <div id="cards" class="flex flex-wrap -mx-1"></div>
+          <div class="lg:w-4/6 px-4">
+            <div class="flex flex-wrap -mx-1" v-if="filteredData.length">
+              <div v-for="(item, index) in filteredData" :key="item.uid + index" class="w-full md:w-1/2 organization-card block px-1 mb-2 flex-shrink-0 flex-grow max-w-full">
+                <a :href="'/proyectos/' + item.uid" class="rounded bg-white py-2 px-4 hover:shadow-2xl flex flex-col h-full">
+                  <span class="uppercase font-bold text-chocolate block flex-grow mb-2">{{ "{{item.name}}" | safeHTML }}</span>
+                  <small class="block text-right text-xs">{{ "{{item.organizations.length}}" | safeHTML }} <span class="text-gray-700">organizaci{{ "{{ item.organizations.length === 1 ? 'ón' : 'ones' }}" | safeHTML }}</span></small>
+                </a>
+              </div>
+            </div>
+            <p v-else class="text-center text-chocolate">No se encontraron resultados</p>
+          </div>
         </div>
       </div>
     </div>
@@ -41,6 +52,10 @@
 {{ end }}
 
 {{ define "script" }}
-  <script src='{{ "js/dataset.js" | absURL }}'></script>
+  {{ if .Site.IsServer }}
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js"></script>
+  {{ else }}
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.min.js"></script>
+  {{ end }}
   <script src='{{ "js/proyectos.js" | absURL }}'></script>
 {{ end }}
