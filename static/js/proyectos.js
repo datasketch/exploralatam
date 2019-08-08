@@ -1,5 +1,6 @@
 window.addEventListener('DOMContentLoaded', function () {
   const app = new Vue({
+    name: 'App',
     el: '#app',
     mounted: function() {
       const self = this
@@ -18,11 +19,12 @@ window.addEventListener('DOMContentLoaded', function () {
     data: {
       data: [],
       letter: '',
-      query: ''
+      query: '',
+      tag: ''
     },
     computed: {
       filteredData: function() {
-        if (!(this.letter || this.query)) {
+        if (!(this.letter || this.query || this.tag)) {
           return this.data
         }
         const self = this
@@ -38,15 +40,46 @@ window.addEventListener('DOMContentLoaded', function () {
             return item.name.toLowerCase().includes(self.query)
           })
         }
+        if (this.tag) {
+          const source = data || this.data
+          data = source.filter(function (item) {
+            if (!item.tags.length) {
+              return false
+            }
+            return item.tags.some(function (tag) {
+              return tag.uid === self.tag
+            })
+          })
+        }
         return data
       },
       alphabet: function() {
         return Array.from(new Set(this.data.map(function (item) {
           return item.capital
         }))).sort()
+      },
+      tags: function () {
+        const tags = []
+        const map = new Map()
+        const data = this.flatten(this.data.map(function (item) {
+          return item.tags
+        }))
+        data.forEach(function (item) {
+          if (!map.has(item.uid)) {
+            map.set(item.uid, true)
+            tags.push(item)
+          }
+        })
+        return tags
       }
     },
     methods: {
+      flatten(array) {
+        const self = this
+        return array.reduce(function (flat, item) {
+          return flat.concat(Array.isArray(item) ? self.flatten(item) : item)
+        }, [])
+      },
       getCapitalLetter(str) {
         const normalized = str.trim().normalize("NFD").replace(/[\u0300-\u036f]/g, "")
         const pattern = /[A-Za-z]/

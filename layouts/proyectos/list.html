@@ -32,6 +32,15 @@
                   <i class="icon ion-ios-search"></i>
                 </div>
               </div>
+              <div class="mt-8">
+                <div class="flex flex-col">
+                  <label class="text-chocolate font-bold mb-2">Etiquetas</label>
+                  <select v-model="tag" class="py-2 px-3 block w-full bg-white border border-gray-100">
+                    <option value="" selected>- Selecciona una etiqueta -</option>
+                    <option v-for="tag in tags" :key="tag.uid" :value="tag.uid">{{ "{{tag.name}}" | safeHTML}}</option>
+                  </select>
+                </div>
+              </div>
             </div>
           </div>
           <div class="lg:w-4/6 px-4">
