@@ -1,135 +1,97 @@
-window.addEventListener('DOMContentLoaded', init)
-
-const dataset = new Dataset()
-const grouped = new Dataset()
-
-const searchbar = document.getElementById('searchbar')
-
-searchbar.addEventListener('keyup', function (event) {
-  const search = event.target.value.toLowerCase()
-  const data = dataset.get()
-  const includes = data.filter(function (item) {
-    return item.name.toLowerCase().includes(search)
-  })
-  renderProjects(includes)
-})
-
-function init() {
-  const data_input = document.getElementById('data')
-  data_input.remove()
-  const data = JSON.parse(data_input.value)
-  const group = groupByLetter(data)
-  const alphabet = getAlphabet(group)
-  dataset.set(data)
-  dataset.deleteMissing('name')
-  grouped.set(group)
-  renderLettersFilter(alphabet)
-  renderProjects(data)
-}
-
-function groupByLetter(data) {
-  return data.reduce(function (group, item) {
-    if (!item.name) {
-      return group
-    }
-    const capital = getCapitalLetter(item.name)
-    group[capital] = group[capital] || []
-    group[capital].push(item)
-    return group
-  }, {})
-}
-
-function getAlphabet(data) {
-  return Object.keys(data).sort()
-}
-
-function getCapitalLetter(str) {
-  const normalized = str.trim().normalize("NFD").replace(/[\u0300-\u036f]/g, "")
-  const pattern = /[A-Za-z]/
-  const exec = pattern.exec(normalized)
-  return exec[0].toUpperCase()
-}
-
-function renderLettersFilter(letters) {
-  const container = document.getElementById('filters')
-  const filters = letters.map(function (letter) {
-    const element = DOMUtils.createElement('button', {
-      attrs: {
-        class: 'bg-swirl text-chocolate font-bold mr-2 px-3 py-1 rounded uppercase mb-2 btn-filter',
-        'data-letter': letter
-      },
-      children: [letter]
-    })
-    const render = DOMUtils.render(element)
-    return DOMUtils.render(element)
-  })
-  filters.forEach(function (filter) {
-    container.append(filter)
-  })
-  registerLettersFilterHandler(filters)
-}
-
-function registerLettersFilterHandler(filters) {
-  const buttons = [].concat(document.querySelector('.btn-filter'), filters)
-  const group = grouped.get()
-  const data = dataset.get()
-  buttons.forEach(function (button) {
-    button.addEventListener('click', function (event) {
-      const letter = event.currentTarget.dataset.letter
-      renderProjects(letter ? group[letter] : data)
-    })
-  })
-}
-
-function renderProjects(data) {
-  const container = document.getElementById('cards')
-  const cards = data.map(renderProjectCard)
-  container.innerHTML = ''
-  cards.forEach(function (card) {
-    container.append(card)
-  })
-}
-
-function createProjectCard(project) {
-  return DOMUtils.createElement('div', {
-    attrs: {
-      class: 'w-full md:w-1/2 project-card block px-1 mb-2 flex-shrink-0 flex-grow max-w-full',
-    },
-    children: [
-      DOMUtils.createElement('a', {
-        attrs: {
-          class: 'rounded bg-white py-2 px-4 hover:shadow-2xl flex flex-col h-full',
-          href: '/proyectos/' + project.uid
-        },
-        children: [
-          DOMUtils.createElement('span', {
-            attrs: {
-              class: 'uppercase font-bold text-chocolate block flex-grow mb-2'
-            },
-            children: [project.name]
-          }),
-          DOMUtils.createElement('small', {
-            attrs: {
-              class: 'block text-right text-xs'
-            },
-            children: [
-              String(project.organizations.length),
-              ' ',
-              DOMUtils.createElement('span', {
-                attrs: {
-                  class: 'text-gray-700'
-                },
-                children: [project.organizations.length === 1 ? 'organización participante' : 'organizaciones participantes']
-              })
-            ]
-          })
-        ]
+window.addEventListener('DOMContentLoaded', function () {
+  const app = new Vue({
+    name: 'App',
+    el: '#app',
+    mounted: function () {
+      const self = this
+      const input = document.getElementById('data')
+      this.data = JSON.parse(input.value)
+      this.data = this.data.filter(function (item) {
+        return item.name
       })
-    ]
+        .map(function (item) {
+          item.capital = self.getCapitalLetter(item.name)
+          return item
+        })
+      input.remove()
+      this.$el.removeAttribute('hidden')
+    },
+    data: {
+      data: [],
+      letter: '',
+      query: '',
+      tag: ''
+    },
+    computed: {
+      filteredData: function () {
+        if (!(this.letter || this.query || this.tag)) {
+          return this.data
+        }
+        const self = this
+        let data
+        if (this.letter) {
+          data = this.data.filter(function (item) {
+            return item.capital === self.letter
+          })
+        }
+        if (this.query) {
+          const source = data || this.data
+          data = source.filter(function (item) {
+            return item.name.toLowerCase().includes(self.query)
+          })
+        }
+        if (this.tag) {
+          const source = data || this.data
+          data = source.filter(function (item) {
+            if (!item.tags.length) {
+              return false
+            }
+            return item.tags.some(function (tag) {
+              return tag.uid === self.tag
+            })
+          })
+        }
+        return data
+      },
+      alphabet: function () {
+        return Array.from(new Set(this.data.map(function (item) {
+          return item.capital
+        }))).sort()
+      },
+      tags: function () {
+        const tags = []
+        const map = new Map()
+        const data = this.flatten(this.data.map(function (item) {
+          return item.tags
+        }))
+        data.forEach(function (item) {
+          if (!map.has(item.uid)) {
+            map.set(item.uid, true)
+            tags.push(item)
+          }
+        })
+        return tags
+      }
+    },
+    methods: {
+      flatten(array) {
+        const self = this
+        return array.reduce(function (flat, item) {
+          return flat.concat(Array.isArray(item) ? self.flatten(item) : item)
+        }, [])
+      },
+      getCapitalLetter(str) {
+        const normalized = str.trim().normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+        const pattern = /[A-Za-z]/
+        const exec = pattern.exec(normalized)
+        return exec[0].toUpperCase()
+      },
+      filterByLetter(letter) {
+        this.letter = letter
+      },
+      filterByQuery(query) {
+        this.query = query
+      }
+    }
   })
-}
-
-function renderProjectCard(item) {
-  const element = createProjectCard(item)
-  return DOMUtils.render(element)
-}
+})

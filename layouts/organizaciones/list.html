@@ -1,6 +1,6 @@
 {{ define "main" }}
   <input id="data" type="hidden" name="data" value="{{ .Site.Data.exploralatam.organizaciones | jsonify }}">
-  <div class="container px-4 mx-auto py-12">
+  <div class="container px-4 mx-auto pt-12">
     <div class="flex flex-col mb-10 lg:flex-row">
       <div class="mb-10 lg:w-2/3 lg:mr-10 lg:mb-0">
         <h2 class="text-chocolate uppercase font-bold text-2xl mb-10">Organizaciones</h2>
@@ -9,31 +9,58 @@
       <div class="lg:w-1/3">
         <h2 class="text-chocolate uppercase font-bold text-2xl mb-10">Añade tu organización</h2>
         <p class="text-chocolate text-lg mb-4">Informa a otros sobre quién eres y lo que haces, encuentra colaboradores potenciales y vincula tus proyectos a tu organización.</p>
-        <a href="#" class="text-sm text-chocolate font-bold uppercase bg-white rounded-full leading-none underline">añade tu organización</a>
-      </div>
-    </div>
-    <div id="interactive">
-      <div class="flex flex-wrap" id="filters">
-        <button class="bg-swirl text-chocolate font-bold mr-2 px-3 py-1 rounded uppercase mb-2 btn-filter" data-letter="">Todos</button>
+        <a href="/agregar-organizacion" class="text-sm text-chocolate font-bold uppercase bg-white rounded-full leading-none underline">añade tu organización</a>
       </div>
     </div>
   </div>
-  <div class="bg-swirl">
-    <div class="container mx-auto px-4 py-12">
-      <div class="flex flex-col -mx-2 lg:flex-row">
-        <div class="lg:w-2/6 px-4">
-          <div class="mb-4">
-            <h2 class="text-chocolate uppercase font-bold text-lg mb-2">Filtrar organizaciones</h2>
-            <div class="searchbar relative lg:max-w-md">
-              <input type="text" placeholder="Buscar por palabra clave, tipo o proyecto" class="appearance-none bg-transparent border-b border-chocolate p-2 block w-full" id="searchbar">
-              <div class="bg-swirl absolute right-0 text-xl z-10 block px-1" style="top: 50%; transform: translateY(-50%)">
-                <i class="icon ion-ios-search"></i>
+  <div id="app" hidden>
+    <div class="container px-4 mx-auto pb-12">
+      <div class="flex flex-wrap">
+        <button :class="['bg-swirl text-chocolate font-bold mr-2 px-3 py-1 rounded uppercase mb-2', { 'bg-red-600': !letter }]" @click="filterByLetter()">Todos</button>
+        <button v-for="l in alphabet" :key="l" :class="['bg-swirl text-chocolate font-bold mr-2 px-3 py-1 rounded uppercase mb-2', { 'bg-red-600': l === letter }]" @click="filterByLetter(l)">{{ "{{l}}" | safeHTML }}</button>
+      </div>
+    </div>
+    <div class="bg-swirl">
+      <div class="container mx-auto px-4 py-12">
+        <div class="flex flex-col -mx-2 lg:flex-row">
+          <div class="lg:w-2/6 px-4">
+            <div class="mb-4">
+              <h2 class="text-chocolate uppercase font-bold text-lg mb-2">Filtrar organizaciones</h2>
+              <div class="searchbar relative lg:max-w-md">
+                <input type="text" placeholder="Buscar por palabra clave, tipo o proyecto" class="appearance-none bg-transparent border-b border-chocolate p-2 block w-full" @keyup="filterByQuery($event.target.value)">
+                <div class="bg-swirl absolute right-0 text-xl z-10 block px-1" style="top: 50%; transform: translateY(-50%)">
+                  <i class="icon ion-ios-search"></i>
+                </div>
+              </div>
+              <div class="mt-8">
+                <div class="flex flex-col mb-4">
+                  <label class="text-chocolate font-bold mb-2">Países</label>
+                  <select v-model="country" class="py-2 px-3 block w-full bg-white border border-gray-100">
+                    <option value="" selected>- Selecciona un país -</option>
+                    <option v-for="country in countries" :key="country" :value="country">{{ "{{country}}" | safeHTML}}</option>
+                  </select>
+                </div>
+                <div class="flex flex-col">
+                  <label class="text-chocolate font-bold mb-2">Etiquetas</label>
+                  <select v-model="tag" class="py-2 px-3 block w-full bg-white border border-gray-100">
+                    <option value="" selected>- Selecciona una etiqueta -</option>
+                    <option v-for="tag in tags" :key="tag.uid" :value="tag.uid">{{ "{{tag.name}}" | safeHTML}}</option>
+                  </select>
+                </div>
               </div>
             </div>
           </div>
-        </div>
-        <div class="lg:w-4/6 px-4">
-          <div id="cards" class="flex flex-wrap -mx-1"></div>
+          <div class="lg:w-4/6 px-4">
+            <div class="flex flex-wrap -mx-1" v-if="filteredData.length">
+              <div v-for="item in filteredData" :key="item.uid" class="w-full md:w-1/2 organization-card block px-1 mb-2 flex-shrink-0 flex-grow max-w-full">
+                <a :href="'/organizaciones/' + item.uid" class="rounded bg-white py-2 px-4 hover:shadow-2xl flex flex-col h-full">
+                  <span class="uppercase font-bold text-chocolate block flex-grow mb-2">{{ "{{item.name}}" | safeHTML }}</span>
+                  <small class="block text-right text-xs">{{ "{{item.projects.length}}" | safeHTML }} <span class="text-gray-700">proyecto{{ "{{ item.projects.length === 1 ? '' : 's' }}" | safeHTML }}</span></small>
+                </a>
+              </div>
+            </div>
+            <p v-else class="text-center text-chocolate">No se encontraron resultados</p>
+          </div>
         </div>
       </div>
     </div>
@@ -41,6 +68,10 @@
 {{ end }}
 
 {{ define "script" }}
-  <script src='{{ "js/dataset.js" | absURL }}'></script>
+  {{ if .Site.IsServer }}
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js"></script>
+  {{ else }}
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.min.js"></script>
+  {{ end }}
   <script src='{{ "js/organizations.js" | absURL }}'></script>
 {{ end }}
