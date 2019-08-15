@@ -34,6 +34,8 @@ projects0 <- projects0 %>%
   filter(!is.null(orgs), orgs != "NULL") %>%
   select(one_of(include_cols))
 
+## GENERATE POSTS
+
 org_tpl <- read_lines("scripts/organizacion-template.md") %>% paste(collapse = "\n")
 
 orgs <- transpose(orgs0)
