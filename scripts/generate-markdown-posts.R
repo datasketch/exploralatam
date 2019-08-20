@@ -20,6 +20,7 @@ projects0 <- exploralatam$projects$select_all()
 projects0 <- mop::na_to_empty_chr(projects0, empty = c(NA, "NA"))
 cities0 <- exploralatam$cities$select_all()
 cities0 <- mop::na_to_empty_chr(cities0, empty = c(NA, "NA"))
+
 tags0 <- exploralatam$tags$select_all()
 tags0 <- mop::na_to_empty_chr(tags0, empty = c(NA, "NA"))
 
@@ -33,6 +34,16 @@ include_cols <- setdiff(names(projects0), exclude_cols)
 projects0 <- projects0 %>%
   filter(!is.null(orgs), orgs != "NULL") %>%
   select(one_of(include_cols))
+
+## Setup cities
+
+cits <-  transpose(cities0)
+cits <- map(cits, function(c){
+  #c <- cits[[14]]
+  c$orgs <- orgs0 %>% filter(id %in% c$organizations) %>% select(uid, name) %>% transpose()
+  c %>% keep( names(.) %in% c("name", "country", "lat","lon", "orgs"))
+})
+jsonlite::write_json(cits, "data/cities.json", auto_unbox = TRUE)
 
 ## GENERATE POSTS
 
