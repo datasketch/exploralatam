@@ -52,8 +52,14 @@ V(g)$size <- strength(g)
 V(g)$degree <- igraph::degree(g)
 V(g)$centrality <- igraph::betweenness(g)
 
+coords <- layout_nicely(g)
+V(g)$x <- coords[,1]
+V(g)$y <- coords[,2]
+
 nds <- igraph::as_data_frame(g, "vertices")
 edg <- igraph::as_data_frame(g, "edges")
+
+nds <- nds %>% select(id = name, label = org_name, everything())
 
 write_csv(nds, "data/nodes.csv")
 write_csv(edg, "data/edges.csv")
