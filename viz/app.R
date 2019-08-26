@@ -1,87 +1,284 @@
 library(tidyverse)
 library(shiny)
-library(leaflet)
 library(dsAppWidgets)
+library(leaflet)
+library(igraph)
+library(visNetwork)
+library(hgchmagic)
+
+net <- read_csv("data/exploralatam-network.csv")
 
 cities_base <- read_csv('data/cities_data.csv')
+tags_info <- read_csv('data/desc_tags_data.csv')
+tags_info <- tags_info %>%
+  group_by(uid_org) %>%
+  summarise(tag_name = paste(name,collapse='_'))
+cities_base <- cities_base %>% 
+  left_join(tags_info)
+cities_base$tag_name[is.na(cities_base$tag_name)] <- 'Sin tags'
+
+org_info <- read_csv('data/desc_org_data.csv')
+org_info$org_type[is.na(org_info$org_type)] <- 'Sin etiqueta'
+
 
 ui <- fluidPage(
   tags$head(
-    tags$style(HTML("
-     @import url('//fonts.googleapis.com/css?family=Lobster|Cabin:400,700');
-
-    .col_viz {
-      display: grid;
-      grid-template-columns: 0.4fr 0.6fr;
-      }
-
-    "))
+    tags$link(rel="stylesheet", type="text/css", href="style.css"),
+    includeScript("js/iframeSizer.contentWindow.min.js")
   ),
-  div(class = 'col_viz',
-    div(
-  uiOutput('controls'),
-  uiOutput('text_org')
-  ),
-  uiOutput('viz')
+  div(class = 'panel',
+      div(class = 'panel_div',
+          div(class = 'panel_iconos',
+              uiOutput('controls')
+          ),
+          div( class = 'panel_info',
+               uiOutput('filter_org'),
+               uiOutput('filter_tags'),
+               HTML('<div class = "filter_opts">Da click en el grafico para obtener información</div>')
+          )
+      ),
+      conditionalPanel(
+        condition =  "input.graphs == 'Map'",
+        leafletOutput('mapa_viz', height = "100%")
+      ),
+      conditionalPanel(
+        condition =  "input.graphs == 'Red'",
+        visNetworkOutput('red_viz', height = "100%")
+      ),
+      conditionalPanel(
+        condition =  "input.graphs == 'Bubbles'",
+        highchartOutput('bubbles_map', height = "100%")
+      )
   )
-  )
+)
 
 server <- function(input, output, session) {
-
+  
   output$controls <- renderUI({
-    radioButtons("chart", "Tipo de gráfico", c("Mapa", "Red"))
+    
+    labels <- c('Map', 'Red', 'Bubbles')
+    values <- c('Map', 'Red', 'Bubbles')
+    buttonImage(id = 'graphs', labels, values, file = 'img/', format = 'svg')
   })
-
-  output$mapViz <- renderLeaflet({
-
+  
+  output$filter_org <- renderUI({
+    # Filtro tipo de organización
+    type_org <- unique(org_info$org_type)
+    # Filtro por tag
+    tag_list <- unique(tags_info$name)
+    div(class = 'filter_opts',
+        selectizeInput(
+          inputId = "type_organization",
+          label = " ",
+          choices = type_org,
+          multiple = TRUE,
+          selected = NULL,
+          options = list(placeholder = "Filtra por tipo de organización",
+                         plugins= list('remove_button'))
+        )
+    )
+  })
+  
+  data_org <- reactive({
+    t_org <- input$type_organization
+    org_info <- cities_base %>% 
+      left_join(org_info)
+    
+    if (is.null(t_org)) {
+      org_info <- org_info
+    } else {
+      org_info <- org_info %>%
+        filter(org_type %in% t_org)
+    }
+    org_info
+  })  
+  
+  output$filter_tags <- renderUI({
+    # Filtro tipo de organización
+    dt <- data_org() 
+    tag_list <- unique(strsplit(dt$tag_name, "_") %>% unlist())
+    div(class = 'filter_opts',
+        selectizeInput(
+          inputId = "tag_org",
+          label = " ",
+          choices = tag_list,
+          multiple = TRUE,
+          selected = NULL,
+          options = list(placeholder = "Filtra por tag",
+                         plugins= list('remove_button'))
+        )
+    )
+  })
+  
+  data_filter <- reactive({
+    
+    dta_map <- data_org()
+    tags_sel <- input$tag_org
+    if (is.null(tags_sel)) {
+      dta_map <- dta_map
+    } else {
+      tags_sel <- paste0(tags_sel, collapse = "|")
+      dta_map <- dta_map[grep(tags_sel, dta_map$tag_name),]
+    }
+    dta_map
+  })
+  
+  output$mapa_viz <- renderLeaflet({
+    cities_base_filt <- data_filter() 
+    
+    data_map <- cities_base_filt %>% #distinct(name, .keep_all = T)
+      group_by(name, country, lat, lon) %>% 
+      summarise(radius = n())
+    
     labels <- sprintf(
-      paste0('<b>País: </b>', cities_base$country,
-             '<br/><b>Ciudad: </b>', cities_base$name,
-             '<br/>Total organizaciones: ', cities_base$radius
+      paste0('<div class="tool_map"><b>País: </b>', data_map$country,
+             '<br/><b>Ciudad: </b>', data_map$name,
+             '<br/>Total organizaciones: ', data_map$radius, '</div>'
       )) %>% lapply(htmltools::HTML)
-
-    lf <- leaflet() %>%
-      addProviderTiles('CartoDB') %>%
-      setView(lng = -90, lat = 0, zoom = 3) %>%
+    topoData <- readLines('data/american-countries.topojson')
+    b_box <- geojson::bbox_get(topoData)
+    lf <- leaflet() %>% 
+      addTopoJSON(topoData, weight = 1, 
+                  color = '#333', fill = FALSE)
+    lf <- lf %>% 
+      addProviderTiles('CartoDB') %>% 
+      setView(lng = mean(c(b_box[1], b_box[3])),
+              lat = mean(c(b_box[2], b_box[4])), 
+              zoom = 3) %>% 
       addCircleMarkers(
-        lng = cities_base$lon,
-        lat = cities_base$lat,
-        radius =  scales::rescale(cities_base$radius, to = c(1, 11)),
+        lng = data_map$lon,
+        lat = data_map$lat,
+        radius =  scales::rescale(data_map$radius, to = c(5, 21)),
         color = '#f55d26',
         stroke = FALSE,
         fillOpacity = 0.7,
         label = labels,
-        layerId = cities_base$name)
+        layerId = data_map$name)
     lf
   })
-
-  output$text_org <- renderUI({
-    p_sel <- input$mapViz_marker_click$id
-
-    if (is.null(p_sel)) return('Selecciona una Ciudad para ver la lista de organizaciones')
-
-    dt_org <- cities_base %>%
-               filter(name %in% p_sel)
-    map(dt_org$names_org, function(i) {
-      HTML(paste0('<b>', i, '</b><br/>'))
-    })
+  
+  
+  output$bubbles_map <- renderHighchart({
+    cities_base_filt <- data_filter() 
+    data_map <- cities_base_filt %>% #distinct(name, .keep_all = T)
+      group_by(country, name) %>% 
+      summarise(radius = n())
+    #myFunc <- JS("function(event) {Shiny.onInputChange('hcClicked',  {id:event.point.category.name, cat:this.name, timestamp: new Date().getTime()});}")
+    myFunc <- JS("function(event) {Shiny.onInputChange('hcClicked',  {id:event.point.name, timestamp: new Date().getTime()});}")
+    
+    hgch_bubbles_CatCatNum(data_map, opts = list(bubble_min = "1%",
+                                                 bubble_max = "5%", 
+                                                 clickFunction = myFunc,
+                                                 background = 'transparent',
+                                                 allow_point = TRUE,
+                                                 cursor =  'pointer',
+                                                 color_hover = "#fa8223",
+                                                 color_click  = "#fa8223",
+                                                 tooltip = list(headerFormat = " ",
+                                                                pointFormat = '<b>País: </b>{point.name}</br>
+                                                                               <b>Ciudad: </b>{series.name}</br>
+                                                                               Total organizaciones: {point.y}'))
+    )
   })
-
-  output$viz <- renderUI({
-
-    inp_viz <- input$chart
-    if (is.null(input$chart)) return()
-
-    if (inp_viz == 'Mapa') {
-      viz <- leafletOutput('mapViz', width = "100%", height = "900px")
-    } else {
-      viz <- 'acá va la red'
-    }
-
-    viz
+  
+  output$red_viz <- renderVisNetwork({
+    cities_base_filter <- data_filter() %>% 
+      select(org_uid = uid_org) %>% distinct()
+    
+    edges <- net %>%
+      select(proj_uid, org_uid) %>%
+      group_by(proj_uid) %>%
+      filter(n() > 1) %>%
+      split(.$proj_uid) %>%
+      map(., 2) %>%
+      map(~combn(.x, m = 2)) %>%
+      map(~t(.x)) %>%
+      map_dfr(as_tibble) %>%
+      rename(source = V1, target = V2) %>%
+      filter(source != target) %>%
+      group_by(source, target) %>%
+      summarize(weight = n())
+    
+    nodes <- net %>% select(org_uid, org_name) %>% distinct()
+    
+    g <- graph_from_data_frame(d=edges, vertices=nodes, directed=FALSE)
+    
+    V(g)$size <- strength(g)
+    
+    V(g)$degree <- igraph::degree(g)
+    V(g)$centrality <- igraph::betweenness(g)
+    
+    coords <- layout_nicely(g)
+    V(g)$x <- coords[,1]
+    V(g)$y <- coords[,2]
+    
+    nds <- igraph::as_data_frame(g, "vertices")
+    edges<- igraph::as_data_frame(g, "edges")
+    
+    nodes <- nds %>% select(id = name, label = org_name, everything())
+    
+    edg <- edges %>%
+      mutate(size = weight)
+    nod <- nodes %>%
+      filter(id %in% c(edg$from, edg$to))
+    nod <- nod %>%
+      mutate(size = 20*centrality/max(centrality) + 10)
+    
+    layoutMat <- nod %>% select(x,y) %>% as.matrix()
+    
+    visNetwork(nodes = nod, edges = edg, background = "transparent") %>%
+      visIgraphLayout("layout.norm",layoutMatrix = layoutMat) %>% 
+      visEdges(arrows = 'from', scaling = list(min = 2, max = 10)) %>% 
+      visNodes(color = list(background = "#62caa1", 
+                            border = "#015d54",
+                            highlight = "#015d54")) %>% 
+      visEvents(
+        click = "function(nodes) {
+        console.info('click')
+        console.info(nodes)
+        Shiny.onInputChange('clickRed', {nodes : nodes.nodes[0]});
+        ;}"
+      )
+    
   })
-
-
+  
+  observeEvent(input$mapa_viz_marker_click, {
+    id = input$mapa_viz_marker_click$id
+    showModal(modalDialog(
+      title = '',
+      easyClose = TRUE,
+      footer = modalButton("Cerrar"), 
+      input$mapa_viz_marker_click$id, 
+      br()
+    )
+    )
+  })
+  
+  
+  observeEvent(input$clickRed, {
+    id = input$clickRed
+    showModal(modalDialog(
+      title = '',
+      easyClose = TRUE,
+      footer = modalButton("Cerrar"), 
+      input$clickRed, 
+      br()
+    )
+    )
+  })
+  
+  
+  observeEvent(input$hcClicked, {
+    id = input$hcClicked$id
+    showModal(modalDialog(
+      title = '',
+      easyClose = TRUE,
+      footer = modalButton("Cerrar"), 
+      input$hcClicked$id, 
+      br()
+    )
+    )
+  })
 }
 
 

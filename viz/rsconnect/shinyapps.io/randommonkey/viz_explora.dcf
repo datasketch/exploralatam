@@ -1,0 +1,13 @@
+name: viz_explora
+title: viz_explora
+username:
+account: randommonkey
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1100762
+bundleId: 2354917
+url: https://randommonkey.shinyapps.io/viz_explora/
+when: 1566787201.85157
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: viz-data-prep.R|viz.R

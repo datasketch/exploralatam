@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+/*.shiny-output-error {
+  visibility: hidden; 
+}*/
+
+*:before,
+*:after {
+  box-sixing: border-box;
+  outline: none;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  /*width: 100%;
+  height: 100%;
+  background: #262626;*/
+  font-family: 'Open Sans', sans-serif;
+}
+
+.panel {
+ display: grid;
+ grid-template-columns: 0.3fr 0.7fr;
+ background-color: #d4dadc !important;
+ }
+ 
+ .panel_div {
+  background: #333;
+  display: grid;
+  height: -webkit-fill-available;
+  grid-template-rows: 0.1fr 0.9fr;
+ }
+ 
+ .panel_iconos {
+  background: #232322;
+ }
+
+ 
+.buttons-group  {
+  justify-content: space-around; !important;
+  display: flex !important;
+}
+
+.buttons-group .buttonStyle:before {
+	content: none !important;
+}
+
+.buttons-group .buttonStyle {
+  border-radius: 50% !important;
+  width: 55px !important;
+}
+
+
+.buttons-group .buttonStyle .imageStyle {
+  border-radius: 50% !important;
+}
+
+
+
+.buttonStyle.active_btn .imageStyle{
+ background-color: #62caa1 !important;
+ width: 45px !important;
+}
+
+.selectize-input {
+  background: transparent !important;
+  color: #FFFFFF !important;
+  text-align: left !important;
+}
+
+.selectize-control.multi .selectize-input > div {
+    width: inherit !important;
+    letter-spacing: 1px;
+}
+
+
+.filter_opts {
+  text-align:  -webkit-center !important;
+  color: #FFFFFF;
+}
+
+
+.selectize-dropdown-content {
+  background: #333 !important;
+  color: #ffffff !important;
+  text-align: left !important;
+  letter-spacing: 1px !important;
+}
+
+.shiny-bound-input {
+ width: -webkit-fill-available !important; 
+ width: -moz-fill-available !important; 
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #FFFFFF;
+  letter-spacing: 1px;
+}
+::-moz-placeholder { /* Firefox 19+ */
+ color: #FFFFFF;
+ letter-spacing: 1px;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+ color: #FFFFFF;
+ letter-spacing: 1px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #242323;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+    background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #62caa1;
+    border: 3px solid #62caa1;
+    height: 130px;
+}
+
+.tool_map {
+  font-size: 15px;
+}
+
