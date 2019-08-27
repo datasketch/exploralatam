@@ -6,6 +6,21 @@ library(jsonlite)
 exp <- fromJSON("data/exploralatam.json", simplifyDataFrame = FALSE)
 
 orgs <- exp$organizaciones
+
+orgs <- orgs %>% transpose() %>% as_tibble()
+
+sel_type <- orgs %>% 
+  select(uid_org = uid, name_org = name, description, org_type, website, year_founded, facebook, twitter) %>% 
+  unnest() %>% distinct(name_org, .keep_all = TRUE)
+
+write_csv(sel_type, 'data/desc_org_data.csv')
+
+exp <- fromJSON("data/exploralatam.json", simplifyDataFrame = TRUE)
+exp_org <- exp$organizaciones
+exp_org <- exp_org %>% select(uid_org = uid, tags) %>% unnest()
+write_csv(exp_org, 'data/desc_tags_data.csv')
+
+
 orgs_proj <- map(orgs, function(x){
   #x <- orgs[[1]]
   #message(x$uid)
