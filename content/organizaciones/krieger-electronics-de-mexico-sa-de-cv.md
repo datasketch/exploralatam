@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-21
+date_last_modified: 2019-08-28
 uid: krieger-electronics-de-mexico-sa-de-cv
 title: |
   Krieger Electronics De Mexico Sa De Cv

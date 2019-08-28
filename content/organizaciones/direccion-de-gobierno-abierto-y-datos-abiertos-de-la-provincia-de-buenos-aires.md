@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-29
+date_last_modified: 2019-08-28
 uid: direccion-de-gobierno-abierto-y-datos-abiertos-de-la-provincia-de-buenos-aires
 title: |
   Dirección De Gobierno Abierto Y Datos Abiertos De La Provincia De Buenos Aires

@@ -17,9 +17,9 @@ tags:
 cities: 
   - Cartagena
 organizations_uids:
-  - zeus-tecnologica-s-a
+  - zeus-tecnologia-s-a
 ---
 
 Esta iniciativa fue realizada por:
 
-- [Zeus Tecnologica S.A](/organizaciones/zeus-tecnologica-s-a)
+- [Zeus Tecnología S.A](/organizaciones/zeus-tecnologia-s-a)

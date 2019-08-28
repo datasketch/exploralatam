@@ -20,4 +20,4 @@ organizations_uids:
 
 Esta iniciativa fue realizada por:
 
-- [X](/organizaciones/la-publica)
+- [La pública](/organizaciones/la-publica)

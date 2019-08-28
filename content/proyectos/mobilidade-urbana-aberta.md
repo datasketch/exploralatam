@@ -48,7 +48,7 @@ Esta iniciativa fue realizada por:
 - [Observatório Do Recife](/organizaciones/observatorio-do-recife)
 - [Imaflora](/organizaciones/imaflora)
 - [Movimento Nossa Bh](/organizaciones/movimento-nossa-bh)
-- [X](/organizaciones/appcivico)
+- [AppCívico](/organizaciones/appcivico)
 - [Instituto Ilhabela Sustentável](/organizaciones/instituto-ilhabela-sustentavel)
 - [Instituto Soma Brasil](/organizaciones/instituto-soma-brasil)
 - [Associação Casa Fluminense](/organizaciones/associacão-casa-fluminense)

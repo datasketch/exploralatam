@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-21
+date_last_modified: 2019-08-28
 uid: agencia-metropolitana-de-seguridad-laboratorio-de-politicas-publicas
 title: |
   Agencia Metropolitana De Seguridad, Laboratorio De Políticas Públicas

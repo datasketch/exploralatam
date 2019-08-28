@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-21
+date_last_modified: 2019-08-28
 uid: centro-de-estudos-avancados-de-promocão-social-e-ambiental-ceaps-projeto-saude-alegria
 title: |
   Centro De Estudos Avançados De Promoção Social E Ambiental - Ceaps / Projeto Saúde & Alegria

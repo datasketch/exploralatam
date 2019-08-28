@@ -20,4 +20,4 @@ organizations_uids:
 
 Esta iniciativa fue realizada por:
 
-- [X](/organizaciones/icij)
+- [International Consortium of Investigative Journalists](/organizaciones/icij)

@@ -20,4 +20,4 @@ organizations_uids:
 
 Esta iniciativa fue realizada por:
 
-- [X](/organizaciones/de-olhos-nas-metas)
+- [De Olho nas Metas](/organizaciones/de-olhos-nas-metas)

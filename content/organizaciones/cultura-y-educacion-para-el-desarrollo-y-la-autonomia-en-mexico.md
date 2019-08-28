@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-08-07
+date_last_modified: 2019-08-28
 uid: cultura-y-educacion-para-el-desarrollo-y-la-autonomia-en-mexico
 title: |
   Cultura Y Educación Para El Desarrollo Y La Autonomía En México

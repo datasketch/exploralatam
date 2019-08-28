@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-29
+date_last_modified: 2019-08-28
 uid: ouvidoria-geral-da-união-ministerio-da-transparencia-fiscalizacão-e-controladoria-geral-da-união-cgu
 title: |
   Ouvidoria-Geral Da União / Ministério Da Transparência, Fiscalização E Controladoria-Geral Da União?-Cgu

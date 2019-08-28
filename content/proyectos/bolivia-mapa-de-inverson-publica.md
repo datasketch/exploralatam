@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:02:24.000Z
-date_last_modified: 2019-07-21
+date_last_modified: 2019-08-28
 uid: bolivia-mapa-de-inverson-publica
 title: |
   Bolivia Mapa De Inverson Publica
@@ -16,10 +16,8 @@ cities:
   - 
 organizations_uids:
   - banco-mundial
-  - ministerios-de-planificacion
 ---
 
 Esta iniciativa fue realizada por:
 
 - [Banco Mundial](/organizaciones/banco-mundial)
-- [X](/organizaciones/ministerios-de-planificacion)

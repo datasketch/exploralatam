@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-21
+date_last_modified: 2019-08-28
 uid: consejo-civico-de-instituciones-de-nuevo-leon-a-c
 title: |
   Consejo Cívico De Instituciones De Nuevo León, A.C.

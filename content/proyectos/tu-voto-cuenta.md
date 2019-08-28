@@ -20,4 +20,4 @@ organizations_uids:
 
 Esta iniciativa fue realizada por:
 
-- [X](/organizaciones/tu-voto-cuenta)
+- [Tu Voto Cuenta](/organizaciones/tu-voto-cuenta)

@@ -20,4 +20,4 @@ organizations_uids:
 
 Esta iniciativa fue realizada por:
 
-- [X](/organizaciones/municipalidad-de-guatemala)
+- [Municipalidad de Guatemala](/organizaciones/municipalidad-de-guatemala)

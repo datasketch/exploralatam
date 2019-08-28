@@ -20,4 +20,4 @@ organizations_uids:
 
 Esta iniciativa fue realizada por:
 
-- [X](/organizaciones/ministerio-de-economia-de-peru)
+- [Ministerio de Economía del Perú](/organizaciones/ministerio-de-economia-de-peru)

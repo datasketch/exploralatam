@@ -20,4 +20,4 @@ organizations_uids:
 
 Esta iniciativa fue realizada por:
 
-- [X](/organizaciones/diario-de-pernambuco)
+- [Diario de Pernambuco](/organizaciones/diario-de-pernambuco)

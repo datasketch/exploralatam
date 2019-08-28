@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-07-21
+date_last_modified: 2019-08-28
 uid: instituto-de-arquitetos-do-brasil-departamento-de-são-paulo-iab-sp
 title: |
   Instituto De Arquitetos Do Brasil - Departamento De São Paulo (Iab-Sp)

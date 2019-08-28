@@ -1,21 +1,21 @@
 ---
 date: 2019-07-21T23:22:18.000Z
-date_last_modified: 2019-07-24
+date_last_modified: 2019-08-28
 uid: diario-de-pernambuco
 title: |
-  X
+  Diario de Pernambuco
 legal_name: 
 description: |
-  
+  Diário de Pernambuco es un periódico publicado en Recife, Brasil. El periódico comenzó a publicarse el 7 de noviembre de 1825. Es el diario más antiguo de circulación continua en Latinoamérica y el periódico más antiguo de circulación continua editado en portugués.
 org_type: 
-website: 
-year_founded: 
-facebook: 
-twitter: 
+website: https://www.diariodepernambuco.com.br/
+year_founded: 1825
+facebook: https://pt-br.facebook.com/jornaldiariodepernambuco/
+twitter: https://twitter.com/DiarioPE?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 tags:
 
 cities: 
-
+  - Recife
 projects_uids:
   - machismo-no-futebol
 

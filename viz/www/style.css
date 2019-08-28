@@ -127,3 +127,12 @@ body {
   font-size: 15px;
 }
 
+.name_org {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+#map_text_ciudades,#bub_text_ciudades {
+ height: 500px;
+ overflow: auto;
+}

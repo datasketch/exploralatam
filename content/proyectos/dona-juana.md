@@ -20,4 +20,4 @@ organizations_uids:
 
 Esta iniciativa fue realizada por:
 
-- [X](/organizaciones/el-espectador)
+- [El espectador](/organizaciones/el-espectador)

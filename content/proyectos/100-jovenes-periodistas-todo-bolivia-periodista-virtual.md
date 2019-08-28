@@ -21,5 +21,5 @@ organizations_uids:
 
 Esta iniciativa fue realizada por:
 
-- [X](/organizaciones/hivos)
+- [Hivos](/organizaciones/hivos)
 - [Periodista Virtual](/organizaciones/periodista-virtual)

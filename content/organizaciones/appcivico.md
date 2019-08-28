@@ -1,9 +1,9 @@
 ---
 date: 2019-07-21T23:22:18.000Z
-date_last_modified: 2019-07-24
+date_last_modified: 2019-08-28
 uid: appcivico
 title: |
-  X
+  AppCívico
 legal_name: 
 description: |
   
@@ -15,7 +15,7 @@ twitter:
 tags:
 
 cities: 
-
+  - Sao Paulo
 projects_uids:
   - mobilidade-urbana-aberta
 

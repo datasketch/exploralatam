@@ -20,4 +20,4 @@ organizations_uids:
 
 Esta iniciativa fue realizada por:
 
-- [X](/organizaciones/ojo-con-mi-pisto)
+- [Ojo con mi Pisto](/organizaciones/ojo-con-mi-pisto)

@@ -242,18 +242,50 @@ server <- function(input, output, session) {
     
   })
   
+  output$map_text_ciudades <- renderUI({
+    city <- input$mapa_viz_marker_click$id
+    dt <- data_filter() %>% filter(name %in% city)
+   
+    # website, year_founded, facebook, twitter
+    map(1:nrow(dt), function(i) {
+      descripcion <- ifelse(is.na(dt$description[i]), 'Sin información', dt$description[i])
+     
+      # twitter <- ifelse(is.na(dt$twitter[i]), 'https://twitter.com/', dt$twitter[i])
+      # 
+      HTML( paste0( '<div class = "name_org">',dt$names_org[i], ' ',
+                    '<a href=', dt$facebook[i],'>', tags$img(src = "img/facebook.png"),'</a> ',
+                    '<a href=', dt$twitter[i],'>', tags$img(src = "img/twitter.png"),'</a></div>',
+                    '<p>', descripcion, '</p>',
+                    '<i class="fab fa-twitter"></i>'))
+    })
+  })
+  
+  
   observeEvent(input$mapa_viz_marker_click, {
     id = input$mapa_viz_marker_click$id
     showModal(modalDialog(
-      title = '',
+      title = toupper(input$mapa_viz_marker_click$id),
       easyClose = TRUE,
       footer = modalButton("Cerrar"), 
-      input$mapa_viz_marker_click$id, 
-      br()
+      uiOutput('map_text_ciudades')
     )
     )
   })
   
+  
+  output$red_text <- renderUI({
+    org <- input$clickRed
+    red_inf <- net %>% 
+                filter(org_uid %in% org)
+    proj <- map(1:nrow(red_inf), 
+                function(z){ paste0('<li>',
+                                    red_inf$proj_name[z], 
+                                    '</li>')}) %>% unlist()
+    proj <- paste0(proj, collapse = "")
+    HTML(paste0(unique(red_inf$org_name), '</br><b>Proyectos: </b>',
+         '<ul>', proj, '</ul>'
+         ))
+  })
   
   observeEvent(input$clickRed, {
     id = input$clickRed
@@ -261,20 +293,34 @@ server <- function(input, output, session) {
       title = '',
       easyClose = TRUE,
       footer = modalButton("Cerrar"), 
-      input$clickRed, 
-      br()
+      uiOutput('red_text')
     )
     )
   })
   
+  output$bub_text_ciudades <- renderUI({
+    city <- input$hcClicked$id
+    dt <- data_filter() %>% filter(name %in% city)
+    
+    # website, year_founded, facebook, twitter
+    map(1:nrow(dt), function(i) {
+      descripcion <- ifelse(is.na(dt$description[i]), 'Sin información', dt$description[i])
+  
+      HTML( paste0( '<div class = "name_org">',dt$names_org[i], ' ',
+                    '<a href=', dt$facebook[i],'>', tags$img(src = "img/facebook.png"),'</a> ',
+                    '<a href=', dt$twitter[i],'>', tags$img(src = "img/twitter.png"),'</a></div>',
+                    '<p>', descripcion, '</p>',
+                    '<i class="fab fa-twitter"></i>'))
+    })
+  })
   
   observeEvent(input$hcClicked, {
     id = input$hcClicked$id
     showModal(modalDialog(
-      title = '',
+      title = toupper(input$hcClicked$id),
       easyClose = TRUE,
       footer = modalButton("Cerrar"), 
-      input$hcClicked$id, 
+      uiOutput('bub_text_ciudades'), 
       br()
     )
     )
