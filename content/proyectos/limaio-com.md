@@ -20,4 +20,4 @@ organizations_uids:
 
 Esta iniciativa fue realizada por:
 
-- [X](/organizaciones/lima-i-o)
+- [lima-i-o](/organizaciones/lima-i-o)

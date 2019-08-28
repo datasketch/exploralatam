@@ -20,4 +20,4 @@ organizations_uids:
 
 Esta iniciativa fue realizada por:
 
-- [X](/organizaciones/ministerio-de-economia)
+- [ministerio-de-economia](/organizaciones/ministerio-de-economia)

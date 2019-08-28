@@ -20,4 +20,4 @@ organizations_uids:
 
 Esta iniciativa fue realizada por:
 
-- [X](/organizaciones/cuentas-claras)
+- [cuentas-claras](/organizaciones/cuentas-claras)

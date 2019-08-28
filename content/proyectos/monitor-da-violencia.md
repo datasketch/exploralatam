@@ -20,4 +20,4 @@ organizations_uids:
 
 Esta iniciativa fue realizada por:
 
-- [X](/organizaciones/g1)
+- [g1](/organizaciones/g1)

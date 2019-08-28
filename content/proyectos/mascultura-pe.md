@@ -20,4 +20,4 @@ organizations_uids:
 
 Esta iniciativa fue realizada por:
 
-- [X](/organizaciones/mas-cultura)
+- [mas-cultura](/organizaciones/mas-cultura)

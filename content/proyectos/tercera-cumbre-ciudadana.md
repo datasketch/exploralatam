@@ -20,4 +20,4 @@ organizations_uids:
 
 Esta iniciativa fue realizada por:
 
-- [X](/organizaciones/tercera-cumbre-ciudadana)
+- [tercera-cumbre-ciudadana](/organizaciones/tercera-cumbre-ciudadana)
