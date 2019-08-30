@@ -6,12 +6,12 @@ title: |
   AppCívico
 legal_name: 
 description: |
-  
+  AppCívico desenvolve plataformas tecnológicas sob medida para aprimorar a gestão pública, aumentar a eficiência e a transparência
 org_type: 
-website: 
-year_founded: 
-facebook: 
-twitter: 
+website: https://appcivico.com/pt/
+year_founded: 2012
+facebook: https://es-la.facebook.com/pg/AppCivicoCSB/about/?ref=page_internal
+twitter: https://twitter.com/appcivico?lang=es
 tags:
 
 cities: 

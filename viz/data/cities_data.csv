@@ -1,707 +1,745 @@
-name,radius,ind,names_org,uid_org,country,lat,lon
-Alajuela,1,148,Cscr,cscr,Costa Rica,10.0159394,-84.2141701
-Altaneira,1,75,Fundação Educativa E Cultural - Arca,fundacao-educativa-e-cultural-arca,Brasil,-6.988451,-39.7484115
-Antigua Guatemala,1,129,Consejo Civico De Vecinos,consejo-civico-de-vecinos,Guatemala,14.5586,90.7295
-Araranguá,4,17,"Núcleo De Estudos Em Inteligência, Gestão E Tecnologias Para Inovação (Igti)",nucleo-de-estudos-em-inteligencia-gestão-e-tecnologias-para-inovacão-igti,Brasil,-28.9361187,-49.4923013
-Araranguá,4,17,Universidade Federal De Santa Catarina,universidade-federal-de-santa-catarina,Brasil,-28.9361187,-49.4923013
-Araranguá,4,17,Centro Tecnológico (Ctc),centro-tecnologico-ctc,Brasil,-28.9361187,-49.4923013
-Araranguá,4,17,Departamento De Engenharia E Gestão Do Conhecimento (Degc),departamento-de-engenharia-e-gestão-do-conhecimento-degc,Brasil,-28.9361187,-49.4923013
-Arequipa,1,34,"Derecho, Ambiente Y Recursos Naturales",derecho-ambiente-y-recursos-naturales,Perú,-16.4090474,-71.537451
-Asunción,13,107,W3,w3,Paraguay,-25.2637399,-57.575926
-Asunción,13,107,Fundación Centro Latinoamericano de Derechos Humanos,fundacion-centro-latinoamericano-de-derechos-humanos,Paraguay,-25.2637399,-57.575926
-Asunción,13,107,Tedic,tedic,Paraguay,-25.2637399,-57.575926
-Asunción,13,107,Centro De Estudios Ambientales Y Sociales (Ceamso),centro-de-estudios-ambientales-y-sociales-ceamso,Paraguay,-25.2637399,-57.575926
-Asunción,13,107,Opendata.Py,opendata-py,Paraguay,-25.2637399,-57.575926
-Asunción,13,107,Hacklab Asunción,hacklab-asuncion,Paraguay,-25.2637399,-57.575926
-Asunción,13,107,Codium,codium,Paraguay,-25.2637399,-57.575926
-Asunción,13,107,"Departamento de Electrónica e Informática, Universidad Católica \""Ntra. Señora de la Asunción\"", Paraguay",departamento-de-electronica-e-informatica-universidad-catolica-ntra-senora-de-la-asuncion-paraguay,Paraguay,-25.2637399,-57.575926
-Asunción,13,107,Maga Systems & Consulting,maga-systems-consulting,Paraguay,-25.2637399,-57.575926
-Asunción,13,107,Centro De Desarrollo Sostenible,centro-de-desarrollo-sostenible,Paraguay,-25.2637399,-57.575926
-Asunción,13,107,Fundación Paraguaya,fundacion-paraguaya,Paraguay,-25.2637399,-57.575926
-Asunción,13,107,Mingarã. Asociación Para El Desarrollo Sustentable,mingarã-asociacion-para-el-desarrollo-sustentable,Paraguay,-25.2637399,-57.575926
-Asunción,13,107,Hack Hackers Asuncion,hack-hackers-asuncion,Paraguay,-25.2637399,-57.575926
-Balneário Camboriu,1,16,Instituto Stela,instituto-stela,Brasil,-27.0015756,-48.637905
-Barcelona,1,46,Pictórica Comunicações S/C Ltda,pictorica-comunicacoes-s-c-ltda,Otro,41.401413,2.157862
-Barranquilla,1,141,Asociación Colectivo Mujeres Al Derecho,asociacion-colectivo-mujeres-al-derecho,Colombia,11.0041072,-74.8069813
-Belém,2,62,"Ouvidoria-Geral Da União / Ministério Da Transparência, Fiscalização E Controladoria-Geral Da União?-Cgu",ouvidoria-geral-da-união-ministerio-da-transparencia-fiscalizacão-e-controladoria-geral-da-união-cgu,Brasil,-1.4557292,-48.4901785
-Belém,2,62,Instituto Floresta Tropical,instituto-floresta-tropical,Brasil,-1.4557292,-48.4901785
-Belo Horizonte,10,97,Jmm Tech,jmm-tech,Brasil,-19.9172987,-43.9345593
-Belo Horizonte,10,97,Centro Universitario de Belo Horizonte - UniBh / ANIMA Educación,centro-universitario-de-belo-horizonte-unibh-anima-educacion,Brasil,-19.9172987,-43.9345593
-Belo Horizonte,10,97,Malalai Tecnologia De Segurança Ltda,malalai-tecnologia-de-seguranca-ltda,Brasil,-19.9172987,-43.9345593
-Belo Horizonte,10,97,Gafit Soluções Em Automação Ltda - Me,gafit-solucões-em-automacão-ltda-me,Brasil,-19.9172987,-43.9345593
-Belo Horizonte,10,97,Prosas Tecnologia Social Ltda,prosas-tecnologia-social-ltda,Brasil,-19.9172987,-43.9345593
-Belo Horizonte,10,97,Associação Casa Fluminense,associacão-casa-fluminense,Brasil,-19.9172987,-43.9345593
-Belo Horizonte,10,97,Centro Universitário De Belo Horizonte,centro-universitario-de-belo-horizonte,Brasil,-19.9172987,-43.9345593
-Belo Horizonte,10,97,Associação Comunitária De Bento Rodrigues,associacão-comunitaria-de-bento-rodrigues,Brasil,-19.9172987,-43.9345593
-Belo Horizonte,10,97,Anima Educación,anima-educacion,Brasil,-19.9172987,-43.9345593
-Belo Horizonte,10,97,Nachhaltigkeit Educação Ltda,nachhaltigkeit-educacão-ltda,Brasil,-19.9172987,-43.9345593
-Berkeley,2,40,"Social Apps Lab, University Of California, Berkeley",social-apps-lab-university-of-california-berkeley,Otro,37.8715926,-122.272747
-Berkeley,2,40,Redlad,redlad,Otro,37.8715926,-122.272747
-Bogotá,66,124,Fundación Gestores Sociales,fundacion-gestores-sociales,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Fundacion Gobierno Abierto,fundacion-gobierno-abierto,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Manejo Inteligente De Residuos Y Gestión Ambiental Minga,manejo-inteligente-de-residuos-y-gestion-ambiental-minga,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Wingu,wingu,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Facultad De Ingenería Universidad De Los Andes,facultad-de-ingeneria-universidad-de-los-andes,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Fundación Buena Nota,fundacion-buena-nota,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Fundación Karisma,fundacion-karisma,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Gobierno De Colombia,gobierno-de-colombia,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Wheels,wheels,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Fundación Corona,fundacion-corona,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Fundación Ecomunidad,fundacion-ecomunidad,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Corporación Somos Más,corporacion-somos-mas,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Unicef,unicef,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Seamos,seamos,Colombia,4.7109886,-74.072092
-Bogotá,66,124,"Mapa De Medios,Ifai",mapa-de-medios-ifai,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Fundación Mi Sangre,fundacion-mi-sangre,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Corporación Red Somos,corporacion-red-somos,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Universidad Nacional (Vivelab),universidad-nacional-vivelab,Colombia,4.7109886,-74.072092
-Bogotá,66,124,El Tiempo,el-tiempo,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Cultivando Futuro,cultivando-futuro,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Consejo de Redacción,consejo-de-redaccion,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Xue Colombia Ltda,xue-colombia-ltda,Colombia,4.7109886,-74.072092
-Bogotá,66,124,MOE,moe,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Burócratas,burocratas,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Uniandes,uniandes,Colombia,4.7109886,-74.072092
-Bogotá,66,124,"Veeduria Distrital De Bogotá, Veeduría Delegada Para La Contratación",veeduria-distrital-de-bogota-veeduria-delegada-para-la-contratacion,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Pacifista,pacifista-col,Colombia,4.7109886,-74.072092
-Bogotá,66,124,"Ministerio De Salud,La Factura",ministerio-de-salud-la-factura,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Laboratorio Para La Acción Pública,laboratorio-para-la-accion-publica,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Corporación Con Tacto Local,corporacion-con-tacto-local,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Centro Nacional de Memoria Histórica,centro-nacional-memoria-historica,Colombia,4.7109886,-74.072092
-Bogotá,66,124,How To Build Up,how-to-build-up,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Camaleon Multimedia Sas,camaleon-multimedia-sas,Colombia,4.7109886,-74.072092
-Bogotá,66,124,tusdatos.co,tus-datos,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Hacks/Hackers Bogota,hacks-hackers-bogota,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Fundación para la Libertad de Prensa,flip,Colombia,4.7109886,-74.072092
-Bogotá,66,124,La Silla Vacía,la-silla-vacia,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Olinguito,olinguito,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Ecosocial Consultores S.A.S,ecosocial-consultores-s-a-s,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Fundacion Ideas Para La Paz,fundacion-ideas-para-la-paz,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Policéntrico,policentrico,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Fundación Despacio,fundacion-despacio,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Innpactia S.A.S.,innpactia-s-a-s,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Inkco Sas,inkco-sas,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Arquitectura Expandida,arquitectura-expandida,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Chicas Poderosas Colombia,chicas-poderosas-col,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Cámara De Comercio De Bogotá - Ccb,camara-de-comercio-de-bogota-ccb,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Datasketch,datasketch,Colombia,4.7109886,-74.072092
-Bogotá,66,124,"Mapa,Ieepp",mapa-ieepp,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Monoku,monoku,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Nova Grupo De Consultoria Sas,nova-grupo-de-consultoria-sas,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Corporación Seamos - Democracia Digital,corporacion-seamos-democracia-digital,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Cuestión Pública,cuestion-publica,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Sebuscan Sas,sebuscan-sas,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Fundación Bit,fundacion-bit,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Movilizatorio,movilizatorio,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Unidad de Investigación Periodística,unidad-investigacion-periodistica,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Transparencia por Colombia,transparencia-por-colombia,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Enredo,enredo,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Rutas del Conflicto,rutas-del-conflicto,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Random Monkey SAS,random-monkey-sas,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Colnodo – Asociación Colombiana De Organizaciones No Gubernamentales Para La Comunicación Vía Correo Electrónico,colnodo-asociacion-colombiana-de-organizaciones-no-gubernamentales-para-la-comunicacion-via-correo-electronico,Colombia,4.7109886,-74.072092
-Bogotá,66,124,Gerico,gerico,Colombia,4.7109886,-74.072092
-Bogotá,66,124,"Veeduría Distrital De Bogotá, Veeduría Delegada Para La Participación Y Los Programas Especiales",veeduria-distrital-de-bogota-veeduria-delegada-para-la-participacion-y-los-programas-especiales,Colombia,4.7109886,-74.072092
-Bogotá,66,124,"Consultoría para los Derechos Humanos y el Desplazamiento, CODHES",codhes,Colombia,4.7109886,-74.072092
-Bogotá,66,124,El Avispero,el-avispero,Colombia,4.7109886,-74.072092
-Brasilia,6,38,Ong Para Iberoamerica,ong-para-iberoamerica,Brasil,-15.826691,-47.9218204
-Brasilia,6,38,Centro De Mídias Cívicas Do Mit Media Lab,centro-de-midias-civicas-do-mit-media-lab,Brasil,-15.826691,-47.9218204
-Brasilia,6,38,Faculdade Latino-Americana De Ciências Sociais (Flacso),faculdade-latino-americana-de-ciencias-sociais-flacso,Brasil,-15.826691,-47.9218204
-Brasilia,6,38,Cobracriada,cobracriada,Brasil,-15.826691,-47.9218204
-Brasilia,6,38,Instituto Nossa Ilhéus,instituto-nossa-ilheus,Brasil,-15.826691,-47.9218204
-Brasilia,6,38,CobraCriada-#InteligênciaEmRede,cobracriada-inteligenciaemrede,Brasil,-15.826691,-47.9218204
-Bruselas,1,23,Instituto Del Desarrollo De La Juventud,instituto-del-desarrollo-de-la-juventud,Otro,50.8503396,4.3517103
-Bucaramanga,6,135,Comite Para La Democratización De La Informatica. Cdi Colombia,comite-para-la-democratizacion-de-la-informatica-cdi-colombia,Colombia,7.119349,-73.1227416
-Bucaramanga,6,135,"Grupo CIDIC + GRUPO CEMOS / Esc. de Ingeniería Eléctrica, Electrónica y de Telecomunicaciones / Universidad Industrial de Santander",grupo-cidic-grupo-cemos-esc-de-ingenieria-electrica-electronica-y-de-telecomunicaciones-universidad-industrial-de-santander,Colombia,7.119349,-73.1227416
-Bucaramanga,6,135,Universidad Industrial De Santander,universidad-industrial-de-santander,Colombia,7.119349,-73.1227416
-Bucaramanga,6,135,Guarumo,guarumo,Colombia,7.119349,-73.1227416
-Bucaramanga,6,135,Parapapapp Sas,parapapapp-sas,Colombia,7.119349,-73.1227416
-Bucaramanga,6,135,Corporación Cobeii,corporacion-cobeii,Colombia,7.119349,-73.1227416
-Buenos Aires,41,83,Fundación Huésped,fundacion-huesped,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Wingu,wingu,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Atlas Smart Cities,atlas-smart-cities,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Democracia En Red,democracia-en-red,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Las de Sistemas,las-de-sistemas,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Fundación Centro Latinoamericano de Derechos Humanos,fundacion-centro-latinoamericano-de-derechos-humanos,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Poder Ciudadano,poder-ciudadano,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Mismatica Management (Sistemas De Gestión Mismatica Chile Limitada),mismatica-management-sistemas-de-gestion-mismatica-chile-limitada,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Techo,techo,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,La Nación,la-nacion-arg,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Fundación Enseñá Por Argentina,fundacion-ensena-por-argentina,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,"Iniciativa,Ministerio De Economia De Peru,Ministerio  De Economia",iniciativa-ministerio-de-economia-de-peru-ministerio-de-economia,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Revista Sudestada,sudestada,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Fundación Naturaleza Para El Futuro (Funafu),fundacion-naturaleza-para-el-futuro-funafu,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Grupo Faro,grupo-faro,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Chequeado,chequeado,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Asuntos Del Sur,asuntos-del-sur,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Ada,ada,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,LNData,lndata,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Open Knowledge Foundation,open-knowledge-foundation,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Espacio Público,espacio-publico,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Economía Feminista,economia-feminista,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Fundación Pacientes Cáncer De Pulmón,fundacion-pacientes-cancer-de-pulmon,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Dirección De Gobierno Abierto Y Datos Abiertos,direccion-de-gobierno-abierto-y-datos-abiertos,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Moodstudio,moodstudio,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Centro De Pensamiento Estratégico Internacional - Cepei,centro-de-pensamiento-estrategico-internacional-cepei,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,ACIJ - Asociación Civil por la Igualdad y la Justicia,asociacion-civil-por-la-igualdad-y-la-justicia-arg,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Atix Labs Srl,atix-labs-srl,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Comunidad Huerta,comunidad-huerta,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,CTRL S.A.,ctrl-s-a,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Directorio Legislativo,directorio-legislativo,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Avina Americas,avina,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Foro de Periodismo Argentino,foro-de-periodismo-argentino,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Diario La Nación,diario-la-nacion,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Congreso Interactivo,congreso-interactivo,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,"Fundación Laboratorio De Políticas Públicas, Lpp",fundacion-laboratorio-de-politicas-publicas-lpp,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Científicas de Datos,cientificas-de-datos,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Dirección De Gobierno Abierto Y Datos Abiertos De La Provincia De Buenos Aires,direccion-de-gobierno-abierto-y-datos-abiertos-de-la-provincia-de-buenos-aires,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,"Wingu, Tecnología sin fines de lucro",wingu-tecnologia-sin-fines-de-lucro,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,Faro Digital,faro-digital,Argentina,-34.6036844,-58.3815591
-Buenos Aires,41,83,On The Move,on-the-move,Argentina,-34.6036844,-58.3815591
-Campinas,1,49,Instituto Phomenta,instituto-phomenta,Brasil,-22.9329252,-47.073845
-Cancún,2,87,"Consejo Cívico De Instituciones De Nuevo León, A.C.",consejo-civico-de-instituciones-de-nuevo-leon-a-c,México,21.161908,-86.8515279
-Cancún,2,87,Instituto De Políticas Para El Transporte Y El Desarrollo (Itdp),instituto-de-politicas-para-el-transporte-y-el-desarrollo-itdp,México,21.161908,-86.8515279
-Caracas,4,123,Vendata,vendata,Venezuela,10.4805937,-66.9036063
-Caracas,4,123,"Asociación Nacional De Directores De Bibliotecas, Redes Y Servicios De Información Del Sector Académico, Universitario Y De Investigación (Anabisai)",asociacion-nacional-de-directores-de-bibliotecas-redes-y-servicios-de-informacion-del-sector-academico-universitario-y-de-investigacion-anabisai,Venezuela,10.4805937,-66.9036063
-Caracas,4,123,Centro De Justicia Y Paz - Cepaz,centro-de-justicia-y-paz-cepaz,Venezuela,10.4805937,-66.9036063
-Caracas,4,123,Open Data Venezuela,open-data-venezuela,Venezuela,10.4805937,-66.9036063
-Caribe,2,80,Regional,regional,Caribe,21.4691,78.6569
-Caribe,2,80,Slashroots,slashroots,Caribe,21.4691,78.6569
-Cartagena,2,51,Fundación Cívico Social Pro Cartagena - Funcicar,fundacion-civico-social-pro-cartagena-funcicar,Colombia,10.3910485,-75.4794257
-Cartagena,2,51,Zeus Tecnologica S.A,zeus-tecnologica-s-a,Colombia,10.3910485,-75.4794257
-Ciudad de México,79,99,Socialtic,socialtic,México,19.4326077,-99.133208
-Ciudad de México,79,99,"Plan B Para El Desarrollo, Ac",plan-b-para-el-desarrollo-ac,México,19.4326077,-99.133208
-Ciudad de México,79,99,Instituto Nacional De La Economía Social,instituto-nacional-de-la-economia-social,México,19.4326077,-99.133208
-Ciudad de México,79,99,Gobierno Fácil,gobierno-facil,México,19.4326077,-99.133208
-Ciudad de México,79,99,Cultura Y Educación Para El Desarrollo Y La Autonomía En México,cultura-y-educacion-para-el-desarrollo-y-la-autonomia-en-mexico,México,19.4326077,-99.133208
-Ciudad de México,79,99,Wingu,wingu,México,19.4326077,-99.133208
-Ciudad de México,79,99,Avisora,avisora,México,19.4326077,-99.133208
-Ciudad de México,79,99,"Fundar, Centro De Análisis E Investigación",fundar-centro-de-analisis-e-investigacion,México,19.4326077,-99.133208
-Ciudad de México,79,99,Ruta Cívica,ruta-civica,México,19.4326077,-99.133208
-Ciudad de México,79,99,Red Consejo Ciudadano A La Contraloria A.C.,red-consejo-ciudadano-a-la-contraloria-a-c,México,19.4326077,-99.133208
-Ciudad de México,79,99,PODER,project-poder,México,19.4326077,-99.133208
-Ciudad de México,79,99,Fundación Centro Latinoamericano de Derechos Humanos,fundacion-centro-latinoamericano-de-derechos-humanos,México,19.4326077,-99.133208
-Ciudad de México,79,99,Tribunal Permanente De Los Pueblos,tribunal-permanente-de-los-pueblos,México,19.4326077,-99.133208
-Ciudad de México,79,99,Associated Whistleblowing Press,associated-whistleblowing-press,México,19.4326077,-99.133208
-Ciudad de México,79,99,R3D: Red en Defensa de los Derechos Digitales,r3d-mexico,México,19.4326077,-99.133208
-Ciudad de México,79,99,"Agencia Metropolitana De Seguridad, Laboratorio De Políticas Públicas",agencia-metropolitana-de-seguridad-laboratorio-de-politicas-publicas,México,19.4326077,-99.133208
-Ciudad de México,79,99,Servicios Universitarios Y Redes De Conocimiento En Oaxaca A C,servicios-universitarios-y-redes-de-conocimiento-en-oaxaca-a-c,México,19.4326077,-99.133208
-Ciudad de México,79,99,Olmeca Soy,olmeca-soy,México,19.4326077,-99.133208
-Ciudad de México,79,99,Cívica Digital civica-digital-mexico-sapi-de-cv,civica-digital,México,19.4326077,-99.133208
-Ciudad de México,79,99,World Resources Institute México,world-resources-institute-mexico,México,19.4326077,-99.133208
-Ciudad de México,79,99,"Mapa De Medios,Ifai",mapa-de-medios-ifai,México,19.4326077,-99.133208
-Ciudad de México,79,99,War Contenidos,war-contenidos,México,19.4326077,-99.133208
-Ciudad de México,79,99,Oeste.Mx,oeste-mx,México,19.4326077,-99.133208
-Ciudad de México,79,99,Protrash,protrash,México,19.4326077,-99.133208
-Ciudad de México,79,99,Cide,cide,México,19.4326077,-99.133208
-Ciudad de México,79,99,Animal Político,animal-politico,México,19.4326077,-99.133208
-Ciudad de México,79,99,Centro De Investigación Económica Y Presupuestaria A.C.,centro-de-investigacion-economica-y-presupuestaria-a-c,México,19.4326077,-99.133208
-Ciudad de México,79,99,Distintas Latitudes,distintas-latitudes,México,19.4326077,-99.133208
-Ciudad de México,79,99,"Investigación E Innovación Factual, A.C.",investigacion-e-innovacion-factual-a-c,México,19.4326077,-99.133208
-Ciudad de México,79,99,Presidencia,presidencia,México,19.4326077,-99.133208
-Ciudad de México,79,99,"Sociedad En Movimiento, Ac",sociedad-en-movimiento-ac,México,19.4326077,-99.133208
-Ciudad de México,79,99,Centro De Investigaciones Y Estudios En Antropología Social,centro-de-investigaciones-y-estudios-en-antropologia-social,México,19.4326077,-99.133208
-Ciudad de México,79,99,Krieger Electronics De Mexico Sa De Cv,krieger-electronics-de-mexico-sa-de-cv,México,19.4326077,-99.133208
-Ciudad de México,79,99,Sistemas De Información Geográfica Para La Planeación Y Ordenamiento Del Territorio (Sigpot Sa De Cv),sistemas-de-informacion-geografica-para-la-planeacion-y-ordenamiento-del-territorio-sigpot-sa-de-cv,México,19.4326077,-99.133208
-Ciudad de México,79,99,"Campaña Global Por La Libertad De Expresión A19, A.C.",campana-global-por-la-libertad-de-expresion-a19-a-c,México,19.4326077,-99.133208
-Ciudad de México,79,99,Grupo Cemos,grupo-cemos,México,19.4326077,-99.133208
-Ciudad de México,79,99,"Centro Profesional Indígena De Asesoría, Defensa Y Traducción A.C.",centro-profesional-indigena-de-asesoria-defensa-y-traduccion-a-c,México,19.4326077,-99.133208
-Ciudad de México,79,99,"Servicios De Ideas Creativas Para El Desarrollo De Organizaciones, A.C.",servicios-de-ideas-creativas-para-el-desarrollo-de-organizaciones-a-c,México,19.4326077,-99.133208
-Ciudad de México,79,99,Usocial Maps,usocial-maps,México,19.4326077,-99.133208
-Ciudad de México,79,99,El Caracol,el-caracol,México,19.4326077,-99.133208
-Ciudad de México,79,99,Zapopan Lab,zapopan-lab,México,19.4326077,-99.133208
-Ciudad de México,79,99,Hormiga Investigación,hormiga-investigacion,México,19.4326077,-99.133208
-Ciudad de México,79,99,Equis: justicia para las mujeres,equis-mx,México,19.4326077,-99.133208
-Ciudad de México,79,99,"Project on Organizing, Development, Education, and Research (PODER)",project-on-organizing-development-education-and-research-poder,México,19.4326077,-99.133208
-Ciudad de México,79,99,Plataforma Nuup Ac,plataforma-nuup-ac,México,19.4326077,-99.133208
-Ciudad de México,79,99,Rancho Electronico,rancho-electronico,México,19.4326077,-99.133208
-Ciudad de México,79,99,C230,c230,México,19.4326077,-99.133208
-Ciudad de México,79,99,Causa Natura,causa-natura,México,19.4326077,-99.133208
-Ciudad de México,79,99,"De Olhos Nas Metas,Colaborativomx",de-olhos-nas-metas-colaborativomx,México,19.4326077,-99.133208
-Ciudad de México,79,99,Ciudadano. Construcción y Articulación de lo Público/Centro de Investigaciones y Estudios en Antropología Social (CIESAS),ciudadano-construccion-y-articulacion-de-lo-publico-centro-de-investigaciones-y-estudios-en-antropologia-social-ciesas,México,19.4326077,-99.133208
-Ciudad de México,79,99,Observatorio Mexicano De La Crisis,observatorio-mexicano-de-la-crisis,México,19.4326077,-99.133208
-Ciudad de México,79,99,"Este País, A.C.",este-pais-a-c,México,19.4326077,-99.133208
-Ciudad de México,79,99,"Mexico Informate,Infodf",mexico-informate-infodf,México,19.4326077,-99.133208
-Ciudad de México,79,99,Invernaideas,invernaideas,México,19.4326077,-99.133208
-Ciudad de México,79,99,"Centro De Los Derechos Del Migrante, Inc.",centro-de-los-derechos-del-migrante-inc,México,19.4326077,-99.133208
-Ciudad de México,79,99,"Simetría, Centro De Innovación En Políticas Públicas A.C.",simetria-centro-de-innovacion-en-politicas-publicas-a-c,México,19.4326077,-99.133208
-Ciudad de México,79,99,"Fundación Hogares, Iap",fundacion-hogares-iap,México,19.4326077,-99.133208
-Ciudad de México,79,99,Rokode Digital,rokode-digital,México,19.4326077,-99.133208
-Ciudad de México,79,99,Escuela de Datos,escuela-de-datos,México,19.4326077,-99.133208
-Ciudad de México,79,99,Borde Político A.C.,borde-politico-a-c,México,19.4326077,-99.133208
-Ciudad de México,79,99,Animal S. De R.L. De C.V,animal-s-de-r-l-de-c-v,México,19.4326077,-99.133208
-Ciudad de México,79,99,Creathink,creathink,México,19.4326077,-99.133208
-Ciudad de México,79,99,Yeeko Inteligencia Colectiva,yeeko-inteligencia-colectiva,México,19.4326077,-99.133208
-Ciudad de México,79,99,Gobiernateac,gobiernateac,México,19.4326077,-99.133208
-Ciudad de México,79,99,Internet Of Government (Iog),internet-of-government-iog,México,19.4326077,-99.133208
-Ciudad de México,79,99,Sonora Ciudadana,sonora-ciudadana-ac,México,19.4326077,-99.133208
-Ciudad de México,79,99,La Data,la-data-mx,México,19.4326077,-99.133208
-Ciudad de México,79,99,Spaceshipslabs,spaceshipslabs,México,19.4326077,-99.133208
-Ciudad de México,79,99,Pides Innovación Social,pides-innovacion-social,México,19.4326077,-99.133208
-Ciudad de México,79,99,Cityflag Sapi De Cv,cityflag-sapi-de-cv,México,19.4326077,-99.133208
-Ciudad de México,79,99,Gobierno Abierto Cdmx,gobierno-abierto-cdmx,México,19.4326077,-99.133208
-Ciudad de México,79,99,"Municipalidad De Guatemala,Labplc",municipalidad-de-guatemala-labplc,México,19.4326077,-99.133208
-Ciudad de México,79,99,"Esc. De Ingeniería Eléctrica, Electrónica Y De Telecomunicaciones",esc-de-ingenieria-electrica-electronica-y-de-telecomunicaciones,México,19.4326077,-99.133208
-Ciudad de México,79,99,Documenta: Análisis Y Acción Para La Justicia Social A.C.,documenta-analisis-y-accion-para-la-justicia-social-a-c,México,19.4326077,-99.133208
-Ciudad de México,79,99,Grupo de Información de reproducción Elegida,gire,México,19.4326077,-99.133208
-Ciudad de México,79,99,Morlan,morlan,México,19.4326077,-99.133208
-Ciudad de México,79,99,El Faro,el-faro,México,19.4326077,-99.133208
-Ciudad de México,79,99,Visual Reporting Technologies,visual-reporting-technologies,México,19.4326077,-99.133208
-Ciudad de México,79,99,Codeando México,codeando-mexico,México,19.4326077,-99.133208
-Ciudad Juarez,1,89,Plan Estrategico De Juarez,plan-estrategico-de-juarez,México,19.0779,-103.8846
-Cochabamba,3,102,¿Cuántas más?,cuantas-mas,Bolivia,-17.4139766,-66.1653224
-Cochabamba,3,102,Servicios Integrales Para El Desarrollo,servicios-integrales-para-el-desarrollo,Bolivia,-17.4139766,-66.1653224
-Cochabamba,3,102,Hacklab Cochabamba,hacklab-cochabamba,Bolivia,-17.4139766,-66.1653224
-Concepción del Uruguay,3,143,"Municipalidad De Concepción Del Uruguay, Dirección De Control Del Gasto",municipalidad-de-concepcion-del-uruguay-direccion-de-control-del-gasto,Argentina,-32.4845349,-58.2321416
-Concepción del Uruguay,3,143,Datos Concepcion,datos-concepcion,Argentina,-32.4845349,-58.2321416
-Concepción del Uruguay,3,143,Asociación Pro Arte,asociacion-pro-arte,Argentina,-32.4845349,-58.2321416
-Córdoba,6,105,V-Smart S.A.,v-smart-s-a,Argentina,-31.4200833,-64.1887761
-Córdoba,6,105,Fundación Conocimiento Abierto,fundacion-conocimiento-abierto,Argentina,-31.4200833,-64.1887761
-Córdoba,6,105,Cainfo,cainfo,Argentina,-31.4200833,-64.1887761
-Córdoba,6,105,Fundación Para El Desarrollo De Políticas Sustentables (Fundeps),fundacion-para-el-desarrollo-de-politicas-sustentables-fundeps,Argentina,-31.4200833,-64.1887761
-Córdoba,6,105,Fundación Ambiente Y Recursos Naturales (Farn),fundacion-ambiente-y-recursos-naturales-farn,Argentina,-31.4200833,-64.1887761
-Córdoba,6,105,Asociación Civil Para La Construcción De Un Gobierno Abierto,asociacion-civil-para-la-construccion-de-un-gobierno-abierto,Argentina,-31.4200833,-64.1887761
-Cúcuta,1,150,"""Corporación Integral De Innovación Social \""Innovar\""",corporacion-integral-de-innovacion-social-innovar,Colombia,7.8890971,-72.4966896
-Cuernavaca,1,35,Instituto Del Fracaso A.C.,instituto-del-fracaso-a-c,México,18.9242095,-99.2215659
-Curitiba,2,96,Instituto Humanitas360,instituto-humanitas360,Brasil,-25.4808762,-49.3044253
-Curitiba,2,96,Politikei - co-governança no legislativo,politikei-co-governanca-no-legislativo,Brasil,-25.4808762,-49.3044253
-Distrito Nacional,1,144,Ideales Soluciones  Sociales,ideales-soluciones-sociales,República Dominicana,18.4860575,-69.9312117
-Divinópolis,1,127,Mindball Ong Planeta,mindball-ong-planeta,Brasil,-20.103444,-44.9716724
-El Alto,1,115,Centro De Promoción De La Mujer Gregoria Apaza- Cpmga,centro-de-promocion-de-la-mujer-gregoria-apaza-cpmga,Bolivia,-16.5000936,-68.2146857
-Florianópolis,7,86,Voter Desenvolvimento De Software Ltda,voter-desenvolvimento-de-software-ltda,Brasil,-27.5948698,-48.5482195
-Florianópolis,7,86,"Universidade Federal de Santa Catarina (UFSC); Centro Tecnológico (CTC); Departamento de Engenharia e Gestão do Conhecimento (dEGC); Núcleo de Estudos em Inteligência, Gestão e Tecnologias para Inovação (IGTI)",universidade-federal-de-santa-catarina-ufsc-centro-tecnologico-ctc-departamento-de-engenharia-e-gestão-do-conhecimento-degc-nucleo-de-estudos-em-inteligencia-gestão-e-tecnologias-para-inovacão-igti,Brasil,-27.5948698,-48.5482195
-Florianópolis,7,86,Fgx,fgx,Brasil,-27.5948698,-48.5482195
-Florianópolis,7,86,Sumá,suma,Brasil,-27.5948698,-48.5482195
-Florianópolis,7,86,Icom - Instituto Comunitário Grande Florianópolis,icom-instituto-comunitario-grande-florianopolis,Brasil,-27.5948698,-48.5482195
-Florianópolis,7,86,Todavia No Fue Creada Una Empresa,todavia-no-fue-creada-una-empresa,Brasil,-27.5948698,-48.5482195
-Florianópolis,7,86,Tekis Tecnologia Avançadas Ltda.,tekis-tecnologia-avancadas-ltda,Brasil,-27.5948698,-48.5482195
-Fortaleza,3,14,Rede Conhecimento Social,rede-conhecimento-social,Brasil,-3.7327144,-38.5269981
-Fortaleza,3,14,Acecci - Associação Cearense De Combate À Corrupção E À Impunidade,acecci-associacão-cearense-de-combate-a-corrupcão-e-a-impunidade,Brasil,-3.7327144,-38.5269981
-Fortaleza,3,14,Instituto Banco Da Periferia - Palmas Lab,instituto-banco-da-periferia-palmas-lab,Brasil,-3.7327144,-38.5269981
-Guadalajara,5,71,Cívica Digital civica-digital-mexico-sapi-de-cv,civica-digital,México,20.6596988,-103.3496092
-Guadalajara,5,71,Asi - Asesores Para La Inversión Social,asi-asesores-para-la-inversion-social,México,20.6596988,-103.3496092
-Guadalajara,5,71,Ciudadan@S Por La Transparencia A.C,ciudadan-s-por-la-transparencia-a-c,México,20.6596988,-103.3496092
-Guadalajara,5,71,Grupo De Inovacion E Inteligencia Ciudadana,grupo-de-inovacion-e-inteligencia-ciudadana,México,20.6596988,-103.3496092
-Guadalajara,5,71,Codeando México,codeando-mexico,México,20.6596988,-103.3496092
-Guatemala,23,76,Verto Technology Corp,verto-technology-corp,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,Movimiento Nacional Por La Integridad,movimiento-nacional-por-la-integridad,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,Congreso Transparente,congreso-transparente,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,Asociación Civil Guatecambia,asociacion-civil-guatecambia,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,PODER,project-poder,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,Acción Ciudadana,accion-ciudadana,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,Asociación Civil Ernesto Shneider Troller,asociacion-civil-ernesto-shneider-troller,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,"Factus,S.A.",factus-s-a,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,Asociación Colectiva Para La Defensa De Los Derechos De Las Mujeres En Guatemala,asociacion-colectiva-para-la-defensa-de-los-derechos-de-las-mujeres-en-guatemala,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,"Centro De Estudios Para La Equidad Y Gobernanza En Los Sistemas De Salud, Cegss",centro-de-estudios-para-la-equidad-y-gobernanza-en-los-sistemas-de-salud-cegss,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,Instituto De Estudios Del Trabajo -Inet-,instituto-de-estudios-del-trabajo-inet,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,Instituto Demos,instituto-demos,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,"Explico, S.A.",explico-s-a,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,Ae Edg,ae-edg,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,Unidad Positiva Para El Desarrollo Ciudadano - Updc,unidad-positiva-para-el-desarrollo-ciudadano-updc,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,Universidad Rafael Landivar,universidad-rafael-landivar,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,Blackbox Solutions Y Copropiedad,blackbox-solutions-y-copropiedad,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,"Municipalidad San José Del Ídolo Suchitepéquez, Guatemala",municipalidad-san-jose-del-idolo-suchitepequez-guatemala,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,Movimiento Cívico Nacional,movimiento-civico-nacional,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,Plaza Pública,plaza-publica,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,Jóvenes Contra La Violencia/Centroamérica,jovenes-contra-la-violencia-centroamerica,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,"Municipalidad De Guatemala,Labplc",municipalidad-de-guatemala-labplc,Guatemala,14.6349149,-90.5068824
-Guatemala,23,76,Red Ciudadana,red-ciudadana,Guatemala,14.6349149,-90.5068824
-Guayaquil,2,95,Fundapi,fundapi,Ecuador,-2.1709979,-79.9223592
-Guayaquil,2,95,Fundación Medialab Quito,fundacion-medialab-quito,Ecuador,-2.1709979,-79.9223592
-Havana,1,3,People In Need,people-in-need,Cuba,23.1136,82.3666
-Heredia,1,132,Solvo,solvo,Costa Rica,9.9981413,-84.1197643
-Hermosillo,1,92,"Centro De Innovación A La Vivienda (Civ), A.C.",centro-de-innovacion-a-la-vivienda-civ-a-c,México,29.0729673,-110.9559192
-Ilhabela,2,110,Instituto Ilhabela Sustentável,instituto-ilhabela-sustentavel,Brasil,-23.8158392,-45.3664809
-Ilhabela,2,110,Instituto Soma Brasil,instituto-soma-brasil,Brasil,-23.8158392,-45.3664809
-Ilhéus,1,48,Movimento Nossa Bh,movimento-nossa-bh,Brasil,-14.7935051,-39.0463797
-Iquique,1,88,Fundación Juventud Emprendedora,fundacion-juventud-emprendedora,Chile,-20.2307033,-70.1356692
-Jaboatao dos Guararapes,1,53,"Instituto Metropolitano De Profissionalização, Arte, Cultura E Oportunidades - Impacto",instituto-metropolitano-de-profissionalizacão-arte-cultura-e-oportunidades-impacto,Brasil,-8.1688125,-34.920874
-João Pessoa,3,56,Elleven,elleven,Brasil,-7.1194958,-34.8450118
-João Pessoa,3,56,Imaflora,imaflora,Brasil,-7.1194958,-34.8450118
-João Pessoa,3,56,Instituto Acuña,instituto-acuna,Brasil,-7.1194958,-34.8450118
-Joinville,1,85,Politize,politize,Brasil,-26.2834213,-48.8452269
-Kingston,3,44,Code For The Caribbean,code-for-the-caribbean,Jamaica,18.0179,76.8099
-Kingston,3,44,Slashroots,slashroots,Jamaica,18.0179,76.8099
-Kingston,3,44,Caribbean Open Institute,caribbean-open-institute,Jamaica,18.0179,76.8099
-La Ceiba,1,156,Centro De Promoción En Salud Y Asistencia Familiar (Ceprosaf),centro-de-promocion-en-salud-y-asistencia-familiar-ceprosaf,Honduras,15.770288,-86.7919009
-La Dorada,1,61,Corporación Programa De Desarrollo Para La Paz,corporacion-programa-de-desarrollo-para-la-paz,Colombia,5.472709,-74.667984
-La Plata,1,57,Secretaría De Planificación,secretaria-de-planificacion,Argentina,-34.9205,-57.9536
-Las Condes,1,58,Prince Consulting (Kmt Business Education Sa),prince-consulting-kmt-business-education-sa,Chile,-33.3989812,-70.5573124
-Lima,37,98,Inppares - Instituto Peruano De Paternidad Responsables,inppares-instituto-peruano-de-paternidad-responsables,Perú,-12.0463731,-77.042754
-Lima,37,98,"Iniciativa,Ministerio De Economia De Peru,Ministerio  De Economia",iniciativa-ministerio-de-economia-de-peru-ministerio-de-economia,Perú,-12.0463731,-77.042754
-Lima,37,98,Ojopúblico,ojo-publico,Perú,-12.0463731,-77.042754
-Lima,37,98,Kodevian Enterprise Software Solutions,kodevian-enterprise-software-solutions,Perú,-12.0463731,-77.042754
-Lima,37,98,Democracia Digital,democracia-digital,Perú,-12.0463731,-77.042754
-Lima,37,98,Coordinadora Nacional De Derechos Humanos,coordinadora-nacional-de-derechos-humanos,Perú,-12.0463731,-77.042754
-Lima,37,98,Pontificia Universidad Católica Del Perú,pontificia-universidad-catolica-del-peru,Perú,-12.0463731,-77.042754
-Lima,37,98,Trujillo Ahora,trujillo-ahora,Perú,-12.0463731,-77.042754
-Lima,37,98,"Ministerio De Salud,La Factura",ministerio-de-salud-la-factura,Perú,-12.0463731,-77.042754
-Lima,37,98,Centro Peruano Para La Resiliencia De Socioecosistemas Urbanos - Centro Urbes,centro-peruano-para-la-resiliencia-de-socioecosistemas-urbanos-centro-urbes,Perú,-12.0463731,-77.042754
-Lima,37,98,Convoca,convoca,Perú,-12.0463731,-77.042754
-Lima,37,98,Fundación Ciudadana Civio,fundacion-ciudadana-civio,Perú,-12.0463731,-77.042754
-Lima,37,98,Instituto Humanista De Cooperación Para El Desarrollo - Hivos,instituto-humanista-de-cooperacion-para-el-desarrollo-hivos,Perú,-12.0463731,-77.042754
-Lima,37,98,Hiperderecho,hiperderecho,Perú,-12.0463731,-77.042754
-Lima,37,98,"Mas Cultura,Independiente",mas-cultura-independiente,Perú,-12.0463731,-77.042754
-Lima,37,98,Lima Cómo Vamos,lima-como-vamos,Perú,-12.0463731,-77.042754
-Lima,37,98,Corresponsales,corresponsales,Perú,-12.0463731,-77.042754
-Lima,37,98,Grupo Limonta,grupo-limonta,Perú,-12.0463731,-77.042754
-Lima,37,98,Presidencia Del Consejo De Ministros,presidencia-del-consejo-de-ministros,Perú,-12.0463731,-77.042754
-Lima,37,98,Centro de Participación y Ciudadanía - Ciudadanos al Día,centro-de-participacion-y-ciudadania-ciudadanos-al-dia,Perú,-12.0463731,-77.042754
-Lima,37,98,Detona,detona,Perú,-12.0463731,-77.042754
-Lima,37,98,"Hivos,Lima I/O",hivos-lima-i-o,Perú,-12.0463731,-77.042754
-Lima,37,98,Escuela De Datos Peru,escuela-de-datos-peru,Perú,-12.0463731,-77.042754
-Lima,37,98,Proetica,proetica,Perú,-12.0463731,-77.042754
-Lima,37,98,"Centro De Participación Y Ciudadanía - Ciudadanos Al Día,Ciudadanos Al Día",centro-de-participacion-y-ciudadania-ciudadanos-al-dia-ciudadanos-al-dia,Perú,-12.0463731,-77.042754
-Lima,37,98,Ciudadanos al Día,ciudadanos-al-dia,Perú,-12.0463731,-77.042754
-Lima,37,98,Avina Americas,avina,Perú,-12.0463731,-77.042754
-Lima,37,98,Hack Hackers Lima,hack-hackers-lima,Perú,-12.0463731,-77.042754
-Lima,37,98,Cultura Peru,cultura-peru,Perú,-12.0463731,-77.042754
-Lima,37,98,Democracia & Desarrollo Internacional (D&D Internacional),democracia-desarrollo-internacional-d-d-internacional,Perú,-12.0463731,-77.042754
-Lima,37,98,Tannder Corp,tannder-corp,Perú,-12.0463731,-77.042754
-Lima,37,98,Asociación Civil Japiqay,asociacion-civil-japiqay,Perú,-12.0463731,-77.042754
-Lima,37,98,Sociedad Peruana De Derecho Ambiental,sociedad-peruana-de-derecho-ambiental,Perú,-12.0463731,-77.042754
-Lima,37,98,"Proética, Capítulo Peruano De Transparency International",proetica-capitulo-peruano-de-transparency-international,Perú,-12.0463731,-77.042754
-Lima,37,98,Odpe.Pe,odpe-pe,Perú,-12.0463731,-77.042754
-Lima,37,98,Open Data Perú,open-data-peru,Perú,-12.0463731,-77.042754
-Lima,37,98,Asociación Unacem,asociacion-unacem,Perú,-12.0463731,-77.042754
-Limeira,1,73,Eixo Público - Consultoria Júnior,eixo-publico-consultoria-junior,Brasil,-22.5838264,-47.4097695
-Livramento de Nossa Senhora,1,18,Centro De Formação E Organização Comunitária - Ceforc,centro-de-formacão-e-organizacão-comunitaria-ceforc,Brasil,-13.6420856,-41.8412148
-Loja,3,68,Grupo de Investigación de Sistemas Basados en el Conocimiento (Knowledge-based Systems Research Group - KBS-RG) de la Universidad Técnica Particular de Loja,grupo-de-investigacion-de-sistemas-basados-en-el-conocimiento-knowledge-based-systems-research-group-kbs-rg-de-la-universidad-tecnica-particular-de-loja,Ecuador,-4.0078909,-79.2112769
-Loja,3,68,Lojasoft Solutions,lojasoft-solutions,Ecuador,-4.0078909,-79.2112769
-Loja,3,68,Grupo De Investigación De Sistemas Basados En El Conocimiento - Universidad Técnica Particular De Loja,grupo-de-investigacion-de-sistemas-basados-en-el-conocimiento-universidad-tecnica-particular-de-loja,Ecuador,-4.0078909,-79.2112769
-Londrina,3,101,Geleia .Mob,geleia-mob,Brasil,-23.3044524,-51.1695824
-Londrina,3,101,Associação Todos por Um (Tp1),associacão-todos-por-um-tp1,Brasil,-23.3044524,-51.1695824
-Londrina,3,101,Mz Tecnologia,mz-tecnologia,Brasil,-23.3044524,-51.1695824
-Maceió,1,158,Ilhasoft,ilhasoft,Brasil,-9.6498487,-35.7089492
-Madrid,4,139,Vivero De Iniciativas Ciudadanas,vivero-de-iniciativas-ciudadanas,Otro,40.4167754,-3.7037902
-Madrid,4,139,Ux,ux,Otro,40.4167754,-3.7037902
-Madrid,4,139,Plaza Pública,plaza-publica,Otro,40.4167754,-3.7037902
-Madrid,4,139,Public Knowledge,public-knowledge,Otro,40.4167754,-3.7037902
-Managua,11,79,Fáctico Periodismo Móvil,factico-periodismo-movil,Nicaragua,12.1149926,-86.2361744
-Managua,11,79,Centro Para Programas De Comunicación Nicaragua (Cpcnic),centro-para-programas-de-comunicacion-nicaragua-cpcnic,Nicaragua,12.1149926,-86.2361744
-Managua,11,79,Codeni,codeni,Nicaragua,12.1149926,-86.2361744
-Managua,11,79,Openstreetmap Nicaragua,openstreetmap-nicaragua,Nicaragua,12.1149926,-86.2361744
-Managua,11,79,Core Systems,core-systems,Nicaragua,12.1149926,-86.2361744
-Managua,11,79,Fundación Grupo Cívico Ética Y Transparencia (Eyt),fundacion-grupo-civico-etica-y-transparencia-eyt,Nicaragua,12.1149926,-86.2361744
-Managua,11,79,Comunidades De Software Libre,comunidades-de-software-libre,Nicaragua,12.1149926,-86.2361744
-Managua,11,79,"Mapa,Ieepp",mapa-ieepp,Nicaragua,12.1149926,-86.2361744
-Managua,11,79,Kronoscode,kronoscode,Nicaragua,12.1149926,-86.2361744
-Managua,11,79,Fundación Nicaragüense Para La Defensa Del Medio Ambiente Y Protección De Los Recursos Naturales (Fundenatura),fundacion-nicaraguense-para-la-defensa-del-medio-ambiente-y-proteccion-de-los-recursos-naturales-fundenatura,Nicaragua,12.1149926,-86.2361744
-Managua,11,79,MapaNica,mapanica,Nicaragua,12.1149926,-86.2361744
-Maputo,1,2,Policéntrico,policentrico,Otro,-25.969248,32.5731746
-Mariana,1,6,Troca: Gestão Social Para A Sustentabilidade,troca-gestão-social-para-a-sustentabilidade,Brasil,-20.3652719,-43.4150073
-Mauritice,1,10,Centro De Educação E Assessoria Popular Mauriti-Ce,centro-de-educacão-e-assessoria-popular-mauriti-ce,Brasil,-7.3829493,-38.7716665
-Medellín,8,117,Thot Group,thot-group,Colombia,6.244203,-75.5812119
-Medellín,8,117,Comunideas Sas,comunideas-sas,Colombia,6.244203,-75.5812119
-Medellín,8,117,Corporación Control Social Colombia,corporacion-control-social-colombia,Colombia,6.244203,-75.5812119
-Medellín,8,117,Fundación La Network,fundacion-la-network,Colombia,6.244203,-75.5812119
-Medellín,8,117,Corporación Ruta N,corporacion-ruta-n,Colombia,6.244203,-75.5812119
-Medellín,8,117,Fundación Bit,fundacion-bit,Colombia,6.244203,-75.5812119
-Medellín,8,117,Movilizatorio,movilizatorio,Colombia,6.244203,-75.5812119
-Medellín,8,117,Cocreamos S.A.S.,cocreamos-s-a-s,Colombia,6.244203,-75.5812119
-Mendoza,8,7,Silice,silice,Argentina,-32.8894587,-68.8458386
-Mendoza,8,7,Creapption,creapption,Argentina,-32.8894587,-68.8458386
-Mendoza,8,7,Fundación Centro Latinoamericano de Derechos Humanos,fundacion-centro-latinoamericano-de-derechos-humanos,Argentina,-32.8894587,-68.8458386
-Mendoza,8,7,Centro Latinoamericano de Derechos Humanos,centro-latinoamericano-de-derechos-humanos,Argentina,-32.8894587,-68.8458386
-Mendoza,8,7,Yecas,yecas,Argentina,-32.8894587,-68.8458386
-Mendoza,8,7,"Nuestra Mendoza,Fundación Nuestra Mendoza",nuestra-mendoza-fundacion-nuestra-mendoza,Argentina,-32.8894587,-68.8458386
-Mendoza,8,7,ATRELAR S.A. (DynamizeIT),atrelar-s-a-dynamizeit,Argentina,-32.8894587,-68.8458386
-Mendoza,8,7,Nuestra Mendoza,nuestra-mendoza,Argentina,-32.8894587,-68.8458386
-Miami,2,145,The Engine Room,the-engine-room,Otro,25.8058563,-80.189125
-Miami,2,145,ATRELAR S.A. (DynamizeIT),atrelar-s-a-dynamizeit,Otro,25.8058563,-80.189125
-Minas,2,9,Olhoneles,olhoneles,Brasil,-16.20639,44.43333
-Minas,2,9,Gobierno De Minas,gobierno-de-minas,Brasil,-16.20639,44.43333
-Monterrey,9,84,Gobierno Fácil,gobierno-facil,México,25.6866142,-100.3161126
-Monterrey,9,84,"Alcalde, Como Vamos?",alcalde-como-vamos,México,25.6866142,-100.3161126
-Monterrey,9,84,Cívica Digital civica-digital-mexico-sapi-de-cv,civica-digital,México,25.6866142,-100.3161126
-Monterrey,9,84,Transformación De Obreros Y Técnicos Esperanza De México Totem A.C,transformacion-de-obreros-y-tecnicos-esperanza-de-mexico-totem-a-c,México,25.6866142,-100.3161126
-Monterrey,9,84,Ea Tech,ea-tech,México,25.6866142,-100.3161126
-Monterrey,9,84,Onesmart Technology Sa De Cv,onesmart-technology-sa-de-cv,México,25.6866142,-100.3161126
-Monterrey,9,84,13 Media Sc,13-media-sc,México,25.6866142,-100.3161126
-Monterrey,9,84,Centro Eugenio Garza Sada,centro-eugenio-garza-sada,México,25.6866142,-100.3161126
-Monterrey,9,84,Consejería Jurídica Y De Servicios Legales De La Cdmx,consejeria-juridica-y-de-servicios-legales-de-la-cdmx,México,25.6866142,-100.3161126
-Montevideo,17,45,ILDA,ilda,Uruguay,-34.9011127,-56.1645314
-Montevideo,17,45,Que Hacen?: El Parlamento En Tu Movil,que-hacen-el-parlamento-en-tu-movil,Uruguay,-34.9011127,-56.1645314
-Montevideo,17,45,"Iniciativa,Ministerio De Economia De Peru,Ministerio  De Economia",iniciativa-ministerio-de-economia-de-peru-ministerio-de-economia,Uruguay,-34.9011127,-56.1645314
-Montevideo,17,45,Data Uruguay,data-uruguay,Uruguay,-34.9011127,-56.1645314
-Montevideo,17,45,Data UY,data-uy,Uruguay,-34.9011127,-56.1645314
-Montevideo,17,45,Fundación Conocimiento Abierto,fundacion-conocimiento-abierto,Uruguay,-34.9011127,-56.1645314
-Montevideo,17,45,Cainfo,cainfo,Uruguay,-34.9011127,-56.1645314
-Montevideo,17,45,"Mas Cultura,Independiente",mas-cultura-independiente,Uruguay,-34.9011127,-56.1645314
-Montevideo,17,45,180Data,180data,Uruguay,-34.9011127,-56.1645314
-Montevideo,17,45,Checkuy,checkuy,Uruguay,-34.9011127,-56.1645314
-Montevideo,17,45,La Diaria,la-diaria,Uruguay,-34.9011127,-56.1645314
-Montevideo,17,45,Periodico Sudestada,periodico-sudestada,Uruguay,-34.9011127,-56.1645314
-Montevideo,17,45,Red Ciudadana Nuestra Córdoba – Asociación Civil Nuestra Córdoba,red-ciudadana-nuestra-cordoba-asociacion-civil-nuestra-cordoba,Uruguay,-34.9011127,-56.1645314
-Montevideo,17,45,ATRELAR S.A. (DynamizeIT),atrelar-s-a-dynamizeit,Uruguay,-34.9011127,-56.1645314
-Montevideo,17,45,Asociación Latin,asociacion-latin,Uruguay,-34.9011127,-56.1645314
-Montevideo,17,45,Dynamizeit,dynamizeit,Uruguay,-34.9011127,-56.1645314
-Montevideo,17,45,Bgood Smart Philanthropy,bgood-smart-philanthropy,Uruguay,-34.9011127,-56.1645314
-Morelia,1,30,Instituto De Liderazgo Simone De Beauvoir A.C.,instituto-de-liderazgo-simone-de-beauvoir-a-c,México,19.7059504,-101.1949825
-New Orleans,1,33,Committee For A Better New Orleans/Comité Por Una Mejor Nueva Orleans,committee-for-a-better-new-orleans-comite-por-una-mejor-nueva-orleans,Otro,29.9510658,-90.0715323
-Nicoya,1,126,La Voz De Guanacaste,la-voz-de-guanacaste,Costa Rica,9.9590676,-85.354965000000007
-Nueva York,1,47,Guegue Vasquez Cia Ltda,guegue-vasquez-cia-ltda,Nicaragua,40.7127753,-74.0059728
-Oaxaca,4,70,Gobierno Fácil,gobierno-facil,México,17.0542297,-96.7132304
-Oaxaca,4,70,Techo,techo,México,17.0542297,-96.7132304
-Oaxaca,4,70,Quiénmerepresenta,quienmerepresenta,México,17.0542297,-96.7132304
-Oaxaca,4,70,ILSB,ilsb,México,17.0542297,-96.7132304
-Palpalá,1,72,Cristian Damián Cazón,cristian-damian-cazon,Argentina,-24.2584127,-65.2084907
-Panamá,8,142,Red Argentina Para La Cooperacio´N Internacional (Raci),red-argentina-para-la-cooperacio-n-internacional-raci,Panamá,8.9823792,-79.5198696
-Panamá,8,142,Fundación Ciencias De La Documentación,fundacion-ciencias-de-la-documentacion,Panamá,8.9823792,-79.5198696
-Panamá,8,142,Soluntia Sa,soluntia-sa,Panamá,8.9823792,-79.5198696
-Panamá,8,142,Gobierno De Panamá,gobierno-de-panama,Panamá,8.9823792,-79.5198696
-Panamá,8,142,Plataforma Ciudadana Inteligente,plataforma-ciudadana-inteligente,Panamá,8.9823792,-79.5198696
-Panamá,8,142,Instituto Panameño De Derecho Y Nuevas Tecnologías,instituto-panameno-de-derecho-y-nuevas-tecnologias,Panamá,8.9823792,-79.5198696
-Panamá,8,142,Fundación Generación Sin Límite,fundacion-generacion-sin-limite,Panamá,8.9823792,-79.5198696
-Panamá,8,142,Ipandetec,ipandetec,Panamá,8.9823792,-79.5198696
-Paysandú,1,154,Subsidios Claros,subsidios-claros,Uruguay,-32.2706789,-58.081134
-Pereira,1,113,Corporación Científicas De Datos,corporacion-cientificas-de-datos,Colombia,4.8087174,-75.690601
-Piracicaba,1,152,Instituto De Cidadania Empresarial Do Maranhão,instituto-de-cidadania-empresarial-do-maranhão,Brasil,-22.7626467,-47.8427298
-Porto Alegre,7,138,Guayí,guayi,Brasil,-30.0346471,-51.2176584
-Porto Alegre,7,138,Cooperativa Girasol De Cosumo Solidário,cooperativa-girasol-de-cosumo-solidario,Brasil,-30.0346471,-51.2176584
-Porto Alegre,7,138,Conceptu Protótipos E Sistemas,conceptu-prototipos-e-sistemas,Brasil,-30.0346471,-51.2176584
-Porto Alegre,7,138,Centro de Assessoria Multiprofissional - CAMP,centro-de-assessoria-multiprofissional-camp,Brasil,-30.0346471,-51.2176584
-Porto Alegre,7,138,Centro De Assessoria Multiprofissional,centro-de-assessoria-multiprofissional,Brasil,-30.0346471,-51.2176584
-Porto Alegre,7,138,"Themis Gênero, Justiça E Direitos Humanos",themis-genero-justica-e-direitos-humanos,Brasil,-30.0346471,-51.2176584
-Porto Alegre,7,138,Colivre - Cooperativa De Tecnologias Livres,colivre-cooperativa-de-tecnologias-livres,Brasil,-30.0346471,-51.2176584
-Puebla,7,21,Gobierno Fácil,gobierno-facil,México,19.0414398,-98.2062727
-Puebla,7,21,PODER,project-poder,México,19.0414398,-98.2062727
-Puebla,7,21,"Fundación Capital - Los Empleados Mencionados Hacen Referencia A Toda La Organización Regional Que Esta Conformada Por Varias Sucursales. Una De Ellas Es México, Y Es En México Donde Estamos Proponiendo Realizar Mopa Por El Momento.",fundacion-capital-los-empleados-mencionados-hacen-referencia-a-toda-la-organizacion-regional-que-esta-conformada-por-varias-sucursales-una-de-ellas-es-mexico-y-es-en-mexico-donde-estamos-proponiendo-realizar-mopa-por-el-momento,México,19.0414398,-98.2062727
-Puebla,7,21,Grupo Cidic,grupo-cidic,México,19.0414398,-98.2062727
-Puebla,7,21,"Ninja,Ladobe",ninja-ladobe,México,19.0414398,-98.2062727
-Puebla,7,21,Invernaideas,invernaideas,México,19.0414398,-98.2062727
-Puebla,7,21,"Artículo 12, A.C. (Programa “Sontusdatos”)",articulo-12-a-c-programa-sontusdatos,México,19.0414398,-98.2062727
-Querétaro,2,37,Derive Lab,derive-lab,México,20.5888184,-100.3898876
-Querétaro,2,37,DERIVE LAB SC,derive-lab-sc,México,20.5888184,-100.3898876
-quito,1,147,Red Infodesarrollo,red-infodesarrollo,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Escuela Politécnica Nacional,escuela-politecnica-nacional,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Unostres,unostres,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Llactalab - Ciudades Sustentables,llactalab-ciudades-sustentables,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Open Knowledge Ecuador,open-knowledge-ecuador,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Creative Commons,creative-commons,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Agencia Ecologista De Información Tegantai,agencia-ecologista-de-informacion-tegantai,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Lab Media,lab-media,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Fundamedios,fundamedios,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Impaqto,impaqto,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Fundación Biciacción,fundacion-biciaccion,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Red Infodesarrollo,red-infodesarrollo,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Medialab Quito,medialab-quito,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Grupo FARO América Latina y el Caribe,grupo-faro-america-latina-y-el-caribe,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Datalat,datalat,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,"""Sociedad De Hecho \""La Pesetera\""",sociedad-de-hecho-la-pesetera,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Smart Data Services,smart-data-services,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Red Infodesarrollo - Némesis,red-infodesarrollo-nemesis,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Gobierno De Quito,gobierno-de-quito,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,ATRELAR S.A. (DynamizeIT),atrelar-s-a-dynamizeit,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Fundapi,fundapi,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Fundación Medialab Quito,fundacion-medialab-quito,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Fundación Ciudadania Y Desarrollo,fundacion-ciudadania-y-desarrollo,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Policía Nacional Del Ecuador,policia-nacional-del-ecuador,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Emagic,emagic,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Cemoplaf,cemoplaf,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Observatorio Ciudadano De La Educacion,observatorio-ciudadano-de-la-educacion,Ecuador,-0.1806532,-78.4678382
-Quito,27,94,Fundación Democracia Digital Ecuador,fundacion-democracia-digital-ecuador,Ecuador,-0.1806532,-78.4678382
-Recife,3,42,AppCivico - EOKOE SOLUÇÕES TECNOLÓGICAS LTDA,appcivico-eokoe-solucoes-tecnologicas,Brasil,-8.0522404,-34.9286096
-Recife,3,42,Cáritas Brasileira Regional Nordeste Ii,caritas-brasileira-regional-nordeste-ii,Brasil,-8.0522404,-34.9286096
-Recife,3,42,Inesc-Instituto De Estudos Socioeconômicos,inesc-instituto-de-estudos-socioeconomicos,Brasil,-8.0522404,-34.9286096
-Río de Janeiro,19,66,Carla Barbedo Zorzanelli,carla-barbedo-zorzanelli,Brasil,-22.9068467,-43.1728965
-Río de Janeiro,19,66,Gênero E Número,genero-e-numero,Brasil,-22.9068467,-43.1728965
-Río de Janeiro,19,66,Observatório De Favelas Do Rio De Janeiro,observatorio-de-favelas-do-rio-de-janeiro,Brasil,-22.9068467,-43.1728965
-Río de Janeiro,19,66,Cnpi - Centro Nacional De Informatica,cnpi-centro-nacional-de-informatica,Brasil,-22.9068467,-43.1728965
-Río de Janeiro,19,66,Phronesis Pesquisa E Consultoria Em Ciencias Sociais Ltd,phronesis-pesquisa-e-consultoria-em-ciencias-sociais-ltd,Brasil,-22.9068467,-43.1728965
-Río de Janeiro,19,66,Instituto São Paulo Sustentável,instituto-são-paulo-sustentavel,Brasil,-22.9068467,-43.1728965
-Río de Janeiro,19,66,Akredito,akredito,Brasil,-22.9068467,-43.1728965
-Río de Janeiro,19,66,CEDAPS - CENTRO DE PROMOÇÃO DA SAÚDE,cedaps-centro-de-promoção-da-saude,Brasil,-22.9068467,-43.1728965
-Río de Janeiro,19,66,Lar De Maria Dolores,lar-de-maria-dolores,Brasil,-22.9068467,-43.1728965
-Río de Janeiro,19,66,Centro De Empreendedorismo Universitario &Consultoria Ltda,centro-de-empreendedorismo-universitario-consultoria-ltda,Brasil,-22.9068467,-43.1728965
-Río de Janeiro,19,66,Asociación Transporte Ativo,asociacion-transporte-ativo,Brasil,-22.9068467,-43.1728965
-Río de Janeiro,19,66,Promec Projetos E Modelagens Em Engenharia E Computação Ltda,promec-projetos-e-modelagens-em-engenharia-e-computacão-ltda,Brasil,-22.9068467,-43.1728965
-Río de Janeiro,19,66,Instituto Atlântico,instituto-atlantico,Brasil,-22.9068467,-43.1728965
-Río de Janeiro,19,66,Emude Tecnologia Em Cidades,emude-tecnologia-em-cidades,Brasil,-22.9068467,-43.1728965
-Río de Janeiro,19,66,Fundação Darcy Ribeiro,fundacão-darcy-ribeiro,Brasil,-22.9068467,-43.1728965
-Río de Janeiro,19,66,Olabi,olabi,Brasil,-22.9068467,-43.1728965
-Río de Janeiro,19,66,Casa Fluminense,casa-fluminense,Brasil,-22.9068467,-43.1728965
-Río de Janeiro,19,66,Cieds - Centro Integrado De Estudos E Programas De Desenvolvimento Sustentável,cieds-centro-integrado-de-estudos-e-programas-de-desenvolvimento-sustentavel,Brasil,-22.9068467,-43.1728965
-Río de Janeiro,19,66,Cedaps,cedaps,Brasil,-22.9068467,-43.1728965
-Río Negro,1,43,Corporación Prodepaz,corporacion-prodepaz,Colombia,6.144837,-75.375085
-Rosario,9,74,"Municipalidad De Rosario, Secretaria De Economia Social, Dirección General De Desarrollo De La Economía Social",municipalidad-de-rosario-secretaria-de-economia-social-direccion-general-de-desarrollo-de-la-economia-social,Argentina,-32.9442426,-60.6505388
-Rosario,9,74,Bondiar,bondiar,Argentina,-32.9442426,-60.6505388
-Rosario,9,74,De La Azotea,de-la-azotea,Argentina,-32.9442426,-60.6505388
-Rosario,9,74,Fundación Ejercicio Ciudadano,fundacion-ejercicio-ciudadano,Argentina,-32.9442426,-60.6505388
-Rosario,9,74,Acción Colectiva,accion-colectiva,Argentina,-32.9442426,-60.6505388
-Rosario,9,74,Oneeyeant,oneeyeant,Argentina,-32.9442426,-60.6505388
-Rosario,9,74,Rosario Mobile Apps,rosario-mobile-apps,Argentina,-32.9442426,-60.6505388
-Rosario,9,74,Dirección General De Informática De La Municipalidad De Rosario,direccion-general-de-informatica-de-la-municipalidad-de-rosario,Argentina,-32.9442426,-60.6505388
-Rosario,9,74,Innovavista,innovavista,Argentina,-32.9442426,-60.6505388
-Salvador,3,31,Instituto Mídia Étnica,instituto-midia-etnica,Brasil,-12.977749,-38.5016301
-Salvador,3,31,"Grupo De Estudos Sobre Cultura, Representação E Informação Digitais - Cridi",grupo-de-estudos-sobre-cultura-representacão-e-informacão-digitais-cridi,Brasil,-12.977749,-38.5016301
-Salvador,3,31,Secretaria De Estado Dos Direitos Humanos E Participação Popular,secretaria-de-estado-dos-direitos-humanos-e-participacão-popular,Brasil,-12.977749,-38.5016301
-San Jorge,1,52,Municipalidad De San Jorge,municipalidad-de-san-jorge,Argentina,-31.8970823,-61.8598807
-San José,19,155,La Nación,la-nacion-cr,Costa Rica,-31.8970823,-61.8598807
-San José,19,155,Minerva,minerva,Costa Rica,-31.8970823,-61.8598807
-San José,19,155,Gobierno De Costa Rica,gobierno-de-costa-rica,Costa Rica,-31.8970823,-61.8598807
-San José,19,155,Asociación Centro Ciudadano De Estudios Para Una Sociedad Abierta -Accesa,asociacion-centro-ciudadano-de-estudios-para-una-sociedad-abierta-accesa,Costa Rica,-31.8970823,-61.8598807
-San José,19,155,Contexto,contexto,Costa Rica,-31.8970823,-61.8598807
-San José,19,155,Accesa,accesa,Costa Rica,-31.8970823,-61.8598807
-San José,19,155,Revista Vacío,revista-vacio,Costa Rica,-31.8970823,-61.8598807
-San José,19,155,Responsible Business Alliance (Rba),responsible-business-alliance-rba,Costa Rica,-31.8970823,-61.8598807
-San José,19,155,Ojo Al Voto,ojo-al-voto,Costa Rica,-31.8970823,-61.8598807
-San José,19,155,Sociedad Civil Abriendo Datos Costa Rica,sociedad-civil-abriendo-datos-costa-rica,Costa Rica,-31.8970823,-61.8598807
-San José,19,155,Comunicación Corporativa De Centroamérica,comunicacion-corporativa-de-centroamerica,Costa Rica,-31.8970823,-61.8598807
-San José,19,155,Dal,dal,Costa Rica,-31.8970823,-61.8598807
-San José,19,155,Fundación Villafranca Y Zurcher Para La Educación De La Juventud A Través Del Turismo,fundacion-villafranca-y-zurcher-para-la-educacion-de-la-juventud-a-traves-del-turismo,Costa Rica,-31.8970823,-61.8598807
-San José,19,155,Asociación Horizonte Positivo,asociacion-horizonte-positivo,Costa Rica,-31.8970823,-61.8598807
-San José,19,155,Estudio Manatí S.A.,estudio-manati-s-a,Costa Rica,-31.8970823,-61.8598807
-San José,19,155,Central Del Movimiento De Trabajadores Costarricenses -Cmtc-,central-del-movimiento-de-trabajadores-costarricenses-cmtc,Costa Rica,-31.8970823,-61.8598807
-San José,19,155,Fundación Costa Rica Para La Innovación,fundacion-costa-rica-para-la-innovacion,Costa Rica,-31.8970823,-61.8598807
-San José,19,155,Abriendo Datos Costa Rica,abriendo-datos-costa-rica,Costa Rica,-31.8970823,-61.8598807
-San José,19,155,Cooperativa Sulá Batsú,cooperativa-sula-batsu,Costa Rica,-31.8970823,-61.8598807
-San Juan,2,77,Rede Conhecimento Social,rede-conhecimento-social,Puerto Rico,18.4655394,-66.1057355
-San Juan,2,77,Abrepuertorico,abrepuertorico,Puerto Rico,18.4655394,-66.1057355
-San Salvador,13,20,Iuristech Solutions,iuristech-solutions,El Salvador,13.6929403,-89.2181911
-San Salvador,13,20,Asociación Intermunicipal Del Valle De Jiboa Mijiboa,asociacion-intermunicipal-del-valle-de-jiboa-mijiboa,El Salvador,13.6929403,-89.2181911
-San Salvador,13,20,Okfn El Salvador,okfn-el-salvador,El Salvador,13.6929403,-89.2181911
-San Salvador,13,20,Instituto Salvadoreño de Desarrollo Municipal (ISDEM),instituto-salvadoreno-de-desarrollo-municipal-isdem,El Salvador,13.6929403,-89.2181911
-San Salvador,13,20,Central America Software Services,central-america-software-services,El Salvador,13.6929403,-89.2181911
-San Salvador,13,20,Chequeado,chequeado,El Salvador,13.6929403,-89.2181911
-San Salvador,13,20,The Next Services,the-next-services,El Salvador,13.6929403,-89.2181911
-San Salvador,13,20,Periódico El Faro,periodico-el-faro,El Salvador,13.6929403,-89.2181911
-San Salvador,13,20,"Instituto Salvadoreño De Desarrollo Municipal,Instituto Salvadoreño De Desarrollo Municipal (Isdem)",instituto-salvadoreno-de-desarrollo-municipal-instituto-salvadoreno-de-desarrollo-municipal-isdem,El Salvador,13.6929403,-89.2181911
-San Salvador,13,20,Fundación Latitudes,fundacion-latitudes,El Salvador,13.6929403,-89.2181911
-San Salvador,13,20,Fundación Nacional Para El Desarrollo (Funde),fundacion-nacional-para-el-desarrollo-funde,El Salvador,13.6929403,-89.2181911
-San Salvador,13,20,Datoselsalvador,datoselsalvador,El Salvador,13.6929403,-89.2181911
-San Salvador,13,20,El Faro,el-faro,El Salvador,13.6929403,-89.2181911
-San Salvador de Jujuy,8,149,Digital Network Srl,digital-network-srl,Argentina,-24.1857864,-65.2994767
-San Salvador de Jujuy,8,149,Impacto Norte Srl,impacto-norte-srl,Argentina,-24.1857864,-65.2994767
-San Salvador de Jujuy,8,149,Softai,softai,Argentina,-24.1857864,-65.2994767
-San Salvador de Jujuy,8,149,Dirección De Transparencia Y Gobierno Abierto De La Provincia De Jujuy,direccion-de-transparencia-y-gobierno-abierto-de-la-provincia-de-jujuy,Argentina,-24.1857864,-65.2994767
-San Salvador de Jujuy,8,149,Incotedes,incotedes,Argentina,-24.1857864,-65.2994767
-San Salvador de Jujuy,8,149,"Secretaria De Planificacion, Desarrollo Y Modernizacion De La Municipalidad De San Salvador De Jujuy",secretaria-de-planificacion-desarrollo-y-modernizacion-de-la-municipalidad-de-san-salvador-de-jujuy,Argentina,-24.1857864,-65.2994767
-San Salvador de Jujuy,8,149,Cooperativa De Trabajo Tecnomática Limitada,cooperativa-de-trabajo-tecnomatica-limitada,Argentina,-24.1857864,-65.2994767
-San Salvador de Jujuy,8,149,Ariel Cabezas,ariel-cabezas,Argentina,-24.1857864,-65.2994767
-Santarém,1,27,Centro De Estudos Avançados De Promoção Social E Ambiental - Ceaps / Projeto Saúde & Alegria,centro-de-estudos-avancados-de-promocão-social-e-ambiental-ceaps-projeto-saude-alegria,Brasil,-2.4506291,-54.7009228
-Santiago,46,69,Congreso Público,congreso-publico,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Fundación Consuma Conciencia,fundacion-consuma-conciencia,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Let'S Chat,let-s-chat,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Wingu,wingu,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Fundación Proyecto Propio,fundacion-proyecto-propio,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Fundación Centro Latinoamericano de Derechos Humanos,fundacion-centro-latinoamericano-de-derechos-humanos,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Chicas Poderosas,chicas-poderosas,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Beetec Inteligencia Colectiva,beetec-inteligencia-colectiva,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Observatorio del Gasto Fiscal - via Fundación Contexto Ciudadano,observatorio-del-gasto-fiscal-via-fundacion-contexto-ciudadano,Chile,-33.4488897,-70.6692655
-Santiago,46,69,"Universidad De Santiago De Chile, Facultad De Administración Y Economía",universidad-de-santiago-de-chile-facultad-de-administracion-y-economia,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Fundación Mapocho,fundacion-mapocho,Chile,-33.4488897,-70.6692655
-Santiago,46,69,"Universidad De Chile, Facultad De Ciencias Físicas Y Matemáticas, Departamento De Ingeniería Industrial, Centro De Investigación En Inteligencia De Negocios (Ceine)",universidad-de-chile-facultad-de-ciencias-fisicas-y-matematicas-departamento-de-ingenieria-industrial-centro-de-investigacion-en-inteligencia-de-negocios-ceine,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Fundación Desarrollo Social Lealtad Chile,fundacion-desarrollo-social-lealtad-chile,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Fundación Base Pública,fundacion-base-publica,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Centro Bicicultura,centro-bicicultura,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Dtlnet Ltda.,dtlnet-ltda,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Socialab Global,socialab-global,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Artnumerica,artnumerica,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Red Aceleradora Global,red-aceleradora-global,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Techo Internacional (oficina central),techo-internacional-oficina-central,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Durán & Asociados Spa.,duran-asociados-spa,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Demokratio,demokratio,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Municipalidad De Renca,municipalidad-de-renca,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Exxact Negocios Digitales Spa,exxact-negocios-digitales-spa,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Fundación Ciudadano Inteligente,fundacion-ciudadano-inteligente,Chile,-33.4488897,-70.6692655
-Santiago,46,69,"Capítulo Chileno De Transparencia Internacional, Chile Transparente",capitulo-chileno-de-transparencia-internacional-chile-transparente,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Asociación Nacional Para El Fomento De La Economia Del Bien Común En Chile,asociacion-nacional-para-el-fomento-de-la-economia-del-bien-comun-en-chile,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Fundación Inhoy,fundacion-inhoy,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Asociación Chilena De Protección De La Familia - Aprofa,asociacion-chilena-de-proteccion-de-la-familia-aprofa,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Ciudadanía Inteligente,ciudadania-inteligente,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Fundación Nuevas Contingencias Sociales,fundacion-nuevas-contingencias-sociales,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Fundación Por Una Carrera,fundacion-por-una-carrera,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Facultad De Comunicaciones De La Universidad Pontifica De Chile,facultad-de-comunicaciones-de-la-universidad-pontifica-de-chile,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Fundación Democracia Y Desarrollo,fundacion-democracia-y-desarrollo,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Consejo De La Transparencia,consejo-de-la-transparencia,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Asesorías E Inversiones Comunidades Ciudadanas S.A.,asesorias-e-inversiones-comunidades-ciudadanas-s-a,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Municipio Verde,municipio-verde,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Fundacion Multitudes,fundacion-multitudes,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Dsarhoya Spa,dsarhoya-spa,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Asociación Chilena De Voluntarios,asociacion-chilena-de-voluntarios,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Socio Público,socio-publico,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Fundacion Girls In Tech Chile,fundacion-girls-in-tech-chile,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Constructora Proyecto Propio,constructora-proyecto-propio,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Datos Protegidos,datos-protegidos,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Fundación Contexto Ciudadano,fundacion-contexto-ciudadano,Chile,-33.4488897,-70.6692655
-Santiago,46,69,Ciudad Viva,ciudad-viva,Chile,-33.4488897,-70.6692655
-Santo Adre,1,111,Receita Federal,receita-federal,Brasil,-23.6742228,-46.5436003
-Santo Domingo,2,36,"Participación Ciudadana, Capitulo Dominicano Transparencia Internacional",participacion-ciudadana-capitulo-dominicano-transparencia-internacional,República Dominicana,18.4860575,-70.017052
-Santo Domingo,2,36,Youniversys Srl,youniversys-srl,República Dominicana,18.4860575,-70.017052
-São José,1,90,Observatório Social De São José (Ossj),observatorio-social-de-são-jose-ossj,Brasil,-28.21171,-49.1632
-São Luis,2,116,Observatório Do Recife,observatorio-do-recife,Brasil,-2.52972,-44.30278
-São Luis,2,116,Associação Software Livre.Org,associacão-software-livre-org,Brasil,-2.52972,-44.30278
-São Paulo,55,130,Aparabólica,aparabolica,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,AppCivico - EOKOE SOLUÇÕES TECNOLÓGICAS LTDA,appcivico-eokoe-solucoes-tecnologicas,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Artigo 19 Brasil,artigo-19-brasil,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Vetor Brasil,vetor-brasil,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Colab,colab,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Areta Valente Guimarães Mei,areta-valente-guimarães-mei,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Instituto Ecoar Para A Cidadania,instituto-ecoar-para-a-cidadania,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Update,update,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Programa Cidades Sustentaeis,programa-cidades-sustentaeis,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,"Colaboratório De Desenvolvimento E Participação, Universidade De São Paulo",colaboratorio-de-desenvolvimento-e-participacão-universidade-de-são-paulo,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Instituto Educadigital,instituto-educadigital,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Calhau Social,calhau-social,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Fgv.Ceapg - Centro De Estudos Em Administração Pública E Governo Da Escola De Administração De Empresas Da Fundação Getulio Vargas,fgv-ceapg-centro-de-estudos-em-administracão-publica-e-governo-da-escola-de-administracão-de-empresas-da-fundacão-getulio-vargas,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Núcleo De Informação E Coordenação Do Ponto Br - Nic.Br,nucleo-de-informacão-e-coordenacão-do-ponto-br-nic-br,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Cocidade,cocidade,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Associação Brasileira De Jornalismo Investigativo,associacão-brasileira-de-jornalismo-investigativo,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,O Instituto Ambiental,o-instituto-ambiental,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Mapas Coletivos,mapas-coletivos,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Instituto Casa Da Cidade,instituto-casa-da-cidade,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Todos Pela Educação,todos-pela-educacão,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,"Alampyme Br - Associação Latinoamericana De Micro, Pequenas E Médias Empresas Capítulo Brasil",alampyme-br-associacão-latinoamericana-de-micro-pequenas-e-medias-empresas-capitulo-brasil,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,"Ninja,Ladobe",ninja-ladobe,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Centro De Liderança Pública,centro-de-lideranca-publica,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Taturana Mobilização Social,taturana-mobilizacão-social,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Fórum Brasileiro De Segurança Pública,forum-brasileiro-de-seguranca-publica,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Instituto Ilhabela Sustentável,instituto-ilhabela-sustentavel,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Laboratório De Inovação E Controle No Setor Público Da Universidade Federal Do Pará,laboratorio-de-inovacão-e-controle-no-setor-publico-da-universidade-federal-do-para,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Softex,softex,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,"De Olhos Nas Metas,Colaborativomx",de-olhos-nas-metas-colaborativomx,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,World Resources Institute Brasil - Wri Brasil,world-resources-institute-brasil-wri-brasil,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Instituto Sincronicidade Para A Interação Social (Ispis),instituto-sincronicidade-para-a-interacão-social-ispis,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Labhacker,labhacker,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Avesso Sustentabilidade,avesso-sustentabilidade,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Mgov Brasil,mgov-brasil,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Instituto  Banco Da Periferia,instituto-banco-da-periferia,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Omnibus Hacker,omnibus-hacker,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Arede,arede,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Civitatis Consultoria E Assessoria Educacional Ltda,civitatis-consultoria-e-assessoria-educacional-ltda,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Fluxo,fluxo,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Muove Brasil,muove-brasil,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Transparência Brasil,transparencia-brasil,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Instituto Cordial,instituto-cordial,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Instituto Cidade Democra´Tica,instituto-cidade-democra-tica,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Repórter Brasil,reporter-brasil,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,"Núcleo Digital,Nucleo Digital",nucleo-digital-nucleo-digital,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Fgv.Gdhee - Grupo De Pesquisa Aplicada Em Direitos Humanos E Empresas Da Fundação Getulio Vargas,fgv-gdhee-grupo-de-pesquisa-aplicada-em-direitos-humanos-e-empresas-da-fundacão-getulio-vargas,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Instituto Veredas,instituto-veredas,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Loomio Cooperative Limited,loomio-cooperative-limited,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Agenda Pública - Agência De Análise E Cooperação Em Políticas Públicas,agenda-publica-agencia-de-analise-e-cooperacão-em-politicas-publicas,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Instituto De Arquitetos Do Brasil - Departamento De São Paulo (Iab-Sp),instituto-de-arquitetos-do-brasil-departamento-de-são-paulo-iab-sp,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Portal Brasil,portal-brasil,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Nau Interativa,nau-interativa,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,InfoAmazonía,infoamazonia,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Instituto Socioambiental,instituto-socioambiental,Brasil,-23.5505199,-46.6333094
-São Paulo,55,130,Instituto Para O Desenvolvimento Racional Das Cidades,instituto-para-o-desenvolvimento-racional-das-cidades,Brasil,-23.5505199,-46.6333094
-Sincelejo,1,106,Fundación Tres Cocos,fundacion-tres-cocos,Colombia,9.3045773,-75.3905567
-Sucre,1,128,Fundación Acción Cultural Loyola (Aclo),fundacion-accion-cultural-loyola-aclo,Bolivia,-19.0195852,-65.2619615
-Tatuí,1,108,Panapana Informacao E Educacao Ltda ­ Me,panapana-informacao-e-educacao-ltda-me,Brasil,-23.3492186,-47.8465761
-Tepic,1,112,Fundación Mexicana Para La Planeación Familiar A. C. (Mexfam),fundacion-mexicana-para-la-planeacion-familiar-a-c-mexfam,México,21.5041651,-104.8945887
-Texistepeque,1,93,Asociación Ecológica De Los Municipios De Santa Ana (Asemusa),asociacion-ecologica-de-los-municipios-de-santa-ana-asemusa,El Salvador,14.1257455,-89.4954794
-Trujillo,1,159,"Arequipa, Te Queremos",arequipa-te-queremos,Perú,-8.1090524,-79.0215336
-Valdivia,2,19,Cooperativa Acá Comunicaciones,cooperativa-aca-comunicaciones,Chile,-39.8195857,-73.2452103
-Valdivia,2,19,Agrupación Biósfera,agrupacion-biosfera,Chile,-39.8195857,-73.2452103
-Valparaíso,2,133,Observatorio De Comunicación Pucv,observatorio-de-comunicacion-pucv,Chile,-33.047238,-71.6126885
-Valparaíso,2,133,Delpuerto Comunicaciones,delpuerto-comunicaciones,Chile,-33.047238,-71.6126885
-Verapaz,1,153,"Instituto Salvadoreño De Desarrollo Municipal,Instituto Salvadoreño De Desarrollo Municipal (Isdem)",instituto-salvadoreno-de-desarrollo-municipal-instituto-salvadoreno-de-desarrollo-municipal-isdem,El Salvador,13.6438499,-88.8706944
-Vicente Lopez,2,136,Manas Technology Solutions,manas-technology-solutions,Argentina,-34.5281205,-58.473816
-Vicente Lopez,2,136,ACIJ - Asociación Civil por la Igualdad y la Justicia,asociacion-civil-por-la-igualdad-y-la-justicia-arg,Argentina,-34.5281205,-58.473816
-Viedma,2,26,Econsulting S.R.L.,econsulting-s-r-l,Argentina,-40.8119087,-62.9962044
-Viedma,2,26,Universidad Nacional De Rio Negro.,universidad-nacional-de-rio-negro,Argentina,-40.8119087,-62.9962044
-Washington DC,2,4,Rede De Observatorio Social Do Brasil,rede-de-observatorio-social-do-brasil,Otro,38.9071923,-77.0368707
-Washington DC,2,4,Open Contracting Partnership,open-contracting-partnertship,Otro,38.9071923,-77.0368707
-Wellington,1,13,Cleteci S.A,cleteci-s-a,Otro,-41.2864603,174.776236
-Yopal,1,8,Municipio De Yopal,municipio-de-yopal,Colombia,5.348903,-72.400523
+name,country,lat,lon,uid_org,names_org
+Maputo,Otro,-25.969248,32.5731746,policentrico,Policéntrico
+Havana,Cuba,23.1136,82.3666,people-in-need,People In Need
+Washington DC,Otro,38.9071923,-77.0368707,rede-de-observatorio-social-do-brasil,Rede De Observatorio Social Do Brasil
+Washington DC,Otro,38.9071923,-77.0368707,icij,International Consortium of Investigative Journalists
+Washington DC,Otro,38.9071923,-77.0368707,open-contracting-partnertship,Open Contracting Partnership
+Mariana,Brasil,-20.3652719,-43.4150073,troca-gestão-social-para-a-sustentabilidade,Troca: Gestão Social Para A Sustentabilidade
+Mendoza,Argentina,-32.8894587,-68.8458386,silice,Silice
+Mendoza,Argentina,-32.8894587,-68.8458386,creapption,Creapption
+Mendoza,Argentina,-32.8894587,-68.8458386,fundacion-centro-latinoamericano-de-derechos-humanos,Fundación Centro Latinoamericano de Derechos Humanos
+Mendoza,Argentina,-32.8894587,-68.8458386,centro-latinoamericano-de-derechos-humanos,Centro Latinoamericano de Derechos Humanos
+Mendoza,Argentina,-32.8894587,-68.8458386,yecas,Yecas
+Mendoza,Argentina,-32.8894587,-68.8458386,nuestra-mendoza-fundacion-nuestra-mendoza,"Nuestra Mendoza,Fundación Nuestra Mendoza"
+Mendoza,Argentina,-32.8894587,-68.8458386,atrelar-s-a-dynamizeit,ATRELAR S.A. (DynamizeIT)
+Mendoza,Argentina,-32.8894587,-68.8458386,nuestra-mendoza,Nuestra Mendoza
+Yopal,Colombia,5.348903,-72.400523,municipio-de-yopal,Municipio De Yopal
+Minas,Brasil,-16.20639,44.43333,olhoneles,Olhoneles
+Minas,Brasil,-16.20639,44.43333,gobierno-de-minas,Gobierno De Minas
+Mauritice,Brasil,-7.3829493,-38.7716665,centro-de-educacão-e-assessoria-popular-mauriti-ce,Centro De Educação E Assessoria Popular Mauriti-Ce
+Wellington,Otro,-41.2864603,174.776236,cleteci-s-a,Cleteci S.A
+Fortaleza,Brasil,-3.7327144,-38.5269981,rede-conhecimento-social,Rede Conhecimento Social
+Fortaleza,Brasil,-3.7327144,-38.5269981,acecci-associacão-cearense-de-combate-a-corrupcão-e-a-impunidade,Acecci - Associação Cearense De Combate À Corrupção E À Impunidade
+Fortaleza,Brasil,-3.7327144,-38.5269981,instituto-banco-da-periferia-palmas-lab,Instituto Banco Da Periferia - Palmas Lab
+Balneário Camboriu,Brasil,-27.0015756,-48.637905,instituto-stela,Instituto Stela
+Araranguá,Brasil,-28.9361187,-49.4923013,nucleo-de-estudos-em-inteligencia-gestão-e-tecnologias-para-inovacão-igti,"Núcleo De Estudos Em Inteligência, Gestão E Tecnologias Para Inovação (Igti)"
+Araranguá,Brasil,-28.9361187,-49.4923013,universidade-federal-de-santa-catarina,Universidade Federal De Santa Catarina
+Araranguá,Brasil,-28.9361187,-49.4923013,centro-tecnologico-ctc,Centro Tecnológico (Ctc)
+Araranguá,Brasil,-28.9361187,-49.4923013,departamento-de-engenharia-e-gestão-do-conhecimento-degc,Departamento De Engenharia E Gestão Do Conhecimento (Degc)
+Livramento de Nossa Senhora,Brasil,-13.6420856,-41.8412148,centro-de-formacão-e-organizacão-comunitaria-ceforc,Centro De Formação E Organização Comunitária - Ceforc
+Valdivia,Chile,-39.8195857,-73.2452103,cooperativa-aca-comunicaciones,Cooperativa Acá Comunicaciones
+Valdivia,Chile,-39.8195857,-73.2452103,agrupacion-biosfera,Agrupación Biósfera
+San Salvador,El Salvador,13.6929403,-89.2181911,iuristech-solutions,Iuristech Solutions
+San Salvador,El Salvador,13.6929403,-89.2181911,asociacion-intermunicipal-del-valle-de-jiboa-mijiboa,Asociación Intermunicipal Del Valle De Jiboa Mijiboa
+San Salvador,El Salvador,13.6929403,-89.2181911,okfn-el-salvador,Okfn El Salvador
+San Salvador,El Salvador,13.6929403,-89.2181911,central-america-software-services,Central America Software Services
+San Salvador,El Salvador,13.6929403,-89.2181911,chequeado,Chequeado
+San Salvador,El Salvador,13.6929403,-89.2181911,the-next-services,The Next Services
+San Salvador,El Salvador,13.6929403,-89.2181911,periodico-el-faro,Periódico El Faro
+San Salvador,El Salvador,13.6929403,-89.2181911,instituto-salvadoreno-de-desarrollo-municipal-instituto-salvadoreno-de-desarrollo-municipal-isdem,"Instituto Salvadoreño De Desarrollo Municipal,Instituto Salvadoreño De Desarrollo Municipal (Isdem)"
+San Salvador,El Salvador,13.6929403,-89.2181911,fundacion-latitudes,Fundación Latitudes
+San Salvador,El Salvador,13.6929403,-89.2181911,fundacion-nacional-para-el-desarrollo-funde,Fundación Nacional Para El Desarrollo (Funde)
+San Salvador,El Salvador,13.6929403,-89.2181911,datoselsalvador,Datoselsalvador
+San Salvador,El Salvador,13.6929403,-89.2181911,el-faro,El Faro
+Puebla,México,19.0414398,-98.2062727,gobierno-facil,Gobierno Fácil
+Puebla,México,19.0414398,-98.2062727,project-poder,PODER
+Puebla,México,19.0414398,-98.2062727,fundacion-capital-los-empleados-mencionados-hacen-referencia-a-toda-la-organizacion-regional-que-esta-conformada-por-varias-sucursales-una-de-ellas-es-mexico-y-es-en-mexico-donde-estamos-proponiendo-realizar-mopa-por-el-momento,"Fundación Capital - Los Empleados Mencionados Hacen Referencia A Toda La Organización Regional Que Esta Conformada Por Varias Sucursales. Una De Ellas Es México, Y Es En México Donde Estamos Proponiendo Realizar Mopa Por El Momento."
+Puebla,México,19.0414398,-98.2062727,grupo-cidic,Grupo Cidic
+Puebla,México,19.0414398,-98.2062727,ninja-ladobe,"Ninja,Ladobe"
+Puebla,México,19.0414398,-98.2062727,invernaideas,Invernaideas
+Puebla,México,19.0414398,-98.2062727,articulo-12-a-c-programa-sontusdatos,"Artículo 12, A.C. (Programa “Sontusdatos”)"
+Bruselas,Otro,50.8503396,4.3517103,instituto-del-desarrollo-de-la-juventud,Instituto Del Desarrollo De La Juventud
+Viedma,Argentina,-40.8119087,-62.9962044,econsulting-s-r-l,Econsulting S.R.L.
+Viedma,Argentina,-40.8119087,-62.9962044,universidad-nacional-de-rio-negro,Universidad Nacional De Rio Negro.
+Santarém,Brasil,-2.4506291,-54.7009228,centro-de-estudos-avancados-de-promocão-social-e-ambiental-ceaps-projeto-saude-alegria,Centro De Estudos Avançados De Promoção Social E Ambiental - Ceaps / Projeto Saúde & Alegria
+,Bolivia,-16.489689,-68.1192936,la-publica-ministerios-de-planificacion,"La Publica,Ministerios De Planificacion"
+,Bolivia,-16.489689,-68.1192936,brujula-turistica,Brújula Turística
+,Bolivia,-16.489689,-68.1192936,cicatal,Cicatal
+,Bolivia,-16.489689,-68.1192936,fundacion-construir,Fundación Construir
+,Bolivia,-16.489689,-68.1192936,hivos-lima-i-o,"Hivos,Lima I/O"
+,Bolivia,-16.489689,-68.1192936,banco-mundial,Banco Mundial
+,Bolivia,-16.489689,-68.1192936,servicios-e-informacion-para-el-desarrollo-economico-local-sidel,Servicios E Información Para El Desarrollo Económico Local-Sidel
+,Bolivia,-16.489689,-68.1192936,presabis,Presabis
+,Bolivia,-16.489689,-68.1192936,tigo,Tigo
+,Bolivia,-16.489689,-68.1192936,periodista-virtual,Periodista Virtual
+,Bolivia,-16.489689,-68.1192936,capitulo-boliviano-de-derechos-humanos-democracia-y-desarrollo,"Capítulo Boliviano De Derechos Humanos, Democracia Y Desarrollo"
+,Bolivia,-16.489689,-68.1192936,acm-sim,Acm - Sim
+,Bolivia,-16.489689,-68.1192936,mkk-group,Mkk Group
+Morelia,México,19.7059504,-101.1949825,instituto-de-liderazgo-simone-de-beauvoir-a-c,Instituto De Liderazgo Simone De Beauvoir A.C.
+Salvador,Brasil,-12.977749,-38.5016301,instituto-midia-etnica,Instituto Mídia Étnica
+Salvador,Brasil,-12.977749,-38.5016301,grupo-de-estudos-sobre-cultura-representacão-e-informacão-digitais-cridi,"Grupo De Estudos Sobre Cultura, Representação E Informação Digitais - Cridi"
+Salvador,Brasil,-12.977749,-38.5016301,secretaria-de-estado-dos-direitos-humanos-e-participacão-popular,Secretaria De Estado Dos Direitos Humanos E Participação Popular
+New Orleans,Otro,29.9510658,-90.0715323,committee-for-a-better-new-orleans-comite-por-una-mejor-nueva-orleans,Committee For A Better New Orleans/Comité Por Una Mejor Nueva Orleans
+Arequipa,Perú,-16.4090474,-71.537451,derecho-ambiente-y-recursos-naturales,"Derecho, Ambiente Y Recursos Naturales"
+Cuernavaca,México,18.9242095,-99.2215659,instituto-del-fracaso-a-c,Instituto Del Fracaso A.C.
+Santo Domingo,República Dominicana,18.4860575,-70.017052,participacion-ciudadana-capitulo-dominicano-transparencia-internacional,"Participación Ciudadana, Capitulo Dominicano Transparencia Internacional"
+Santo Domingo,República Dominicana,18.4860575,-70.017052,youniversys-srl,Youniversys Srl
+Querétaro,México,20.5888184,-100.3898876,derive-lab,Derive Lab
+Querétaro,México,20.5888184,-100.3898876,derive-lab-sc,DERIVE LAB SC
+Brasilia,Brasil,-15.826691,-47.9218204,ong-para-iberoamerica,Ong Para Iberoamerica
+Brasilia,Brasil,-15.826691,-47.9218204,centro-de-midias-civicas-do-mit-media-lab,Centro De Mídias Cívicas Do Mit Media Lab
+Brasilia,Brasil,-15.826691,-47.9218204,jota-info,O JOTA.info
+Brasilia,Brasil,-15.826691,-47.9218204,faculdade-latino-americana-de-ciencias-sociais-flacso,Faculdade Latino-Americana De Ciências Sociais (Flacso)
+Brasilia,Brasil,-15.826691,-47.9218204,g1,G1
+Brasilia,Brasil,-15.826691,-47.9218204,cobracriada,Cobracriada
+Brasilia,Brasil,-15.826691,-47.9218204,instituto-nossa-ilheus,Instituto Nossa Ilhéus
+Brasilia,Brasil,-15.826691,-47.9218204,cobracriada-inteligenciaemrede,CobraCriada-#InteligênciaEmRede
+Berkeley,Otro,37.8715926,-122.272747,social-apps-lab-university-of-california-berkeley,"Social Apps Lab, University Of California, Berkeley"
+Berkeley,Otro,37.8715926,-122.272747,redlad,Redlad
+Recife,Brasil,-8.0522404,-34.9286096,appcivico-eokoe-solucoes-tecnologicas,AppCivico - EOKOE SOLUÇÕES TECNOLÓGICAS LTDA
+Recife,Brasil,-8.0522404,-34.9286096,diario-de-pernambuco,Diario de Pernambuco
+Recife,Brasil,-8.0522404,-34.9286096,caritas-brasileira-regional-nordeste-ii,Cáritas Brasileira Regional Nordeste Ii
+Recife,Brasil,-8.0522404,-34.9286096,inesc-instituto-de-estudos-socioeconomicos,Inesc-Instituto De Estudos Socioeconômicos
+Río Negro,Colombia,6.144837,-75.375085,corporacion-prodepaz,Corporación Prodepaz
+Kingston,Jamaica,18.0179,76.8099,code-for-the-caribbean,Code For The Caribbean
+Kingston,Jamaica,18.0179,76.8099,slashroots,Slashroots
+Kingston,Jamaica,18.0179,76.8099,caribbean-open-institute,Caribbean Open Institute
+Montevideo,Uruguay,-34.9011127,-56.1645314,ilda,ILDA
+Montevideo,Uruguay,-34.9011127,-56.1645314,que-hacen-el-parlamento-en-tu-movil,Que Hacen?: El Parlamento En Tu Movil
+Montevideo,Uruguay,-34.9011127,-56.1645314,iniciativa-ministerio-de-economia-de-peru-ministerio-de-economia,"Iniciativa,Ministerio De Economia De Peru,Ministerio  De Economia"
+Montevideo,Uruguay,-34.9011127,-56.1645314,data-uruguay,Data Uruguay
+Montevideo,Uruguay,-34.9011127,-56.1645314,data-uy,Data UY
+Montevideo,Uruguay,-34.9011127,-56.1645314,fundacion-conocimiento-abierto,Fundación Conocimiento Abierto
+Montevideo,Uruguay,-34.9011127,-56.1645314,cainfo,Cainfo
+Montevideo,Uruguay,-34.9011127,-56.1645314,mas-cultura-independiente,"Mas Cultura,Independiente"
+Montevideo,Uruguay,-34.9011127,-56.1645314,180data,180Data
+Montevideo,Uruguay,-34.9011127,-56.1645314,checkuy,Checkuy
+Montevideo,Uruguay,-34.9011127,-56.1645314,la-diaria,La Diaria
+Montevideo,Uruguay,-34.9011127,-56.1645314,periodico-sudestada,Periodico Sudestada
+Montevideo,Uruguay,-34.9011127,-56.1645314,red-ciudadana-nuestra-cordoba-asociacion-civil-nuestra-cordoba,Red Ciudadana Nuestra Córdoba – Asociación Civil Nuestra Córdoba
+Montevideo,Uruguay,-34.9011127,-56.1645314,atrelar-s-a-dynamizeit,ATRELAR S.A. (DynamizeIT)
+Montevideo,Uruguay,-34.9011127,-56.1645314,asociacion-latin,Asociación Latin
+Montevideo,Uruguay,-34.9011127,-56.1645314,dynamizeit,Dynamizeit
+Montevideo,Uruguay,-34.9011127,-56.1645314,bgood-smart-philanthropy,Bgood Smart Philanthropy
+Barcelona,Otro,41.401413,2.157862,pictorica-comunicacoes-s-c-ltda,Pictórica Comunicações S/C Ltda
+Nueva York,Nicaragua,40.7127753,-74.0059728,quartz,Quartz
+Nueva York,Nicaragua,40.7127753,-74.0059728,guegue-vasquez-cia-ltda,Guegue Vasquez Cia Ltda
+Ilhéus,Brasil,-14.7935051,-39.0463797,movimento-nossa-bh,Movimento Nossa Bh
+Campinas,Brasil,-22.9329252,-47.073845,instituto-phomenta,Instituto Phomenta
+Cartagena,Colombia,10.3910485,-75.4794257,fundacion-civico-social-pro-cartagena-funcicar,Fundación Cívico Social Pro Cartagena - Funcicar
+Cartagena,Colombia,10.3910485,-75.4794257,zeus-tecnologia-s-a,Zeus Tecnología S.A
+San Jorge,Argentina,-31.8970823,-61.8598807,municipalidad-de-san-jorge,Municipalidad De San Jorge
+Jaboatao dos Guararapes,Brasil,-8.1688125,-34.920874,instituto-metropolitano-de-profissionalizacão-arte-cultura-e-oportunidades-impacto,"Instituto Metropolitano De Profissionalização, Arte, Cultura E Oportunidades - Impacto"
+João Pessoa,Brasil,-7.1194958,-34.8450118,elleven,Elleven
+João Pessoa,Brasil,-7.1194958,-34.8450118,imaflora,Imaflora
+João Pessoa,Brasil,-7.1194958,-34.8450118,instituto-acuna,Instituto Acuña
+La Plata,Argentina,-34.9205,-57.9536,secretaria-de-planificacion,Secretaría De Planificación
+Las Condes,Chile,-33.3989812,-70.5573124,prince-consulting-kmt-business-education-sa,Prince Consulting (Kmt Business Education Sa)
+Ciudad de Guatemala,,15.5,-90.25,explico-s-a-ludiverse-inc,"Explico, S.A. / Ludiverse Inc."
+Ciudad de Guatemala,,15.5,-90.25,el-intercambio,El Intercambio
+Ciudad de Guatemala,,15.5,-90.25,fundacion-centro-latinoamericano-de-derechos-humanos,Fundación Centro Latinoamericano de Derechos Humanos
+Ciudad de Guatemala,,15.5,-90.25,ojo-con-mi-pisto,Ojo con mi Pisto
+Ciudad de Guatemala,,15.5,-90.25,laboratorio-de-medios,Laboratorio de Medios
+Ciudad de Guatemala,,15.5,-90.25,guatecambia,Guatecambia
+Ciudad de Guatemala,,15.5,-90.25,hivos,Hivos
+Ciudad de Guatemala,,15.5,-90.25,municipalidad-de-guatemala,Municipalidad de Guatemala
+La Dorada,Colombia,5.472709,-74.667984,corporacion-programa-de-desarrollo-para-la-paz,Corporación Programa De Desarrollo Para La Paz
+Belém,Brasil,-1.4557292,-48.4901785,ouvidoria-geral-da-união-ministerio-da-transparencia-fiscalizacão-e-controladoria-geral-da-união-cgu,"Ouvidoria-Geral Da União / Ministério Da Transparência, Fiscalização E Controladoria-Geral Da União?-Cgu"
+Belém,Brasil,-1.4557292,-48.4901785,instituto-floresta-tropical,Instituto Floresta Tropical
+Río de Janeiro,Brasil,-22.9068467,-43.1728965,carla-barbedo-zorzanelli,Carla Barbedo Zorzanelli
+Río de Janeiro,Brasil,-22.9068467,-43.1728965,genero-e-numero,Gênero E Número
+Río de Janeiro,Brasil,-22.9068467,-43.1728965,observatorio-de-favelas-do-rio-de-janeiro,Observatório De Favelas Do Rio De Janeiro
+Río de Janeiro,Brasil,-22.9068467,-43.1728965,cnpi-centro-nacional-de-informatica,Cnpi - Centro Nacional De Informatica
+Río de Janeiro,Brasil,-22.9068467,-43.1728965,phronesis-pesquisa-e-consultoria-em-ciencias-sociais-ltd,Phronesis Pesquisa E Consultoria Em Ciencias Sociais Ltd
+Río de Janeiro,Brasil,-22.9068467,-43.1728965,instituto-são-paulo-sustentavel,Instituto São Paulo Sustentável
+Río de Janeiro,Brasil,-22.9068467,-43.1728965,akredito,Akredito
+Río de Janeiro,Brasil,-22.9068467,-43.1728965,cedaps-centro-de-promoção-da-saude,CEDAPS - CENTRO DE PROMOÇÃO DA SAÚDE
+Río de Janeiro,Brasil,-22.9068467,-43.1728965,lar-de-maria-dolores,Lar De Maria Dolores
+Río de Janeiro,Brasil,-22.9068467,-43.1728965,centro-de-empreendedorismo-universitario-consultoria-ltda,Centro De Empreendedorismo Universitario &Consultoria Ltda
+Río de Janeiro,Brasil,-22.9068467,-43.1728965,asociacion-transporte-ativo,Asociación Transporte Ativo
+Río de Janeiro,Brasil,-22.9068467,-43.1728965,promec-projetos-e-modelagens-em-engenharia-e-computacão-ltda,Promec Projetos E Modelagens Em Engenharia E Computação Ltda
+Río de Janeiro,Brasil,-22.9068467,-43.1728965,instituto-atlantico,Instituto Atlântico
+Río de Janeiro,Brasil,-22.9068467,-43.1728965,emude-tecnologia-em-cidades,Emude Tecnologia Em Cidades
+Río de Janeiro,Brasil,-22.9068467,-43.1728965,fundacão-darcy-ribeiro,Fundação Darcy Ribeiro
+Río de Janeiro,Brasil,-22.9068467,-43.1728965,olabi,Olabi
+Río de Janeiro,Brasil,-22.9068467,-43.1728965,casa-fluminense,Casa Fluminense
+Río de Janeiro,Brasil,-22.9068467,-43.1728965,cieds-centro-integrado-de-estudos-e-programas-de-desenvolvimento-sustentavel,Cieds - Centro Integrado De Estudos E Programas De Desenvolvimento Sustentável
+Río de Janeiro,Brasil,-22.9068467,-43.1728965,cedaps,Cedaps
+Loja,Ecuador,-4.0078909,-79.2112769,grupo-de-investigacion-de-sistemas-basados-en-el-conocimiento-knowledge-based-systems-research-group-kbs-rg-de-la-universidad-tecnica-particular-de-loja,Grupo de Investigación de Sistemas Basados en el Conocimiento (Knowledge-based Systems Research Group - KBS-RG) de la Universidad Técnica Particular de Loja
+Loja,Ecuador,-4.0078909,-79.2112769,lojasoft-solutions,Lojasoft Solutions
+Loja,Ecuador,-4.0078909,-79.2112769,grupo-de-investigacion-de-sistemas-basados-en-el-conocimiento-universidad-tecnica-particular-de-loja,Grupo De Investigación De Sistemas Basados En El Conocimiento - Universidad Técnica Particular De Loja
+Santiago,Chile,-33.4488897,-70.6692655,congreso-publico,Congreso Público
+Santiago,Chile,-33.4488897,-70.6692655,fundacion-consuma-conciencia,Fundación Consuma Conciencia
+Santiago,Chile,-33.4488897,-70.6692655,let-s-chat,Let'S Chat
+Santiago,Chile,-33.4488897,-70.6692655,wingu,Wingu
+Santiago,Chile,-33.4488897,-70.6692655,fundacion-proyecto-propio,Fundación Proyecto Propio
+Santiago,Chile,-33.4488897,-70.6692655,fundacion-centro-latinoamericano-de-derechos-humanos,Fundación Centro Latinoamericano de Derechos Humanos
+Santiago,Chile,-33.4488897,-70.6692655,chicas-poderosas,Chicas Poderosas
+Santiago,Chile,-33.4488897,-70.6692655,beetec-inteligencia-colectiva,Beetec Inteligencia Colectiva
+Santiago,Chile,-33.4488897,-70.6692655,observatorio-del-gasto-fiscal-via-fundacion-contexto-ciudadano,Observatorio del Gasto Fiscal - via Fundación Contexto Ciudadano
+Santiago,Chile,-33.4488897,-70.6692655,universidad-de-santiago-de-chile-facultad-de-administracion-y-economia,"Universidad De Santiago De Chile, Facultad De Administración Y Economía"
+Santiago,Chile,-33.4488897,-70.6692655,fundacion-mapocho,Fundación Mapocho
+Santiago,Chile,-33.4488897,-70.6692655,universidad-de-chile-facultad-de-ciencias-fisicas-y-matematicas-departamento-de-ingenieria-industrial-centro-de-investigacion-en-inteligencia-de-negocios-ceine,"Universidad De Chile, Facultad De Ciencias Físicas Y Matemáticas, Departamento De Ingeniería Industrial, Centro De Investigación En Inteligencia De Negocios (Ceine)"
+Santiago,Chile,-33.4488897,-70.6692655,fundacion-desarrollo-social-lealtad-chile,Fundación Desarrollo Social Lealtad Chile
+Santiago,Chile,-33.4488897,-70.6692655,fundacion-base-publica,Fundación Base Pública
+Santiago,Chile,-33.4488897,-70.6692655,centro-bicicultura,Centro Bicicultura
+Santiago,Chile,-33.4488897,-70.6692655,dtlnet-ltda,Dtlnet Ltda.
+Santiago,Chile,-33.4488897,-70.6692655,socialab-global,Socialab Global
+Santiago,Chile,-33.4488897,-70.6692655,artnumerica,Artnumerica
+Santiago,Chile,-33.4488897,-70.6692655,red-aceleradora-global,Red Aceleradora Global
+Santiago,Chile,-33.4488897,-70.6692655,techo-internacional-oficina-central,Techo Internacional (oficina central)
+Santiago,Chile,-33.4488897,-70.6692655,duran-asociados-spa,Durán & Asociados Spa.
+Santiago,Chile,-33.4488897,-70.6692655,demokratio,Demokratio
+Santiago,Chile,-33.4488897,-70.6692655,municipalidad-de-renca,Municipalidad De Renca
+Santiago,Chile,-33.4488897,-70.6692655,exxact-negocios-digitales-spa,Exxact Negocios Digitales Spa
+Santiago,Chile,-33.4488897,-70.6692655,fundacion-ciudadano-inteligente,Fundación Ciudadano Inteligente
+Santiago,Chile,-33.4488897,-70.6692655,capitulo-chileno-de-transparencia-internacional-chile-transparente,"Capítulo Chileno De Transparencia Internacional, Chile Transparente"
+Santiago,Chile,-33.4488897,-70.6692655,asociacion-nacional-para-el-fomento-de-la-economia-del-bien-comun-en-chile,Asociación Nacional Para El Fomento De La Economia Del Bien Común En Chile
+Santiago,Chile,-33.4488897,-70.6692655,fundacion-inhoy,Fundación Inhoy
+Santiago,Chile,-33.4488897,-70.6692655,asociacion-chilena-de-proteccion-de-la-familia-aprofa,Asociación Chilena De Protección De La Familia - Aprofa
+Santiago,Chile,-33.4488897,-70.6692655,ciudadania-inteligente,Ciudadanía Inteligente
+Santiago,Chile,-33.4488897,-70.6692655,fundacion-nuevas-contingencias-sociales,Fundación Nuevas Contingencias Sociales
+Santiago,Chile,-33.4488897,-70.6692655,fundacion-por-una-carrera,Fundación Por Una Carrera
+Santiago,Chile,-33.4488897,-70.6692655,facultad-de-comunicaciones-de-la-universidad-pontifica-de-chile,Facultad De Comunicaciones De La Universidad Pontifica De Chile
+Santiago,Chile,-33.4488897,-70.6692655,fundacion-democracia-y-desarrollo,Fundación Democracia Y Desarrollo
+Santiago,Chile,-33.4488897,-70.6692655,consejo-de-la-transparencia,Consejo De La Transparencia
+Santiago,Chile,-33.4488897,-70.6692655,asesorias-e-inversiones-comunidades-ciudadanas-s-a,Asesorías E Inversiones Comunidades Ciudadanas S.A.
+Santiago,Chile,-33.4488897,-70.6692655,municipio-verde,Municipio Verde
+Santiago,Chile,-33.4488897,-70.6692655,fundacion-multitudes,Fundacion Multitudes
+Santiago,Chile,-33.4488897,-70.6692655,dsarhoya-spa,Dsarhoya Spa
+Santiago,Chile,-33.4488897,-70.6692655,asociacion-chilena-de-voluntarios,Asociación Chilena De Voluntarios
+Santiago,Chile,-33.4488897,-70.6692655,socio-publico,Socio Público
+Santiago,Chile,-33.4488897,-70.6692655,fundacion-girls-in-tech-chile,Fundacion Girls In Tech Chile
+Santiago,Chile,-33.4488897,-70.6692655,constructora-proyecto-propio,Constructora Proyecto Propio
+Santiago,Chile,-33.4488897,-70.6692655,datos-protegidos,Datos Protegidos
+Santiago,Chile,-33.4488897,-70.6692655,fundacion-contexto-ciudadano,Fundación Contexto Ciudadano
+Santiago,Chile,-33.4488897,-70.6692655,ciudad-viva,Ciudad Viva
+Oaxaca,México,17.0542297,-96.7132304,gobierno-facil,Gobierno Fácil
+Oaxaca,México,17.0542297,-96.7132304,techo,Techo
+Oaxaca,México,17.0542297,-96.7132304,quienmerepresenta,Quiénmerepresenta
+Oaxaca,México,17.0542297,-96.7132304,ilsb,ILSB
+Guadalajara,México,20.6596988,-103.3496092,civica-digital,Cívica Digital civica-digital-mexico-sapi-de-cv
+Guadalajara,México,20.6596988,-103.3496092,asi-asesores-para-la-inversion-social,Asi - Asesores Para La Inversión Social
+Guadalajara,México,20.6596988,-103.3496092,ciudadan-s-por-la-transparencia-a-c,Ciudadan@S Por La Transparencia A.C
+Guadalajara,México,20.6596988,-103.3496092,grupo-de-inovacion-e-inteligencia-ciudadana,Grupo De Inovacion E Inteligencia Ciudadana
+Guadalajara,México,20.6596988,-103.3496092,codeando-mexico,Codeando México
+Palpalá,Argentina,-24.2584127,-65.2084907,cristian-damian-cazon,Cristian Damián Cazón
+Limeira,Brasil,-22.5838264,-47.4097695,eixo-publico-consultoria-junior,Eixo Público - Consultoria Júnior
+Rosario,Argentina,-32.9442426,-60.6505388,municipalidad-de-rosario-secretaria-de-economia-social-direccion-general-de-desarrollo-de-la-economia-social,"Municipalidad De Rosario, Secretaria De Economia Social, Dirección General De Desarrollo De La Economía Social"
+Rosario,Argentina,-32.9442426,-60.6505388,bondiar,Bondiar
+Rosario,Argentina,-32.9442426,-60.6505388,de-la-azotea,De La Azotea
+Rosario,Argentina,-32.9442426,-60.6505388,fundacion-ejercicio-ciudadano,Fundación Ejercicio Ciudadano
+Rosario,Argentina,-32.9442426,-60.6505388,accion-colectiva,Acción Colectiva
+Rosario,Argentina,-32.9442426,-60.6505388,oneeyeant,Oneeyeant
+Rosario,Argentina,-32.9442426,-60.6505388,rosario-mobile-apps,Rosario Mobile Apps
+Rosario,Argentina,-32.9442426,-60.6505388,direccion-general-de-informatica-de-la-municipalidad-de-rosario,Dirección General De Informática De La Municipalidad De Rosario
+Rosario,Argentina,-32.9442426,-60.6505388,innovavista,Innovavista
+Altaneira,Brasil,-6.988451,-39.7484115,fundacao-educativa-e-cultural-arca,Fundação Educativa E Cultural - Arca
+Guatemala,Guatemala,14.6349149,-90.5068824,verto-technology-corp,Verto Technology Corp
+Guatemala,Guatemala,14.6349149,-90.5068824,movimiento-nacional-por-la-integridad,Movimiento Nacional Por La Integridad
+Guatemala,Guatemala,14.6349149,-90.5068824,congreso-transparente,Congreso Transparente
+Guatemala,Guatemala,14.6349149,-90.5068824,asociacion-civil-guatecambia,Asociación Civil Guatecambia
+Guatemala,Guatemala,14.6349149,-90.5068824,project-poder,PODER
+Guatemala,Guatemala,14.6349149,-90.5068824,accion-ciudadana,Acción Ciudadana
+Guatemala,Guatemala,14.6349149,-90.5068824,asociacion-civil-ernesto-shneider-troller,Asociación Civil Ernesto Shneider Troller
+Guatemala,Guatemala,14.6349149,-90.5068824,factus-s-a,"Factus,S.A."
+Guatemala,Guatemala,14.6349149,-90.5068824,asociacion-colectiva-para-la-defensa-de-los-derechos-de-las-mujeres-en-guatemala,Asociación Colectiva Para La Defensa De Los Derechos De Las Mujeres En Guatemala
+Guatemala,Guatemala,14.6349149,-90.5068824,centro-de-estudios-para-la-equidad-y-gobernanza-en-los-sistemas-de-salud-cegss,"Centro De Estudios Para La Equidad Y Gobernanza En Los Sistemas De Salud, Cegss"
+Guatemala,Guatemala,14.6349149,-90.5068824,instituto-de-estudios-del-trabajo-inet,Instituto De Estudios Del Trabajo -Inet-
+Guatemala,Guatemala,14.6349149,-90.5068824,instituto-demos,Instituto Demos
+Guatemala,Guatemala,14.6349149,-90.5068824,explico-s-a,"Explico, S.A."
+Guatemala,Guatemala,14.6349149,-90.5068824,ae-edg,Ae Edg
+Guatemala,Guatemala,14.6349149,-90.5068824,unidad-positiva-para-el-desarrollo-ciudadano-updc,Unidad Positiva Para El Desarrollo Ciudadano - Updc
+Guatemala,Guatemala,14.6349149,-90.5068824,universidad-rafael-landivar,Universidad Rafael Landivar
+Guatemala,Guatemala,14.6349149,-90.5068824,blackbox-solutions-y-copropiedad,Blackbox Solutions Y Copropiedad
+Guatemala,Guatemala,14.6349149,-90.5068824,municipalidad-san-jose-del-idolo-suchitepequez-guatemala,"Municipalidad San José Del Ídolo Suchitepéquez, Guatemala"
+Guatemala,Guatemala,14.6349149,-90.5068824,movimiento-civico-nacional,Movimiento Cívico Nacional
+Guatemala,Guatemala,14.6349149,-90.5068824,plaza-publica,Plaza Pública
+Guatemala,Guatemala,14.6349149,-90.5068824,jovenes-contra-la-violencia-centroamerica,Jóvenes Contra La Violencia/Centroamérica
+Guatemala,Guatemala,14.6349149,-90.5068824,municipalidad-de-guatemala-labplc,"Municipalidad De Guatemala,Labplc"
+Guatemala,Guatemala,14.6349149,-90.5068824,red-ciudadana,Red Ciudadana
+San Juan,Puerto Rico,18.4655394,-66.1057355,rede-conhecimento-social,Rede Conhecimento Social
+San Juan,Puerto Rico,18.4655394,-66.1057355,abrepuertorico,Abrepuertorico
+Pasto,Colombia,1.21361,-77.28111,gana-nariño,GANA - Gobierno Abierto de Nariño
+Managua,Nicaragua,12.1149926,-86.2361744,factico-periodismo-movil,Fáctico Periodismo Móvil
+Managua,Nicaragua,12.1149926,-86.2361744,centro-para-programas-de-comunicacion-nicaragua-cpcnic,Centro Para Programas De Comunicación Nicaragua (Cpcnic)
+Managua,Nicaragua,12.1149926,-86.2361744,codeni,Codeni
+Managua,Nicaragua,12.1149926,-86.2361744,openstreetmap-nicaragua,Openstreetmap Nicaragua
+Managua,Nicaragua,12.1149926,-86.2361744,core-systems,Core Systems
+Managua,Nicaragua,12.1149926,-86.2361744,fundacion-grupo-civico-etica-y-transparencia-eyt,Fundación Grupo Cívico Ética Y Transparencia (Eyt)
+Managua,Nicaragua,12.1149926,-86.2361744,comunidades-de-software-libre,Comunidades De Software Libre
+Managua,Nicaragua,12.1149926,-86.2361744,ieepp,Instituto de Estudios Estratégicos y Políticas Públicas
+Managua,Nicaragua,12.1149926,-86.2361744,mapa-ieepp,"Mapa,Ieepp"
+Managua,Nicaragua,12.1149926,-86.2361744,kronoscode,Kronoscode
+Managua,Nicaragua,12.1149926,-86.2361744,fundacion-nicaraguense-para-la-defensa-del-medio-ambiente-y-proteccion-de-los-recursos-naturales-fundenatura,Fundación Nicaragüense Para La Defensa Del Medio Ambiente Y Protección De Los Recursos Naturales (Fundenatura)
+Managua,Nicaragua,12.1149926,-86.2361744,mapanica,MapaNica
+Caribe,Caribe,21.4691,78.6569,regional,Regional
+Caribe,Caribe,21.4691,78.6569,slashroots,Slashroots
+Buenos Aires,Argentina,-34.6036844,-58.3815591,fundacion-huesped,Fundación Huésped
+Buenos Aires,Argentina,-34.6036844,-58.3815591,wingu,Wingu
+Buenos Aires,Argentina,-34.6036844,-58.3815591,atlas-smart-cities,Atlas Smart Cities
+Buenos Aires,Argentina,-34.6036844,-58.3815591,democracia-en-red,Democracia En Red
+Buenos Aires,Argentina,-34.6036844,-58.3815591,las-de-sistemas,Las de Sistemas
+Buenos Aires,Argentina,-34.6036844,-58.3815591,fundacion-centro-latinoamericano-de-derechos-humanos,Fundación Centro Latinoamericano de Derechos Humanos
+Buenos Aires,Argentina,-34.6036844,-58.3815591,poder-ciudadano,Poder Ciudadano
+Buenos Aires,Argentina,-34.6036844,-58.3815591,mismatica-management-sistemas-de-gestion-mismatica-chile-limitada,Mismatica Management (Sistemas De Gestión Mismatica Chile Limitada)
+Buenos Aires,Argentina,-34.6036844,-58.3815591,techo,Techo
+Buenos Aires,Argentina,-34.6036844,-58.3815591,la-nacion-arg,La Nación
+Buenos Aires,Argentina,-34.6036844,-58.3815591,fundacion-ensena-por-argentina,Fundación Enseñá Por Argentina
+Buenos Aires,Argentina,-34.6036844,-58.3815591,iniciativa-ministerio-de-economia-de-peru-ministerio-de-economia,"Iniciativa,Ministerio De Economia De Peru,Ministerio  De Economia"
+Buenos Aires,Argentina,-34.6036844,-58.3815591,sudestada,Revista Sudestada
+Buenos Aires,Argentina,-34.6036844,-58.3815591,fundacion-naturaleza-para-el-futuro-funafu,Fundación Naturaleza Para El Futuro (Funafu)
+Buenos Aires,Argentina,-34.6036844,-58.3815591,grupo-faro,Grupo Faro
+Buenos Aires,Argentina,-34.6036844,-58.3815591,chequeado,Chequeado
+Buenos Aires,Argentina,-34.6036844,-58.3815591,asuntos-del-sur,Asuntos Del Sur
+Buenos Aires,Argentina,-34.6036844,-58.3815591,ada,Ada
+Buenos Aires,Argentina,-34.6036844,-58.3815591,lndata,LNData
+Buenos Aires,Argentina,-34.6036844,-58.3815591,open-knowledge-foundation,Open Knowledge Foundation
+Buenos Aires,Argentina,-34.6036844,-58.3815591,espacio-publico,Espacio Público
+Buenos Aires,Argentina,-34.6036844,-58.3815591,economia-feminista,Economía Feminista
+Buenos Aires,Argentina,-34.6036844,-58.3815591,fundacion-pacientes-cancer-de-pulmon,Fundación Pacientes Cáncer De Pulmón
+Buenos Aires,Argentina,-34.6036844,-58.3815591,direccion-de-gobierno-abierto-y-datos-abiertos,Dirección De Gobierno Abierto Y Datos Abiertos
+Buenos Aires,Argentina,-34.6036844,-58.3815591,moodstudio,Moodstudio
+Buenos Aires,Argentina,-34.6036844,-58.3815591,centro-de-pensamiento-estrategico-internacional-cepei,Centro De Pensamiento Estratégico Internacional - Cepei
+Buenos Aires,Argentina,-34.6036844,-58.3815591,asociacion-civil-por-la-igualdad-y-la-justicia-arg,ACIJ - Asociación Civil por la Igualdad y la Justicia
+Buenos Aires,Argentina,-34.6036844,-58.3815591,atix-labs-srl,Atix Labs Srl
+Buenos Aires,Argentina,-34.6036844,-58.3815591,comunidad-huerta,Comunidad Huerta
+Buenos Aires,Argentina,-34.6036844,-58.3815591,ctrl-s-a,CTRL S.A.
+Buenos Aires,Argentina,-34.6036844,-58.3815591,directorio-legislativo,Directorio Legislativo
+Buenos Aires,Argentina,-34.6036844,-58.3815591,avina,Avina Americas
+Buenos Aires,Argentina,-34.6036844,-58.3815591,foro-de-periodismo-argentino,Foro de Periodismo Argentino
+Buenos Aires,Argentina,-34.6036844,-58.3815591,diario-la-nacion,Diario La Nación
+Buenos Aires,Argentina,-34.6036844,-58.3815591,congreso-interactivo,Congreso Interactivo
+Buenos Aires,Argentina,-34.6036844,-58.3815591,fundacion-laboratorio-de-politicas-publicas-lpp,"Fundación Laboratorio De Políticas Públicas, Lpp"
+Buenos Aires,Argentina,-34.6036844,-58.3815591,cientificas-de-datos,Científicas de Datos
+Buenos Aires,Argentina,-34.6036844,-58.3815591,direccion-de-gobierno-abierto-y-datos-abiertos-de-la-provincia-de-buenos-aires,Dirección De Gobierno Abierto Y Datos Abiertos De La Provincia De Buenos Aires
+Buenos Aires,Argentina,-34.6036844,-58.3815591,faro-digital,Faro Digital
+Buenos Aires,Argentina,-34.6036844,-58.3815591,on-the-move,On The Move
+Monterrey,México,25.6866142,-100.3161126,gobierno-facil,Gobierno Fácil
+Monterrey,México,25.6866142,-100.3161126,alcalde-como-vamos,"Alcalde, Como Vamos?"
+Monterrey,México,25.6866142,-100.3161126,civica-digital,Cívica Digital civica-digital-mexico-sapi-de-cv
+Monterrey,México,25.6866142,-100.3161126,transformacion-de-obreros-y-tecnicos-esperanza-de-mexico-totem-a-c,Transformación De Obreros Y Técnicos Esperanza De México Totem A.C
+Monterrey,México,25.6866142,-100.3161126,ea-tech,Ea Tech
+Monterrey,México,25.6866142,-100.3161126,onesmart-technology-sa-de-cv,Onesmart Technology Sa De Cv
+Monterrey,México,25.6866142,-100.3161126,13-media-sc,13 Media Sc
+Monterrey,México,25.6866142,-100.3161126,centro-eugenio-garza-sada,Centro Eugenio Garza Sada
+Monterrey,México,25.6866142,-100.3161126,consejeria-juridica-y-de-servicios-legales-de-la-cdmx,Consejería Jurídica Y De Servicios Legales De La Cdmx
+Joinville,Brasil,-26.2834213,-48.8452269,politize,Politize
+Florianópolis,Brasil,-27.5948698,-48.5482195,voter-desenvolvimento-de-software-ltda,Voter Desenvolvimento De Software Ltda
+Florianópolis,Brasil,-27.5948698,-48.5482195,universidade-federal-de-santa-catarina-ufsc-centro-tecnologico-ctc-departamento-de-engenharia-e-gestão-do-conhecimento-degc-nucleo-de-estudos-em-inteligencia-gestão-e-tecnologias-para-inovacão-igti,"Universidade Federal de Santa Catarina (UFSC); Centro Tecnológico (CTC); Departamento de Engenharia e Gestão do Conhecimento (dEGC); Núcleo de Estudos em Inteligência, Gestão e Tecnologias para Inovação (IGTI)"
+Florianópolis,Brasil,-27.5948698,-48.5482195,fgx,Fgx
+Florianópolis,Brasil,-27.5948698,-48.5482195,suma,Sumá
+Florianópolis,Brasil,-27.5948698,-48.5482195,icom-instituto-comunitario-grande-florianopolis,Icom - Instituto Comunitário Grande Florianópolis
+Florianópolis,Brasil,-27.5948698,-48.5482195,todavia-no-fue-creada-una-empresa,Todavia No Fue Creada Una Empresa
+Florianópolis,Brasil,-27.5948698,-48.5482195,tekis-tecnologia-avancadas-ltda,Tekis Tecnologia Avançadas Ltda.
+Cancún,México,21.161908,-86.8515279,consejo-civico-de-instituciones-de-nuevo-leon-a-c,"Consejo Cívico De Instituciones De Nuevo León, A.C."
+Cancún,México,21.161908,-86.8515279,instituto-de-politicas-para-el-transporte-y-el-desarrollo-itdp,Instituto De Políticas Para El Transporte Y El Desarrollo (Itdp)
+Iquique,Chile,-20.2307033,-70.1356692,fundacion-juventud-emprendedora,Fundación Juventud Emprendedora
+Ciudad Juarez,México,19.0779,-103.8846,plan-estrategico-de-juarez,Plan Estrategico De Juarez
+São José,Brasil,-28.21171,-49.1632,observatorio-social-de-são-jose-ossj,Observatório Social De São José (Ossj)
+Hermosillo,México,29.0729673,-110.9559192,centro-de-innovacion-a-la-vivienda-civ-a-c,"Centro De Innovación A La Vivienda (Civ), A.C."
+Texistepeque,El Salvador,14.1257455,-89.4954794,asociacion-ecologica-de-los-municipios-de-santa-ana-asemusa,Asociación Ecológica De Los Municipios De Santa Ana (Asemusa)
+Quito,Ecuador,-0.1806532,-78.4678382,escuela-politecnica-nacional,Escuela Politécnica Nacional
+Quito,Ecuador,-0.1806532,-78.4678382,unostres,Unostres
+Quito,Ecuador,-0.1806532,-78.4678382,llactalab-ciudades-sustentables,Llactalab - Ciudades Sustentables
+Quito,Ecuador,-0.1806532,-78.4678382,open-knowledge-ecuador,Open Knowledge Ecuador
+Quito,Ecuador,-0.1806532,-78.4678382,creative-commons,Creative Commons
+Quito,Ecuador,-0.1806532,-78.4678382,agencia-ecologista-de-informacion-tegantai,Agencia Ecologista De Información Tegantai
+Quito,Ecuador,-0.1806532,-78.4678382,lab-media,Lab Media
+Quito,Ecuador,-0.1806532,-78.4678382,fundamedios,Fundamedios
+Quito,Ecuador,-0.1806532,-78.4678382,impaqto,Impaqto
+Quito,Ecuador,-0.1806532,-78.4678382,fundacion-biciaccion,Fundación Biciacción
+Quito,Ecuador,-0.1806532,-78.4678382,red-infodesarrollo,Red Infodesarrollo
+Quito,Ecuador,-0.1806532,-78.4678382,medialab-quito,Medialab Quito
+Quito,Ecuador,-0.1806532,-78.4678382,grupo-faro-america-latina-y-el-caribe,Grupo FARO América Latina y el Caribe
+Quito,Ecuador,-0.1806532,-78.4678382,datalat,Datalat
+Quito,Ecuador,-0.1806532,-78.4678382,sociedad-de-hecho-la-pesetera,"""Sociedad De Hecho \""La Pesetera\"""
+Quito,Ecuador,-0.1806532,-78.4678382,smart-data-services,Smart Data Services
+Quito,Ecuador,-0.1806532,-78.4678382,red-infodesarrollo-nemesis,Red Infodesarrollo - Némesis
+Quito,Ecuador,-0.1806532,-78.4678382,gobierno-de-quito,Gobierno De Quito
+Quito,Ecuador,-0.1806532,-78.4678382,atrelar-s-a-dynamizeit,ATRELAR S.A. (DynamizeIT)
+Quito,Ecuador,-0.1806532,-78.4678382,fundapi,Fundapi
+Quito,Ecuador,-0.1806532,-78.4678382,fundacion-medialab-quito,Fundación Medialab Quito
+Quito,Ecuador,-0.1806532,-78.4678382,fundacion-ciudadania-y-desarrollo,Fundación Ciudadania Y Desarrollo
+Quito,Ecuador,-0.1806532,-78.4678382,policia-nacional-del-ecuador,Policía Nacional Del Ecuador
+Quito,Ecuador,-0.1806532,-78.4678382,emagic,Emagic
+Quito,Ecuador,-0.1806532,-78.4678382,cemoplaf,Cemoplaf
+Quito,Ecuador,-0.1806532,-78.4678382,observatorio-ciudadano-de-la-educacion,Observatorio Ciudadano De La Educacion
+Quito,Ecuador,-0.1806532,-78.4678382,fundacion-democracia-digital-ecuador,Fundación Democracia Digital Ecuador
+Guayaquil,Ecuador,-2.1709979,-79.9223592,fundapi,Fundapi
+Guayaquil,Ecuador,-2.1709979,-79.9223592,fundacion-medialab-quito,Fundación Medialab Quito
+Curitiba,Brasil,-25.4808762,-49.3044253,instituto-humanitas360,Instituto Humanitas360
+Curitiba,Brasil,-25.4808762,-49.3044253,politikei-co-governanca-no-legislativo,Politikei - co-governança no legislativo
+Belo Horizonte,Brasil,-19.9172987,-43.9345593,jmm-tech,Jmm Tech
+Belo Horizonte,Brasil,-19.9172987,-43.9345593,centro-universitario-de-belo-horizonte-unibh-anima-educacion,Centro Universitario de Belo Horizonte - UniBh / ANIMA Educación
+Belo Horizonte,Brasil,-19.9172987,-43.9345593,malalai-tecnologia-de-seguranca-ltda,Malalai Tecnologia De Segurança Ltda
+Belo Horizonte,Brasil,-19.9172987,-43.9345593,gafit-solucões-em-automacão-ltda-me,Gafit Soluções Em Automação Ltda - Me
+Belo Horizonte,Brasil,-19.9172987,-43.9345593,prosas-tecnologia-social-ltda,Prosas Tecnologia Social Ltda
+Belo Horizonte,Brasil,-19.9172987,-43.9345593,associacão-casa-fluminense,Associação Casa Fluminense
+Belo Horizonte,Brasil,-19.9172987,-43.9345593,centro-universitario-de-belo-horizonte,Centro Universitário De Belo Horizonte
+Belo Horizonte,Brasil,-19.9172987,-43.9345593,associacão-comunitaria-de-bento-rodrigues,Associação Comunitária De Bento Rodrigues
+Belo Horizonte,Brasil,-19.9172987,-43.9345593,anima-educacion,Anima Educación
+Belo Horizonte,Brasil,-19.9172987,-43.9345593,nachhaltigkeit-educacão-ltda,Nachhaltigkeit Educação Ltda
+Lima,Perú,-12.0463731,-77.042754,inppares-instituto-peruano-de-paternidad-responsables,Inppares - Instituto Peruano De Paternidad Responsables
+Lima,Perú,-12.0463731,-77.042754,ministerio-de-economia-de-peru,Ministerio de Economía del Perú
+Lima,Perú,-12.0463731,-77.042754,iniciativa-ministerio-de-economia-de-peru-ministerio-de-economia,"Iniciativa,Ministerio De Economia De Peru,Ministerio  De Economia"
+Lima,Perú,-12.0463731,-77.042754,ojo-publico,Ojopúblico
+Lima,Perú,-12.0463731,-77.042754,kodevian-enterprise-software-solutions,Kodevian Enterprise Software Solutions
+Lima,Perú,-12.0463731,-77.042754,democracia-digital,Democracia Digital
+Lima,Perú,-12.0463731,-77.042754,coordinadora-nacional-de-derechos-humanos,Coordinadora Nacional De Derechos Humanos
+Lima,Perú,-12.0463731,-77.042754,pontificia-universidad-catolica-del-peru,Pontificia Universidad Católica Del Perú
+Lima,Perú,-12.0463731,-77.042754,trujillo-ahora,Trujillo Ahora
+Lima,Perú,-12.0463731,-77.042754,ministerio-de-salud-la-factura,"Ministerio De Salud,La Factura"
+Lima,Perú,-12.0463731,-77.042754,centro-peruano-para-la-resiliencia-de-socioecosistemas-urbanos-centro-urbes,Centro Peruano Para La Resiliencia De Socioecosistemas Urbanos - Centro Urbes
+Lima,Perú,-12.0463731,-77.042754,convoca,Convoca
+Lima,Perú,-12.0463731,-77.042754,fundacion-ciudadana-civio,Fundación Ciudadana Civio
+Lima,Perú,-12.0463731,-77.042754,instituto-humanista-de-cooperacion-para-el-desarrollo-hivos,Instituto Humanista De Cooperación Para El Desarrollo - Hivos
+Lima,Perú,-12.0463731,-77.042754,hiperderecho,Hiperderecho
+Lima,Perú,-12.0463731,-77.042754,mas-cultura-independiente,"Mas Cultura,Independiente"
+Lima,Perú,-12.0463731,-77.042754,lima-como-vamos,Lima Cómo Vamos
+Lima,Perú,-12.0463731,-77.042754,corresponsales,Corresponsales
+Lima,Perú,-12.0463731,-77.042754,grupo-limonta,Grupo Limonta
+Lima,Perú,-12.0463731,-77.042754,presidencia-del-consejo-de-ministros,Presidencia Del Consejo De Ministros
+Lima,Perú,-12.0463731,-77.042754,detona,Detona
+Lima,Perú,-12.0463731,-77.042754,hivos-lima-i-o,"Hivos,Lima I/O"
+Lima,Perú,-12.0463731,-77.042754,escuela-de-datos-peru,Escuela De Datos Peru
+Lima,Perú,-12.0463731,-77.042754,proetica,Proetica
+Lima,Perú,-12.0463731,-77.042754,centro-de-participacion-y-ciudadania-ciudadanos-al-dia-ciudadanos-al-dia,"Centro De Participación Y Ciudadanía - Ciudadanos Al Día,Ciudadanos Al Día"
+Lima,Perú,-12.0463731,-77.042754,ciudadanos-al-dia,Ciudadanos al Día
+Lima,Perú,-12.0463731,-77.042754,avina,Avina Americas
+Lima,Perú,-12.0463731,-77.042754,hack-hackers-lima,Hack Hackers Lima
+Lima,Perú,-12.0463731,-77.042754,cultura-peru,Cultura Peru
+Lima,Perú,-12.0463731,-77.042754,democracia-desarrollo-internacional-d-d-internacional,Democracia & Desarrollo Internacional (D&D Internacional)
+Lima,Perú,-12.0463731,-77.042754,tannder-corp,Tannder Corp
+Lima,Perú,-12.0463731,-77.042754,asociacion-civil-japiqay,Asociación Civil Japiqay
+Lima,Perú,-12.0463731,-77.042754,sociedad-peruana-de-derecho-ambiental,Sociedad Peruana De Derecho Ambiental
+Lima,Perú,-12.0463731,-77.042754,proetica-capitulo-peruano-de-transparency-international,"Proética, Capítulo Peruano De Transparency International"
+Lima,Perú,-12.0463731,-77.042754,odpe-pe,Odpe.Pe
+Lima,Perú,-12.0463731,-77.042754,open-data-peru,Open Data Perú
+Lima,Perú,-12.0463731,-77.042754,asociacion-unacem,Asociación Unacem
+Ciudad de México,México,19.4326077,-99.133208,socialtic,Socialtic
+Ciudad de México,México,19.4326077,-99.133208,plan-b-para-el-desarrollo-ac,"Plan B Para El Desarrollo, Ac"
+Ciudad de México,México,19.4326077,-99.133208,instituto-nacional-de-la-economia-social,Instituto Nacional De La Economía Social
+Ciudad de México,México,19.4326077,-99.133208,gobierno-facil,Gobierno Fácil
+Ciudad de México,México,19.4326077,-99.133208,cultura-y-educacion-para-el-desarrollo-y-la-autonomia-en-mexico,Cultura Y Educación Para El Desarrollo Y La Autonomía En México
+Ciudad de México,México,19.4326077,-99.133208,wingu,Wingu
+Ciudad de México,México,19.4326077,-99.133208,avisora,Avisora
+Ciudad de México,México,19.4326077,-99.133208,fundar-centro-de-analisis-e-investigacion,"Fundar, Centro De Análisis E Investigación"
+Ciudad de México,México,19.4326077,-99.133208,ruta-civica,Ruta Cívica
+Ciudad de México,México,19.4326077,-99.133208,red-consejo-ciudadano-a-la-contraloria-a-c,Red Consejo Ciudadano A La Contraloria A.C.
+Ciudad de México,México,19.4326077,-99.133208,tu-voto-cuenta,Tu Voto Cuenta
+Ciudad de México,México,19.4326077,-99.133208,project-poder,PODER
+Ciudad de México,México,19.4326077,-99.133208,fundacion-centro-latinoamericano-de-derechos-humanos,Fundación Centro Latinoamericano de Derechos Humanos
+Ciudad de México,México,19.4326077,-99.133208,tribunal-permanente-de-los-pueblos,Tribunal Permanente De Los Pueblos
+Ciudad de México,México,19.4326077,-99.133208,associated-whistleblowing-press,Associated Whistleblowing Press
+Ciudad de México,México,19.4326077,-99.133208,r3d-mexico,R3D: Red en Defensa de los Derechos Digitales
+Ciudad de México,México,19.4326077,-99.133208,agencia-metropolitana-de-seguridad-laboratorio-de-politicas-publicas,"Agencia Metropolitana De Seguridad, Laboratorio De Políticas Públicas"
+Ciudad de México,México,19.4326077,-99.133208,servicios-universitarios-y-redes-de-conocimiento-en-oaxaca-a-c,Servicios Universitarios Y Redes De Conocimiento En Oaxaca A C
+Ciudad de México,México,19.4326077,-99.133208,olmeca-soy,Olmeca Soy
+Ciudad de México,México,19.4326077,-99.133208,civica-digital,Cívica Digital civica-digital-mexico-sapi-de-cv
+Ciudad de México,México,19.4326077,-99.133208,world-resources-institute-mexico,World Resources Institute México
+Ciudad de México,México,19.4326077,-99.133208,mapa-de-medios-ifai,"Mapa De Medios,Ifai"
+Ciudad de México,México,19.4326077,-99.133208,war-contenidos,War Contenidos
+Ciudad de México,México,19.4326077,-99.133208,oeste-mx,Oeste.Mx
+Ciudad de México,México,19.4326077,-99.133208,protrash,Protrash
+Ciudad de México,México,19.4326077,-99.133208,cide,Cide
+Ciudad de México,México,19.4326077,-99.133208,animal-politico,Animal Político
+Ciudad de México,México,19.4326077,-99.133208,centro-de-investigacion-economica-y-presupuestaria-a-c,Centro De Investigación Económica Y Presupuestaria A.C.
+Ciudad de México,México,19.4326077,-99.133208,distintas-latitudes,Distintas Latitudes
+Ciudad de México,México,19.4326077,-99.133208,investigacion-e-innovacion-factual-a-c,"Investigación E Innovación Factual, A.C."
+Ciudad de México,México,19.4326077,-99.133208,presidencia,Presidencia
+Ciudad de México,México,19.4326077,-99.133208,sociedad-en-movimiento-ac,"Sociedad En Movimiento, Ac"
+Ciudad de México,México,19.4326077,-99.133208,centro-de-investigaciones-y-estudios-en-antropologia-social,Centro De Investigaciones Y Estudios En Antropología Social
+Ciudad de México,México,19.4326077,-99.133208,krieger-electronics-de-mexico-sa-de-cv,Krieger Electronics De Mexico Sa De Cv
+Ciudad de México,México,19.4326077,-99.133208,mexico-informate,México Infórmate
+Ciudad de México,México,19.4326077,-99.133208,sistemas-de-informacion-geografica-para-la-planeacion-y-ordenamiento-del-territorio-sigpot-sa-de-cv,Sistemas De Información Geográfica Para La Planeación Y Ordenamiento Del Territorio (Sigpot Sa De Cv)
+Ciudad de México,México,19.4326077,-99.133208,campana-global-por-la-libertad-de-expresion-a19-a-c,"Campaña Global Por La Libertad De Expresión A19, A.C."
+Ciudad de México,México,19.4326077,-99.133208,grupo-cemos,Grupo Cemos
+Ciudad de México,México,19.4326077,-99.133208,centro-profesional-indigena-de-asesoria-defensa-y-traduccion-a-c,"Centro Profesional Indígena De Asesoría, Defensa Y Traducción A.C."
+Ciudad de México,México,19.4326077,-99.133208,servicios-de-ideas-creativas-para-el-desarrollo-de-organizaciones-a-c,"Servicios De Ideas Creativas Para El Desarrollo De Organizaciones, A.C."
+Ciudad de México,México,19.4326077,-99.133208,usocial-maps,Usocial Maps
+Ciudad de México,México,19.4326077,-99.133208,el-caracol,El Caracol
+Ciudad de México,México,19.4326077,-99.133208,zapopan-lab,Zapopan Lab
+Ciudad de México,México,19.4326077,-99.133208,hormiga-investigacion,Hormiga Investigación
+Ciudad de México,México,19.4326077,-99.133208,equis-mx,Equis: justicia para las mujeres
+Ciudad de México,México,19.4326077,-99.133208,project-on-organizing-development-education-and-research-poder,"Project on Organizing, Development, Education, and Research (PODER)"
+Ciudad de México,México,19.4326077,-99.133208,plataforma-nuup-ac,Plataforma Nuup Ac
+Ciudad de México,México,19.4326077,-99.133208,rancho-electronico,Rancho Electronico
+Ciudad de México,México,19.4326077,-99.133208,c230,C230
+Ciudad de México,México,19.4326077,-99.133208,causa-natura,Causa Natura
+Ciudad de México,México,19.4326077,-99.133208,de-olhos-nas-metas-colaborativomx,"De Olhos Nas Metas,Colaborativomx"
+Ciudad de México,México,19.4326077,-99.133208,ciudadano-construccion-y-articulacion-de-lo-publico-centro-de-investigaciones-y-estudios-en-antropologia-social-ciesas,Ciudadano. Construcción y Articulación de lo Público/Centro de Investigaciones y Estudios en Antropología Social (CIESAS)
+Ciudad de México,México,19.4326077,-99.133208,observatorio-mexicano-de-la-crisis,Observatorio Mexicano De La Crisis
+Ciudad de México,México,19.4326077,-99.133208,este-pais-a-c,"Este País, A.C."
+Ciudad de México,México,19.4326077,-99.133208,mexico-informate-infodf,"Mexico Informate,Infodf"
+Ciudad de México,México,19.4326077,-99.133208,invernaideas,Invernaideas
+Ciudad de México,México,19.4326077,-99.133208,centro-de-los-derechos-del-migrante-inc,"Centro De Los Derechos Del Migrante, Inc."
+Ciudad de México,México,19.4326077,-99.133208,simetria-centro-de-innovacion-en-politicas-publicas-a-c,"Simetría, Centro De Innovación En Políticas Públicas A.C."
+Ciudad de México,México,19.4326077,-99.133208,fundacion-hogares-iap,"Fundación Hogares, Iap"
+Ciudad de México,México,19.4326077,-99.133208,rokode-digital,Rokode Digital
+Ciudad de México,México,19.4326077,-99.133208,escuela-de-datos,Escuela de Datos
+Ciudad de México,México,19.4326077,-99.133208,borde-politico-a-c,Borde Político A.C.
+Ciudad de México,México,19.4326077,-99.133208,animal-s-de-r-l-de-c-v,Animal S. De R.L. De C.V
+Ciudad de México,México,19.4326077,-99.133208,creathink,Creathink
+Ciudad de México,México,19.4326077,-99.133208,yeeko-inteligencia-colectiva,Yeeko Inteligencia Colectiva
+Ciudad de México,México,19.4326077,-99.133208,gobiernateac,Gobiernateac
+Ciudad de México,México,19.4326077,-99.133208,internet-of-government-iog,Internet Of Government (Iog)
+Ciudad de México,México,19.4326077,-99.133208,sonora-ciudadana-ac,Sonora Ciudadana
+Ciudad de México,México,19.4326077,-99.133208,la-data-mx,La Data
+Ciudad de México,México,19.4326077,-99.133208,spaceshipslabs,Spaceshipslabs
+Ciudad de México,México,19.4326077,-99.133208,pides-innovacion-social,Pides Innovación Social
+Ciudad de México,México,19.4326077,-99.133208,cityflag-sapi-de-cv,Cityflag Sapi De Cv
+Ciudad de México,México,19.4326077,-99.133208,gobierno-abierto-cdmx,Gobierno Abierto Cdmx
+Ciudad de México,México,19.4326077,-99.133208,municipalidad-de-guatemala-labplc,"Municipalidad De Guatemala,Labplc"
+Ciudad de México,México,19.4326077,-99.133208,esc-de-ingenieria-electrica-electronica-y-de-telecomunicaciones,"Esc. De Ingeniería Eléctrica, Electrónica Y De Telecomunicaciones"
+Ciudad de México,México,19.4326077,-99.133208,documenta-analisis-y-accion-para-la-justicia-social-a-c,Documenta: Análisis Y Acción Para La Justicia Social A.C.
+Ciudad de México,México,19.4326077,-99.133208,gire,Grupo de Información de reproducción Elegida
+Ciudad de México,México,19.4326077,-99.133208,morlan,Morlan
+Ciudad de México,México,19.4326077,-99.133208,el-faro,El Faro
+Ciudad de México,México,19.4326077,-99.133208,visual-reporting-technologies,Visual Reporting Technologies
+Ciudad de México,México,19.4326077,-99.133208,codeando-mexico,Codeando México
+La Paz,Bolivia,-16.5,-68.1500015,la-publica,La pública
+La Paz,Bolivia,-16.5,-68.1500015,resabis-prevencion-salud-y-bienestar-social,"""\""PRESABIS\"" Prevención, Salud y Bienestar Social"""
+La Paz,Bolivia,-16.5,-68.1500015,cuantas-mas,¿Cuántas más?
+La Paz,Bolivia,-16.5,-68.1500015,hivos,Hivos
+Londrina,Brasil,-23.3044524,-51.1695824,geleia-mob,Geleia .Mob
+Londrina,Brasil,-23.3044524,-51.1695824,associacão-todos-por-um-tp1,Associação Todos por Um (Tp1)
+Londrina,Brasil,-23.3044524,-51.1695824,mz-tecnologia,Mz Tecnologia
+Cochabamba,Bolivia,-17.4139766,-66.1653224,la-publica,La pública
+Cochabamba,Bolivia,-17.4139766,-66.1653224,cuantas-mas,¿Cuántas más?
+Cochabamba,Bolivia,-17.4139766,-66.1653224,servicios-integrales-para-el-desarrollo,Servicios Integrales Para El Desarrollo
+Cochabamba,Bolivia,-17.4139766,-66.1653224,hacklab-cochabamba,Hacklab Cochabamba
+Córdoba,Argentina,-31.4200833,-64.1887761,v-smart-s-a,V-Smart S.A.
+Córdoba,Argentina,-31.4200833,-64.1887761,fundacion-conocimiento-abierto,Fundación Conocimiento Abierto
+Córdoba,Argentina,-31.4200833,-64.1887761,cainfo,Cainfo
+Córdoba,Argentina,-31.4200833,-64.1887761,fundacion-para-el-desarrollo-de-politicas-sustentables-fundeps,Fundación Para El Desarrollo De Políticas Sustentables (Fundeps)
+Córdoba,Argentina,-31.4200833,-64.1887761,fundacion-ambiente-y-recursos-naturales-farn,Fundación Ambiente Y Recursos Naturales (Farn)
+Córdoba,Argentina,-31.4200833,-64.1887761,asociacion-civil-para-la-construccion-de-un-gobierno-abierto,Asociación Civil Para La Construcción De Un Gobierno Abierto
+Sincelejo,Colombia,9.3045773,-75.3905567,fundacion-tres-cocos,Fundación Tres Cocos
+Asunción,Paraguay,-25.2637399,-57.575926,w3,W3
+Asunción,Paraguay,-25.2637399,-57.575926,fundacion-centro-latinoamericano-de-derechos-humanos,Fundación Centro Latinoamericano de Derechos Humanos
+Asunción,Paraguay,-25.2637399,-57.575926,tedic,Tedic
+Asunción,Paraguay,-25.2637399,-57.575926,centro-de-estudios-ambientales-y-sociales-ceamso,Centro De Estudios Ambientales Y Sociales (Ceamso)
+Asunción,Paraguay,-25.2637399,-57.575926,opendata-py,Opendata.Py
+Asunción,Paraguay,-25.2637399,-57.575926,hacklab-asuncion,Hacklab Asunción
+Asunción,Paraguay,-25.2637399,-57.575926,codium,Codium
+Asunción,Paraguay,-25.2637399,-57.575926,departamento-de-electronica-e-informatica-universidad-catolica-ntra-senora-de-la-asuncion-paraguay,"Departamento de Electrónica e Informática, Universidad Católica \""Ntra. Señora de la Asunción\"", Paraguay"
+Asunción,Paraguay,-25.2637399,-57.575926,maga-systems-consulting,Maga Systems & Consulting
+Asunción,Paraguay,-25.2637399,-57.575926,centro-de-desarrollo-sostenible,Centro De Desarrollo Sostenible
+Asunción,Paraguay,-25.2637399,-57.575926,fundacion-paraguaya,Fundación Paraguaya
+Asunción,Paraguay,-25.2637399,-57.575926,mingarã-asociacion-para-el-desarrollo-sustentable,Mingarã. Asociación Para El Desarrollo Sustentable
+Asunción,Paraguay,-25.2637399,-57.575926,hack-hackers-asuncion,Hack Hackers Asuncion
+Tatuí,Brasil,-23.3492186,-47.8465761,panapana-informacao-e-educacao-ltda-me,Panapana Informacao E Educacao Ltda ­ Me
+Ilhabela,Brasil,-23.8158392,-45.3664809,instituto-ilhabela-sustentavel,Instituto Ilhabela Sustentável
+Ilhabela,Brasil,-23.8158392,-45.3664809,instituto-soma-brasil,Instituto Soma Brasil
+Santo Adre,Brasil,-23.6742228,-46.5436003,receita-federal,Receita Federal
+Tepic,México,21.5041651,-104.8945887,fundacion-mexicana-para-la-planeacion-familiar-a-c-mexfam,Fundación Mexicana Para La Planeación Familiar A. C. (Mexfam)
+Pereira,Colombia,4.8087174,-75.690601,corporacion-cientificas-de-datos,Corporación Científicas De Datos
+Suape,Brasil,0.9592,-79.6539688,associacão-forum-suapoe-espaco-socioambiental,Associação Fórum Suapoe Espaço Socioambiental
+El Alto,Bolivia,-16.5000936,-68.2146857,centro-de-promocion-de-la-mujer-gregoria-apaza-cpmga,Centro De Promoción De La Mujer Gregoria Apaza- Cpmga
+São Luis,Brasil,-2.52972,-44.30278,observatorio-do-recife,Observatório Do Recife
+São Luis,Brasil,-2.52972,-44.30278,associacão-software-livre-org,Associação Software Livre.Org
+Medellín,Colombia,6.244203,-75.5812119,thot-group,Thot Group
+Medellín,Colombia,6.244203,-75.5812119,comunideas-sas,Comunideas Sas
+Medellín,Colombia,6.244203,-75.5812119,corporacion-control-social-colombia,Corporación Control Social Colombia
+Medellín,Colombia,6.244203,-75.5812119,fundacion-la-network,Fundación La Network
+Medellín,Colombia,6.244203,-75.5812119,corporacion-ruta-n,Corporación Ruta N
+Medellín,Colombia,6.244203,-75.5812119,fundacion-bit,Fundación Bit
+Medellín,Colombia,6.244203,-75.5812119,movilizatorio,Movilizatorio
+Medellín,Colombia,6.244203,-75.5812119,cocreamos-s-a-s,Cocreamos S.A.S.
+Caracas,Venezuela,10.4805937,-66.9036063,vendata,Vendata
+Caracas,Venezuela,10.4805937,-66.9036063,asociacion-nacional-de-directores-de-bibliotecas-redes-y-servicios-de-informacion-del-sector-academico-universitario-y-de-investigacion-anabisai,"Asociación Nacional De Directores De Bibliotecas, Redes Y Servicios De Información Del Sector Académico, Universitario Y De Investigación (Anabisai)"
+Caracas,Venezuela,10.4805937,-66.9036063,centro-de-justicia-y-paz-cepaz,Centro De Justicia Y Paz - Cepaz
+Caracas,Venezuela,10.4805937,-66.9036063,open-data-venezuela,Open Data Venezuela
+Bogotá,Colombia,4.7109886,-74.072092,fundacion-gestores-sociales,Fundación Gestores Sociales
+Bogotá,Colombia,4.7109886,-74.072092,fundacion-gobierno-abierto,Fundacion Gobierno Abierto
+Bogotá,Colombia,4.7109886,-74.072092,manejo-inteligente-de-residuos-y-gestion-ambiental-minga,Manejo Inteligente De Residuos Y Gestión Ambiental Minga
+Bogotá,Colombia,4.7109886,-74.072092,wingu,Wingu
+Bogotá,Colombia,4.7109886,-74.072092,facultad-de-ingeneria-universidad-de-los-andes,Facultad De Ingenería Universidad De Los Andes
+Bogotá,Colombia,4.7109886,-74.072092,fundacion-buena-nota,Fundación Buena Nota
+Bogotá,Colombia,4.7109886,-74.072092,fundacion-karisma,Fundación Karisma
+Bogotá,Colombia,4.7109886,-74.072092,gobierno-de-colombia,Gobierno De Colombia
+Bogotá,Colombia,4.7109886,-74.072092,wheels,Wheels
+Bogotá,Colombia,4.7109886,-74.072092,fundacion-corona,Fundación Corona
+Bogotá,Colombia,4.7109886,-74.072092,fundacion-ecomunidad,Fundación Ecomunidad
+Bogotá,Colombia,4.7109886,-74.072092,corporacion-somos-mas,Corporación Somos Más
+Bogotá,Colombia,4.7109886,-74.072092,el-espectador,El espectador
+Bogotá,Colombia,4.7109886,-74.072092,unicef,Unicef
+Bogotá,Colombia,4.7109886,-74.072092,seamos,Seamos
+Bogotá,Colombia,4.7109886,-74.072092,mapa-de-medios-ifai,"Mapa De Medios,Ifai"
+Bogotá,Colombia,4.7109886,-74.072092,fundacion-mi-sangre,Fundación Mi Sangre
+Bogotá,Colombia,4.7109886,-74.072092,corporacion-red-somos,Corporación Red Somos
+Bogotá,Colombia,4.7109886,-74.072092,universidad-nacional-vivelab,Universidad Nacional (Vivelab)
+Bogotá,Colombia,4.7109886,-74.072092,el-tiempo,El Tiempo
+Bogotá,Colombia,4.7109886,-74.072092,cultivando-futuro,Cultivando Futuro
+Bogotá,Colombia,4.7109886,-74.072092,consejo-de-redaccion,Consejo de Redacción
+Bogotá,Colombia,4.7109886,-74.072092,xue-colombia-ltda,Xue Colombia Ltda
+Bogotá,Colombia,4.7109886,-74.072092,moe,MOE
+Bogotá,Colombia,4.7109886,-74.072092,burocratas,Burócratas
+Bogotá,Colombia,4.7109886,-74.072092,uniandes,Uniandes
+Bogotá,Colombia,4.7109886,-74.072092,veeduria-distrital-de-bogota-veeduria-delegada-para-la-contratacion,"Veeduria Distrital De Bogotá, Veeduría Delegada Para La Contratación"
+Bogotá,Colombia,4.7109886,-74.072092,pacifista-col,Pacifista
+Bogotá,Colombia,4.7109886,-74.072092,ministerio-de-salud-la-factura,"Ministerio De Salud,La Factura"
+Bogotá,Colombia,4.7109886,-74.072092,laboratorio-para-la-accion-publica,Laboratorio Para La Acción Pública
+Bogotá,Colombia,4.7109886,-74.072092,corporacion-con-tacto-local,Corporación Con Tacto Local
+Bogotá,Colombia,4.7109886,-74.072092,centro-nacional-memoria-historica,Centro Nacional de Memoria Histórica
+Bogotá,Colombia,4.7109886,-74.072092,how-to-build-up,How To Build Up
+Bogotá,Colombia,4.7109886,-74.072092,semana,Revista Semana
+Bogotá,Colombia,4.7109886,-74.072092,camaleon-multimedia-sas,Camaleon Multimedia Sas
+Bogotá,Colombia,4.7109886,-74.072092,tus-datos,tusdatos.co
+Bogotá,Colombia,4.7109886,-74.072092,hacks-hackers-bogota,Hacks/Hackers Bogota
+Bogotá,Colombia,4.7109886,-74.072092,flip,Fundación para la Libertad de Prensa
+Bogotá,Colombia,4.7109886,-74.072092,la-silla-vacia,La Silla Vacía
+Bogotá,Colombia,4.7109886,-74.072092,olinguito,Olinguito
+Bogotá,Colombia,4.7109886,-74.072092,ecosocial-consultores-s-a-s,Ecosocial Consultores S.A.S
+Bogotá,Colombia,4.7109886,-74.072092,cuentas-claras,Cuentas claras
+Bogotá,Colombia,4.7109886,-74.072092,fundacion-ideas-para-la-paz,Fundacion Ideas Para La Paz
+Bogotá,Colombia,4.7109886,-74.072092,policentrico,Policéntrico
+Bogotá,Colombia,4.7109886,-74.072092,fundacion-despacio,Fundación Despacio
+Bogotá,Colombia,4.7109886,-74.072092,innpactia-s-a-s,Innpactia S.A.S.
+Bogotá,Colombia,4.7109886,-74.072092,inkco-sas,Inkco Sas
+Bogotá,Colombia,4.7109886,-74.072092,arquitectura-expandida,Arquitectura Expandida
+Bogotá,Colombia,4.7109886,-74.072092,chicas-poderosas-col,Chicas Poderosas Colombia
+Bogotá,Colombia,4.7109886,-74.072092,camara-de-comercio-de-bogota-ccb,Cámara De Comercio De Bogotá - Ccb
+Bogotá,Colombia,4.7109886,-74.072092,datasketch,Datasketch
+Bogotá,Colombia,4.7109886,-74.072092,mapa-ieepp,"Mapa,Ieepp"
+Bogotá,Colombia,4.7109886,-74.072092,monoku,Monoku
+Bogotá,Colombia,4.7109886,-74.072092,nova-grupo-de-consultoria-sas,Nova Grupo De Consultoria Sas
+Bogotá,Colombia,4.7109886,-74.072092,corporacion-seamos-democracia-digital,Corporación Seamos - Democracia Digital
+Bogotá,Colombia,4.7109886,-74.072092,cuestion-publica,Cuestión Pública
+Bogotá,Colombia,4.7109886,-74.072092,sebuscan-sas,Sebuscan Sas
+Bogotá,Colombia,4.7109886,-74.072092,fundacion-bit,Fundación Bit
+Bogotá,Colombia,4.7109886,-74.072092,movilizatorio,Movilizatorio
+Bogotá,Colombia,4.7109886,-74.072092,unidad-investigacion-periodistica,Unidad de Investigación Periodística
+Bogotá,Colombia,4.7109886,-74.072092,transparencia-por-colombia,Transparencia por Colombia
+Bogotá,Colombia,4.7109886,-74.072092,enredo,Enredo
+Bogotá,Colombia,4.7109886,-74.072092,rutas-del-conflicto,Rutas del Conflicto
+Bogotá,Colombia,4.7109886,-74.072092,random-monkey-sas,Random Monkey SAS
+Bogotá,Colombia,4.7109886,-74.072092,colnodo-asociacion-colombiana-de-organizaciones-no-gubernamentales-para-la-comunicacion-via-correo-electronico,Colnodo – Asociación Colombiana De Organizaciones No Gubernamentales Para La Comunicación Vía Correo Electrónico
+Bogotá,Colombia,4.7109886,-74.072092,gerico,Gerico
+Bogotá,Colombia,4.7109886,-74.072092,veeduria-distrital-de-bogota-veeduria-delegada-para-la-participacion-y-los-programas-especiales,"Veeduría Distrital De Bogotá, Veeduría Delegada Para La Participación Y Los Programas Especiales"
+Bogotá,Colombia,4.7109886,-74.072092,codhes,"Consultoría para los Derechos Humanos y el Desplazamiento, CODHES"
+Bogotá,Colombia,4.7109886,-74.072092,el-avispero,El Avispero
+Nicoya,Costa Rica,9.9590676,-85.354965,la-voz-de-guanacaste,La Voz De Guanacaste
+Divinópolis,Brasil,-20.103444,-44.9716724,mindball-ong-planeta,Mindball Ong Planeta
+Sucre,Bolivia,-19.0195852,-65.2619615,fundacion-accion-cultural-loyola-aclo,Fundación Acción Cultural Loyola (Aclo)
+Antigua Guatemala,Guatemala,14.5586,90.7295,consejo-civico-de-vecinos,Consejo Civico De Vecinos
+São Paulo,Brasil,-23.5505199,-46.6333094,aparabolica,Aparabólica
+São Paulo,Brasil,-23.5505199,-46.6333094,de-olhos-nas-metas,De Olho nas Metas
+São Paulo,Brasil,-23.5505199,-46.6333094,appcivico-eokoe-solucoes-tecnologicas,AppCivico - EOKOE SOLUÇÕES TECNOLÓGICAS LTDA
+São Paulo,Brasil,-23.5505199,-46.6333094,artigo-19-brasil,Artigo 19 Brasil
+São Paulo,Brasil,-23.5505199,-46.6333094,vetor-brasil,Vetor Brasil
+São Paulo,Brasil,-23.5505199,-46.6333094,colab,Colab
+São Paulo,Brasil,-23.5505199,-46.6333094,areta-valente-guimarães-mei,Areta Valente Guimarães Mei
+São Paulo,Brasil,-23.5505199,-46.6333094,instituto-ecoar-para-a-cidadania,Instituto Ecoar Para A Cidadania
+São Paulo,Brasil,-23.5505199,-46.6333094,update,Update
+São Paulo,Brasil,-23.5505199,-46.6333094,programa-cidades-sustentaeis,Programa Cidades Sustentaeis
+São Paulo,Brasil,-23.5505199,-46.6333094,colaboratorio-de-desenvolvimento-e-participacão-universidade-de-são-paulo,"Colaboratório De Desenvolvimento E Participação, Universidade De São Paulo"
+São Paulo,Brasil,-23.5505199,-46.6333094,instituto-educadigital,Instituto Educadigital
+São Paulo,Brasil,-23.5505199,-46.6333094,calhau-social,Calhau Social
+São Paulo,Brasil,-23.5505199,-46.6333094,fgv-ceapg-centro-de-estudos-em-administracão-publica-e-governo-da-escola-de-administracão-de-empresas-da-fundacão-getulio-vargas,Fgv.Ceapg - Centro De Estudos Em Administração Pública E Governo Da Escola De Administração De Empresas Da Fundação Getulio Vargas
+São Paulo,Brasil,-23.5505199,-46.6333094,nucleo-de-informacão-e-coordenacão-do-ponto-br-nic-br,Núcleo De Informação E Coordenação Do Ponto Br - Nic.Br
+São Paulo,Brasil,-23.5505199,-46.6333094,cocidade,Cocidade
+São Paulo,Brasil,-23.5505199,-46.6333094,associacão-brasileira-de-jornalismo-investigativo,Associação Brasileira De Jornalismo Investigativo
+São Paulo,Brasil,-23.5505199,-46.6333094,o-instituto-ambiental,O Instituto Ambiental
+São Paulo,Brasil,-23.5505199,-46.6333094,mapas-coletivos,Mapas Coletivos
+São Paulo,Brasil,-23.5505199,-46.6333094,instituto-casa-da-cidade,Instituto Casa Da Cidade
+São Paulo,Brasil,-23.5505199,-46.6333094,todos-pela-educacão,Todos Pela Educação
+São Paulo,Brasil,-23.5505199,-46.6333094,alampyme-br-associacão-latinoamericana-de-micro-pequenas-e-medias-empresas-capitulo-brasil,"Alampyme Br - Associação Latinoamericana De Micro, Pequenas E Médias Empresas Capítulo Brasil"
+São Paulo,Brasil,-23.5505199,-46.6333094,ninja-ladobe,"Ninja,Ladobe"
+São Paulo,Brasil,-23.5505199,-46.6333094,centro-de-lideranca-publica,Centro De Liderança Pública
+São Paulo,Brasil,-23.5505199,-46.6333094,taturana-mobilizacão-social,Taturana Mobilização Social
+São Paulo,Brasil,-23.5505199,-46.6333094,forum-brasileiro-de-seguranca-publica,Fórum Brasileiro De Segurança Pública
+São Paulo,Brasil,-23.5505199,-46.6333094,instituto-ilhabela-sustentavel,Instituto Ilhabela Sustentável
+São Paulo,Brasil,-23.5505199,-46.6333094,laboratorio-de-inovacão-e-controle-no-setor-publico-da-universidade-federal-do-para,Laboratório De Inovação E Controle No Setor Público Da Universidade Federal Do Pará
+São Paulo,Brasil,-23.5505199,-46.6333094,softex,Softex
+São Paulo,Brasil,-23.5505199,-46.6333094,de-olhos-nas-metas-colaborativomx,"De Olhos Nas Metas,Colaborativomx"
+São Paulo,Brasil,-23.5505199,-46.6333094,world-resources-institute-brasil-wri-brasil,World Resources Institute Brasil - Wri Brasil
+São Paulo,Brasil,-23.5505199,-46.6333094,instituto-sincronicidade-para-a-interacão-social-ispis,Instituto Sincronicidade Para A Interação Social (Ispis)
+São Paulo,Brasil,-23.5505199,-46.6333094,labhacker,Labhacker
+São Paulo,Brasil,-23.5505199,-46.6333094,avesso-sustentabilidade,Avesso Sustentabilidade
+São Paulo,Brasil,-23.5505199,-46.6333094,mgov-brasil,Mgov Brasil
+São Paulo,Brasil,-23.5505199,-46.6333094,instituto-banco-da-periferia,Instituto  Banco Da Periferia
+São Paulo,Brasil,-23.5505199,-46.6333094,omnibus-hacker,Omnibus Hacker
+São Paulo,Brasil,-23.5505199,-46.6333094,arede,Arede
+São Paulo,Brasil,-23.5505199,-46.6333094,civitatis-consultoria-e-assessoria-educacional-ltda,Civitatis Consultoria E Assessoria Educacional Ltda
+São Paulo,Brasil,-23.5505199,-46.6333094,fluxo,Fluxo
+São Paulo,Brasil,-23.5505199,-46.6333094,muove-brasil,Muove Brasil
+São Paulo,Brasil,-23.5505199,-46.6333094,transparencia-brasil,Transparência Brasil
+São Paulo,Brasil,-23.5505199,-46.6333094,instituto-cordial,Instituto Cordial
+São Paulo,Brasil,-23.5505199,-46.6333094,instituto-cidade-democra-tica,Instituto Cidade Democra´Tica
+São Paulo,Brasil,-23.5505199,-46.6333094,reporter-brasil,Repórter Brasil
+São Paulo,Brasil,-23.5505199,-46.6333094,nucleo-digital-nucleo-digital,"Núcleo Digital,Nucleo Digital"
+São Paulo,Brasil,-23.5505199,-46.6333094,fgv-gdhee-grupo-de-pesquisa-aplicada-em-direitos-humanos-e-empresas-da-fundacão-getulio-vargas,Fgv.Gdhee - Grupo De Pesquisa Aplicada Em Direitos Humanos E Empresas Da Fundação Getulio Vargas
+São Paulo,Brasil,-23.5505199,-46.6333094,instituto-veredas,Instituto Veredas
+São Paulo,Brasil,-23.5505199,-46.6333094,loomio-cooperative-limited,Loomio Cooperative Limited
+São Paulo,Brasil,-23.5505199,-46.6333094,agenda-publica-agencia-de-analise-e-cooperacão-em-politicas-publicas,Agenda Pública - Agência De Análise E Cooperação Em Políticas Públicas
+São Paulo,Brasil,-23.5505199,-46.6333094,instituto-de-arquitetos-do-brasil-departamento-de-são-paulo-iab-sp,Instituto De Arquitetos Do Brasil - Departamento De São Paulo (Iab-Sp)
+São Paulo,Brasil,-23.5505199,-46.6333094,portal-brasil,Portal Brasil
+São Paulo,Brasil,-23.5505199,-46.6333094,nau-interativa,Nau Interativa
+São Paulo,Brasil,-23.5505199,-46.6333094,infoamazonia,InfoAmazonía
+São Paulo,Brasil,-23.5505199,-46.6333094,instituto-socioambiental,Instituto Socioambiental
+São Paulo,Brasil,-23.5505199,-46.6333094,instituto-para-o-desenvolvimento-racional-das-cidades,Instituto Para O Desenvolvimento Racional Das Cidades
+Heredia,Costa Rica,9.9981413,-84.1197643,solvo,Solvo
+Valparaíso,Chile,-33.047238,-71.6126885,observatorio-de-comunicacion-pucv,Observatorio De Comunicación Pucv
+Valparaíso,Chile,-33.047238,-71.6126885,delpuerto-comunicaciones,Delpuerto Comunicaciones
+Bucaramanga,Colombia,7.119349,-73.1227416,comite-para-la-democratizacion-de-la-informatica-cdi-colombia,Comite Para La Democratización De La Informatica. Cdi Colombia
+Bucaramanga,Colombia,7.119349,-73.1227416,grupo-cidic-grupo-cemos-esc-de-ingenieria-electrica-electronica-y-de-telecomunicaciones-universidad-industrial-de-santander,"Grupo CIDIC + GRUPO CEMOS / Esc. de Ingeniería Eléctrica, Electrónica y de Telecomunicaciones / Universidad Industrial de Santander"
+Bucaramanga,Colombia,7.119349,-73.1227416,universidad-industrial-de-santander,Universidad Industrial De Santander
+Bucaramanga,Colombia,7.119349,-73.1227416,guarumo,Guarumo
+Bucaramanga,Colombia,7.119349,-73.1227416,parapapapp-sas,Parapapapp Sas
+Bucaramanga,Colombia,7.119349,-73.1227416,corporacion-cobeii,Corporación Cobeii
+Vicente Lopez,Argentina,-34.5281205,-58.473816,manas-technology-solutions,Manas Technology Solutions
+Vicente Lopez,Argentina,-34.5281205,-58.473816,asociacion-civil-por-la-igualdad-y-la-justicia-arg,ACIJ - Asociación Civil por la Igualdad y la Justicia
+Porto Alegre,Brasil,-30.0346471,-51.2176584,guayi,Guayí
+Porto Alegre,Brasil,-30.0346471,-51.2176584,cooperativa-girasol-de-cosumo-solidario,Cooperativa Girasol De Cosumo Solidário
+Porto Alegre,Brasil,-30.0346471,-51.2176584,conceptu-prototipos-e-sistemas,Conceptu Protótipos E Sistemas
+Porto Alegre,Brasil,-30.0346471,-51.2176584,centro-de-assessoria-multiprofissional,Centro De Assessoria Multiprofissional
+Porto Alegre,Brasil,-30.0346471,-51.2176584,themis-genero-justica-e-direitos-humanos,"Themis Gênero, Justiça E Direitos Humanos"
+Porto Alegre,Brasil,-30.0346471,-51.2176584,colivre-cooperativa-de-tecnologias-livres,Colivre - Cooperativa De Tecnologias Livres
+Madrid,Otro,40.4167754,-3.7037902,vivero-de-iniciativas-ciudadanas,Vivero De Iniciativas Ciudadanas
+Madrid,Otro,40.4167754,-3.7037902,ux,Ux
+Madrid,Otro,40.4167754,-3.7037902,plaza-publica,Plaza Pública
+Madrid,Otro,40.4167754,-3.7037902,public-knowledge,Public Knowledge
+Barranquilla,Colombia,11.0041072,-74.8069813,asociacion-colectivo-mujeres-al-derecho,Asociación Colectivo Mujeres Al Derecho
+Panamá,Panamá,8.9823792,-79.5198696,red-argentina-para-la-cooperacio-n-internacional-raci,Red Argentina Para La Cooperacio´N Internacional (Raci)
+Panamá,Panamá,8.9823792,-79.5198696,fundacion-ciencias-de-la-documentacion,Fundación Ciencias De La Documentación
+Panamá,Panamá,8.9823792,-79.5198696,soluntia-sa,Soluntia Sa
+Panamá,Panamá,8.9823792,-79.5198696,gobierno-de-panama,Gobierno De Panamá
+Panamá,Panamá,8.9823792,-79.5198696,plataforma-ciudadana-inteligente,Plataforma Ciudadana Inteligente
+Panamá,Panamá,8.9823792,-79.5198696,instituto-panameno-de-derecho-y-nuevas-tecnologias,Instituto Panameño De Derecho Y Nuevas Tecnologías
+Panamá,Panamá,8.9823792,-79.5198696,fundacion-generacion-sin-limite,Fundación Generación Sin Límite
+Panamá,Panamá,8.9823792,-79.5198696,ipandetec,Ipandetec
+Concepción del Uruguay,Argentina,-32.4845349,-58.2321416,municipalidad-de-concepcion-del-uruguay-direccion-de-control-del-gasto,"Municipalidad De Concepción Del Uruguay, Dirección De Control Del Gasto"
+Concepción del Uruguay,Argentina,-32.4845349,-58.2321416,datos-concepcion,Datos Concepcion
+Concepción del Uruguay,Argentina,-32.4845349,-58.2321416,asociacion-pro-arte,Asociación Pro Arte
+Distrito Nacional,República Dominicana,18.4860575,-69.9312117,ideales-soluciones-sociales,Ideales Soluciones  Sociales
+Miami,Otro,25.8058563,-80.189125,the-engine-room,The Engine Room
+Miami,Otro,25.8058563,-80.189125,atrelar-s-a-dynamizeit,ATRELAR S.A. (DynamizeIT)
+quito,Ecuador,-0.1806532,-78.4678382,red-infodesarrollo,Red Infodesarrollo
+Alajuela,Costa Rica,10.0159394,-84.2141701,cscr,Cscr
+San Salvador de Jujuy,Argentina,-24.1857864,-65.2994767,digital-network-srl,Digital Network Srl
+San Salvador de Jujuy,Argentina,-24.1857864,-65.2994767,impacto-norte-srl,Impacto Norte Srl
+San Salvador de Jujuy,Argentina,-24.1857864,-65.2994767,softai,Softai
+San Salvador de Jujuy,Argentina,-24.1857864,-65.2994767,direccion-de-transparencia-y-gobierno-abierto-de-la-provincia-de-jujuy,Dirección De Transparencia Y Gobierno Abierto De La Provincia De Jujuy
+San Salvador de Jujuy,Argentina,-24.1857864,-65.2994767,incotedes,Incotedes
+San Salvador de Jujuy,Argentina,-24.1857864,-65.2994767,secretaria-de-planificacion-desarrollo-y-modernizacion-de-la-municipalidad-de-san-salvador-de-jujuy,"Secretaria De Planificacion, Desarrollo Y Modernizacion De La Municipalidad De San Salvador De Jujuy"
+San Salvador de Jujuy,Argentina,-24.1857864,-65.2994767,cooperativa-de-trabajo-tecnomatica-limitada,Cooperativa De Trabajo Tecnomática Limitada
+San Salvador de Jujuy,Argentina,-24.1857864,-65.2994767,ariel-cabezas,Ariel Cabezas
+Cúcuta,Colombia,7.8890971,-72.4966896,corporacion-integral-de-innovacion-social-innovar,"""Corporación Integral De Innovación Social \""Innovar\"""
+Piracicaba,Brasil,-22.7626467,-47.8427298,instituto-de-cidadania-empresarial-do-maranhão,Instituto De Cidadania Empresarial Do Maranhão
+Verapaz,El Salvador,13.6438499,-88.8706944,instituto-salvadoreno-de-desarrollo-municipal-instituto-salvadoreno-de-desarrollo-municipal-isdem,"Instituto Salvadoreño De Desarrollo Municipal,Instituto Salvadoreño De Desarrollo Municipal (Isdem)"
+Paysandú,Uruguay,-32.2706789,-58.081134,subsidios-claros,Subsidios Claros
+San José,Costa Rica,-31.8970823,-61.8598807,la-nacion-cr,La Nación
+San José,Costa Rica,-31.8970823,-61.8598807,minerva,Minerva
+San José,Costa Rica,-31.8970823,-61.8598807,gobierno-de-costa-rica,Gobierno De Costa Rica
+San José,Costa Rica,-31.8970823,-61.8598807,asociacion-centro-ciudadano-de-estudios-para-una-sociedad-abierta-accesa,Asociación Centro Ciudadano De Estudios Para Una Sociedad Abierta -Accesa
+San José,Costa Rica,-31.8970823,-61.8598807,contexto,Contexto
+San José,Costa Rica,-31.8970823,-61.8598807,accesa,Accesa
+San José,Costa Rica,-31.8970823,-61.8598807,revista-vacio,Revista Vacío
+San José,Costa Rica,-31.8970823,-61.8598807,responsible-business-alliance-rba,Responsible Business Alliance (Rba)
+San José,Costa Rica,-31.8970823,-61.8598807,ojo-al-voto,Ojo Al Voto
+San José,Costa Rica,-31.8970823,-61.8598807,sociedad-civil-abriendo-datos-costa-rica,Sociedad Civil Abriendo Datos Costa Rica
+San José,Costa Rica,-31.8970823,-61.8598807,comunicacion-corporativa-de-centroamerica,Comunicación Corporativa De Centroamérica
+San José,Costa Rica,-31.8970823,-61.8598807,hivos,Hivos
+San José,Costa Rica,-31.8970823,-61.8598807,dal,Dal
+San José,Costa Rica,-31.8970823,-61.8598807,fundacion-villafranca-y-zurcher-para-la-educacion-de-la-juventud-a-traves-del-turismo,Fundación Villafranca Y Zurcher Para La Educación De La Juventud A Través Del Turismo
+San José,Costa Rica,-31.8970823,-61.8598807,asociacion-horizonte-positivo,Asociación Horizonte Positivo
+San José,Costa Rica,-31.8970823,-61.8598807,estudio-manati-s-a,Estudio Manatí S.A.
+San José,Costa Rica,-31.8970823,-61.8598807,central-del-movimiento-de-trabajadores-costarricenses-cmtc,Central Del Movimiento De Trabajadores Costarricenses -Cmtc-
+San José,Costa Rica,-31.8970823,-61.8598807,fundacion-costa-rica-para-la-innovacion,Fundación Costa Rica Para La Innovación
+San José,Costa Rica,-31.8970823,-61.8598807,abriendo-datos-costa-rica,Abriendo Datos Costa Rica
+San José,Costa Rica,-31.8970823,-61.8598807,cooperativa-sula-batsu,Cooperativa Sulá Batsú
+La Ceiba,Honduras,15.770288,-86.7919009,centro-de-promocion-en-salud-y-asistencia-familiar-ceprosaf,Centro De Promoción En Salud Y Asistencia Familiar (Ceprosaf)
+Maceió,Brasil,-9.6498487,-35.7089492,ilhasoft,Ilhasoft
+Trujillo,Perú,-8.1090524,-79.0215336,arequipa-te-queremos,"Arequipa, Te Queremos"

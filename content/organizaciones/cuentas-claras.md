@@ -3,19 +3,19 @@ date: 2019-07-21T23:22:18.000Z
 date_last_modified: 2019-08-28
 uid: cuentas-claras
 title: |
-  cuentas-claras
+  Cuentas claras
 legal_name: 
 description: |
-  
+  Esta herramienta permite el acceso público a información sobre financiamiento, facilitando el monitoreo y análisis del origen, monto y destinación de los recursos de campañas.
 org_type: 
-website: 
+website: http://www.cnecuentasclaras.com/
 year_founded: 
 facebook: 
-twitter: 
+twitter: https://twitter.com/suscuentas?lang=es
 tags:
 
 cities: 
-
+  - Bogotá
 projects_uids:
   - cuentas-claras
 
