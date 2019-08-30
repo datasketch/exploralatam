@@ -20,4 +20,4 @@ organizations_uids:
 
 Esta iniciativa fue realizada por:
 
-- [saber-votar](/organizaciones/saber-votar)
+- [Saber votar](/organizaciones/saber-votar)

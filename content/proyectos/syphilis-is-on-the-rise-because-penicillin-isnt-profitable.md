@@ -20,4 +20,4 @@ organizations_uids:
 
 Esta iniciativa fue realizada por:
 
-- [quartz](/organizaciones/quartz)
+- [Quartz](/organizaciones/quartz)

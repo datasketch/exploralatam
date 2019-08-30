@@ -20,4 +20,4 @@ organizations_uids:
 
 Esta iniciativa fue realizada por:
 
-- [ieepp](/organizaciones/ieepp)
+- [Instituto de Estudios Estratégicos y Políticas Públicas](/organizaciones/ieepp)

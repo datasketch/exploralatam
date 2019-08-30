@@ -21,6 +21,9 @@ exp_org <- exp_org %>% select(uid_org = uid, tags) %>% unnest()
 write_csv(exp_org, 'data/desc_tags_data.csv')
 
 
+exp <- fromJSON("data/exploralatam.json", simplifyDataFrame = FALSE)
+
+orgs <- exp$organizaciones
 orgs_proj <- map(orgs, function(x){
   #x <- orgs[[1]]
   #message(x$uid)
@@ -34,7 +37,6 @@ orgs_proj <- map(orgs, function(x){
 }) %>% bind_rows() %>% select(org_uid, org_name, proj_uid = uid, proj_name = name)
 
 write_csv(orgs_proj, "data/exploralatam-network.csv")
-
 # Create network
 
 library(tidyverse)
@@ -79,7 +81,13 @@ nds <- nds %>% select(id = name, label = org_name, everything())
 write_csv(nds, "data/nodes.csv")
 write_csv(edg, "data/edges.csv")
 
+cities <- fromJSON("data/cities.json", simplifyDataFrame = T)
+cities <- cities %>% plyr::rename(c('name'= 'name-city'))
+cities <- cities %>% unnest(orgs)
+cities <- cities %>% plyr::rename(c('name' = 'names_org', 
+                                  'uid' = 'uid_org',
+                                  'name-city' = 'name'))
+cities <- cities %>% filter(lat != "")
 
 
-
-
+write_csv(cities, 'data/cities_data.csv')
