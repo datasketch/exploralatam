@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:14:06.000Z
-date_last_modified: 2019-08-28
+date_last_modified: 2019-09-09
 uid: gobierno-facil
 title: |
   Gobierno Fácil
@@ -26,7 +26,6 @@ cities:
   - Ciudad de México
 projects_uids:
   - habitala
-  - serendipia
   - analisis-de-campana-para-candidatos-independientes
   - plataforma-de-contrataciones-abiertas-mx
   - gobierno-facil
@@ -37,7 +36,6 @@ projects_uids:
 Esta organización tiene los siguientes proyectos:
 
 - [Habítala](/proyectos/habitala)
-- [Serendipia](/proyectos/serendipia)
 - [Análisis De Campaña Para Candidatos Independientes](/proyectos/analisis-de-campana-para-candidatos-independientes)
 - [Plataforma De Contrataciones Abiertas Mx](/proyectos/plataforma-de-contrataciones-abiertas-mx)
 - [Gobierno Fácil](/proyectos/gobierno-facil)

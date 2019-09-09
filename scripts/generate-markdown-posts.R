@@ -9,6 +9,7 @@ exploralatam <- airtable(
   )
 
 orgs0 <- exploralatam$organizations$select_all()
+
 orgs0 <- mop::na_to_empty_chr(orgs0, empty = c(NA, "NA"))
 exclude_cols <- c("ID_org","Ciudad ID", "IDS IMPACT", "ID UNICO",
                   "employees", "reach",
