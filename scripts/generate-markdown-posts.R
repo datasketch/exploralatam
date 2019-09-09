@@ -1,6 +1,5 @@
 library(tidyverse)
 library(glue)
-
 library(airtabler)
 dotenv::load_dot_env()
 exploralatam <- airtable(
