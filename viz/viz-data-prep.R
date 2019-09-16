@@ -8,9 +8,9 @@ exp <- fromJSON("data/exploralatam.json", simplifyDataFrame = FALSE)
 orgs <- exp$organizaciones
 
 orgs <- orgs %>% transpose() %>% as_tibble()
-
-sel_type <- orgs %>% 
-  select(uid_org = uid, name_org = name, description, org_type, website, year_founded, facebook, twitter) %>% 
+orgs0 <- orgs
+sel_type <- orgs %>%
+  select(uid_org = uid, name_org = name, description, org_type, website, year_founded, facebook, twitter) %>%
   unnest() %>% distinct(name_org, .keep_all = TRUE)
 
 write_csv(sel_type, 'data/desc_org_data.csv')
@@ -62,10 +62,16 @@ edges <- net %>%
 
 nodes <- net %>% select(org_uid, org_name) %>% distinct()
 
+orgs1 <- orgs0 %>% select(-projects, -cities, -tags, -name)
+orgs2 <- orgs1 %>% map(function(x) map(x,`[[`,1)) %>% map(unlist) %>% as_tibble()
+
+nodes <- left_join(nodes, orgs2, by = c("org_uid" = "uid"))
+
+
 g <- graph_from_data_frame(d=edges, vertices=nodes, directed=FALSE)
 
-V(g)$size <- strength(g)
 
+V(g)$size <- strength(g)
 V(g)$degree <- igraph::degree(g)
 V(g)$centrality <- igraph::betweenness(g)
 
@@ -78,16 +84,17 @@ edg <- igraph::as_data_frame(g, "edges")
 
 nds <- nds %>% select(id = name, label = org_name, everything())
 
-write_csv(nds, "data/nodes.csv")
-write_csv(edg, "data/edges.csv")
+
+write_csv(nds, "viz/data/nodes.csv")
+write_csv(edg, "viz/data/edges.csv")
 
 cities <- fromJSON("data/cities.json", simplifyDataFrame = T)
 cities <- cities %>% plyr::rename(c('name'= 'name-city'))
 cities <- cities %>% unnest(orgs)
-cities <- cities %>% plyr::rename(c('name' = 'names_org', 
+cities <- cities %>% plyr::rename(c('name' = 'names_org',
                                   'uid' = 'uid_org',
                                   'name-city' = 'name'))
 cities <- cities %>% filter(lat != "")
 
 
-write_csv(cities, 'data/cities_data.csv')
+write_csv(cities, 'viz/data/cities_data.csv')
