@@ -10,15 +10,24 @@ orgs <- exp$organizaciones
 orgs <- orgs %>% transpose() %>% as_tibble()
 orgs0 <- orgs
 sel_type <- orgs %>%
-  select(uid_org = uid, name_org = name, description, org_type, website, year_founded, facebook, twitter) %>%
+  select(uid_org = uid, name_org = name, description, org_type, website,
+         year_founded, facebook, twitter) %>%
   unnest() %>% distinct(name_org, .keep_all = TRUE)
-
 write_csv(sel_type, 'data/desc_org_data.csv')
+
+#org_tags <- orgs %>% select(uid_org = uid, tags) %>%
+#  mutate(tags = map(tags, ~map(.,1)))
 
 exp <- fromJSON("data/exploralatam.json", simplifyDataFrame = TRUE)
 exp_org <- exp$organizaciones
 exp_org <- exp_org %>% select(uid_org = uid, tags) %>% unnest()
 write_csv(exp_org, 'data/desc_tags_data.csv')
+
+exp_proj <- exp$proyectos
+exp_proj <- exp_proj %>% select(uid_proj = uid, tags) %>% unnest()
+write_csv(exp_proj, 'data/desc_proj_tags_data.csv')
+
+
 
 
 exp <- fromJSON("data/exploralatam.json", simplifyDataFrame = FALSE)
