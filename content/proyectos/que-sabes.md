@@ -1,6 +1,6 @@
 ---
 date: 2019-07-21T23:02:24.000Z
-date_last_modified: 2019-07-21
+date_last_modified: 2019-12-12
 uid: que-sabes
 title: |
   ¿Qué sabes?
@@ -11,9 +11,9 @@ website: https://www.quesabes.org/
 date_ini: 2012
 date_end: 
 tags:
-
+  - participación-ciudadana
 cities: 
-
+  - Montevideo
 organizations_uids:
   - data-uy
 ---
