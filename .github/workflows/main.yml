@@ -2,7 +2,7 @@ name: Deploy
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 0 */1 * *'
   push:
     branches: 
       - master
@@ -38,5 +38,5 @@ jobs:
         git config --local user.name "GitHub Action"
         git config --local user.email action@github.com
         git add .
-        git commit --allow-empty -m 'Updated build [skip ci]'
+        git commit --allow-empty -m 'Updated build'
         git push origin master
