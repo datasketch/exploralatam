@@ -11,7 +11,7 @@ org_type: Otro
 website: http://www.datalat.org
 year_founded: 2016
 facebook: https://www.facebook.com/datalatorg/
-twitter: @datalat
+twitter: datalat
 tags:
   - monitoreo-de-servicios-publicos
   - participación-ciudadana
